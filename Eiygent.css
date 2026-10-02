@@ -18,25 +18,42 @@ body {
   overflow-x: hidden;
 }
 
+body {
+  /* Soft, modern light grey background */
+  background-color: #f8f9fa; 
+  
+  /* Premium sans-serif font stack (Inter / System Fonts) */
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  
+  /* Slightly softened dark charcoal text for a premium feel and better readability */
+  color: #212529; 
+  
+  /* Reset browser defaults & optimize typography */
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 /* OPAQUE YIN YANG BACKGROUND */
-body::before {
-  content: "";
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 700px;
-  height: 700px;
-  background: 
-    radial-gradient(circle 70px at 50% 25%, #111 50%, transparent 52%),
-    radial-gradient(circle 20px at 50% 25%, #e5e5e5 50%, transparent 52%),
-    radial-gradient(circle 70px at 50% 75%, #e5e5e5 50%, transparent 52%),
-    radial-gradient(circle 20px at 50% 75%, #111 50%, transparent 52%),
-    linear-gradient(to bottom, #e5e5e5 50%, #111 50%);
+.yin-yang {
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
-  opacity: 0.12; /* opaque / faint */
-  z-index: -1;
-  filter: blur(1px);
+  border: 2px solid #000;
+  background: 
+    /* Top White Dot */
+    radial-gradient(circle at 50% 25%, #fff 15%, transparent 15.5%),
+    /* Bottom Black Dot */
+    radial-gradient(circle at 50% 75%, #000 15%, transparent 15.5%),
+    /* Top Black Semicircle Background */
+    radial-gradient(circle at 50% 25%, #000 50%, transparent 50.5%),
+    /* Bottom White Semicircle Background */
+    radial-gradient(circle at 50% 75%, #fff 50%, transparent 50.5%),
+    /* Base Left/Right Split */
+    linear-gradient(90deg, #fff 50%, #000 50%);
 }
 
 .card {
