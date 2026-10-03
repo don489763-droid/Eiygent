@@ -23,8 +23,9 @@ body {
   text-align: center;
 }
 p {
-  size: 32px;
+  size: 64px;
   background: transparent;
+  color: yellow;
   background-size: cover;
 }
 
@@ -32,8 +33,8 @@ p {
 h1, header, .header {
   background: transparent !important;
   background-color: transparent !important;
-  font-color: green; 
- font-size: 60px
+  color: green;
+  font-size: 96px;
 }
 .card {
   background: rgba(255, 255, 255, 0.95);
