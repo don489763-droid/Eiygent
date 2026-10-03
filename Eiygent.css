@@ -35,7 +35,7 @@ body {
   text-align: center;
 }
 p {
-  size: 76;
+  size: 76px;
   background: transparent;
   color: yellow;
   background-size: cover;
@@ -46,7 +46,7 @@ h1, header, .header {
   background: transparent !important;
   background-color: transparent !important;
   color: green;
-  font-size: 116;
+  font-size: 116px;
 }
 .card {
   background: rgba(255, 255, 255, 0.95);
@@ -65,7 +65,7 @@ h1, header, .header {
 }
 h2 {
   color: #666;
-  font-size: 14px;
+  font-size: 106px;
   margin-top: 5px;
   font-weight: normal;
 }
