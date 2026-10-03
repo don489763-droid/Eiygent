@@ -10,7 +10,19 @@ html, body {
   background-color: #000;
   overflow-x: hidden;
 }
-
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: rgba(0,0,0,0.3) !important;
+  backdrop-filter: blur(5px);
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-size: 47px;
+  letter-spacing: 8px;
+}
 body {
   font-family: sans-serif;
   background-image: url('YY.jpg');
@@ -23,7 +35,7 @@ body {
   text-align: center;
 }
 p {
-  size: 64px;
+  size: 76;
   background: transparent;
   color: yellow;
   background-size: cover;
@@ -34,7 +46,7 @@ h1, header, .header {
   background: transparent !important;
   background-color: transparent !important;
   color: green;
-  font-size: 96px;
+  font-size: 116;
 }
 .card {
   background: rgba(255, 255, 255, 0.95);
