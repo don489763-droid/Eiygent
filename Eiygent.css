@@ -9,7 +9,6 @@ html, body {
   height: 100%;
   background-color: #000;
   overflow-x: hidden;
-  font-size: 16px;
 }
 
 body {
@@ -23,12 +22,18 @@ body {
   color: white;
   text-align: center;
 }
+p {
+  size: 16px;
+  background: transparent;
+  background-size: cover;
+}
 
 /* make header transparent so yin-yang shows through */
 h1, header, .header {
   background: transparent !important;
   background-color: transparent !important;
-  font-size: 2rem;
+  font-color: green; 
+ font-size: 2px;
 }
 .card {
   background: rgba(255, 255, 255, 0.95);
