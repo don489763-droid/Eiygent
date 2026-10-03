@@ -20,7 +20,7 @@ html, body {
   color: white;
   text-align: center;
   padding: 15px;
-  font-size: 47px;
+  font-size: 34px;
   letter-spacing: 8px;
 }
 body {
@@ -32,10 +32,10 @@ body {
   background-attachment: fixed;
   min-height: 100vh;
   color: white;
+  font-size: 32px;
   text-align: center;
 }
 p {
-  size: 76px;
   background: transparent;
   color: yellow;
   background-size: cover;
@@ -46,7 +46,7 @@ h1, header, .header {
   background: transparent !important;
   background-color: transparent !important;
   color: green;
-  font-size: 116px;
+  font-size: 63px;
 }
 .card {
   background: rgba(255, 255, 255, 0.95);
