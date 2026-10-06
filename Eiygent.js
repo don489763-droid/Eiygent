@@ -1,21 +1,11 @@
-const RefreshBtn = document.querySelector('.btn')
+const allBtns = document.querySelectorAll('.btn');
 
-RefreshBtn.addEventListener('click', function(event)
- {event.preventDefault()
-	RefreshBtn.textContent = `Refreshing...`
-	 setTimeout(function(){
-	 location.reload()
-	 }, 800)
-})
-
-
-
-const Button = document.querySelector('.btn')
-
-Button.addEventListener('click', function(event) 
-	{event.preventDefault()
-	Button.textContent = 'Loading...'
-	setTimeout(function()
-	{location.reload()}, 800)
-})
-
+allBtns.forEach(function(btn) {
+  btn.addEventListener('click', function(event) {
+    event.preventDefault();
+    btn.textContent = 'Loading...';
+    setTimeout(function() {
+      location.reload();
+    }, 800);
+  });
+});
