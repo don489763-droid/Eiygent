@@ -1,0 +1,5 @@
+User-agent: *
+
+allow:/
+
+Sitemap: don489763-droid/github.io

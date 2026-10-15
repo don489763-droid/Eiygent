@@ -1,0 +1,19 @@
+{
+"name":"Eiygent the legend",
+"short-name":"EIYGENT",
+"start-url":"https://don489763-droid.github.io/Eiygent/",
+"display":"standalone",
+  "background_color": "#808080",
+  "theme_color": "#808080",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "YY.jpg",
+     "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
+
