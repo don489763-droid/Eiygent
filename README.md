@@ -1,2 +1,2 @@
 # Eiygent
-Online private website.
+Online website 
