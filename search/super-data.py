@@ -1,0 +1,3750 @@
+super_data = [
+    {
+        "from_link_text": "",
+        "url": "https://Astroyogi.com/",
+        "title": "Free Online Astrology Prediction by Expert Astrologers",
+        "headlines": [
+            "Top Online Astrologers",
+            "Free Live Experts",
+            "Today's Astrology Prediction",
+            "Free Astrology Readings",
+            "Consult The Right Astrologer For You",
+            "Celebrity Videos",
+            "Daily Horoscope Video",
+            "Our Partners",
+            "Free Online Astrology Prediction",
+            "Indian Astrology (Vedic Astrology)"
+        ],
+        "paragraphs": [
+            "Astrology is a predictive science that empowers astrologers to delve into an individual's unique traits from birth, revealing strengths, weaknesses, and potential life paths. By studying the positions of the Sun, Moon, and planets at the time of birth, astrologers offer valuable insights into various life aspects. Astroyogi provides access to different schools of astrology, including Vedic astrology, Western astrology, KP Astrology, Nadi Astrology and Chinese astrology, helping you understand and utilize astrology for personal growth and well-being. The astrological chart, commonly known as the \"Horoscope,\" serves as a roadmap for analyzing one's future, preferences, and potential life events.",
+            "India has gifted the world the profound science of Vedic astrology, which calculates the impact of planetary movements on human lives. For centuries, astrology has guided individuals toward happiness and success, providing solace and direction during challenging times. Astroyogi brings this ancient wisdom to your fingertips, connecting you with expert astrologers who can serve as guides, friends, and counselors on your life journey. We offer a range of services, including horoscope readings, birth chart analysis, and personalized online astrology predictions to help you navigate life's complexities.",
+            "Let's explore the two prominent branches of astrology: Indian Astrology and Western Astrology.",
+            "Indian astrology, also known as Vedic astrology, boasts a rich history dating back centuries. It is based on the movements of stars and planets, incorporating 12 astrology signs and their corresponding dates (zodiacs) for a comprehensive understanding. Vedic astrology considers 27 constellations, 9 planets, 12 zodiac signs, and 12 houses, analyzing their influence on an individual's life.Astrologyby date of birth is used to create a horoscope chart, which displays the placement of the 9 planets within the 12 houses at the time of birth. Expert astrologers interpret this chart to assess the impact of planetary positions on various life aspects, offering personalized horoscope readings and astrological signs interpretations. Within Vedic astrology, various schools of thought exist, each with unique approaches to prediction and guidance. For example, some schools emphasize planetary periods (dashas), while others focus on specific astrological combinations (yogas). Vedic astrology is used for a wide range of purposes, including predicting marriage compatibility, career prospects, financial trends, and health outcomes.",
+            "Western astrology employs an equatorial zodiac system based on the equator points. This system emphasizes the precise time of birth for generating horoscopes and making predictions. Western astrology tracks the movements of the Sun, planets, and Moon, considering their positions in the 12 houses of a birth chart. Similar to Vedic astrology, Western astrology uses birth chart analysis to understand an individual's personality, strengths, and weaknesses. However, Western astrology differs from Vedic astrology in its interpretation of planetary influences and its emphasis on psychological aspects of personality. Western astrologers often use techniques like transit analysis and progression analysis to predict future trends and events.",
+            "Anastrologychart, also known as a natal chart, maps the positions of the planets around the Sun at the moment of an individual's birth. This chart reveals a person's inherent strengths and weaknesses, indicating opportune times for decision-making and personal growth. Birth chart analysis is a cornerstone of both Vedic and Western astrology, providing valuable insights for astrological signs and horoscope readings. Here's what astrologers consider when analyzing a birth chart:",
+            "A skilled astrologer onAstroyogiwill consider these factors and perform detailed calculations to provide accurate astrology predictions. If the birth chart reveals an imbalance in certain traits, the astrologer can suggest remedies and practices to restore equilibrium. This process, known as balancing the chart, is crucial for realizing your full potential and achieving happiness and success. Astroyogi offers a variety of resources, including free astrology readings and consultations with expert astrologers, to help you understand and interpret your birth chart. |Astroyogi Mobile Apps",
+            "Astrology is the study of the influence of celestial objects, such as the Sun, Moon, and planets, on human lives. It examines the positions of these cosmic entities at the time of a person's birth to understand their personality, relationships, finances, education, and other life aspects. Astrology provides valuable insights into an individual's strengths, weaknesses, and potential life path through horoscope readings, birth chart analysis, and astrological signs interpretations.",
+            "Your zodiac sign, also known as your sun sign, is determined by the position of the Sun at the time of your birth. This is a key factor in free astrology predictions and provides insights into your character and life path. Each zodiac sign corresponds to a specific date range, and understanding your sign can help you understand your strengths, weaknesses, and tendencies.",
+            "A common misconception about astrology is that it predicts the exact future. However, astrology focuses on analyzing the movement of planets through the zodiac signs and their influence on individuals. These calculations help astrologers assess potential challenges and opportunities, providing guidance rather than definitive predictions. Astrology serves as a valuable tool for self-awareness and decision-making, empowering individuals to navigate life's complexities with greater understanding."
+        ]
+    },
+    {
+        "from_link_text": "Home",
+        "url": "https://Astroyogi.com/",
+        "title": "Free Online Astrology Prediction by Expert Astrologers",
+        "headlines": [
+            "Top Online Astrologers",
+            "Free Live Experts",
+            "Today's Astrology Prediction",
+            "Free Astrology Readings",
+            "Consult The Right Astrologer For You",
+            "Celebrity Videos",
+            "Daily Horoscope Video",
+            "Our Partners",
+            "Free Online Astrology Prediction",
+            "Indian Astrology (Vedic Astrology)"
+        ],
+        "paragraphs": [
+            "Astrology is a predictive science that empowers astrologers to delve into an individual's unique traits from birth, revealing strengths, weaknesses, and potential life paths. By studying the positions of the Sun, Moon, and planets at the time of birth, astrologers offer valuable insights into various life aspects. Astroyogi provides access to different schools of astrology, including Vedic astrology, Western astrology, KP Astrology, Nadi Astrology and Chinese astrology, helping you understand and utilize astrology for personal growth and well-being. The astrological chart, commonly known as the \"Horoscope,\" serves as a roadmap for analyzing one's future, preferences, and potential life events.",
+            "India has gifted the world the profound science of Vedic astrology, which calculates the impact of planetary movements on human lives. For centuries, astrology has guided individuals toward happiness and success, providing solace and direction during challenging times. Astroyogi brings this ancient wisdom to your fingertips, connecting you with expert astrologers who can serve as guides, friends, and counselors on your life journey. We offer a range of services, including horoscope readings, birth chart analysis, and personalized online astrology predictions to help you navigate life's complexities.",
+            "Let's explore the two prominent branches of astrology: Indian Astrology and Western Astrology.",
+            "Indian astrology, also known as Vedic astrology, boasts a rich history dating back centuries. It is based on the movements of stars and planets, incorporating 12 astrology signs and their corresponding dates (zodiacs) for a comprehensive understanding. Vedic astrology considers 27 constellations, 9 planets, 12 zodiac signs, and 12 houses, analyzing their influence on an individual's life.Astrologyby date of birth is used to create a horoscope chart, which displays the placement of the 9 planets within the 12 houses at the time of birth. Expert astrologers interpret this chart to assess the impact of planetary positions on various life aspects, offering personalized horoscope readings and astrological signs interpretations. Within Vedic astrology, various schools of thought exist, each with unique approaches to prediction and guidance. For example, some schools emphasize planetary periods (dashas), while others focus on specific astrological combinations (yogas). Vedic astrology is used for a wide range of purposes, including predicting marriage compatibility, career prospects, financial trends, and health outcomes.",
+            "Western astrology employs an equatorial zodiac system based on the equator points. This system emphasizes the precise time of birth for generating horoscopes and making predictions. Western astrology tracks the movements of the Sun, planets, and Moon, considering their positions in the 12 houses of a birth chart. Similar to Vedic astrology, Western astrology uses birth chart analysis to understand an individual's personality, strengths, and weaknesses. However, Western astrology differs from Vedic astrology in its interpretation of planetary influences and its emphasis on psychological aspects of personality. Western astrologers often use techniques like transit analysis and progression analysis to predict future trends and events.",
+            "Anastrologychart, also known as a natal chart, maps the positions of the planets around the Sun at the moment of an individual's birth. This chart reveals a person's inherent strengths and weaknesses, indicating opportune times for decision-making and personal growth. Birth chart analysis is a cornerstone of both Vedic and Western astrology, providing valuable insights for astrological signs and horoscope readings. Here's what astrologers consider when analyzing a birth chart:",
+            "A skilled astrologer onAstroyogiwill consider these factors and perform detailed calculations to provide accurate astrology predictions. If the birth chart reveals an imbalance in certain traits, the astrologer can suggest remedies and practices to restore equilibrium. This process, known as balancing the chart, is crucial for realizing your full potential and achieving happiness and success. Astroyogi offers a variety of resources, including free astrology readings and consultations with expert astrologers, to help you understand and interpret your birth chart. |Astroyogi Mobile Apps",
+            "Astrology is the study of the influence of celestial objects, such as the Sun, Moon, and planets, on human lives. It examines the positions of these cosmic entities at the time of a person's birth to understand their personality, relationships, finances, education, and other life aspects. Astrology provides valuable insights into an individual's strengths, weaknesses, and potential life path through horoscope readings, birth chart analysis, and astrological signs interpretations.",
+            "Your zodiac sign, also known as your sun sign, is determined by the position of the Sun at the time of your birth. This is a key factor in free astrology predictions and provides insights into your character and life path. Each zodiac sign corresponds to a specific date range, and understanding your sign can help you understand your strengths, weaknesses, and tendencies.",
+            "A common misconception about astrology is that it predicts the exact future. However, astrology focuses on analyzing the movement of planets through the zodiac signs and their influence on individuals. These calculations help astrologers assess potential challenges and opportunities, providing guidance rather than definitive predictions. Astrology serves as a valuable tool for self-awareness and decision-making, empowering individuals to navigate life's complexities with greater understanding."
+        ]
+    },
+    {
+        "from_link_text": "Free Consultation",
+        "url": "https://Astroyogi.com/astrologer/free-astrology-chat",
+        "title": "First Chat Free with Real Astrologer - Kundli & Horoscope Prediction",
+        "headlines": [
+            "Free Astrology Chat with Real Astrologers",
+            "How to Get Your First Free Astrology Chat and Call Consultation at Astroyogi?",
+            "What Makes Astroyogi the Best for Astrology Consultation",
+            "A Network of Trusted Experts:",
+            "Easy and Accessible",
+            "Safe and Private Consultations:",
+            "Trusted by Millions for Over 25 Years",
+            "What you can ask with Astrologers on Free Consultation?",
+            "Questions Related to Your Professional Life",
+            "Clarity on Your Love & Relationships"
+        ],
+        "paragraphs": [
+            "Yes, the First astrology chat is free with Astroyogi for all new users! You can connect with the best astrologers via chat or call and get astrology guidance for love, marriage, career, finance, education, and other life decisions with 100% assured privacy.",
+            "Step 1 :You can register through our website or downloadAstroyogi’s free Astrology appto start the free call or chatStep 2:Browse through categories to choose the astrologer that best fits your needsStep 3:Start astrology consultation instantly via chat or call",
+            "At Astroyogi, you get access to a large network of highly experienced and verified astrologers dedicated to delivering accurate predictions along with personalized remedies. Here’s what makes us a trusted choice for a free / paid astrology consultation.",
+            "At Astroyogi, you will get access to connect with 5,000+ verified astrologers and get accurate guidance through free astrology chat in the language you are most comfortable with.",
+            "You can connect with expert astrologers online via phone or Laptop and take free astrology consultation. No appointments, no paperwork, just quick access in a few clicks wherever you are.",
+            "You can discuss personal or sensitive topics with complete peace of mind, as our data is protected with strict privacy measures, no unauthorized data sharing, and strong safeguards to keep your information and identity safe.",
+            "With more than 25 years of experience, Astroyogi has guided millions toward better life decisions with reliable and accurate predictions.",
+            "Connect with experienced astrologers via chat or call and get instant guidance. With our astrologers having expertise in Vedic Astrology, Numerology, Tarot Reading, Nandi Astrology, Vastu, etc., you can ask questions about various life events and receive personalized insights without paying any charges.",
+            "If you're worried about getting successful in your career, have any doubts regarding a career change, want a promotion, or crack a government job, start a chat with an astrologer online for free to get the right answers for all your questions revolving around your professional life and career transitions.",
+            "Want to know your partner's compatibility with you? Need any advice on how to meet your life partner? Or do you just need some clarity on your current relationship? Talk to our astrologers via free chat or call to get the right advice to deal with any challenges or to guide your relationship in the right direction that favors your Kundli."
+        ]
+    },
+    {
+        "from_link_text": "Talk to Astrologer",
+        "url": "https://Astroyogi.com/talk-to-astrologers",
+        "title": "Talk to the Best Astrologer Online | 5000+ Trusted Astrology Experts",
+        "headlines": [
+            "Talk to Astrologers Online",
+            "Consult with top astrologer",
+            "How Online Astrologer Consultations Can Transform Your Life?",
+            "How to Connect with the Astrologer Online for Predictions?",
+            "Why Choose Astroyogi for Online Astrology Consultation?",
+            "Solutions are Just One Call Away: Talk to an Astrologer Now!",
+            "Frequently Asked Questions",
+            "Find Best Astrologers"
+        ],
+        "paragraphs": [
+            "Talk to trusted astrologers online for clear guidance on relationships, career, finances, and life decisions. Get accurate insights, complete privacy, and 24/7 support from 5,000+ expert astrologers with 25+ years of experience.",
+            "By consulting an astrologer online, you get guidance that helps you make better choices in different areas of life. Here’s how an online astrology consultation can transform your life:",
+            "Clarity About YourselfThe astro online can help you understand your strengths, weaknesses, and hidden potential. If you feel stuck or confused, just talk to an astrologer and get clarity to align your actions with your goals.",
+            "Guidance for Major Life DecisionsGet useful guidance on career, love,marriage, finances, or anything else. With an astrologer consultation online, you surely get the right direction to help you move forward with confidence.",
+            "Relationship SupportIf you want to know how you’ll meet your partner, need to find out the compatibility level with your current partner, or need any solutions to resolve issues in your relationship, a professional astrologer in india can guide you through all sorts of challenges you've been dealing with to strengthen bonds and even take the next big step.",
+            "Career and JobsWant a government job? Need any guidance on what career path you should choose? Or, just want to achieve success in what you’re doing, top  online astrologers will provide you with effective remedies to overcome obstacles and achieve success.",
+            "Overcome ChallengesConsulting the best Indian astrologer online provides you with guidance on how to deal with any kind of challenges, delays, or uncertainties in life so you can handle them better. Most astrologers identify planetary influences and give accurate predictions so that you can stay one step ahead.",
+            "To Start Something NewApart from all these, for a new start or any auspicious events, like you’re about to purchase a car, house, or property, astrologers can guide you while making important decisions.",
+            "To connect with India’s best astrologers available on Astroyogi, just follow the steps given below:",
+            "Astroyogi has been active for more than 25+ years, and with over 4 crore satisfied users, consulting one of our experts for guidance or clarity is surely worth it because of these reasons:"
+        ]
+    },
+    {
+        "from_link_text": "Tarot Card Reader",
+        "url": "https://Astroyogi.com/astrologer/tarot-reader",
+        "title": "Tarot Card Readers - Accurate Online Tarot Reading Consultation",
+        "headlines": [
+            "Talk to Best Tarot Card Readers Online",
+            "Consult with top astrologer",
+            "Tarot Card Readers: How Will It Benefit You?",
+            "Clarity on Current Situations",
+            "Guidance for Important Decisions",
+            "Relationship & Emotional Insights",
+            "Career, Work & Financial Direction",
+            "Overcoming Confusion & Inner Blocks",
+            "Support for New Phases in Life",
+            "How to Connect With Tarot Card Readers Online?"
+        ],
+        "paragraphs": [
+            "Talk to the best online tarot card readers and gain deep insights into your past, present, and future through intuitive card readings. Simply share your concern and let our tarot experts guide you with clarity and confidence.",
+            "By consulting tarrot readers, you receive intuitive insights that help you understand situations better and prepare for what lies ahead. Tarot readings offer clarity, direction, and emotional support when life feels uncertain. Here’s how online tarot card readers can benefit you:",
+            "Tarot readingshelp you understand what’s happening in your life right now by revealing hidden influences, patterns, and energies affecting your decisions and emotions.",
+            "Whether it’s love, career, finances, or personal choices, tarot card readers provide guidance that helps you evaluate options and move forward with greater confidence.",
+            "Tarot readings offer a deeper understanding of relationships, emotional connections, and unresolved issues, helping you make sense of feelings and strengthen bonds.",
+            "Confused about job changes, career growth, or financial stability? Tarrot readers can highlight opportunities, challenges, and the right timing to make informed moves.",
+            "Tarot helps identify mental blocks, fears, or external obstacles that may be holding you back, offering clarity and reassurance during challenging phases.",
+            "Whether you’re starting something new or closing a chapter, online tarot readers help you understand possibilities ahead and prepare for change with confidence.",
+            "Getting guidance from experienced tarot card readers online is simple and convenient. Follow these easy steps to begin your tarot consultation:",
+            "Astroyogi is a reliable platform to connect with 25+ years of experience and 5000+ experts available 24/7, you're sure to receive useful insights from card reading. Here’s why choosing Astroyogi for tarot consultation makes a difference:"
+        ]
+    },
+    {
+        "from_link_text": "Numerologist",
+        "url": "https://Astroyogi.com/astrologer/numerologist",
+        "title": "Talk to the Best Online Numerologist Today",
+        "headlines": [
+            "Talk to the Best Numerologist Online in India",
+            "Consult with top astrologer",
+            "Talk to Numerologist Online: How Will It Benefit You?",
+            "Self-Understanding & Life Path Clarity",
+            "Guidance for Important Life Decisions",
+            "Relationship Compatibility Insights",
+            "Career, Business & Name Corrections",
+            "Overcoming Obstacles & Delays",
+            "Support for New Beginnings",
+            "How to Connect With Numerologists Online?"
+        ],
+        "paragraphs": [
+            "Talk to the best numerologist online and get guidance on how numbers influence your life path, personality, and future decisions. With 25+ years of experience and over 5000+ experts available 24/7, you’re sure to receive reliable guidance with clarity.",
+            "By consulting a numerologist online, you get insights on making informed decisions about your future prospects or anything based on your personal and professional growth. Here’s more on the benefits:",
+            "An online numerologist helps you understand your core numbers, strengths, weaknesses, and life purpose. If you feel confused or stuck, numerology insights can help you align your actions with the right path.",
+            "Whether it’s career, marriage, finances, business, or naming decisions, numerologists provide practical guidance based on numbers to help you choose wisely and move ahead with confidence.",
+            "Numerology helps analyze compatibility between partners using birth dates and names. A professional numerologist can guide you in improving relationships, resolving conflicts, and understanding emotional dynamics better.",
+            "Confused about career growth or business success? Numerologists offer guidance on suitable career paths, business names, brand naming, and name corrections to remove obstacles and attract success.",
+            "Numerology consultations help identify unfavorable numbers causing delays or challenges in life. Experts suggest effective remedies and corrections to minimize negativity and improve outcomes.",
+            "From naming a newborn to starting a business, buying property, or choosing auspicious dates, numerologists guide you in making the right choices for fresh starts and long-term success.",
+            "Getting expert guidance from a professional numerologist on Astroyogi is quick and hassle-free. Simply follow these steps to start your consultation:",
+            "With over 25 years of experience and the trust of more than 3 crore users, Astroyogi is a dependable platform for accurate and meaningful online numerology consultation. Here’s why connecting with a numerology expert on Astroyogi is a smart choice:"
+        ]
+    },
+    {
+        "from_link_text": "Horoscope",
+        "url": "https://Astroyogi.com/horoscopes",
+        "title": "Free Horoscopes for All Zodiac Signs",
+        "headlines": [
+            "Horoscopes for All 12 Zodiac Signs",
+            "Choose Your Zodiac Sign to Read Today’s Horoscope",
+            "Horoscope by Life Areas",
+            "Horoscope by Timeframe",
+            "Benefits of Horoscopes in Everyday Life",
+            "How Do the 12 Houses and Planets in a Horoscope Influence Our Life?",
+            "Which Horoscope Should You Read: Daily, Weekly, Monthly, or Yearly?",
+            "FAQ for Horosccopes",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Check free horoscopes for all 12 zodiac signs. Get daily, weekly, monthly, and yearly astrology predictions for love, career, finance, and health.",
+            "Horoscopes are often seen as a quick read, but when used thoughtfully, they provide deeper insights and genuine value.",
+            "One major benefit of reading horoscopes is that they can guide better decision-making. Whether it’s a financial move, heading into an important meeting, having travel plans, or dealing with an emotional conversation, knowing the day’s energy can help you take the right approach.",
+            "Horoscopes also improve your emotional awareness. On days when emotions feel heavy or confusing, reading a horoscope can offer reassurance. Sometimes, it simply helps to know that what you’re feeling has a reason behind it.",
+            "They are also helpful for planning and timing. Weekly and monthly horoscopes give you a wider view. You can decide when to push forward, when to slow down, and when to pause and reflect.",
+            "Over time, horoscopes strengthen self-understanding. You begin noticing patterns between planetary shifts and your reactions. This builds patience and helps you respond instead of reacting.",
+            "Most importantly, horoscopes offer comfort. Life can feel overwhelming, and a few grounded insights can bring calm and focus. That’s why reading a free horoscope remains a daily habit for people across the world.",
+            "In astrology, an accurate horoscope is determined by two main elements: planets and houses. There are nine planets in astrology, and each planet represents a specific type of energy, such as action, emotion, communication, or growth. These planets are as follows",
+            "Moreover, a horoscope chart consists of12 houses, and each house represents areas of life like career, relationships, family, health, finances, and more. When planets move through these houses, they activate different life themes.",
+            "For example, a planetary shift in the career house or the10th housemay bring changes at work or career decisions. If Saturn sits in the 10th house, it may bring career responsibilities and slow but steady growth."
+        ]
+    },
+    {
+        "from_link_text": "Horoscope 2026",
+        "url": "https://Astroyogi.com/horoscope-2026",
+        "title": "Yearly Horoscope 2026 : Complete Zodiac Predictions",
+        "headlines": [
+            "Horoscope 2026",
+            "Talk to Astrologers",
+            "Horoscope 2026 : What Do the Stars Predict for Your Zodiac Sign?",
+            "Major Planetary Influences in 2026",
+            "Yearly Horoscope 2026 for All Zodiac Signs",
+            "Aries Horoscope 2026",
+            "Taurus Horoscope 2026",
+            "Gemini Horoscope 2026",
+            "Cancer Horoscope 2026",
+            "Leo Horoscope 2026"
+        ],
+        "paragraphs": [
+            "Horoscope 2026 presents zodiac-wise yearly predictions based on astrology. This page covers important insights related to love, career, finance, health, and family life, helping you understand how planetary movements may influence your year ahead.",
+            "A detailed look at the yearly horoscope for clarity, growth, and direction in life in 2026.",
+            "The Horoscope 2026 overview predicts a year of steady, progressive movement and clarity. There will be new opportunities, achievements, success, and joyous moments in every aspect of life. Though some of you may face confusion early on, key planetary events like Jupiter and Venus transits may turn things around in your favor.",
+            "Overall, the yearly horoscope prediction suggests that the year will be one of steady progress, meaningful learning and lessons, and significant growth in life’s journey. There may be opportunities for emotional balance, support in career and business, and mostly stable relationships and connections as the year unfolds.",
+            "The energy of the year will be determined and shaped by key planetary movements in the sky. These major planetary events of 2026 will set the trajectory for change, reflection, and new beginnings.",
+            "The keyplanetary transitsthis year are as follows :",
+            "Solar Eclipse Dates in 2026:",
+            "Annular Solar Eclipse -17th February 2026 (Tuesday)",
+            "Total Solar Eclipse -12th August 2026 (Wednesday)",
+            "Lunar Eclipse Dates in 2026:"
+        ]
+    },
+    {
+        "from_link_text": "Numerology 2026",
+        "url": "https://Astroyogi.com/numerology/numerology-2026",
+        "title": "2026 Numerology: Yearly Predictions for Numbers 1to 9 Based on Your Date of Birth",
+        "headlines": [
+            "Numerology 2026",
+            "Numerology 2026 Predictions, Insights & Personal Year Meaning",
+            "Numerology Number 2026: What to Expect in Personal Life?",
+            "What Do Numerology 2026 Predictions Reveal About the Global Outlook?",
+            "Free Numerology Reading",
+            "Talk to Astrologers",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Discover what 2026 holds through numerology! Unveil your personal year number, life path insights, and cosmic predictions for success, love, and growth.",
+            "The year 2026 carries and brings to us the vibration of No. 1 (2+0+2+6 = 10, 1+0 = 1).",
+            "This marks the start and dawn of a new 9 year cycle, with new beginnings, after the ends of karmic cycles. It also paves the way for emotional reckoning and closure from the karmic cycles of number 9 in 2025. A year all about new beginnings, courage, power, and authority.\nAbout Universal Year 1",
+            "Universal year 1is the pioneer and leader with a spark of raw creation. It has a restless but collectively empowering new energy that pushes us to claim our individuality, step out of our cocoons, and cast new influences.",
+            "So, in 2026, innovation and self-reliance will become the keys to growth. Those who dare to dream differently and act boldly will find new doors opening, and the ones who hesitate or prefer to cling to the past may bring unnecessary delays.",
+            "Along with understanding your personal year number, checking yourlucky number for today&Lucky colour for todaycan give you daily guidance to stay aligned with the ongoing numerological energy.",
+            "Coming tocareer and professional life, 2026 brings new breakthroughs. Many will feel the urge to start new ventures, explore entrepreneurship, or make a broad impression in their present roles in existing organizations. The energies are definitely going to support your leadership, originality, and bold decisions. Also, this year is not the year to follow blindly but to step forward and rule boldly and be noticed.",
+            "Financially, 2026encourages growth on the self-front, skills, and new ventures rather than having dependency on old mechanisms. This is the year when carefully assessed risks can lead to great rewards. True abundance flows from creativity and courage, not from conformity.",
+            "On therelationship front,the vibration of 1 can feel solitary, urging individuals to stand strong for their personal truths. However, it also encourages healthier dynamics where independence and mutual respect are prioritized over dependency. Moreover, this is the year to recalibrate bonds, ensuring they align with your authentic self and future direction.",
+            "Spiritually and emotionally, 2026will be all about self-discovery, getting rid of all outdated beliefs you had, strengthening your confidence, and embracing the inner voice of intuition. Also, meditation and other similar practices that awaken self-awareness will be highly beneficial to align personal flow with universal flow."
+        ]
+    },
+    {
+        "from_link_text": "Tarot 2026",
+        "url": "https://Astroyogi.com/tarot/tarot-2026",
+        "title": "Tarot Reading 2026 for All 12 Zodiac Signs – Your Complete Yearly Guide",
+        "headlines": [
+            "Tarot 2026",
+            "2026 – The Year Of The Sun: What It Means For You: Tarot Reading 2026 Can Tell!",
+            "What To Expect In 2026? Here’s What The Tarot Cards Say?",
+            "The Tarot Cards Of 2026",
+            "Love And Relationships In 2026 – What The Tarot Reading Reveals?",
+            "Career And Money In The Year 2026 – What’s In Store?",
+            "Stocks And Investments In 2026 - What The Tarot Cards Say?",
+            "Global Economy In 2026 – A Tarot Annual Prediction",
+            "India’s Financial Health In 2026 – What Does The Tarot Reading Reveal?",
+            "Get Detailed Tarot Horoscope 2026 Predictions for Every Zodiac Sign. Click Here!"
+        ],
+        "paragraphs": [
+            "2026 is no ordinary year - it’s the year of the Sun! Expect clarity, success, and breakthroughs as this powerful energy shapes your life. Our tarot horoscope 2026 reveals bold changes, golden opportunities, and deep growth. Curious what the cards say about love, money, and destiny? Read on and uncover your path!",
+            "The year 2026 adds up to the number 10 and further adds up to the single digit 1, which in astrology and numerology is ruled by the Sun or Surya. That’s why 2026 is called the Year of the Sun.",
+            "Sun represents the Soul (Atman), inner strength, confidence, and the drive to achieve greatness. It’s the planet that brings fame, success, achievements, awards, and brilliance, touching new heights.",
+            "In simple words, anyone who is at the peak of their work or the top of their game is the Sun’s doing.",
+            "A regular actor or an actress is Venus or Shukra, but a superstar is ruled by the Sun.",
+            "A teacher may be ruled by Jupiter or Guru, but a spiritual master or a saint reflects the Sun’s energy.",
+            "Hence, the Sun gives you perfection and that brilliance. Many people want a good connection in government offices or want to crack government job exams like the Civil Services; using remedies to boost your Sun energy is frequently thought to be beneficial.",
+            "According to Tarot 2026 predictions, the year 2026 will be a super powerful, eventful, and life-changing year for all of us. It’s going to be filled with big events, emotional highs and lows, surprising turns, and strong shifts: a rollercoaster in the true sense!",
+            "Even if the journey has a few bumps, the tarot yearly prediction 2026 suggests that this year will push you to reach your highest potential. However,  tarot annual prediction indicates that eventually, you’re likely to experience a new breakthrough, big personal growth, or a never-seen-before phenomenal win in life.",
+            "Over the past few years, our tarot annual predictions have consistently mentioned that planet Earth is shifting from the 3rd Dimension to the 5th Dimension. This means we are moving into a higher state of energy and consciousness. Spiritually, we’re also witnessing the transition from Kalyug to Satyug – from a dark, chaotic time to a more peaceful and enlightened era."
+        ]
+    },
+    {
+        "from_link_text": "Festivals 2026",
+        "url": "https://Astroyogi.com/festival",
+        "title": "Today’s Festival: Which Festival Is Today in India?",
+        "headlines": [
+            "Festival Calendar Today",
+            "Festival Today",
+            "Indian Festivals",
+            "Talk to Astrologers",
+            "Indian Festivals and Cultural Diversity",
+            "Top 5 Indian Festivals:",
+            "List of 2026 Indian Festivals and Dates",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Being the land of festivals, India thrives on celebrating the spirit of coming together on these auspicious occasions of festivals. In a diverse country like India where cultures, religions, languages, and people blend together beautifully, festivals 2026 are just another excuse to depict the spirit of \"unity in diversity!",
+            "16 Nov 2026 (Monday)  Kartika Shukla, Saptami - 04:20:57",
+            "The country exemplifies the act of existing harmoniously as a large number of festivals are celebrated around the nation, showcasing its rich cultural heritage and traditions. While these celebrations happen all around the year and across the diverse geographical landscape of our country, the period between October to January is especially full of the vibrant, celebratory spirit associated with a festival.",
+            "Monday, November 16, 2026 Paksha:Shukla Tithi:Saptami",
+            "Tuesday, November 17, 2026 Paksha:Shukla Tithi:Ashtami",
+            "Tuesday, November 17, 2026 Paksha:Shukla Tithi:Ashtami",
+            "Tuesday, November 17, 2026 Paksha:Shukla Tithi:Ashtami",
+            "Wednesday, November 18, 2026 Paksha:Shukla Tithi:Navami",
+            "Wednesday, November 18, 2026 Paksha:Shukla Tithi:Navami",
+            "Friday, November 20, 2026 Paksha:Shukla Tithi:Ekadashi"
+        ]
+    },
+    {
+        "from_link_text": "Planet Transit 2026",
+        "url": "https://Astroyogi.com/planet/transit",
+        "title": "Planetary Transits 2026–2027 : Dates and Timings",
+        "headlines": [
+            "Planetary Transits 2026–2027",
+            "Planetary Transits Dates in 2026",
+            "Planetary Transit Dates 2027",
+            "What Do Planetary Transits Mean in Astrology?",
+            "Planetary Transits in Zodiac Signs",
+            "Planet Retrograde",
+            "General Remedies",
+            "Talk to Astrologers",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Planet Transits in 2026 hold key astrological power, guiding life changes and influencing your journey in love, work, and personal growth.",
+            "Planetary transits mark the movement of planets from one zodiac sign to another in Vedic astrology. These movements provide the basis for interpreting changing planetary influences across different areas of life. The planetary transit calendar for 2026–2027 lists the dates on which planets enter new zodiac signs, helping you follow these changes throughout the year.",
+            "Planetary transits are considered crucial events in astrology. In astrology, there are nine planets, and the positions and motions of these planets are used to forecast a person's future. One of these nine planets governs each of the twelve zodiac signs.",
+            "In addition, Rahu and Ketu, the Moon's North and South Nodes, are considered shadow planets and do not govern any zodiac signs. They take about 1.5 years or 18 months to complete a transit. Moreover, Rahu and Ketu always move in a backward motion (retrograde).",
+            "The position of a person's ruling planet and zodiac sign influences their personality. The positive and negative influences in a person's birth chart shift as the planetary positions alter. As a result, the movement of the planets, also known as planet transits or changes in zodiac signs, has a substantial impact on all signs.",
+            "Are you looking for planet-related remedies or products online? Check out theAstroyogi Storefor all your needs!",
+            "Transits like this influence every sign differently — see how today's planetary positions affect you in yourHoroscope Today.",
+            "Ketu Transit in Cancer 2026: Emotional Shifts You Can't Ignore",
+            "Rahu Transit in Capricorn 2026: Don't Miss What the Next 18 Months May Bring",
+            "Venus Retrograde in Scorpio 2026 : A Past Relationship May Return"
+        ]
+    },
+    {
+        "from_link_text": "Panchang Calendar",
+        "url": "https://Astroyogi.com/panchang",
+        "title": "Hindu Panchang 2026 - Online Panchangam Calendar",
+        "headlines": [
+            "Panchang - Hindu Calendar",
+            "Today’s Panchang",
+            "Muhurat List for 2026",
+            "Check More Panchang Details",
+            "Talk to Astrologers",
+            "What You Need to Know About The Hindu Calendar?",
+            "Panchang: What Are Its Elements?",
+            "Tithi",
+            "Nakshatra",
+            "Yog"
+        ],
+        "paragraphs": [
+            "A Panchang, also known as Panchangam, is a detailed Hindu calendar that resorts to the traditional units of the Indian scriptures to provide information relevant to astrologers for them to forecast planetary occurrences and mark auspicious and inauspicious time frames for important occasions such as rites, rituals, festivals, marriage, education, investments, and other important activities of life. You can stay informed about the year's events and significant festivals by using the Hindu Panchang and calendars.",
+            "Ujjain, 16 November 2026",
+            "Hindu calendars are divided into two categories",
+            "However, the majority of the calculations are based on the Moon's orbit. Panchang uses the lunar month system to measure time, with each month's name indicating the Moon's passage through each Nakshatra. Our Panchang follows the lunar calendar calculation, which is the most popular Hindu calendar in India.",
+            "The Sanskrit word Panchangam, also known as Panchang, is made up of two words: panch, which means five, and ang, which means parts. Panchang is created by taking into account five aspects or elements of traditional Hindu timekeeping: Tithi, Nakshatra, Yog, Vaar, and Karana. Let's understand each of these elements in more detail.",
+            "According to the Hindu Panchang, there are approximately 30Tithi(Lunar Days) per month. The first fifteen days are called Shukla Paksha, and the later fifteen days are known as Krishna Paksha. These are the two phases of the Moon's waxing and waning periods, respectively.",
+            "In the Hindu calendar, Purnima Tithi (full Moon) and Amavasya Tithi (no Moon) happen once a month. Purnima is considered the 15th Tithi, Amavasya is considered the 30th Tithi, and other Tithis occur twice a month. These include Pratipada, Dwitiya, Tritiya, Chaturthi, Panchami, Shashti, Saptami, Ashtami, Navami, Dashami, Ekadashi, Dwadashi, Trayodashi, and Chaturdashi.",
+            "ANakshatra, derived from the Sanskrit word \"Naksha\" meaning map and “Tara\" meaning star, determines the position of the stars at a given time of the day based on the Moon's position in the birth chart. In Indian Vedic astrology, there are 27 Nakshatras. In Muhurtha astrology, there is also a 28th Nakshatra known as the Abhijeet Nakshatra. Every Nakshatra is thought to be advantageous or appropriate for a specific task in Hinduism. These include getting married, Griha Pravesh or housewarming, the Namkaran ceremony, purchasing a new car or house, starting a new job or business, and so on.",
+            "A Yog is formed by the combination of the Sun and the Moon. In Vedic astrology, there are 27 Yogs orYogas. These Yogs can be both auspicious and inauspicious. Each Yog is useful for one day in a person's life.",
+            "A half-Tithi is referred to as aKarana, meaning two Karanas equal one Tithi. There are 11 Karans in total in astrology. Seven Karans are movable, and four are stationary. Eight of these Karans fall within a lunar month. There are two Karans called the Purvardha and Uttarardha Karan every day."
+        ]
+    },
+    {
+        "from_link_text": "Today's Panchang",
+        "url": "https://Astroyogi.com/panchang/today-panchang",
+        "title": "Today Panchang - Daily Good Panchangam Time For Occasion Monday, November 16, 2026",
+        "headlines": [
+            "Good Time Today – Today's Panchang And Auspicious Panchangam Time",
+            "Today's Panchang,Ujjain,16 November 2026",
+            "Check More Panchang Details",
+            "Talk to Astrologers",
+            "Why You Should Check Good Time Today & Today Panchang Daily?",
+            "Muhurat List for 2026",
+            "How is Today Panchang Calculated?",
+            "The Five Pillars of Today’s Panchang",
+            "Vaar (Weekday)",
+            "Tithi (Lunar Day)"
+        ],
+        "paragraphs": [
+            "Today’s Panchang helps you understand the natural rhythm of the day through the timeless wisdom of the Hindu calendar. By studying the day’s tithi, nakshatra, yoga, karana, and weekday, the panchangam today helps you understand what the good time today is for meaningful decisions, spiritual practices, travel, purchases, and new beginnings.",
+            "Millions of people check the panchang for good timings today to receive guidance in both spiritual and practical life. Common reasons include:",
+            "To know whether today is favorable",
+            "To plan puja or temple visits",
+            "To avoid Rahu Kaal",
+            "To choose a good time for travel",
+            "To begin a new business or job",
+            "To buy gold, property, or a vehicle",
+            "To observe fasts and sacred dates",
+            "To plan family ceremonies"
+        ]
+    },
+    {
+        "from_link_text": "Today's Tithi",
+        "url": "https://Astroyogi.com/panchang/tithi",
+        "title": "Tithi Today - Get Todays Tithi In Hindu Calendar With Timing Monday, November 16, 2026",
+        "headlines": [
+            "Tithi in Panchang",
+            "Today's Tithi,Ujjain, 16 November 2026",
+            "Check More Panchang Details",
+            "Talk to Astrologers",
+            "Importance of Tithi in Panchang",
+            "Muhurat List for 2026",
+            "Tithi List",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "In the Hindu calendar or Panchang, tithi or thithi is a full lunar day or the time taken by the longitudinal angle between the sun and moon to increase by 12°. There are a total of 30 tithis in a month defined in Vedic Astrology.",
+            "The first fifteen tithis are included in Shukla Paksha whereas the next fifteen tithis are included in Krishna Paksha. With the inclination of moon at 12 degrees, completion of one tithi takes place in a month. Nanda, Bhadra, Rikta, Jaya and Poorna are the 5 subdivisions of tithi.Tithis are considered to be of high importance in the Hindu calendar or Panchang as it provides the details of auspicious timings for people to undertake a new task. There are auspicious tithis as well as inauspicious tithis, each considered more propitious for some purposes than for others. Tithis begin at varying times of day and vary in duration from approximately 19 to 26 hours.",
+            "Tithis of the Hindu Panchang are divided into two parts - Shukla and Krishna Pakash. Each has a total of 15 tithis, collectively making a total of 30 tithis in the calendar.Prathama / PadyamiMost suitable for any and all kinds of auspicious and religious ceremonies, the presiding deity of the first lunar day is Agni.",
+            "Dwitiya / VidiyaSuitable for the laying of foundations for buildings and other things of a permanent nature, Vidhatr or Brahma rules the second lunar day.",
+            "Tritiya / ThadiyaGood for cutting of the hair, nails and shaving, Goddess Gauri is the lord of this day.",
+            "ChaturthiA day marked for the destruction of one's enemies, the removal of obstacles, and acts of combat as Yama/Ganapati is lord of the 4th lunar day.",
+            "PanchamiBeneficial for undergoing surgery, administering medicine, the purging of poisons as the Naaga or Serpents rules this day.",
+            "ShashthiA day made to celebrate special occasions or festivities, enjoyment, meeting new people and marking new friendships as Karttikeya presides over this day.",
+            "SaptamiThis day results favourable in order to begin a journey, buy conveyances, and deal with other such things of a movable nature as The 7th lunar day is ruled by Surya.",
+            "AshtamiA day which results beneficial in building of one's defences, taking up arms and fortification as Rudra rules this day."
+        ]
+    },
+    {
+        "from_link_text": "Today's Shubh Muhurat",
+        "url": "https://Astroyogi.com/panchang/muhurat",
+        "title": "Abhijit Muhurat Today, Know Your City Auspicious Timings Monday, November 16, 2026",
+        "headlines": [
+            "Abhijit Muhurat Today",
+            "Today's Abhijit Muhurat,Ujjain, 16 November 2026",
+            "Check More Panchang Details",
+            "Talk to Astrologers",
+            "Abhijit Muhurat Meaning",
+            "Muhurat List for 2026",
+            "What Happens During Abhijit Muhurat?",
+            "Is Abhijit Muhurat Good or Bad?",
+            "Muhurat List 2026",
+            "Best Activities During Abhijit Muhurat"
+        ],
+        "paragraphs": [
+            "Abhijit Muhurat is regarded as one of the most auspicious time periods in Vedic astrology. Occurring around midday, this muhurat is traditionally chosen for initiating important activities.",
+            "Abhijit Muhurat is a beneficial time period observed daily during midday. The word Abhijit means “victorious” or “undefeated,” and this muhurat is traditionally associated with success and triumph over challenges.",
+            "The time window of Abhijit Muhurat usually lasts for 48 minutes, though the exact duration varies depending on the length of the day.",
+            "According to classical texts, the daytime (from sunrise to sunset) is divided into 15 equal muhurats. Abhijit Muhurat is the 8th muhurat, positioned at the midpoint of the day.",
+            "Knowing Abhijit Muhurat tomorrow is considered highly auspicious, which is why many people plan their important activities around it in advance.",
+            "The primary reason Abhijit Muhurat is so powerful is due to the sun's position at midday. In Vedic astrology, when the Sun is positioned in the 10th house (which governs career, achievements, and success), it creates an extremely favorable combination.",
+            "Think of it like catching the Sun at its peak power position, where its energy is strongest and most beneficial for starting any new activity. This is why ancient sages identified this specific time window as universally auspicious.",
+            "What makes Abhijit Muhurat truly special is its unique ability to cancel out all negative influences. Even if the day has unfavorable planetary positions, inauspicious yogas, or other astrological problems that would normally create obstacles, Abhijit Muhurat overrides them all.",
+            "It's like having a divine shield that protects your activities from any bad timing. This is why you don't need to consult complex astrological charts or worry about other factors. The Sun's powerful position during this time automatically neutralizes everything negative and ensures success.",
+            "Abhijit muhurat is good! It is universally considered one of the most favorable and powerful time periods in the Hindu calendar. Abhijit Muhurat is capable of destroying innumerable doshas (flaws) and is considered one of the best muhurats to start all sorts of auspicious works."
+        ]
+    },
+    {
+        "from_link_text": "Today's Nakshatra",
+        "url": "https://Astroyogi.com/panchang/nakshatra",
+        "title": "Today's Nakshatra: Know the Current Nakshatra by Location Monday, November 16, 2026",
+        "headlines": [
+            "Which Nakshatra Is Today? Check Today's Nakshatra Timings",
+            "Nakshatra Today,Ujjain, 16 November 2026",
+            "Check More Panchang Details",
+            "Talk to Astrologers",
+            "Why You Should Check Today's Nakshatra?",
+            "Muhurat List for 2026",
+            "List of 27 Nakshatras with Their Meanings and Deities-",
+            "Name of The 27 Nakshatras",
+            "Role of Nakshatras in Kundli Matching and Vedic Astrology",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "According to Vedic Astrology, the zodiac is divided into 27 Nakshatras (constellations), each covering 13° 20' of the 360° zodiac. Each Nakshatra is further divided into four padas or charans. Knowing today's Nakshatra can help you choose an auspicious time for important activities and understand the day's astrological influences. Want to know which nakshatra today is? You can check that below by date and location, along with its timings and the next Nakshatra.",
+            "Plan Auspicious Activities:Identify favorable timings for important events and daily activities.",
+            "Understand Daily Influences:Get insights into the day's astrological energies and planetary influences.",
+            "Choose the Right Muhurat:Check Nakshatra timings before planning weddings, pujas, or other ceremonies.",
+            "Know Nakshatra Changes:Track when the current Nakshatra ends and the next one begins.",
+            "👉Looking for Today's Good Time? Check Today Panchang & Shubh Muhurat",
+            "In Vedic Astrology, Nakshatras play an important role inKundli matchingand birth chart analysis. A person'sbirth Nakshatra, also known as Janma Nakshatra, is determined by the Moon's position at the time of birth. Astrologers consider it while analyzing personality traits, emotional tendencies, and marriage compatibility.",
+            "Each Nakshatra has distinct characteristics, a ruling planet, and an associated deity. Apart from the Moon's Nakshatra, astrologers also examine the Nakshatra positions of other planets in the birth chart to interpret different aspects of a person's life. During Kundli matching, the birth Nakshatras of both individuals are compared through Ashtakoota Milan to assess their compatibility.",
+            "Weekly Horoscope For 16 Nov to 22 Nov 2026: Something in Your Life May Be Ready to Change",
+            "Best Govardhan Puja Wishes, Messages & Quotes to Share in 2026"
+        ]
+    },
+    {
+        "from_link_text": "Today's Choghadiya",
+        "url": "https://Astroyogi.com/panchang/choghadiya",
+        "title": "Choghadiya - Today Choghadiya Auspicious Day/Night Muhurat Timings Monday, November 16, 2026",
+        "headlines": [
+            "Choghadiya Today – Check Auspicious Time For Today",
+            "Today Choghadiya Calculator Ujjain, 16 November 2026",
+            "Check More Panchang Details",
+            "Talk to Astrologers",
+            "What is Choghadiya?",
+            "Muhurat List for 2026",
+            "What are the different types of Choghadiya?",
+            "1. Udveg Choghadiya",
+            "2. Labh Choghadiya",
+            "3. Char Choghadiya"
+        ],
+        "paragraphs": [
+            "Choghadiya Today gives you accurate Shubh and Ashubh muhurat timings for both day (Din Choghadiya) and night (Raat Choghadiya), updated daily as per Vedic Panchang. Check today's auspicious time to start new work, travel, business meetings, or any important activity, and identify inauspicious periods to avoid.",
+            "Choghadiya is an important component of the Vedic Hindu calendar, Panchang. It guides us on the auspicious Muhurat, or time to start anything new, like rituals, Puja, jobs, or businesses. In earlier times, Choghadiya was advised to mention Subh Muhurthas when planning a trip.",
+            "The words 'Cho' mean four, and 'Ghadi' means clock in Hindi; Choghadiya totals 96 minutes. Choghadiya is an ancient Indian time measurement system that is roughly equivalent to 24 minutes per division.",
+            "Choghadiya, which is popular in north India, is a dependable and greatly accurate method of determining Muhurat. Its simplicity makes it more user-friendly, allowing you to identify Muhurats without the assistance of a Jyotish or astrologer.",
+            "A similar version of the Choghadiya calendar, known as Gowri Panchang or Nalla Neram, is popular in southern India, particularly Tamil Nadu.",
+            "In Vedic astrology, the influence of naturally benefic planets such as Venus, Mercury, the Moon, and Jupiter is generally regarded as auspicious. The Choghadiya period under the influence of the Sun, Mars, and Saturn is generally considered unlucky. We can classify each Choghadiya Muhurat as auspicious or inauspicious.",
+            "Choghadiya has fourauspicious Muhurat. During these auspicious Muhurats, people can embark on new ventures, work, and journeys. On the other hand, there are three inauspicious Mahurats that should be avoided for important tasks.",
+            "Every Choghadiya has a unique significance and meaning and creates a unique moment in the world. All of the Choghadiyas are listed below in detail.",
+            "Udveg Choghadiya is one of the inauspicious Choghadiyas in the Hindu Panchang. The Sun's harsh nature can burn and blind anything it touches. Therefore, the particular time frame during which the Sun is in power is known as Udveg Choghadiya.",
+            "Therefore, it is best to avoid doing auspicious work during this period. Nonetheless, during this time, any work related to the government, which is associated with the Sun in astrology, is considered appropriate."
+        ]
+    },
+    {
+        "from_link_text": "Today's Rahu Kaal",
+        "url": "https://Astroyogi.com/panchang/rahu-kaal",
+        "title": "Today Rahu Kaal Time - RahuKalam Timings In My Location Monday, November 16, 2026",
+        "headlines": [
+            "Rahu Kaal",
+            "Rahu Kaal Today,Ujjain, 16 November 2026",
+            "Rahu kaal - Monday, 16 November 2026",
+            "Today's Rahu kaal in Major Cities/Countries - (Monday, 16 November 2026)",
+            "Check More Panchang Details",
+            "Talk to Astrologers",
+            "What is Rahu Kaal Today?",
+            "How is Rahu Kaal Calculated?",
+            "Muhurat List for 2026",
+            "What Is Rahu Kaal in My Location Today?"
+        ],
+        "paragraphs": [
+            "The period of Rahu or Rahu Kaal, as more popularly known in the Indian Vedic calendar is a specific period of Rahu which occurs on a daily basis and is considered to be inauspicious for undertaking any particular task which may yield good results or to start a new venture.",
+            "Today Rahu Kaal refers to a time during the day that is considered to generate negative energies and interrupt auspicious activities. In the Hindu Panchang (or calendar), Rahu Kalam today is considered an inauspicious time to start any new or auspicious work.",
+            "Rahu kaal is also known as Rahu Kalam today, is a daily time phase of the day influenced negatively by the naturally maleficplanet Rahu. It is not advisable to do any significant work during this time. It is said that if one starts anything in Rahu Kaal, nothing good comes of it. However, this Rahu-governed period will have no negative impact on activities that began prior to Rahu Kaal's start.",
+            "Rahukaal is the time when the planets are at their greatest disadvantage during the day. Therefore, Rahu Kalam timings are considered the most inauspicious duration of the day. Rahu Kaal is assigned a special calculation in thePanchang, and natives are advised to avoid performing any significant tasks while Rahu Kaal is in effect. As a result, the likelihood of getting the intended results rises.",
+            "A day is divided into 8 (eight) segments, or Muhurats, which are calculated by taking the total time between sunrise and sunset at a specific location and then dividing by eight. The Hindu Panchang uses these calculations to determine the best and worst times of the day to complete various tasks.",
+            "Rahu Kalam timings are usually around 90 minutes or one-and-a-half hours long and are essential for setting work plans for the day.",
+            "Rahu Kaal, which is considered unlucky, is variable and changes with each passing day, just as planetary motions do. Therefore, calculating the Rahu Kaal chart for each day is important, and specific tasks should be completed based on the calculations.",
+            "Few people consider Rahu Kaal for the night, which is less popular because the majority of important and auspicious work begins during the day. However, Rahu Kaal during the night can be calculated by dividing the time between sunset and the next day's sunrise by eight.",
+            "Rahu Kalam is supposed to be an unfavorable time span of the day. This small period of the day is governed by Rahu, so it's considered lousy for any new initiatives or significant work. It is popularly believed that the Rahu Kaal doesn't offer any favorable results for anything started during the Rahu Kaal.",
+            "You can carry on with your activities without bothering about Rahu Kaal. However, as the Rahu Kaal should be avoided, you should pay attention to this for auspicious occasions like theGriha Pravesh ceremony, marriage rituals, and the beginning of anything new."
+        ]
+    },
+    {
+        "from_link_text": "Free Kundli",
+        "url": "https://Astroyogi.com/kundli",
+        "title": "Kundli - Free Janam Kundali Online by Date of Birth And Time",
+        "headlines": [
+            "Free Online Kundli By Date Of Birth",
+            "Get Your Free Kundli Today!",
+            "Talk to Astrologers",
+            "Create Your Free Online Kundali Using Our Kundali Making Software",
+            "How to Use Astroyogi’s Kundli Software Online?",
+            "How Does the Astroyogi Free Kundali Software or Birth Chart Calculator Help You?",
+            "What Is a Janam Kundali or Birth Chart?",
+            "Benefits of Janam Kundali or Horoscope Reading",
+            "Get in Touch with Astroyogi Experts for a Kundli Analysis",
+            "Kundli"
+        ],
+        "paragraphs": [
+            "A Kundli or Kundali is an astrological birth chart that shows planetary positions at the time of your birth. Use our Kundli software to generate your birth chart instantly by entering your date of birth, time, and place. This will help you understand your personality, life events, career, marriage, and future predictions.",
+            "Kundli making is just one click away! It’s possible with Astroyogi's free Kundali making software, which generates your birth chart in seconds. Trusted by millions worldwide, our free online Kundli generator reveals accurate insights into planetary positions, doshas, and key life events.",
+            "One tap, and you get your janam kundli in Hindi or English as it comes with multilingual support.",
+            "Once you have a basic analysis of your birth chart, you can consult Astroyogi's expert astrologers online for more detailed and accurate Kundli predictions. Whether at home or traveling, you can consult experts 24/7 and get clarity on every aspect of life.",
+            "To use Astroyogi’s Kundli Software, follow these steps:",
+            "Enter your full name and birth details that include:",
+            "Date of Birth",
+            "Time of Birth (AM/PM)",
+            "Location (place of birth)",
+            "Select your Gender (Male/Female)"
+        ]
+    },
+    {
+        "from_link_text": "Kundli Matching",
+        "url": "https://Astroyogi.com/kundli/kundli-matching",
+        "title": "Kundali Matching for Marriage Online | Free Kundli Milan",
+        "headlines": [
+            "Kundli Matching – Get Your Free Gun Milan Report",
+            "Talk to Astrologers",
+            "Get Your Kundali Matching Report Online",
+            "Key Insights Included in Your Kundli Matching Report",
+            "Gun Milan Process: The 36-Point Score System",
+            "The 8 Kootas in Kundali Matching",
+            "Kundali Milan Score Interpretation Based on Guna Milan",
+            "Understanding the Role of the Lagna Chart and 7th House in Kundali Matching",
+            "Dosha Analysis in Kundali Matching",
+            "Why is the Astroyogi Kundali Milan Software Useful?"
+        ],
+        "paragraphs": [
+            "Kundali Matching, also known as Kundli Milan, Gun Milan, or Horoscope Matching, is an important part of understanding marriage compatibility through Vedic astrology. Matching the kundlis of the boy and girl helps in understanding the emotional connection, future harmony, and possible challenges one may face in their married life. Astroyogi’s free Kundali Matching tool for marriage gives you an instant and detailed report so that you can take the next step with confidence and clarity.",
+            "Matching Kundlis on Astroyogi is quick and easy. Our detailed Kundli Matching report is based on key Vedic astrology factors and gives you accurate marriage compatibility insights.",
+            "Simply enter the name of the boy and the girl, along with the date of birth, time of birth, and place of birth.",
+            "Then Click“Match Your Kundli”to receive your detailed compatibility report with other important insights.",
+            "Our Kundli Matching report offers detailed insights into important aspects of marriage through:",
+            "Guna Milan and Ashtakoot Score",
+            "Lagna Chart",
+            "Dosha Information",
+            "Planetary Positions",
+            "Guna Milan, also known as Ashtakoot Milan, is the comparison of eight (‘ashta’) different personality aspects (‘koota’) between the birth charts of the boy and the girl. Each Koota carries a fixed number of points, and together they make a total score of 36 Gunas."
+        ]
+    },
+    {
+        "from_link_text": "Love",
+        "url": "https://Astroyogi.com/love",
+        "title": "Free Love and Relationship Astrology Readings",
+        "headlines": [
+            "Love Astrology",
+            "Wedding Traditions In India",
+            "Indian Wedding Rituals",
+            "Love Compatibility And Match Calculator Tools",
+            "Love Predictions And Marriage Insights",
+            "Talk to Astrologers",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Zodiac signs have predestined love matches that are indicated to form highly compatible matches as per astrology.",
+            "\"When it comes to matters of love, every zodiac sign has a different approach towards their relationships. Some are romantic, whereas others may not express their love explicitly. To understand your love better and avoid any problems in your relationship, you must know your partner. It will help in strengthening your love life.",
+            "By getting a love analysis on the basis of astrology, you can find the exact thing you are looking for in your partner. For example, the fiery Leos are bold and loyal when it comes to love. On the other hand, Taureans are sensual in matters of heart. With the help of astrology, you can find out about your beloved and their likes and dislikes.\"",
+            "\"Astrology reveals love matches between zodiac signs that are highly harmonious. For instance, water signs get along well with like-minded people, and similar is the case with air, fire, or earth signs. And that's not all! Opposites can attract, too! But getting insights into how well you get along with another sign and what to expect in terms of love can be more helpful than you think.",
+            "Let's get to know a little about the different zodiac signs. For example, Aries is impulsive and will not hang around to witness how deep your thoughts are. They live in the present moment, and it is the present that is the most important to them. Taureans are loyal in relationships and expect the same in return from their partners. Libran women are as charming as they come, and nobody represents femininity better than a Libran woman. Leos will grab the spotlight no matter what, and when dating this sign, be sure to take them to fine places to wine and dine. They have expensive tastes, and luxury appeals to them. Pisceans will do anything to remain in a secure relationship.",
+            "This was just a brief and simplified look into what some of the zodiac signs are. Hence, it is best to gain astrological insights to understand your lover's thoughts, personality, emotions, and desires. Love astrology readings can help you take your relationship to another level and you will experience happiness like never before.",
+            "Here are some love astrology readings that can offer you important information.",
+            "Weekly Horoscope For 16 Nov to 22 Nov 2026: Something in Your Life May Be Ready to Change",
+            "Best Govardhan Puja Wishes, Messages & Quotes to Share in 2026",
+            "Kali Mata Story: Goddess Kali's Battle with Raktabija and Her Divine Origins"
+        ]
+    },
+    {
+        "from_link_text": "Marriage",
+        "url": "https://Astroyogi.com/wedding",
+        "title": "Wedding - Indian Marriage Ceremonies and Types",
+        "headlines": [
+            "Indian Weddings: A Guide to Ceremonies and Traditions",
+            "Types of Marriage",
+            "Wedding Traditions In India",
+            "Indian Wedding Rituals",
+            "Talk to Astrologers",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Weddingsin India are a league of their own. They make for the biggest events in a family. Most weddings in the country span anywhere from a couple of days to weeks, depending on the type of wedding and the number of related functions. This is what defines Indian weddings; they are meant to be lengthy, joyous occasions filled with multiple ceremonies, rituals, and celebrations.",
+            "One cannot deny that the different cultures specific to different regions of the country add a unique flavor to weddings. They also differ in religious ideologies and rituals. When it comes to marriage, various traditions and rituals are followed in India. Moreover, many things are taken into consideration before choosing a prospective match.",
+            "Traditionally, in India, the culture of arranged marriage is given the utmost importance. In arranged marriages in Indian households, marriage proposals are sent to the prospective bride or groom by the families. Horoscopes and all the astrological factors are matched between the potential match by a priest or an astrologer. When everything is in sync, and the two families agree, they proceed with the wedding preparations.",
+            "In arranged marriages,marriage proposalsare sent to the prospective bride or groom by the families. Horoscopes and the stars are matched between the potential match by a priest. And, when everything is in sync and the two families agree they go ahead with the preparation of the wedding process.",
+            "India is culturally diverse and is home to varied ceremonies. However, some common wedding traditions are the engagement party, the bridal Mehendi function (where the bride and other ladies of the family get Henna patterns adorned on their hands and feet), the Haldi ceremony (where a paste of turmeric along with a combination of other mixtures is applied on the bride and the groom for beautification and blessings), the Sangeet (music and dance-filled function), the main wedding ceremony, and the reception.",
+            "These customs and traditions are performed before, during, or after the wedding.",
+            "Beyond these, when it comes to the preparation of weddings in India, it's done to the best of one's capacity. Be it the wedding dress, jewelry, food, decoration, or arrangement, everyone wants the arrangements to be perfect.",
+            "The fascinating fact about India is that it has 28 states and 9 union territories and hence Indian diaspora is huge and so is their traditions, in the marriage context. The entire spectrum of Hindu marriage itself is huge in India. Of course, differenttypes of marriagecustoms are followed across the country. For instance, a south Indian wedding is not similar to a Bengali wedding or a Maharashtrian wedding or a wedding in the north.",
+            "The Hindu wedding ceremony follows the Vedic rituals and the three main rituals Kanyadaan, Panigrahana and Saptapada. The first means the giving away of the bride by the father, second means the bride and groom holding hands in front of the fire and third the most significant one is the making seven rounds around the sacred fire. But every Hindu wedding doesn't follow all rituals. It's interesting to know how each state or region in the country differs when it comes to wedding celebrations.",
+            "Consult India's best expert astrologers online right here!"
+        ]
+    },
+    {
+        "from_link_text": "Numerology",
+        "url": "https://Astroyogi.com/numerology",
+        "title": "Calculate Numerology Numbers by Date of Birth - Numerology Calculator Monday, November 16, 2026",
+        "headlines": [
+            "NUMEROLOGY",
+            "Free Numerology Reading",
+            "Talk to Astrologers",
+            "Numerology: All That You Need to Know",
+            "Numerology Calculator: What Is Your Ruling Number in Numerology?",
+            "Introduction to Numerology: What Are The Hidden Powers Of Numerology Numbers?",
+            "A Brief History of Numerology: When Did Numerology First Come into Existence?",
+            "The Way Numerology Works: How to Know Numerology Number?",
+            "Why Turn to Numbers And Numerology?",
+            "Numerology Numbers"
+        ],
+        "paragraphs": [
+            "Discover your destiny with Numerology! Use our Numerology Calculator to find your Life Path & Ruling Number with daily, weekly & monthly predictions.",
+            "In the last few decades, Numerology has gained much popularity. But what is Numerology?",
+            "It is a divination tool that attaches a series of numbers to an individual's name and takes into account the date of birth to derive their true nature from it. Numerology draws meaning from numbers and number combinations in your life. This tool can help you reveal truths about who you really are and the underlying patterns of the universe.",
+            "Do you have queries like, “How to calculate Numerology numbers?” or “What is my Numerology number?” Astroyogi’s numerology calculator by date of birth should be your ‘Number 1’ pick.",
+            "The Numerology number calculator can help decipher important numbers that can offer a peek into your personality traits and life challenges. The sum of your birth date becomes your Ruling Number, which works as the roadmap to your life.",
+            "Most Numerology predictions are based on your Ruling Number, which plays a key role in deciding your destiny. Your number offers the blueprint of your life, helping you determine what's best for you. With the Numerology number, you can obtain information about your hidden talents and what's in store for your future. Your date of birth can reveal your chosen purpose in life.",
+            "You can get accurate Numerology readings by finding your number. Our free Numerology calculator adds the numbers in your birth date until a single digit is obtained.",
+            "So, if you are looking for the best Numerology calculator online, Astroyogi should be your first and last choice!",
+            "Considered to be one of the divination tools, Numerology is the mystical relationship between numbers and one's life. Numbers have always been a subject of fascination since time immemorial. Over time, the interest in calculating Numerology numbers is taken over by numbers becoming a tool to foretell about the different aspects of your life and the qualities you possess.",
+            "Numerology is all about numbers and the vibrations attached to each number, which allow Numerologists to predict people's future and the events and incidents in their lives. Numerologists believe that numbers can help you uncover a lot of information about the world and yourself so that you can understand your life more clearly. By analyzing the numbers, you can get a better perspective of your life."
+        ]
+    },
+    {
+        "from_link_text": "Tarot",
+        "url": "https://Astroyogi.com/tarot",
+        "title": "Free Tarot Card Reading Online And Their Meanings",
+        "headlines": [
+            "Free Tarot Card Reading Online",
+            "Talk to Astrologers",
+            "What You Should Know About Tarot Cards?",
+            "How Can A Tarot Reading Session Help You?",
+            "How Does Tarot Card Reading Work?",
+            "What Sets Astroyogi Apart for Tarot Card Reading Online?",
+            "Why Use Free Tarot Card Reading Online?",
+            "Find Your Tarot Reading",
+            "Explore Your Interest",
+            "FAQ"
+        ],
+        "paragraphs": [
+            "Tarot is a powerful channel of divination that uses the wisdom of an ancient deck of symbolic tarot cards to offer you deep insights and answers to your questions about love, relationships, career, money, and other aspects of your life. Let's embark on this journey of self-discovery and revelations of your life's secrets with Free tarot reading.",
+            "Tarot card reading is a traditional divination method that uses the cards to reveal insights and predict future events. All of this is based on the interpretation of tarot cards. The meanings of the cards that we know today are credited to Cartomancer Jean-Baptiste Alliette (also known as Etteilla) and Marie Anne Adelaide Lenormand (1776-1843).",
+            "A traditional tarot deck comprises seventy-eight cards. The deck is further divided into two groups.",
+            "Major Arcana -TheMajor Arcanaconsists of 22 cards, each with its own interpretation that can only be determined by someone who understands the cards. Tarot cards can be used to uncover secrets about upcoming events and to plan for the future. Each Major Arcana card depicts a scene with one or more people and various elements.",
+            "Minor Arcana -On the other hand, theMinor Arcana, also called the Lesser Arcana, comprises 56 suit cards. These cards, too, form an integral part of any tarot reading. There are four suits, with 14 cards in each suit. The suits include four categories, as follows.",
+            "Tarot Reading has the power and ability to answer all questions that are on your mind about your life. There's much to be explored, and the cards are the perfect gateway into the unknown future. Questions about your past, present, and future can be addressed based on the cards that you select in your reading.",
+            "Each card you pick in your reading session has a meaning attached to it, which can be correctly interpreted only by someone with the gift and the knowledge of decks, like an intuitive tarot reader.",
+            "Don't worry if you've been wondering where to find the Free tarot reading online! Astroyogi offers some of the most reliable and authentic professionals to do tarot card reading online!",
+            "A tarot card is essentially a combination of symbolism, intuition, and the ability to construct a narrative from the cards selected or chosen during a reading. It is a tool for self-discovery, reflection, and gaining new perspectives on life's journey.",
+            "Tarot card reading is like navigating a captivating tapestry of life woven with Major and Minor Arcana cards. When the cards are pulled, it is as if conducting a dance, manifesting the signs of the cards and the feelings of the seeker in unison."
+        ]
+    },
+    {
+        "from_link_text": "Zodiac Signs",
+        "url": "https://Astroyogi.com/zodiac-signs",
+        "title": "12 Zodiac Signs Dates, Meaning & Personality Traits",
+        "headlines": [
+            "12 Zodiac Signs and Astrological Star Signs",
+            "Zodiac Signs: Dates & Symbols",
+            "Zodiac Signs and Astrology Signs: Traits & Characteristics",
+            "Aries (March 21 - April 19)",
+            "Taurus (April 20 - May 20)",
+            "Gemini (May 21 - June 20)",
+            "Cancer (June 21 - July 22)",
+            "Leo (July 23 - August 22)",
+            "Virgo (August 23 - September 22)",
+            "Libra (September 23 - October 22)"
+        ],
+        "paragraphs": [
+            "The 12 zodiac signs form the foundation of astrology. Each zodiac sign, also known as an astrological sign, has its own dates, symbol, ruling planet, and element that influence personality and behavior. This page covers all 12 zodiac signs, their meanings, and how they shape different aspects of life.",
+            "Astrologers believe that a person's character and destiny are determined by the Sun, Moon, and planets, which are in exact alignment with that person when they are born. People can relate to the characteristics of the zodiac, which can help them better understand their own and other people's personality traits.",
+            "These are commonly used Western/tropical zodiac date ranges. Zodiac dates can differ in Vedic/sidereal astrology.",
+            "Each zodiac sign has its own personality, strengths, challenges, and approach to relationships. Let’s take a closer look at what makes each of the 12 zodiac signs unique.",
+            "Choose your zodiac sign to see which signs you may be most compatible with.",
+            "Aries CompatibilityTaurus CompatibilityGemini CompatibilityCancer CompatibilityLeo CompatibilityVirgo CompatibilityLibra CompatibilityScorpio CompatibilitySagittarius CompatibilityCapricorn CompatibilityAquarius CompatibilityPisces Compatibility",
+            "Each of the 12 zodiac signs belongs to one of thefour elements – Air, Fire, Water and Earth.These elements represent an essential kind of energy that resides in each one of us at our core. They contribute to the description of the distinct personality types linked to zodiac signs because they have a significant impact on people's fundamental emotions, behaviors, and character traits.",
+            "Astrology elements are equally important to a person's characteristics and personality traits as their zodiac sun sign. This will allow you to gain clarity and a better understanding of both the positive and negative aspects of yourself, as well as learn about your potential.",
+            "Each element represents different personality traits and energies. The four elements and their influence on the signs have been briefly explained below",
+            "The fire signs tend to be passionate, action-oriented, and dynamic individuals who are driven by their goals and aspirations. Yet, they are a little temperamental. They get angry just as quickly as the fire catches on in a dry forest, but they also forgive easily. They are adventurous and full of energy."
+        ]
+    },
+    {
+        "from_link_text": "Palm Reading",
+        "url": "https://Astroyogi.com/palmreading",
+        "title": "Palm Reading - Free Palmistry & Hand Reading Insights",
+        "headlines": [
+            "Palm Reading",
+            "Hand Reading Details",
+            "What is Palm Reading?",
+            "How Palm Reading Works",
+            "Four Main Components of Palm Reading",
+            "(A) Your Hand Shape",
+            "What are the Shapes of Hands?",
+            "1. Earth Hand – Practical Nature",
+            "2. Air Hand – Intellect & Communication",
+            "3. Water Hand – Emotions & Intuition"
+        ],
+        "paragraphs": [
+            "Palm reading or palmistry helps you understand your personality, love life, career path, and future through your palm lines, fingers, mounts, and hand shape. Follow our free palm reading Insights and learn how hand reading works step-by-step.",
+            "Palm reading (also called chiromancy or palmistry) is the art of reading your hands to understand your life patterns. It’s one of the oldest forms of fortune insight, used across India, China, Egypt, and Greece.",
+            "In simple words, the meaning of palmistry is: studying your palm lines, hand shape, mounts, and fingers to decode your nature and life direction. Palm reading is not about “fixed fate.” It’s more like a map that shows your strengths, challenges, and natural tendencies.",
+            "Palmistry helps you understand things like:",
+            "Your emotional style in love and relationships",
+            "Your thinking habits and decision-making skills",
+            "Your energy levels and life strength",
+            "Your career growth and financial direction",
+            "Your marriage and family patterns",
+            "Your hidden talents and personality traits"
+        ]
+    },
+    {
+        "from_link_text": "Baby Names",
+        "url": "https://Astroyogi.com/baby-names",
+        "title": "Baby Names - Unique Indian Baby Names List for 2026",
+        "headlines": [
+            "Baby Names",
+            "Baby Names by alphabets",
+            "Baby boy names starting with “ A ”",
+            "Unique Indian Baby Names and Meanings",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Find the perfect baby name with our trending, unique, and meaningful picks for 2026—cute, modern, and easy to love!",
+            "Since Astrology and Numerology have gained so much popularity, they are now expanding to a number of different areas. Parents nowadays, especially in India, not only consult the mythological stories to choose a desirable and lucky name for their new-born babies, but also choose one that would be compatible with their astrological sign.",
+            "Astrology has always played a significant role for new parents, especially when it comes to choosing the right name for their baby. Naming a baby based on his/her Sun sign or Raashi is considered to bring good luck. Since each sun sign also influences the individual's personality, it has specific letters and syllables that are considered appropriate while naming the baby. Here are some suggested examples on various personality traits associated with each sign and the corresponding syllables that you can use to start your baby's name with. For example, since Taurus is supposed to be quoted as loving and loyal individuals, naming your Taurus baby with the first letter as W, or O, or I could bring luck and harmony in your baby's life. Similarly, an ambitious and witty Gemini baby would benefit considerably if he/she would be named from the letters H, or Ka, or even A.",
+            "With the help of Name numerology, you can now find a compatible and euphonious name for your baby. Not only does this allow you to choose a name of your liking, but you can also become aware of the meanings associated with the name.",
+            "Your baby's numerology name can determine whether or not, her/his life will be peaceful, successful and positive as he/she grows up. It indicates that the type of people and the quality of people your baby would attract in his/her life. It also indicates the nature of the experience your baby may face, the kind of life she/he will live and opportunities and threats that would come in her/his life.",
+            "There are certain connotations with the first and last letters in a name as well. The first alphabet indicates how the person approaches and manages difficulties while the last alphabet indicates the person's tenaciousness to complete a task. Thus, it is advised that you choose a baby name that will be in harmony with your baby's birth number.",
+            "In Indian numerology, names can be identified in many ways. One of the ways is to choose the first letter for a name, and then the parents can choose any name starting with that letter, for their baby. In another way, the name expression number of a desired name is calculated, and then matched with the date of birth of the baby to see if they are compatible. Vedic astrology also suggests choosing a name for your baby by looking at the Nakshatras and Rasi in his/her birth chart. Nowadays, parents often choose suitable names for their babies according to their zodiac sign.",
+            "Here is a short list of baby names, according to different regions and religions around the world- some Australian baby names include Aaron, Malek, Sandra; while some American baby names include Adam, Alexia, Dan, Tara; and some Indian baby names include Aditya, Aastha, Mohit, Sameer and so on.",
+            "There is a new trending method that many people are using while choosing a baby name. Many people are now choosing baby names inspired by the Solar System. Though this process yields general and universal baby names, and does not take into account the uniqueness of the baby, many people have been quite intrigued by the novel names suggested. A few names include, Atlas, Halley, Phoenix, Zeke etc. These names are largely popular in the Western countries of the World.",
+            "If you have a basic idea in mind, you canconsult an Astrologerto help you choose a name for your baby. Astrologers can help you choose a baby name by analysing the gender, and the alphabets you want the baby's name to start and end with, your background (religion, ethnicity, origin). They can suggest the names to you, along with their meanings."
+        ]
+    },
+    {
+        "from_link_text": "Spirituality",
+        "url": "https://Astroyogi.com/spirituality",
+        "title": "Spirituality - Indian Religion and Their Spiritual Meaning",
+        "headlines": [
+            "Spirituality",
+            "Ayurvedic Guidance",
+            "Spirituality Practices",
+            "Talk to Astrologers",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Spiritual Awakening Begins here.....",
+            "Spirituality is a way to revitalize your soul from within with the help of modern astrology practices like Yoga, Ayurveda, effective Mantras & Chants for peace mentally and emotionally. Along with this, a virtual visit to the spiritual retreats can help enlighten you regarding the energies surrounding you. Explore the modern approach to lifestyle with the help of color therapy, align your Chakras, learn Meditation, and a lot more. Rejuvenate your life and make it stress-free with practical healing practices exclusively available here.Meditation|Yoga|Mantras|Color Therapy|Chakras|Puja Vidhi|Gods and Godesses|Aarti|Chalisa",
+            "Ayurveda's guide to identifying and eating in accordance with your body doshas will. Select any 8 symptoms.",
+            "Weekly Horoscope For 16 Nov to 22 Nov 2026: Something in Your Life May Be Ready to Change",
+            "Best Govardhan Puja Wishes, Messages & Quotes to Share in 2026",
+            "Kali Mata Story: Goddess Kali's Battle with Raktabija and Her Divine Origins"
+        ]
+    },
+    {
+        "from_link_text": "Remedies",
+        "url": "https://Astroyogi.com/remedies",
+        "title": "Powerful Astrology Remedies to Change Your Destiny Fast",
+        "headlines": [
+            "Astrological Remedies",
+            "What is the Astrological Remedy?",
+            "Remedy and Karma",
+            "Types of Remedies",
+            "3 Points to remember when opting for any astrological remedy",
+            "Remedies",
+            "Talk to Astrologers",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "As humans, we all yearn for a life without problems, worries, and suffering. Unfortunately, in spite of being careful and disciplined, we end up doing things we are not supposed to. We fail to realize that we are also liable to be exposed to trials, temptations, mistakes, misunderstanding and unknowingly do wrong irrespective of age. It is said that the fault in our stars and the ill-effect of planets on our lives often make us do things, which is opposite to our personality and trait.",
+            "At such a state they think they can perform some magic with astrology and get rid of all the problems.People have a lot of misconceptions related to astrology. They think the remedy to problems according to astrology is sitting for hours in the temple, doing tedious poojas or even showering money on idols and temples.There are endless types of problems in each one's life. Some face continuous hardships, while some have specific problems etc. By now we should understand that problems are a part of our lives. We need to know how to deal with such difficulties rather than give up. Sometimes, even rigorous efforts fail to provide a solution or remedy. It is then when you need a helping hand that can help you sail through such troubled times.",
+            "Astrological remedies are antidotes which nullify the negative impact of planets or any other element in your life. Remember astrological remedies will not fully take away the pain from your life instead, it will provide ease and relief from its impact.Surprisingly, astrology does not only predict aspects of life about destiny, but it can also actually help to revamp life and treat the troubled sections. In astrology, it is all about time. One has to understand that it is inevitable to do and wear the right thing at the right time. A lot of people expect astrology and astrologers to wipe out the problem from the root completely. Unfortunately, they are humans too and cannot change the destiny of a person. They can only provide guidance, track problems, analyze its effect and help resolve them to ease its effect in your life.Another myth amongst people is that one remedy can work for all. No! Since each person has a unique birth chart, similarly the frequency of problems, type of problem, planetary position and its effect differs from person to person.Astrology accesses into the deeper layers of your personality, conscious and know about the weak aspects, where you need astrological assistance and remedy.",
+            "Unlock your destiny—calculate yourperfect Rudrakshain seconds!",
+            "Karma plays an important role in the universe. Not just in astrology in any study and belief karma is the nucleus. One's deeds in the past and present lay the foundation of the future. Your present life and events are a result of your past deeds of which you are unaware. It is a vicious circle that goes on until your score is settled with Karma.",
+            "Consult India's top expert astrologers online right here! For details click here!",
+            "Find what the stars have chosen for you—check yourlucky gemstonetoday!",
+            "You cannot practice any remedy anytime. There is a specific time, method and purpose of remedy. So make sure you consult the right astrologer before in hand.A remedy is for a specific individual, it should be performed by the person itself then only it works. No one can perform on anyone's behalf.One must not expect an instant result from any remedy. It takes time to show the result. You need to be patient.Any practice or remedy that you opt should be done wholeheartedly. Otherwise, there is no use.Astrologers or astrological remedies are not destiny changers. They only help you understand life and take precautions at the right time.",
+            "Explore Astrological remedies with Astroyogi byexpert astrologersto attain prosperity and positivity in life.",
+            "Weekly Horoscope For 16 Nov to 22 Nov 2026: Something in Your Life May Be Ready to Change"
+        ]
+    },
+    {
+        "from_link_text": "Planet",
+        "url": "https://Astroyogi.com/planet",
+        "title": "Planets in Astrology: Meaning, Effects & Significance",
+        "headlines": [
+            "Planets in Astrology",
+            "Planets in Vedic astrology",
+            "Ninth Planets in Vedic astrology",
+            "Shadow Planets in Vedic astrology",
+            "Effects of Planets in Vedic Astrology",
+            "Sun in Vedic Astrology",
+            "Moon in Vedic Astrology",
+            "Mercury in Vedic Astrology",
+            "Venus in Vedic Astrology",
+            "Mars in Vedic Astrology"
+        ],
+        "paragraphs": [
+            "The nine planets form the basis of Vedic astrology. Without this, we cannot make calculations and predictions in astrology.",
+            "The nine planets form the basis of Vedic astrology. Without this, we cannot make calculations and predictions in astrology. Astrologers assess these planets to calculate the future times of the native and events including favourable and unfavourable ones. A total of nine planets are recognized in Vedic astrology. Going forth this article will give you details regarding all the planets and their behaviour. You might see them as just planets which are a part of the galaxy, but these play an imminent role in determining what future holds for humans in context to the behaviour of planets.",
+            "After reading this article you will know which planet is very beneficial for you and when. Also, you will understand the importance of the planet and its astronomical facts.",
+            "Astrologers assess these planets to calculate the future times of the native and events including favourable and unfavourable ones. A total of nine planets are recognized in Vedic astrology. Going forth this article will give you details regarding all the planets and their behaviour. You might see them as just planets which are a part of the galaxy, but these play an imminent role in determining what future holds for humans in context to the behaviour of planets.",
+            "After reading this article you will know which planet is very beneficial for you and when. Also, you will understand the importance of the planet and its astronomical facts.",
+            "As told earlier, planets cannot be side-lined in Vedic astrology. From time to time, these planets transit and sit in different zodiac signs. Based on which information related to the person's past, present and future can be known. In astrology, planets play an important role in governing human life. There are nine planets mentioned in astronomy while Vedic astrology emphasizes only on the seven major planets. The other two planets are shadow Ketu and Rahu which are considered very important. Astrology planets have their own importance which influences human life. Our solar system is a gravitational system consisting of the Sun and other bodies that revolve around the Sun.",
+            "Everyone is eager to know about the order of the planets in Vedic astrology, however, astronomy cannot answer these questions. While Vedic astrology is the science which has already given us detailed information about the planets and their motions and is still giving them today. Today in Vedic astrology, it is providing detailed information regarding all the planets and their nature and influence.",
+            "In Vedic astrology, the Sun is considered the king of the planets. Other than the Sun, the major planets that revolve around the Sun are Mercury, Venus, Earth, Mars, Jupiter and Saturn. Besides, another planet in Vedic astrology is the Moon. Which also has a profound effect on our life. Although we all know that the Moon is a satellite of the Earth, which astrologically affects life on Earth because it is very close to us. It is a planet in the universe that affects the minds of living beings.",
+            "In Vedic astrology, two planets are defined as shadow planets, which are known as Rahu and Ketu. Rahu is known as the \"North Node\" of the Moon, while Ketu is described as the South Node of the Moon. It is considered the face and body of the Asura.",
+            "What are the planets in astrology and how do they affect life on earth?"
+        ]
+    },
+    {
+        "from_link_text": "Vastu",
+        "url": "https://Astroyogi.com/vastu",
+        "title": "Vastu Shastra - Tips for Home, Office & Directions",
+        "headlines": [
+            "Vastu Shastra",
+            "Vastu tip of the day",
+            "Explore Vastu Tips for Every Need",
+            "Key Principles of Vastu",
+            "Vastu Directions",
+            "Vastu for Your Home",
+            "Basic Vastu Tips for Your Home",
+            "When Can Vastu Guidance Be Useful?",
+            "What Is a Vastu Chart?",
+            "What Is a Vastu Yantra?"
+        ],
+        "paragraphs": [
+            "Vastu Shastra is a traditional Indian system of architecture and spatial planning that uses principles of orientation, geometry, proportion, functional organization, and environmental relationships. Its Sanskrit texts cover homes, Hindu temples, villages, towns, cities, gardens, roads, and public spaces. The Vastu Purusha Mandala is one of its best-known planning frameworks. Vastu remains influential in modern Indian architecture, although claims that Vastu arrangements guarantee health, wealth, or other outcomes are not supported by established scientific evidence.",
+            "(Monday, November 16, 2026)",
+            "If there are tall buildings, hills and mounds at the Southern and Western side of the plot that you are planning to purchase, then you may go ahead with your plans. Such a location is considered to be very auspicious and will cater to the prosperity of the residents of the house.",
+            "Its principles consider factors such as the orientation of a property, placement of rooms and entrances, proportions of a structure, directions, and the five elements traditionally associated with nature.",
+            "Vastu is commonly applied to homes, offices, shops, temples, and other structures. Different traditions and practitioners may interpret its principles differently, but the underlying focus remains the thoughtful planning of a space.",
+            "Traditional Vastu planning brings together several concepts that help explain how a space is assessed:",
+            "Direction: The orientation of a property and the placement of different areas within it.",
+            "Five elements: The five elements of Vastu Shastra, traditionally known as Pancha Mahabhutas, areEarth,Water,Fire,Air, and Space.",
+            "Layout: The arrangement and proportions of rooms and other spaces.",
+            "Entrance: The location and orientation of the main entrance."
+        ]
+    },
+    {
+        "from_link_text": "Vedic Astrology",
+        "url": "https://Astroyogi.com/indianastrology",
+        "title": "Vedic Astrology - Online Jyotisha Shashtra at Astroyogi.com",
+        "headlines": [
+            "Vedic Astrology",
+            "Today’s Panchang",
+            "All About Vedic Hindu Astrology",
+            "Talk to Astrologers",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "The origin of Vedic astrology goes back to the ancient Indian traditions as old as Atharva Veda. All the information about Vedic astrology is present in Ayurveda and VedangJyotisha, an early work about astrology in Vedas. It is commonly known as Jyotisha. According to Vedic astrology, karma and fortune are closely interlinked. An intricate part of Indian astrology is the birth chart or Kundli. Based on the accurate birth timings, date and place, the position of your planets determine the future events in your life. It considers the fixed zodiac to determine the events and reveal the future.",
+            "Vedic astrology is based on the teachings of the Vedas. Here the planets are read in terms of their impact on the last life and the simultaneous effect on the present, going by the notion of Karma. In Hindu astrology, only the planets till Saturn are used. The other tools used for predictions are dasha, prashna, muhurta, varshaphal, lunar nakshatra and harmonic charts.",
+            "Unlike equinoxes in Western astrology, Jyotisha shashtra employs the methodology of calculations based on the twelve constellations along with 28 nakshatra or lunar constellation. It is considered to be more accurate in terms of predictions and analysis of the native's fate than Western astrology.",
+            "Discover what the stars reveal about your path. Book your personalizedVedic astrology consultationtoday and gain timeless guidance for love, career, health, and life’s important decisions.",
+            "The high accuracy of Vedic predictions is also because of the study ofdashas or the period when a planet is reigning. After analyzing the dasha of your planets, the future events are detected. This method expands the area of Indian astrology from the limited self to the larger events that are going to be unfolded soon. Then varshaphal or the yearly outcome is calculated by studying the position of the Sun at your birth. It is different from natal chart, as varshaphal predicts how the year will turn out to be after your birthday in a particular year. Vedic astrology is also used to detect the auspicious timings or shubhmuhurat.",
+            "You Can Also Like this:Election|Politician|Political-Parties",
+            "IPL|IPL Captains|IPL Teams|IPL Matches",
+            "Weekly Horoscope For 16 Nov to 22 Nov 2026: Something in Your Life May Be Ready to Change",
+            "Best Govardhan Puja Wishes, Messages & Quotes to Share in 2026",
+            "Kali Mata Story: Goddess Kali's Battle with Raktabija and Her Divine Origins"
+        ]
+    },
+    {
+        "from_link_text": "Chinese Astrology",
+        "url": "https://Astroyogi.com/chineseastrology",
+        "title": "Chinese Zodiac - Chinese Astrological Signs by Calculator",
+        "headlines": [
+            "Chinese zodiac Signs",
+            "What is Chinese Astrology?",
+            "Origins and History of Chinese Astrology",
+            "Chinese Astrological Signs by Year",
+            "Chinese Zodiac Signs and Years",
+            "How to Find Your Chinese Zodiac Sign",
+            "Chinese Astrology Calculator: A Modern Tool",
+            "The Five Elements in Chinese Astrology",
+            "Chinese Astrology Compatibility",
+            "Compatibility in Chinese astrology is determined by both zodiac animals and elements."
+        ],
+        "paragraphs": [
+            "Find your Chinese astrological sign by year with our Chinese zodiac calculator.",
+            "Chinese astrology has been in use since ages and is one of the oldest in the world of astrology. It is based on twelve lunar cycles and unlike the western astrology, every sign is represented by one of the twelve animals. Hence, these twelve animals form theChinese Zodiac Signs.",
+            "There are certain traits that are associated with each animal and the individual who is born in that cycle reflects similar attributes. It is commonly used in finding the love compatibility.",
+            "This astrology uses the concepts of Ying-Yang. Each Zodiac either forms a part of Yin or Yang. The five elements form an essential part of Chinese astrology and these elements are fire, water, wood, metal and earth. Feng Shui is an intricate section of Chinese astrology dealing with the balance of energies. Similarly, I-Ching or the Book of Changes is used in predicting the events and making various astrological changes.",
+            "Chinese astrologyis an ancient system of divination that uses the Chinese zodiac signs, birth years, and elements to reveal personality traits, life paths, and compatibility. Unlike Western astrology, which focuses on the positions of planets and constellations, Chinese astrology is deeply connected to lunar cycles and the Chinese calendar.",
+            "Dating back thousands of years, Chinese astrology emerged during the Han Dynasty (202 BC–220 AD). It was closely tied to astronomy, farming, and the spiritual beliefs of the time. The twelve animal signs were selected to represent years in a repeating cycle, creating what we now know as the Chinese zodiac chart.",
+            "The 12 Chinese Zodiac Signs Explained",
+            "The Chinese zodiac includes 12 animals, each representing specific personality traits and destinies.",
+            "Rat: Clever, adaptable, resourceful.",
+            "Ox: Strong, reliable, hardworking."
+        ]
+    },
+    {
+        "from_link_text": "Yogi Live",
+        "url": "https://Astroyogi.com/astrologer-live",
+        "title": "Yogi Live - Live Astrologer Video Call & Online Chat Consultation",
+        "headlines": [
+            "Yogi Astro Live: Now Chat with Your Favourite Astrologers for Free",
+            "Ongoing Live Sessions",
+            "Upcoming Sessions",
+            "Yogi Live – Live Video Chat with Astrologers & Online Consultation",
+            "Ask Your Questions Astro Live for Free",
+            "FAQs",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Join a free astro live session with India's best Astrologers, Tarot readers, Vaastu experts, Numerologists, life coaches, and many more, and ask questions through a live chat regarding love, relationships, career, marriage, finance, and more",
+            "Yogi Livebrings you a modern way to connect with experienced astrologers throughlive video consultations,live chat, andface-to-face online astrology sessions. Whether you are seeking guidance for love, marriage, career, business, education, health, or personal growth, Yogi Live makes it easy to speak directly with trusted astrology experts from the comfort of your home.",
+            "Unlike traditional astrology consultations, Yogi Live offers real-time interaction through secure video calls. You can see and talk with an astrologer, ask questions, and receive personalized guidance based on your birth details and horoscope. Thislive astrologer consultationexperience helps build trust and provides a more engaging and interactive way to understand your life's challenges and opportunities.",
+            "Our platform features knowledgeable astrologers specializing in Vedic Astrology, Numerology, Tarot Reading, Palmistry, Horoscope Analysis, Kundli Matching, Vaastu, and other spiritual sciences. Whether you need immediate advice or want an in-depth consultation, you can choose the astrologer that best matches your requirements and start your session instantly.",
+            "WithYogi Live, you can enjoyonline face-to-face consultationswithout traveling or waiting for appointments. Simply book a session, connect via live video, and receive expert insights tailored to your concerns. Every consultation is confidential, secure, and focused on helping you make informed decisions with greater confidence.",
+            "Ourlive astrology video consultationservice is designed for people looking for accurate guidance in every stage of life. If you're facing uncertainty in your relationships, career decisions, financial planning, marriage, family matters, or health concerns, our expert astrologers provide practical and spiritual solutions based on your unique birth chart.",
+            "Yogi Live also offerslive chat with astrologers, allowing you to communicate in the way that feels most comfortable. If you prefer a face-to-face discussion, our video consultation feature delivers a personalized experience where you can interact directly with experienced astrology professionals and receive detailed explanations for your questions.",
+            "Why choose Yogi Live? We focus on convenience, authenticity, and accessibility. Our platform allows users to connect with verified astrologers anytime and from anywhere. Whether you need a quick consultation or a comprehensive horoscope analysis, you can find the right expert in just a few clicks. The seamless booking process, secure video technology, and easy-to-use interface make online astrology consultations simple and stress-free.",
+            "At Yogi Live, we believe that the right guidance at the right time can help you navigate life's challenges with clarity and confidence. Our mission is to make trusted astrology consultations accessible to everyone through advanced digital technology while preserving the authenticity of traditional astrological wisdom.",
+            "Start your journey withYogi Livetoday and experience the benefits oflive astrologer video consultations,online face-to-face astrology sessions, andlive chat with astrologers. Connect with experienced professionals, gain valuable insights into your future, and receive personalized guidance that empowers you to make better decisions in love, career, business, education, health, and every important aspect of life."
+        ]
+    },
+    {
+        "from_link_text": "Video",
+        "url": "https://Astroyogi.com/video",
+        "title": "Astroyogi - Astrology, Planet Transit and Horoscope Videos",
+        "headlines": [
+            "Latest Astroyogi Videos",
+            "आज का राशिफल 16 नवंबर 2026, सोमवार | मेष से मीन 12 राशियों का भविष्यफल | Today Horoscope #astrology",
+            "Daily Horoscope Video",
+            "Monthly Horoscope Video",
+            "Yearly Horoscope Video",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Weekly Horoscope For 16 Nov to 22 Nov 2026: Something in Your Life May Be Ready to Change",
+            "Best Govardhan Puja Wishes, Messages & Quotes to Share in 2026",
+            "Kali Mata Story: Goddess Kali's Battle with Raktabija and Her Divine Origins"
+        ]
+    },
+    {
+        "from_link_text": "Blog",
+        "url": "https://Astroyogi.com/blog",
+        "title": "Astrology Blogs: Latest News and Updates on Astrology",
+        "headlines": [
+            "Choose your interests",
+            "ProductView All",
+            "Planetary MovementView All",
+            "LoveView All",
+            "Explore Your Interest"
+        ],
+        "paragraphs": [
+            "5 Gemstones that Ensure Your Financial Success and Attract Wealth",
+            "Eyes Of Himalayas: Unlock The Mystical Power Of 1 Mukhi Rudraksha!",
+            "Clear Quartz Bracelet - What Makes It Worth Spending?",
+            "Ketu Transit in Cancer 2026: Emotional Shifts You Can't Ignore",
+            "Rahu Transit in Capricorn 2026: Don't Miss What the Next 18 Months May Bring",
+            "Mercury Retrograde in Libra 2026: 3 Weeks That Could Change Your Love Life",
+            "What Is the 777 Rule in Marriage?",
+            "Happy Kiss Day: Celebrate Love with Romantic Wishes & Quotes",
+            "Promise Day Wishes And Quotes: Romantic, Friendly and Emotional Messages"
+        ]
+    },
+    {
+        "from_link_text": "Marriage Biodata Calculator",
+        "url": "https://Astroyogi.com/marriage-biodata-maker",
+        "title": "Biodata for Marriage - Free Biodata Maker In PDF Format",
+        "headlines": [
+            "Free Marriage Biodata Generator",
+            "Select your Template",
+            "Build Your Perfect Marriage Biodata with Astroyogi",
+            "How to Make Biodata for Marriage",
+            "Customize your Template",
+            "Download Options",
+            "Share with Family",
+            "Why Choose Astroyogi to Create Your Marriage Biodata?",
+            "Quick Tips for Best Results",
+            "FAQs About Marriage Biodata"
+        ],
+        "paragraphs": [
+            "A marriage biodata is one of the most important documents when searching for a life partner through traditional matchmaking, matrimonial websites, or family introductions. Our marriage biodata generator is designed to make your introduction quick and convenient with great detail for anyone.",
+            "Create a stunning marriage biodata in minutes. Start with our simple, easy-to-use form and personalize the layout with custom sections that matter to you",
+            "Our simple 4-step process helps you make biodata for marriage in 2-3 minutes. No software to download. No account to create.",
+            "Choose from our wide range of free marriage biodata templates. We designed them for every community.",
+            "Easily add personal touches to make your biodata uniquely yours.",
+            "Save your customized biodata in various formats such as PDF, DOCX, or print directly.",
+            "Share your completed biodata with family and friends through email or social media.",
+            "Flexible & Customizable Fields – Show or hide sections like income, horoscope, etc.",
+            "Multiple Biodata Templates – Modern, traditional, and community styles.",
+            "HD PDF – High-quality PDF download."
+        ]
+    },
+    {
+        "from_link_text": "Love Calculator",
+        "url": "https://Astroyogi.com/love/love-calculator",
+        "title": "Love Calculator: Test Your Score on the Love Meter",
+        "headlines": [
+            "Love Tester: Check Your Percentage by Name",
+            "Love Calculator",
+            "Love Percentage Calculator by Name",
+            "What is a Love Calculator?",
+            "How Does the Love Calculator Work as a Love Tester?",
+            "Love Meter: What Does the Score Mean?",
+            "90–100%: Soulmates in the Making",
+            "70–89%: A Strong and Promising Bond",
+            "50–69%: Room to Grow",
+            "Below 50%: A Learning Experience"
+        ],
+        "paragraphs": [
+            "Wondering if your hearts truly match? Try our Love Calculator to instantly reveal the spark, connection, and compatibility between two names.",
+            "Are you in love with someone and eager to know how strong the relationship between you guys is? This also applies to those one-sided crushes that you might have been daydreaming about and want to know the chances of a successful relationship.",
+            "This online love calculator shows the match percentage between you and your partner. All you need to do is enter your and your partner’s names and calculate the percentage in one click. Try it out!",
+            "A Love Calculator is an interactive and insightful tool designed to explore the romantic chemistry between two individuals. It is an authentic tool that only needs the full names to give you a match percentage.",
+            "The percentage will simply tell you how strong your relationship is or how you guys may connect in love.",
+            "Also Check:Check Your Love Compatibility Now ❤️ – Instant Results by Name & DOB!",
+            "The Love Calculator works by analyzing the names you enter using a well-tested algorithm. When you input two names, the calculator uses the combination of letters from both names to generate a \"love percentage\" between 0 and 100%.",
+            "All you need to do is simply enter your name and your partner's (or crush's) name, then click calculate, and instantly see your love percentage score!",
+            "Now that you've tried the love calculator by name and got the score, you must know what this score says about your connection. The percentage or score you get is aligned with relationship compatibility factors. Take a look at the percentage and the meaning:",
+            "90-100 is top class and simply represents a beautiful match. Your connection is strong on emotional, mental, and possibly spiritual levels. You naturally understand each other and share common values. If nurtured, this bond can last a lifetime."
+        ]
+    },
+    {
+        "from_link_text": "Love Compatibility Calculator",
+        "url": "https://Astroyogi.com/love/love-compatibility.aspx",
+        "title": "Free Love Compatibility Test for Couples by Date of Birth",
+        "headlines": [
+            "LOVE COMPATIBILITY TEST",
+            "Why Is Astrology Love Compatibility Important and How to Find it Out?",
+            "Love Compatibility And Match Calculator Tools",
+            "Love Predictions And Marriage Insights",
+            "Talk to Astrologers",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Love compatibility is key to understanding the dynamics of your relationship and building a stronger bond. With the compatibility test, explore how your zodiac signs aligns romantically with your partner's sign. With love compatibility, get insights into your connection and navigate your relationship journey with clarity.",
+            "Curious about the future of your love life? Our love compatibility calculator is here to help you! To find out the secrets of your relationship, just enter the names and birth dates of your and your partner. Our unique compatibility from date of birth and name delves into astrological insights to determine how well you and your partner align. Are you meant to be in a romantic relationship and create a passionate love story?",
+            "Discover your unique bond and see what the universe has in store for your romantic journey! Give our love compatibility test a try today!",
+            "Love, romance, kissing, marriage, break-up, divorce our life revolves around these themes to a great extent, and how our life shapes up depends greatly on the quality of our relationships. Difficult to figure out, yet extremely crucial; love can be the most complex of all emotions we feel. It's impossible to explain in words how significant the impact of a good relationship can be on one's mental health.",
+            "When you fall in love with someone, you feel alive for the first time. You know you are passionate and willing to go to any length to experience this with your better half. Modern society has trivialized love, but there are still romantics on Earth who believe that love is an everlasting feeling sensed between two people in love. It doesn't fade away with time but only grows stronger with each passing moment.",
+            "By checkingastrology love compatibilitywith a person, based on your zodiac sign you can understand what may act as a problem with your partner and work on fixing these issues.",
+            "When two highly compatible people enter into a relationship, chances of experiencing something rare and love in its purest form are high. Everything you want in your partner will be there, and there's nothing you wouldn't do to spend your life with this special person. The Venus Signs are more important while checking Love compatibility as compared to analysis based on Sun Signs.",
+            "For love to survive and remain a strong connection between couples, it's important that they are compatible with each other. An ill-matched relationship often faces undue trouble when clashes become more frequent. You love the other person deeply, but due to other compatibility-related factors, differences creep in. You want to explain things, sort out differences, but the issues only become worse over time and you end up feeling forlorn. This happens because people don't pay attention to love compatibility, which is a must for a harmonious relationship.",
+            "So don't miss this opportunity of getting your love and romance compatibility analyzed with ourastro love compatibilitycalculator for amazing insights.",
+            "Weekly Horoscope For 16 Nov to 22 Nov 2026: Something in Your Life May Be Ready to Change"
+        ]
+    },
+    {
+        "from_link_text": "Kaal Sarp Dosha Calculator",
+        "url": "https://Astroyogi.com/kundli/dosha/kaal-sarp",
+        "title": "Kaal Sarp Dosh - Effects of Kaal Sarp Dosha in Kundli and Remedies",
+        "headlines": [
+            "Kaal Sarp Dosh Calculator",
+            "Kaal Sarp Dosha Calculator",
+            "What is Kaal Sarp Dosh?",
+            "Partial Kaal Sarp Yog",
+            "Kaal Sarp Dosh Types",
+            "General Remedies for Kaal Sarp Dosh",
+            "Kaal Sarp Dosh Mantras",
+            "Types Of Kundli Dosha",
+            "Kundli",
+            "Talk to Astrologers"
+        ],
+        "paragraphs": [
+            "Kaal Sarpa Dosh is a yoga that forms when all of the planets are placed or stuck between Rahu and Ketu in your Kundli. However, its impact depends entirely on the overall strength of your horoscope. So, to make sure if kal sarpa dosha exists in your kundli or not, use our kaal sarp dosh calculator given below. All you need is to enter your full name and date, place, and time of birth.",
+            "Kaal Sarpa dosh is formed in yourkundliwhen all of the seven major planets -Sun,Moon,Mercury,Venus,Mars,Jupiter, andSaturnare placed betweenRahuandKetu. Or, you can say, when no planet is positioned outside the Rahu-Ketu axis, this yog is said to occur.",
+            "The kaal sarp dosh meaning is often linked to karmic imbalance and past life influences. It is believed that if this dosh is present in your birth chart, you might have to go through extremely tough times in your life, including emotional stress, career instability, or relationship challenges. However, its intensity depends on planetary strength and overall horoscope combinations. Note that it can be partial too.",
+            "Partial Kaalsarp Yog occurs when most planets are placed between Rahu and Ketu, but one or more planets lie slightly outside the axis. In such cases, the effects are considered milder compared to a complete Kaal Sarp Dosh. The person may still experience ups and downs, but the struggles are usually less intense and more manageable.",
+            "There are different types of Kaal Sarp Dosh based on the position of Rahu and Ketu in different houses of thehoroscope. Some commonly known types include:",
+            "1. Anant Kaal Sarp Dosh",
+            "Position of Planets:Rahu in the first house (Lagna) and Ketu in the seventh house",
+            "In this type of Kaal Sarp Dosh, a person may face problems in relationships and married life. They may sometimes become the target of misunderstandings, betrayal, or conspiracies from people they trust. Legal matters may also not go in their favor.",
+            "2. Kulik Kaal Sarp Dosh",
+            "Position of Planets:Rahu in the second house and Ketu in the eighth house"
+        ]
+    },
+    {
+        "from_link_text": "Mangal Dosha Calculator",
+        "url": "https://Astroyogi.com/kundli/dosha/manglik",
+        "title": "Mangal Dosha Calculator: Check Manglik Dosh and Its remedies",
+        "headlines": [
+            "Manglik Dosh Calculator",
+            "Manglik Dosha Calculator",
+            "Mangal Dosha Meaning",
+            "Types of Manglik Dosh",
+            "Typical Traits Linked to Mangal Dosha",
+            "Effects of Mangal Dosha According to House Placement",
+            "Astrological Remedies for Manglik Dosh",
+            "1. Chant Mantras and Perform Mangal Shanti:",
+            "2. Worship Lord Hanuman on Tuesdays:",
+            "3. Symbolic First Ceremony (Kumbh Vivah):"
+        ],
+        "paragraphs": [
+            "Manglik Dosh, what people often think is bad news if it's present in your birth chart, is nothing more than a \"karmic imbalance.\" You can check if it's there in your kundli or not with our mangal dosha calculator. All you need to do is enter your name and birth details, and you'll find out if you have Manglik dosh in your kundli or not in an instant.",
+            "When it comes to the question of what is mangal dosha? The answer is pretty simple.",
+            "Mangal Dosh forms because of the position ofMarsin the LagnaKundali. You can say it is present in your birth chart if you find Mars being placed in certain places - the fourth house, seventh house, eighth house, or twelfth house. It is even more powerful when Mars is cojoined with the Moon in the ascendant.",
+            "Known by various other names like Manglik Dosha, Kuja Dosha, and Chevvai/Sevvai Dosham (Tamil), this dosha is mostly associated with marriages. It is believed that being Manglik or having Mangal Dosha in your Kundli can cause delays in marriage or even cause problems in married life. So, for a quick mangal dosha check, you can use the calculator given above.",
+            "There are only two types of Manglik Dosh - High and Low.",
+            "Mangal Dosha is said to be \"high\" if Mars occupies any of the above houses in your main birth chart (natal chart). But, if Mars appears in these same houses in only one of the supporting charts (like the Moon chart or Venus chart), but not strongly in the main birth chart, then the impact is considered weaker or lower.",
+            "In simple terms:",
+            "Strong placement in the main chart = High Manglik Dosha",
+            "Weak or partial placement in other charts = Low Manglik Dosha",
+            "Whether the dosha is high or low, there are certain traits linked with it."
+        ]
+    },
+    {
+        "from_link_text": "Shani Sade Sati Calculator",
+        "url": "https://Astroyogi.com/kundli/dosha/shani",
+        "title": "Sade Sati Calculator: Check Your Shani Sade Sati Phase",
+        "headlines": [
+            "Sade Sati Calculator: Know Effects, Phases And Remedies",
+            "Shani Sade Sati Calculator - Check Your Sade Sati Now",
+            "Shani Sade Sati Meaning",
+            "Why Sade Sati Lasts for 7.5 Years?",
+            "3 Shani Sade Sati Phases: What Happens in Sade Sati",
+            "First Phase of Sade Sati (Rising Phase)",
+            "Second Phase of Sade Sati (Peak Phase)",
+            "Third Phase of Sade Sati (Setting Phase)",
+            "Shani Dhaiya (Additional Challenging Phases)",
+            "Sade Sati Effects: Positive and Negative"
+        ],
+        "paragraphs": [
+            "Sade Sati is a significant period in a person’s life that lasts for seven and a half years and is associated with the planet Saturn. The term “Sade Saat” literally means seven and a half, referring to this significant period in a person’s life. \n\nDuring this time, individuals may experience major changes, challenges, and personal growth. Therefore, it is best to find out whether you are currently under Sade Sati or not. You can use this Sade Sati calculator, which only requires your full birth details, to get accurate and reliable results.",
+            "At least once, you'll feel like all your efforts are going in vain, your hard work is going to waste, and all your plans are not coming to fruition.",
+            "When you're not able to figure out the solution, why this has been happening, astrologers, for ages, have already come up with the term: \"Sade Sati.\" It begins when Saturn transits the 12th house from the natalMoon, continues through the Moon sign (1st), and ends after the 2nd house, lasting about 7½ years in total.",
+            "You’ll agree to the fact that “shani” has a bad reputation, and it is always considered that tough times are about to knock on your door. In reality, it’s not like that. Sade Sati is actually a period of deep inner restructuring. It tests your patience and strength, and guides you toward maturity, clarity, and a life more aligned with your birth chart.",
+            "Sade Sati lasts for 7.5 years because it is based on the movement of the planetSaturn(Shani) through specificzodiac signsin your birth chart.",
+            "In astrology, Saturn is a slow-moving planet. It takes about 2.5 years to pass through one zodiac sign.",
+            "Sade Sati begins when Saturn enters the zodiac sign just before your Moon sign, continues when it moves over your Moon sign, and ends when it enters the sign after your Moon sign.",
+            "So, Saturn passes through three phases during Sade Sati.",
+            "Sade Sati is divided into three main phases based on Saturn’s movement in relation to your Moon sign. Each phase lasts about two and a half years and brings different experiences.",
+            "The first phase phase begins when Saturn enters the sign before your Moon sign (12th house from the Moon)."
+        ]
+    },
+    {
+        "from_link_text": "Pitra Dosha Calculator",
+        "url": "https://Astroyogi.com/kundli/dosha/pitra",
+        "title": "Free Pitra Dosha Calculator Online – Check Pitru Dosha in Kundli",
+        "headlines": [
+            "Pitra Dosha",
+            "Pitra Dosha Calculator",
+            "What is Pitra Dosha?",
+            "Main Pitra Dosha Causes",
+            "Unresolved Ancestral Actions",
+            "Planetary Misarrangements",
+            "Bad Karmic Deeds in the Past Life",
+            "Pitra Dosha Effects",
+            "Pitra Dosha Remedies",
+            "Planetary Remedies for Pitru Dosha"
+        ],
+        "paragraphs": [
+            "Sometimes, we feel blessed when everything is going smoothly and we're achieving success without many obstacles. It is believed that this is the karmic benefit of our ancestors. However, sometimes it’s the exact opposite, where despite hard work, delays, struggles, and unexplained problems keep appearing in life due to unresolved ancestral karma. Nevertheless, it is always better to use a free Pitra Dosha Calculator to make sure if the dosha is there in your Kundli or not.",
+            "In astrology, Pitra Dosha is considered to be one of the most serious or harmful doshas because it is linked to the karma of our ancestors passed down to us. As you can read Pitra Dosha meaning, \"Pitra\" refers to ancestors, and \"Dosha\" means imbalance or flaw, which directly indicates that you're going to suffer in this life, and all the unsettled karma of your ancestors is to be blamed!",
+            "Apart from the karmic relation, Pitra Dosha is identified through specific planetary combinations in a birth chart. The condition of the Sun plays a key role, as it represents lineage and ancestors. Planets like Rahu, Ketu, Saturn, Mars, Moon, and their placements or aspects may further indicate the presence and intensity of this dosha. Understanding these combinations helps determine how strongly Pitra Dosha may influence a person’s life.",
+            "Despite the mention of ancestors' sins as the root cause of pitra dosha, there can be other reasons behind its existence in your Kundli. Take a look:",
+            "If the wishes of your ancestors were not fulfilled, or they left this world or even faced an unintentional or untimely death, there would be adverse effects in your family pointing towards Pitra Dosha.",
+            "A person can still suffer from Pitra Dosha due to some planetary misarrangements in the kundli. These misarrangements are:",
+            "Rahuin the ninth house or placed with the Sun.",
+            "TheSunor the ninth house lord placed with Pathagathipathi.",
+            "The Sun placed in Mandhi, or the ninth house lord placed in Mandhi.",
+            "The Sun or the ninth house lord placed withSaturn."
+        ]
+    },
+    {
+        "from_link_text": "Ascendant Calculator",
+        "url": "https://Astroyogi.com/kundli/ascendant",
+        "title": "Ascendant - What Exactly Is Your Rising Sign? Find out Ascendant Sign Calculator",
+        "headlines": [
+            "Ascendant",
+            "Instant Free Ascendant Report",
+            "Talk to Astrologers",
+            "What Does Ascendant Mean In Horoscope?",
+            "How To Calculate Your Ascendant Sign",
+            "Just like the 12 Sun Signs, there are 12 Ascendant or Rising Signs:",
+            "Kundli",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Astrologically speaking, there’s far more to you than your Sun sign and Moon sign. Did you know of something called the ‘Ascendant Sign’ in our horoscope? In Vedic astrology, the Ascendant (or Rising Sign) is known as Lagna, which is considered to be the most important house in the birth chart. It greatly influences your life and relationships.",
+            "Indeed, astrology is a vast topic with diverse aspects that can determine an individual's life. YourAscendant signshows how you project yourself to the world and how others perceive you, and also the kind of experiences required to make your life meaningful. Let’s find out more about the importance of Ascendant and what it means in astrology.",
+            "The meaning of ‘Ascendant’ isn’t that hard to decode. An Ascendant is a sign that was rising in the East at the time of the native’s birth. Thus it is also called the Rising Sign. Being the most important house, Ascendant is also referred to as the first house of the horoscope, which records the basics of one's life. Therefore the Ascendant sign and the Planet placed in the chart, influence the first reaction of the native to the new environment where he or she has taken their first breath.",
+            "Ascendant or the Rising Sign of the zodiac is simply when it was coming up over the eastern horizon at the moment of birth. The Ascendant signs generally change every two hours. Ascendant can also be thought of as the basis of astrology, as it is linked with all houses of the birth chart. Analysing the Ascendant throws up a deeper and more accurate view of the individual’s spirit and state of mind. It also offers insights into the types of illnesses one may experience in life.",
+            "Ascendant represents the first impressions of your attitude, appearance and demeanour. Your Rising Sign also sheds light on the first impressions you make and your initial responses and reactions to a variety of situations. Some astrologers suggest that analysing both your sun sign and your Ascendant gives a clearer picture of what is in store for you in the future.",
+            "Do you ever get the feeling that your personality traits strongly answer to a different zodiac sign altogether (than the one you have always known to be yours)? Sometimes, a lot changes when the additional Ascendant information comes into play. The precise location of the planets at the moment of your birth makes an important difference.",
+            "For instance, a person with an Aries Ascendant with its ruling planet Mars in Scorpio will respond to the environment a little differently than another person, who also has an Aries Ascendant but Mars in Leo. Similarly, a person with a Libra Ascendant who also has a Saturn conjunct in his chart will behave a lot differently than someone with a Libra Ascendant with no Saturn aspect. These factors have a critical impact on the Ascendant.",
+            "So connect with our top experts through a call or chat and get a personalized consultation today!",
+            "Of course, you’re asking yourself, “What’s my Ascendant sign?” Note that your exact time of birth is crucial in determining your Ascendant. Your birth date and birthplace are equally important while calculating your ascendant sign or Ascendant chart.",
+            "Click here to check and view your instant  FREE  Ascendant report now!"
+        ]
+    },
+    {
+        "from_link_text": "Moon Sign Calculator",
+        "url": "https://Astroyogi.com/zodiac-signs/moonsigns",
+        "title": "Moon Sign Calculator : what is my moon sign ?",
+        "headlines": [
+            "Moon Sign Calculator",
+            "What Is a Moon Sign in Astrology?",
+            "How Does the Moon Sign Calculator Work?",
+            "Why Your Birth Time and Location Matter for Your Moon Sign",
+            "What Does Your Moon Sign Reveal About You?",
+            "Moon Sign Meanings: All 12 Moon Signs",
+            "Aries Moon",
+            "Taurus Moon",
+            "Gemini Moon",
+            "Cancer Moon"
+        ],
+        "paragraphs": [
+            "Wondering, “What is my Moon sign?” Enter your date, time, and place of birth in our Moon Sign Calculator to find your Rashi and understand what your Moon sign reveals about your emotions, instincts, and inner nature.",
+            "Your Moon sign is the zodiac sign where the Moon was positioned at the exact minute and hour of your birth. In Vedic astrology, the Moon represents the mind, emotions, intuition, and subconscious responses.",
+            "Astrologers study the Moon’s placement in aKundali (Natal Chart)to understand how a person experiences feelings, relationships, and emotional situations. While the Sun sign reflects outer personality, the Moon sign reveals the deeper emotional nature of an individual.",
+            "A Moon Sign Calculator identifies the zodiac sign occupied by the Moon at the time of your birth. To calculate this accurately, the tool requires:",
+            "Your birth date alone may not be enough to determine your Moon sign. The Moon moves quickly through the zodiac, making your exact birth details important.",
+            "These details allow the Moon Calculator to identify your Moon sign, or Rashi, more accurately.",
+            "Your Moon sign can reveal important parts of your emotional nature, including:",
+            "How you respond emotionally and instinctively",
+            "How you connect with others in relationships",
+            "What makes you feel comfortable and secure"
+        ]
+    },
+    {
+        "from_link_text": "Sun Sign Calculator",
+        "url": "https://Astroyogi.com/zodiac-signs/sunsigns",
+        "title": "Sun Sign Calculator : What Is My Zodiac Sign by Date of Birth?",
+        "headlines": [
+            "Sun Sign Calculator : Find Your Zodiac Sign",
+            "Talk to Astrologers",
+            "What Is a Sun Sign in Astrology?",
+            "How Do You Find Your Sun Sign?",
+            "The 12 Sun Signs and Their Dates",
+            "Sun Sign vs Moon Sign – What’s the Difference?",
+            "Why Are Sun Signs Used in Horoscopes?",
+            "FAQs",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Wondering what your Sun Sign is? Use our Sun Sign Calculator to find your zodiac sign by date of birth. In astrology, the Sun’s position represents your core personality, identity, and the way you express yourself in the world. Enter your birth details below to Find out your Sun sign instantly.",
+            "Your Sun sign  refers to the zodiac sign where the Sun was positioned at the time of your birth. Since the Sun moves through all12 zodiac signsduring the year, the day you were born determines your Sun sign.",
+            "In astrology, the Sun symbolizes your sense of self and individuality. It represents qualities such as:",
+            "Your core identity",
+            "Confidence and self-expression",
+            "Personal strengths and ambitions",
+            "Your overall life direction",
+            "Because the Sun is the center of our solar system, it is often associated with vitality, leadership, and personal energy in astrology.",
+            "Your Sun sign can be identified simply by looking at yourdate of birth.",
+            "There are two easy ways to determine it:"
+        ]
+    },
+    {
+        "from_link_text": "Birth Nakshatra Calculator",
+        "url": "https://Astroyogi.com/kundli/nakshatra-calculator",
+        "title": "Nakshatra Calculator - Find Your Janma Nakshatra",
+        "headlines": [
+            "Nakshatra Calculator – Birth Star Finder",
+            "Check Your Birth Nakshatra",
+            "Muhurat List for 2026",
+            "What Is a Nakshatra Calculator?",
+            "How Does Astroyogi Calculate Your Nakshatra?",
+            "Example of Nakshatra Calculation",
+            "How to Find Your Birth Nakshatra with Astroyogi",
+            "What Your Results May Show",
+            "Common Mistakes to Avoid",
+            "Conclusion"
+        ],
+        "paragraphs": [
+            "Find your Janma Nakshatra (Birth Star) instantly with our free Nakshatra Calculator. Just enter your date, time and place of birth to get your Nakshatra, Pada, Nakshatra Lord (ruling planet), Rashi (moon sign) and the traits that shape your personality.",
+            "A Nakshatra Calculator is an online tool that determines your birth Nakshatra, or birth star, based on your date, exact time, and place of birth. In Vedic astrology, the Moon's position at the time of your birth determines your Nakshatra. Knowing your birth star can help you understand its associated ruling planet, Rashi, Pada, and other astrological details.",
+            "Astroyogi's Nakshatra Calculator determines your birth star by calculating the Moon's position in the zodiac at the exact time and place of your birth. In Vedic astrology, the zodiac is divided into27 Nakshatras, with each Nakshatra covering13°20′. Each Nakshatra is further divided intofour Padas, each covering3°20′.",
+            "The calculator uses the Moon's exact position at your birth to identify your Nakshatra and Pada, along with related details such as its ruling planet and your Rashi.",
+            "For example, if the Moon is positioned within theAshwini Nakshatraat the time of your birth, your birth Nakshatra will be Ashwini. Since Ashwini is divided into four Padas, the Moon's exact degree within the Nakshatra determines your specific Pada.",
+            "The calculator performs these calculations automatically using your birth date, exact time, and birthplace, so you do not need to calculate the Moon's position manually.",
+            "To find your birth Nakshatra using Astroyogi’s Nakshatra Calculator, follow these simple steps:",
+            "Enter your date of birth.",
+            "Enter your exact birth time.",
+            "Select your place of birth."
+        ]
+    },
+    {
+        "from_link_text": "Lucky Gemstones Calculator",
+        "url": "https://Astroyogi.com/remedies/gemstone-calculator",
+        "title": "Gemstone Calculator: Find Your Lucky Gemstone",
+        "headlines": [
+            "Gemstone Calculator",
+            "Lucky Gemstone Calculator",
+            "What is a Gemstone Calculator?",
+            "How to Use a Gemstone Calculator",
+            "How Does the Gemstone Calculator Work?",
+            "Explore Gemstones by Planetary Alignment",
+            "Explore the key planetary gemstones below:",
+            "How to Spot a Real Gemstone?",
+            "Types of Gemstone",
+            "Talk to Astrologers"
+        ],
+        "paragraphs": [
+            "Thinking of wearing a gemstone but unsure which one is truly right for you? Many people see gemstones as just jewelry, without realizing their connection to planetary energies. \n\nSo, yes, buying and wearing the right gemstone can support growth, stability, and clarity. But the wrong one? It may do little, or in some cases, not align with your energy at all.\n\nA simple yet effective way to make an informed choice is by using a gemstone calculator. You can use the calculator below to discover the gemstone that’s meant for you.",
+            "A Gemstone finder or calculator is an online tool designed to help you identify the most suitable gemstone based on your birth details and astrological profile. It analyzes planetary positions in your chart and matches them with gemstones that are traditionally associated with those energies.",
+            "Instead of relying on assumptions, it offers a more personalized recommendation that helps you choose a gemstone that aligns better with your life path, current challenges, and goals.",
+            "Using the Gemstone Calculator is simple and takes just a few moments. Follow these steps to get a personalized recommendation:",
+            "A Gemstone Calculator by date of birth uses your birth details to provide a more personalized recommendation. Here’s how the process works:",
+            "Analyzes your birth details: Your date, time, and place of birth are used to understand your astrological profile.",
+            "Maps planetary positions: It identifies the placement and influence of key planets in your chart.",
+            "Detects imbalances or key influences: Certain planets may be stronger, weaker, or affecting specific areas of your life.",
+            "Matches planets with gemstones: Each gemstone is associated with a planet, and the gemstone finder links your needs with the appropriate one.",
+            "Generates a personalized recommendation: Based on this analysis, you receive a gemstone suggestion aligned with your profile and goals."
+        ]
+    },
+    {
+        "from_link_text": "Lucky Rudraksha Calculator",
+        "url": "https://Astroyogi.com/remedies/rudraksha-calculator",
+        "title": "Rudraksha Calculator by Date of Birth | Find Your Perfect Rudraksha",
+        "headlines": [
+            "Rudraksha Calculator",
+            "Lucky Rudraksha Calculator by Date of Birth",
+            "What is a Rudraksha Calculator?",
+            "How to Use the Rudraksha Calculator?",
+            "What’s the Use of a Rudraksha Calculator?",
+            "Types of Rudraksha and Their Benefits",
+            "Benefits:",
+            "How to Wear Rudraksha Properly?",
+            "Basic Guidelines:",
+            "How to Identify Original Rudraksha"
+        ],
+        "paragraphs": [
+            "Want to buy a Rudraksha but not sure which one is right for you?\n\nEach bead carries a specific energy, governed by a specific planet, meant for a specific kind of person. The problem is, most people pick one based on guesswork, a friend's suggestion, or what's trending, and then comes the obvious, \"Why isn’t it working?\"\n\nThis is where a Rudraksha Calculator steps in to cut through the noise, replacing guesswork with clarity and matching you with what actually aligns with your energy.",
+            "A Rudraksha Calculator is a Vedic astrology-based free online tool (Calculator) designed to help you find the most suitable Rudraksha bead according to your birth chart (Kundli). By analyzing your date of birth, time of birth, and place of birth, this calculator determines the exact positions of planets in yourhoroscope.",
+            "Finding the right Rudraksha is simple when you follow a few easy steps. Just fill in your details below and let the calculator do the rest.",
+            "Choosing the rightRudrakshais more about alignment rather than preference. If you're using a lucky rudraksha calculator, here's how it will be helpful.",
+            "Avoids Guesswork:Using a Rudraksha Calculator leaves behind all kinds of guesswork that comes from following trends or seeking advice from others. A data-backed suggestion is always better than a random choice.",
+            "Personalized Recommendation:Your birth chart is unique, so an online rudraksha calculator ensures that the bead recommended is well-aligned to your energy and life path.",
+            "Helps Solve Specific Problems:Whether you're facing stress, financial challenges, or a lack of focus, the rudraksha calculator suggests a bead that solves your concern.",
+            "Saves Time and Effort:Instead of researching multiple types of Rudraksha, you get a clear answer instantly.",
+            "Rudraksha beads are classified based on the number of natural lines or “faces” on their surface, known as Mukhis. Each Mukhi represents a specific energy, is associated with a ruling planet or deity, and offers unique benefits to the wearer.",
+            "Below is a breakdown of the most commonly recommended Rudraksha types and their benefits:"
+        ]
+    },
+    {
+        "from_link_text": "Numerology Calculator",
+        "url": "https://Astroyogi.com/numerology",
+        "title": "Calculate Numerology Numbers by Date of Birth - Numerology Calculator Monday, November 16, 2026",
+        "headlines": [
+            "NUMEROLOGY",
+            "Free Numerology Reading",
+            "Talk to Astrologers",
+            "Numerology: All That You Need to Know",
+            "Numerology Calculator: What Is Your Ruling Number in Numerology?",
+            "Introduction to Numerology: What Are The Hidden Powers Of Numerology Numbers?",
+            "A Brief History of Numerology: When Did Numerology First Come into Existence?",
+            "The Way Numerology Works: How to Know Numerology Number?",
+            "Why Turn to Numbers And Numerology?",
+            "Numerology Numbers"
+        ],
+        "paragraphs": [
+            "Discover your destiny with Numerology! Use our Numerology Calculator to find your Life Path & Ruling Number with daily, weekly & monthly predictions.",
+            "In the last few decades, Numerology has gained much popularity. But what is Numerology?",
+            "It is a divination tool that attaches a series of numbers to an individual's name and takes into account the date of birth to derive their true nature from it. Numerology draws meaning from numbers and number combinations in your life. This tool can help you reveal truths about who you really are and the underlying patterns of the universe.",
+            "Do you have queries like, “How to calculate Numerology numbers?” or “What is my Numerology number?” Astroyogi’s numerology calculator by date of birth should be your ‘Number 1’ pick.",
+            "The Numerology number calculator can help decipher important numbers that can offer a peek into your personality traits and life challenges. The sum of your birth date becomes your Ruling Number, which works as the roadmap to your life.",
+            "Most Numerology predictions are based on your Ruling Number, which plays a key role in deciding your destiny. Your number offers the blueprint of your life, helping you determine what's best for you. With the Numerology number, you can obtain information about your hidden talents and what's in store for your future. Your date of birth can reveal your chosen purpose in life.",
+            "You can get accurate Numerology readings by finding your number. Our free Numerology calculator adds the numbers in your birth date until a single digit is obtained.",
+            "So, if you are looking for the best Numerology calculator online, Astroyogi should be your first and last choice!",
+            "Considered to be one of the divination tools, Numerology is the mystical relationship between numbers and one's life. Numbers have always been a subject of fascination since time immemorial. Over time, the interest in calculating Numerology numbers is taken over by numbers becoming a tool to foretell about the different aspects of your life and the qualities you possess.",
+            "Numerology is all about numbers and the vibrations attached to each number, which allow Numerologists to predict people's future and the events and incidents in their lives. Numerologists believe that numbers can help you uncover a lot of information about the world and yourself so that you can understand your life more clearly. By analyzing the numbers, you can get a better perspective of your life."
+        ]
+    },
+    {
+        "from_link_text": "Name Number Calculator",
+        "url": "https://Astroyogi.com/numerology/name-numerology-calculator",
+        "title": "Name Numerology Calculator – Chaldean And Pythagorean Number Predictions",
+        "headlines": [
+            "Name Numerology Calculator - Calculate Your Destiny Number, Soul Urge Number And Personality Number",
+            "Free Numerology Reading",
+            "Chaldean Numerology System",
+            "What Is a Destiny Number?",
+            "What Is a Soul Urge Number?",
+            "What Is a Personality Number?",
+            "A Quick Overview for the Three Core Numbers",
+            "Pythagorean Numerology System",
+            "How to Calculate Your Destiny Number With the Pythagorean System?",
+            "How to Calculate Your Soul Urge Number Using the Pythagorean System?"
+        ],
+        "paragraphs": [
+            "A Name Numerology Calculator helps you understand what your name says about your personality, inner feelings, and the path you may naturally follow in life. To explore the influence your name may have on your life, use our Name Numerology Calculator or Name Number Calculator below to generate results based on both the Chaldean and Pythagorean numerology systems.",
+            "Chaldean numerology, which originated in ancient Babylon, is one of the oldest numerology systems and focuses on the unique energy each letter of your name carries.",
+            "So, when people believe a particular letter in their name creates an unfavourable influence, they may choose to remove or replace it. Here’s the Chaldean numerology table:",
+            "Your Destiny Number, also known as the Expression Number, uncovers the unique gifts and abilities you were born with. It offers insight into your life's purpose and the strengths that can guide you toward success and fulfillment.",
+            "In numerology, the Destiny Number is calculated by adding the numerical values of all the letters in your name and reducing the total to a single digit (unless it results in a Master Number).",
+            "Let's take the name Rahul as an example.",
+            "Step 1:Add all the values.",
+            "2 + 1 + 5 + 6 + 3 = 17",
+            "Step 2:Reduce the total to a single digit.",
+            "1 + 7 = 8"
+        ]
+    },
+    {
+        "from_link_text": "Chinese Sign Calculator",
+        "url": "https://Astroyogi.com/chineseastrology",
+        "title": "Chinese Zodiac - Chinese Astrological Signs by Calculator",
+        "headlines": [
+            "Chinese zodiac Signs",
+            "What is Chinese Astrology?",
+            "Origins and History of Chinese Astrology",
+            "Chinese Astrological Signs by Year",
+            "Chinese Zodiac Signs and Years",
+            "How to Find Your Chinese Zodiac Sign",
+            "Chinese Astrology Calculator: A Modern Tool",
+            "The Five Elements in Chinese Astrology",
+            "Chinese Astrology Compatibility",
+            "Compatibility in Chinese astrology is determined by both zodiac animals and elements."
+        ],
+        "paragraphs": [
+            "Find your Chinese astrological sign by year with our Chinese zodiac calculator.",
+            "Chinese astrology has been in use since ages and is one of the oldest in the world of astrology. It is based on twelve lunar cycles and unlike the western astrology, every sign is represented by one of the twelve animals. Hence, these twelve animals form theChinese Zodiac Signs.",
+            "There are certain traits that are associated with each animal and the individual who is born in that cycle reflects similar attributes. It is commonly used in finding the love compatibility.",
+            "This astrology uses the concepts of Ying-Yang. Each Zodiac either forms a part of Yin or Yang. The five elements form an essential part of Chinese astrology and these elements are fire, water, wood, metal and earth. Feng Shui is an intricate section of Chinese astrology dealing with the balance of energies. Similarly, I-Ching or the Book of Changes is used in predicting the events and making various astrological changes.",
+            "Chinese astrologyis an ancient system of divination that uses the Chinese zodiac signs, birth years, and elements to reveal personality traits, life paths, and compatibility. Unlike Western astrology, which focuses on the positions of planets and constellations, Chinese astrology is deeply connected to lunar cycles and the Chinese calendar.",
+            "Dating back thousands of years, Chinese astrology emerged during the Han Dynasty (202 BC–220 AD). It was closely tied to astronomy, farming, and the spiritual beliefs of the time. The twelve animal signs were selected to represent years in a repeating cycle, creating what we now know as the Chinese zodiac chart.",
+            "The 12 Chinese Zodiac Signs Explained",
+            "The Chinese zodiac includes 12 animals, each representing specific personality traits and destinies.",
+            "Rat: Clever, adaptable, resourceful.",
+            "Ox: Strong, reliable, hardworking."
+        ]
+    },
+    {
+        "from_link_text": "",
+        "url": "https://Astroyogi.com/astrologer/free-astrology-chat",
+        "title": "First Chat Free with Real Astrologer - Kundli & Horoscope Prediction",
+        "headlines": [
+            "Free Astrology Chat with Real Astrologers",
+            "How to Get Your First Free Astrology Chat and Call Consultation at Astroyogi?",
+            "What Makes Astroyogi the Best for Astrology Consultation",
+            "A Network of Trusted Experts:",
+            "Easy and Accessible",
+            "Safe and Private Consultations:",
+            "Trusted by Millions for Over 25 Years",
+            "What you can ask with Astrologers on Free Consultation?",
+            "Questions Related to Your Professional Life",
+            "Clarity on Your Love & Relationships"
+        ],
+        "paragraphs": [
+            "Yes, the First astrology chat is free with Astroyogi for all new users! You can connect with the best astrologers via chat or call and get astrology guidance for love, marriage, career, finance, education, and other life decisions with 100% assured privacy.",
+            "Step 1 :You can register through our website or downloadAstroyogi’s free Astrology appto start the free call or chatStep 2:Browse through categories to choose the astrologer that best fits your needsStep 3:Start astrology consultation instantly via chat or call",
+            "At Astroyogi, you get access to a large network of highly experienced and verified astrologers dedicated to delivering accurate predictions along with personalized remedies. Here’s what makes us a trusted choice for a free / paid astrology consultation.",
+            "At Astroyogi, you will get access to connect with 5,000+ verified astrologers and get accurate guidance through free astrology chat in the language you are most comfortable with.",
+            "You can connect with expert astrologers online via phone or Laptop and take free astrology consultation. No appointments, no paperwork, just quick access in a few clicks wherever you are.",
+            "You can discuss personal or sensitive topics with complete peace of mind, as our data is protected with strict privacy measures, no unauthorized data sharing, and strong safeguards to keep your information and identity safe.",
+            "With more than 25 years of experience, Astroyogi has guided millions toward better life decisions with reliable and accurate predictions.",
+            "Connect with experienced astrologers via chat or call and get instant guidance. With our astrologers having expertise in Vedic Astrology, Numerology, Tarot Reading, Nandi Astrology, Vastu, etc., you can ask questions about various life events and receive personalized insights without paying any charges.",
+            "If you're worried about getting successful in your career, have any doubts regarding a career change, want a promotion, or crack a government job, start a chat with an astrologer online for free to get the right answers for all your questions revolving around your professional life and career transitions.",
+            "Want to know your partner's compatibility with you? Need any advice on how to meet your life partner? Or do you just need some clarity on your current relationship? Talk to our astrologers via free chat or call to get the right advice to deal with any challenges or to guide your relationship in the right direction that favors your Kundli."
+        ]
+    },
+    {
+        "from_link_text": "Talk",
+        "url": "https://Astroyogi.com/talk-to-astrologers",
+        "title": "Talk to the Best Astrologer Online | 5000+ Trusted Astrology Experts",
+        "headlines": [
+            "Talk to Astrologers Online",
+            "Consult with top astrologer",
+            "How Online Astrologer Consultations Can Transform Your Life?",
+            "How to Connect with the Astrologer Online for Predictions?",
+            "Why Choose Astroyogi for Online Astrology Consultation?",
+            "Solutions are Just One Call Away: Talk to an Astrologer Now!",
+            "Frequently Asked Questions",
+            "Find Best Astrologers"
+        ],
+        "paragraphs": [
+            "Talk to trusted astrologers online for clear guidance on relationships, career, finances, and life decisions. Get accurate insights, complete privacy, and 24/7 support from 5,000+ expert astrologers with 25+ years of experience.",
+            "By consulting an astrologer online, you get guidance that helps you make better choices in different areas of life. Here’s how an online astrology consultation can transform your life:",
+            "Clarity About YourselfThe astro online can help you understand your strengths, weaknesses, and hidden potential. If you feel stuck or confused, just talk to an astrologer and get clarity to align your actions with your goals.",
+            "Guidance for Major Life DecisionsGet useful guidance on career, love,marriage, finances, or anything else. With an astrologer consultation online, you surely get the right direction to help you move forward with confidence.",
+            "Relationship SupportIf you want to know how you’ll meet your partner, need to find out the compatibility level with your current partner, or need any solutions to resolve issues in your relationship, a professional astrologer in india can guide you through all sorts of challenges you've been dealing with to strengthen bonds and even take the next big step.",
+            "Career and JobsWant a government job? Need any guidance on what career path you should choose? Or, just want to achieve success in what you’re doing, top  online astrologers will provide you with effective remedies to overcome obstacles and achieve success.",
+            "Overcome ChallengesConsulting the best Indian astrologer online provides you with guidance on how to deal with any kind of challenges, delays, or uncertainties in life so you can handle them better. Most astrologers identify planetary influences and give accurate predictions so that you can stay one step ahead.",
+            "To Start Something NewApart from all these, for a new start or any auspicious events, like you’re about to purchase a car, house, or property, astrologers can guide you while making important decisions.",
+            "To connect with India’s best astrologers available on Astroyogi, just follow the steps given below:",
+            "Astroyogi has been active for more than 25+ years, and with over 4 crore satisfied users, consulting one of our experts for guidance or clarity is surely worth it because of these reasons:"
+        ]
+    },
+    {
+        "from_link_text": "Love",
+        "url": "https://Astroyogi.com/love/love-calculator",
+        "title": "Love Calculator: Test Your Score on the Love Meter",
+        "headlines": [
+            "Love Tester: Check Your Percentage by Name",
+            "Love Calculator",
+            "Love Percentage Calculator by Name",
+            "What is a Love Calculator?",
+            "How Does the Love Calculator Work as a Love Tester?",
+            "Love Meter: What Does the Score Mean?",
+            "90–100%: Soulmates in the Making",
+            "70–89%: A Strong and Promising Bond",
+            "50–69%: Room to Grow",
+            "Below 50%: A Learning Experience"
+        ],
+        "paragraphs": [
+            "Wondering if your hearts truly match? Try our Love Calculator to instantly reveal the spark, connection, and compatibility between two names.",
+            "Are you in love with someone and eager to know how strong the relationship between you guys is? This also applies to those one-sided crushes that you might have been daydreaming about and want to know the chances of a successful relationship.",
+            "This online love calculator shows the match percentage between you and your partner. All you need to do is enter your and your partner’s names and calculate the percentage in one click. Try it out!",
+            "A Love Calculator is an interactive and insightful tool designed to explore the romantic chemistry between two individuals. It is an authentic tool that only needs the full names to give you a match percentage.",
+            "The percentage will simply tell you how strong your relationship is or how you guys may connect in love.",
+            "Also Check:Check Your Love Compatibility Now ❤️ – Instant Results by Name & DOB!",
+            "The Love Calculator works by analyzing the names you enter using a well-tested algorithm. When you input two names, the calculator uses the combination of letters from both names to generate a \"love percentage\" between 0 and 100%.",
+            "All you need to do is simply enter your name and your partner's (or crush's) name, then click calculate, and instantly see your love percentage score!",
+            "Now that you've tried the love calculator by name and got the score, you must know what this score says about your connection. The percentage or score you get is aligned with relationship compatibility factors. Take a look at the percentage and the meaning:",
+            "90-100 is top class and simply represents a beautiful match. Your connection is strong on emotional, mental, and possibly spiritual levels. You naturally understand each other and share common values. If nurtured, this bond can last a lifetime."
+        ]
+    },
+    {
+        "from_link_text": "Horoscope",
+        "url": "https://Astroyogi.com/horoscopes",
+        "title": "Free Horoscopes for All Zodiac Signs",
+        "headlines": [
+            "Horoscopes for All 12 Zodiac Signs",
+            "Choose Your Zodiac Sign to Read Today’s Horoscope",
+            "Horoscope by Life Areas",
+            "Horoscope by Timeframe",
+            "Benefits of Horoscopes in Everyday Life",
+            "How Do the 12 Houses and Planets in a Horoscope Influence Our Life?",
+            "Which Horoscope Should You Read: Daily, Weekly, Monthly, or Yearly?",
+            "FAQ for Horosccopes",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Check free horoscopes for all 12 zodiac signs. Get daily, weekly, monthly, and yearly astrology predictions for love, career, finance, and health.",
+            "Horoscopes are often seen as a quick read, but when used thoughtfully, they provide deeper insights and genuine value.",
+            "One major benefit of reading horoscopes is that they can guide better decision-making. Whether it’s a financial move, heading into an important meeting, having travel plans, or dealing with an emotional conversation, knowing the day’s energy can help you take the right approach.",
+            "Horoscopes also improve your emotional awareness. On days when emotions feel heavy or confusing, reading a horoscope can offer reassurance. Sometimes, it simply helps to know that what you’re feeling has a reason behind it.",
+            "They are also helpful for planning and timing. Weekly and monthly horoscopes give you a wider view. You can decide when to push forward, when to slow down, and when to pause and reflect.",
+            "Over time, horoscopes strengthen self-understanding. You begin noticing patterns between planetary shifts and your reactions. This builds patience and helps you respond instead of reacting.",
+            "Most importantly, horoscopes offer comfort. Life can feel overwhelming, and a few grounded insights can bring calm and focus. That’s why reading a free horoscope remains a daily habit for people across the world.",
+            "In astrology, an accurate horoscope is determined by two main elements: planets and houses. There are nine planets in astrology, and each planet represents a specific type of energy, such as action, emotion, communication, or growth. These planets are as follows",
+            "Moreover, a horoscope chart consists of12 houses, and each house represents areas of life like career, relationships, family, health, finances, and more. When planets move through these houses, they activate different life themes.",
+            "For example, a planetary shift in the career house or the10th housemay bring changes at work or career decisions. If Saturn sits in the 10th house, it may bring career responsibilities and slow but steady growth."
+        ]
+    },
+    {
+        "from_link_text": "Kundli",
+        "url": "https://Astroyogi.com/kundli",
+        "title": "Kundli - Free Janam Kundali Online by Date of Birth And Time",
+        "headlines": [
+            "Free Online Kundli By Date Of Birth",
+            "Get Your Free Kundli Today!",
+            "Talk to Astrologers",
+            "Create Your Free Online Kundali Using Our Kundali Making Software",
+            "How to Use Astroyogi’s Kundli Software Online?",
+            "How Does the Astroyogi Free Kundali Software or Birth Chart Calculator Help You?",
+            "What Is a Janam Kundali or Birth Chart?",
+            "Benefits of Janam Kundali or Horoscope Reading",
+            "Get in Touch with Astroyogi Experts for a Kundli Analysis",
+            "Kundli"
+        ],
+        "paragraphs": [
+            "A Kundli or Kundali is an astrological birth chart that shows planetary positions at the time of your birth. Use our Kundli software to generate your birth chart instantly by entering your date of birth, time, and place. This will help you understand your personality, life events, career, marriage, and future predictions.",
+            "Kundli making is just one click away! It’s possible with Astroyogi's free Kundali making software, which generates your birth chart in seconds. Trusted by millions worldwide, our free online Kundli generator reveals accurate insights into planetary positions, doshas, and key life events.",
+            "One tap, and you get your janam kundli in Hindi or English as it comes with multilingual support.",
+            "Once you have a basic analysis of your birth chart, you can consult Astroyogi's expert astrologers online for more detailed and accurate Kundli predictions. Whether at home or traveling, you can consult experts 24/7 and get clarity on every aspect of life.",
+            "To use Astroyogi’s Kundli Software, follow these steps:",
+            "Enter your full name and birth details that include:",
+            "Date of Birth",
+            "Time of Birth (AM/PM)",
+            "Location (place of birth)",
+            "Select your Gender (Male/Female)"
+        ]
+    },
+    {
+        "from_link_text": "View All",
+        "url": "https://Astroyogi.com/talk-to-astrologers",
+        "title": "Talk to the Best Astrologer Online | 5000+ Trusted Astrology Experts",
+        "headlines": [
+            "Talk to Astrologers Online",
+            "Consult with top astrologer",
+            "How Online Astrologer Consultations Can Transform Your Life?",
+            "How to Connect with the Astrologer Online for Predictions?",
+            "Why Choose Astroyogi for Online Astrology Consultation?",
+            "Solutions are Just One Call Away: Talk to an Astrologer Now!",
+            "Frequently Asked Questions",
+            "Find Best Astrologers"
+        ],
+        "paragraphs": [
+            "Talk to trusted astrologers online for clear guidance on relationships, career, finances, and life decisions. Get accurate insights, complete privacy, and 24/7 support from 5,000+ expert astrologers with 25+ years of experience.",
+            "By consulting an astrologer online, you get guidance that helps you make better choices in different areas of life. Here’s how an online astrology consultation can transform your life:",
+            "Clarity About YourselfThe astro online can help you understand your strengths, weaknesses, and hidden potential. If you feel stuck or confused, just talk to an astrologer and get clarity to align your actions with your goals.",
+            "Guidance for Major Life DecisionsGet useful guidance on career, love,marriage, finances, or anything else. With an astrologer consultation online, you surely get the right direction to help you move forward with confidence.",
+            "Relationship SupportIf you want to know how you’ll meet your partner, need to find out the compatibility level with your current partner, or need any solutions to resolve issues in your relationship, a professional astrologer in india can guide you through all sorts of challenges you've been dealing with to strengthen bonds and even take the next big step.",
+            "Career and JobsWant a government job? Need any guidance on what career path you should choose? Or, just want to achieve success in what you’re doing, top  online astrologers will provide you with effective remedies to overcome obstacles and achieve success.",
+            "Overcome ChallengesConsulting the best Indian astrologer online provides you with guidance on how to deal with any kind of challenges, delays, or uncertainties in life so you can handle them better. Most astrologers identify planetary influences and give accurate predictions so that you can stay one step ahead.",
+            "To Start Something NewApart from all these, for a new start or any auspicious events, like you’re about to purchase a car, house, or property, astrologers can guide you while making important decisions.",
+            "To connect with India’s best astrologers available on Astroyogi, just follow the steps given below:",
+            "Astroyogi has been active for more than 25+ years, and with over 4 crore satisfied users, consulting one of our experts for guidance or clarity is surely worth it because of these reasons:"
+        ]
+    },
+    {
+        "from_link_text": "",
+        "url": "https://Astroyogi.com/astrologer/expert/snehh.aspx",
+        "title": "Best Tarot Card Reader Tarot Snehh - Astroyogi",
+        "headlines": [
+            "Tarot Snehh",
+            "About",
+            "Expertise",
+            "Rating & reviewsBy verified consultees only"
+        ],
+        "paragraphs": [
+            "Tarot expert Tarot Snehh has done a diploma in Tarot Card Reading from an institute of occult science in Delhi. She also possesses a certification in Tarot from the International Tarot Foundation (ITF), one of the most renowned in the world. She...Read More",
+            "Such great guidance.\nSo so accurate.\nWill keep coming to her for advice.",
+            "she is amazing...everything she told me was so accurate and true. best thing is she never...Read More",
+            "Such great guidance.\nSo so accurate.\nWill keep coming to her for advice.",
+            "she is amazing...everything she told me was so accurate and true. best thing is she never...Read More",
+            "snehh is amazing..",
+            "Providing proper guidance for the questions , I have asked. Answered my questions with pat...Read More",
+            "Snehh is genuinely honest and doesn’t sugarcoat things or give false hope.\nHer  real-time,...Read More",
+            "Straightforward very helpful and accurate reading",
+            "Straightforward  honest and very helpful . Accurate readings. Thank you"
+        ]
+    },
+    {
+        "from_link_text": "Tarot Snehh",
+        "url": "https://Astroyogi.com/astrologer/expert/snehh.aspx",
+        "title": "Best Tarot Card Reader Tarot Snehh - Astroyogi",
+        "headlines": [
+            "Tarot Snehh",
+            "About",
+            "Expertise",
+            "Rating & reviewsBy verified consultees only"
+        ],
+        "paragraphs": [
+            "Tarot expert Tarot Snehh has done a diploma in Tarot Card Reading from an institute of occult science in Delhi. She also possesses a certification in Tarot from the International Tarot Foundation (ITF), one of the most renowned in the world. She...Read More",
+            "Such great guidance.\nSo so accurate.\nWill keep coming to her for advice.",
+            "she is amazing...everything she told me was so accurate and true. best thing is she never...Read More",
+            "Such great guidance.\nSo so accurate.\nWill keep coming to her for advice.",
+            "she is amazing...everything she told me was so accurate and true. best thing is she never...Read More",
+            "snehh is amazing..",
+            "Providing proper guidance for the questions , I have asked. Answered my questions with pat...Read More",
+            "Snehh is genuinely honest and doesn’t sugarcoat things or give false hope.\nHer  real-time,...Read More",
+            "Straightforward very helpful and accurate reading",
+            "Straightforward  honest and very helpful . Accurate readings. Thank you"
+        ]
+    },
+    {
+        "from_link_text": "",
+        "url": "https://Astroyogi.com/astrologer/expert/k-c-pandey.aspx",
+        "title": "Ask from KC Pandey, Famous Astrologer in Lucknow",
+        "headlines": [
+            "KC Pandey",
+            "About",
+            "Expertise",
+            "Rating & reviewsBy verified consultees only"
+        ],
+        "paragraphs": [
+            "KC Pandey is a professional and experienced Vedic astrologer from Lucknow, India, with more than 38 years of experience. His experiences in the fields like Career, Money, Health, Love & Relationships, Marriage & Kundli has always proved...Read More",
+            "Thanks again and again.",
+            "Thanks very much.",
+            "Thanks again and again.",
+            "Thanks very much.",
+            "Thanks again and again.",
+            "nice guidence 💯",
+            "Amazing advice and great predictions, always to the point and quick analysis, must consult...Read More",
+            "KC Pandey ji is very patient and answered all my queries with great patience",
+            "A bright gem  of our favourite  app Astrotogi."
+        ]
+    },
+    {
+        "from_link_text": "KC Pandey",
+        "url": "https://Astroyogi.com/astrologer/expert/k-c-pandey.aspx",
+        "title": "Ask from KC Pandey, Famous Astrologer in Lucknow",
+        "headlines": [
+            "KC Pandey",
+            "About",
+            "Expertise",
+            "Rating & reviewsBy verified consultees only"
+        ],
+        "paragraphs": [
+            "KC Pandey is a professional and experienced Vedic astrologer from Lucknow, India, with more than 38 years of experience. His experiences in the fields like Career, Money, Health, Love & Relationships, Marriage & Kundli has always proved...Read More",
+            "Thanks again and again.",
+            "Thanks very much.",
+            "Thanks again and again.",
+            "Thanks very much.",
+            "Thanks again and again.",
+            "nice guidence 💯",
+            "Amazing advice and great predictions, always to the point and quick analysis, must consult...Read More",
+            "KC Pandey ji is very patient and answered all my queries with great patience",
+            "A bright gem  of our favourite  app Astrotogi."
+        ]
+    },
+    {
+        "from_link_text": "",
+        "url": "https://Astroyogi.com/astrologer/expert/guruyogi.aspx",
+        "title": "Astro Guruyogi: Passionate Vedic Astrologer & Accurate Predictions",
+        "headlines": [
+            "Dr Guruyogi",
+            "About",
+            "Expertise",
+            "Rating & reviewsBy verified consultees only"
+        ],
+        "paragraphs": [
+            "Meet Dr. GuruYogi, a seasoned mystic with two decades of expertise in Vedic astrology and Tarot. With an unparalleled blend of ancient wisdom and esoteric insights, Dr. GuruYogi guides seekers through the celestial and mystical realms. His rich exper...Read More",
+            "Very specific guidance, highly recommended.",
+            "You disconnected.",
+            "Very specific guidance, highly recommended.",
+            "You disconnected.",
+            "Thankyou sir",
+            "network kharab tha kat gya khud ba khud..koi nhi sir i am satisfied..",
+            "thank you sir!",
+            "Om Shambhu Swamy 🙏🙏🙏",
+            "very good experience while talking with sir. his guidance is really helpful."
+        ]
+    },
+    {
+        "from_link_text": "Dr Guruyogi",
+        "url": "https://Astroyogi.com/astrologer/expert/guruyogi.aspx",
+        "title": "Astro Guruyogi: Passionate Vedic Astrologer & Accurate Predictions",
+        "headlines": [
+            "Dr Guruyogi",
+            "About",
+            "Expertise",
+            "Rating & reviewsBy verified consultees only"
+        ],
+        "paragraphs": [
+            "Meet Dr. GuruYogi, a seasoned mystic with two decades of expertise in Vedic astrology and Tarot. With an unparalleled blend of ancient wisdom and esoteric insights, Dr. GuruYogi guides seekers through the celestial and mystical realms. His rich exper...Read More",
+            "Very specific guidance, highly recommended.",
+            "You disconnected.",
+            "Very specific guidance, highly recommended.",
+            "You disconnected.",
+            "Thankyou sir",
+            "network kharab tha kat gya khud ba khud..koi nhi sir i am satisfied..",
+            "thank you sir!",
+            "Om Shambhu Swamy 🙏🙏🙏",
+            "very good experience while talking with sir. his guidance is really helpful."
+        ]
+    },
+    {
+        "from_link_text": "View All",
+        "url": "https://Astroyogi.com/astrologer-live",
+        "title": "Yogi Live - Live Astrologer Video Call & Online Chat Consultation",
+        "headlines": [
+            "Yogi Astro Live: Now Chat with Your Favourite Astrologers for Free",
+            "Ongoing Live Sessions",
+            "Upcoming Sessions",
+            "Yogi Live – Live Video Chat with Astrologers & Online Consultation",
+            "Ask Your Questions Astro Live for Free",
+            "FAQs",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Join a free astro live session with India's best Astrologers, Tarot readers, Vaastu experts, Numerologists, life coaches, and many more, and ask questions through a live chat regarding love, relationships, career, marriage, finance, and more",
+            "Yogi Livebrings you a modern way to connect with experienced astrologers throughlive video consultations,live chat, andface-to-face online astrology sessions. Whether you are seeking guidance for love, marriage, career, business, education, health, or personal growth, Yogi Live makes it easy to speak directly with trusted astrology experts from the comfort of your home.",
+            "Unlike traditional astrology consultations, Yogi Live offers real-time interaction through secure video calls. You can see and talk with an astrologer, ask questions, and receive personalized guidance based on your birth details and horoscope. Thislive astrologer consultationexperience helps build trust and provides a more engaging and interactive way to understand your life's challenges and opportunities.",
+            "Our platform features knowledgeable astrologers specializing in Vedic Astrology, Numerology, Tarot Reading, Palmistry, Horoscope Analysis, Kundli Matching, Vaastu, and other spiritual sciences. Whether you need immediate advice or want an in-depth consultation, you can choose the astrologer that best matches your requirements and start your session instantly.",
+            "WithYogi Live, you can enjoyonline face-to-face consultationswithout traveling or waiting for appointments. Simply book a session, connect via live video, and receive expert insights tailored to your concerns. Every consultation is confidential, secure, and focused on helping you make informed decisions with greater confidence.",
+            "Ourlive astrology video consultationservice is designed for people looking for accurate guidance in every stage of life. If you're facing uncertainty in your relationships, career decisions, financial planning, marriage, family matters, or health concerns, our expert astrologers provide practical and spiritual solutions based on your unique birth chart.",
+            "Yogi Live also offerslive chat with astrologers, allowing you to communicate in the way that feels most comfortable. If you prefer a face-to-face discussion, our video consultation feature delivers a personalized experience where you can interact directly with experienced astrology professionals and receive detailed explanations for your questions.",
+            "Why choose Yogi Live? We focus on convenience, authenticity, and accessibility. Our platform allows users to connect with verified astrologers anytime and from anywhere. Whether you need a quick consultation or a comprehensive horoscope analysis, you can find the right expert in just a few clicks. The seamless booking process, secure video technology, and easy-to-use interface make online astrology consultations simple and stress-free.",
+            "At Yogi Live, we believe that the right guidance at the right time can help you navigate life's challenges with clarity and confidence. Our mission is to make trusted astrology consultations accessible to everyone through advanced digital technology while preserving the authenticity of traditional astrological wisdom.",
+            "Start your journey withYogi Livetoday and experience the benefits oflive astrologer video consultations,online face-to-face astrology sessions, andlive chat with astrologers. Connect with experienced professionals, gain valuable insights into your future, and receive personalized guidance that empowers you to make better decisions in love, career, business, education, health, and every important aspect of life."
+        ]
+    },
+    {
+        "from_link_text": "Tarot Yashree",
+        "url": "https://Astroyogi.com/astrologer/expert/yashree.aspx",
+        "title": "Tarot Yashree: Consult with Famous Tarot Card Reader",
+        "headlines": [
+            "Tarot Yashree",
+            "About",
+            "Expertise",
+            "Rating & reviewsBy verified consultees only"
+        ],
+        "paragraphs": [
+            "I am a certified Tarot card reader and a Tarot coach. Since 2016, I've been providing professional Tarot card readings to my clients, assisting them with their love, relationship, career, finances, and marriage. Along with the certified courses,...Read More",
+            "Di its emergency please 🙏 please 🙏 😢 please 🙏 come on live please 🙏 😢 please 🙏 😢 ❤...Read More",
+            "Thankyouuu for all the guidance",
+            "Di its emergency please 🙏 please 🙏 😢 please 🙏 come on live please 🙏 😢 please 🙏 😢 ❤...Read More",
+            "Thankyouuu for all the guidance",
+            "Thank you mam you are the best",
+            "Thank u di just help me in viva",
+            "Maam I wanna talk with u \nPlz come on line in the morning hours \nI really need u maam\nI m...Read More",
+            "love you a lot❤️",
+            "Ajao Jaldi"
+        ]
+    },
+    {
+        "from_link_text": "Tarot Heerav",
+        "url": "https://Astroyogi.com/astrologer/expert/heerav.aspx",
+        "title": "Tarot Heerav - Expert Tarot Reading & Personalized Guidance",
+        "headlines": [
+            "Tarot Heerav",
+            "About",
+            "Expertise",
+            "Rating & reviewsBy verified consultees only"
+        ],
+        "paragraphs": [
+            "Tarot Heerav is a dedicated and intuitive tarot reader who provides guidance on different aspects of life. His areas of consultation include love, relationships, career, finances, family matters, and personal growth. Heerav believes that tarot can of...Read More",
+            "Thank you for the guidance",
+            "Good he was explains in voice chat, instead typing made my questions easier. Much appointm...Read More",
+            "Thank you for the guidance",
+            "Good he was explains in voice chat, instead typing made my questions easier. Much appointm...Read More",
+            "j\nwow..knew of my situation",
+            "satisfaction 💕",
+            "Good person",
+            "sir can u do a live session rn for a 2-3 mins maybe ?",
+            "wonderful session... sir can u prepare our next  sessions messages of remedy I will connec...Read More"
+        ]
+    },
+    {
+        "from_link_text": "Astro Pratik",
+        "url": "https://Astroyogi.com/astrologer/expert/pratik.aspx",
+        "title": "Astro Pratik: Dedicated Vedic Astrologer Online",
+        "headlines": [
+            "Astro Pratik",
+            "About",
+            "Expertise",
+            "Rating & reviewsBy verified consultees only"
+        ],
+        "paragraphs": [
+            "I'm a seasoned Vedic enthusiast with a delightful journey of 7 years exploring the ancient tapestry of Vedic wisdom. My passion lies in unraveling the cosmic threads that connect us all, offering insightful guidance through the profound teac...Read More",
+            "Thank u",
+            "Very helpful and precise information",
+            "Thank u",
+            "Very helpful and precise information",
+            "he was spot on.",
+            "Didn&apos;t feel convinced.",
+            "Great knowledge in astrology and positive hopes even in tough times",
+            "please answer to all my questions please",
+            "always on point"
+        ]
+    },
+    {
+        "from_link_text": "Astro A Shastri",
+        "url": "https://Astroyogi.com/astrologer/expert/s-a-c-shastri.aspx",
+        "title": "Astro A Shastri: Talk to Celebrity Astrologer - Astroyogi.com",
+        "headlines": [
+            "Astro A Shastri",
+            "About",
+            "Expertise",
+            "Rating & reviewsBy verified consultees only"
+        ],
+        "paragraphs": [
+            "Astro A Shastri (KP Astrologer) Jyotish BidyaBhusan, Jyotish BidyaVishard & Fellowship in KP Jyotish Arnav Shastri, Vastu Ratna , Life Member of Krishna Murty Institute of astrology and world Astrologer society. He has total experience of 21...Read More",
+            "very polite and helpful person. amazing feeling after call",
+            "Very genuine and very accurate",
+            "very polite and helpful person. amazing feeling after call",
+            "Very genuine and very accurate",
+            "Thank you for your guidance and best part is you have given remedies which can be attained...Read More",
+            "Very Very nice....Thanks a lot sir🙏🙏🙏🙏🙏",
+            "Very positive and patient, he really gave me hope",
+            "Very helpful and genuine advice he gives",
+            "Very good consultation. He listened patiently, understood my son’s concerns carefully, and...Read More"
+        ]
+    },
+    {
+        "from_link_text": "Tarot Ganika",
+        "url": "https://Astroyogi.com/astrologer/expert/ganika.aspx",
+        "title": "Get Personalized Guidance by Tarot Ganika | Expert Tarot Reader at Astroyogi",
+        "headlines": [
+            "Tarot Ganika",
+            "About",
+            "Expertise",
+            "Rating & reviewsBy verified consultees only"
+        ],
+        "paragraphs": [
+            "I’m Tarot Ganika! With 7 years of experience, I’ve been a guiding light for countless souls seeking clarity, healing, and direction. My journey with tarot began as a whisper of intuition and blossomed into a sacred calling. Through each c...Read More",
+            "Plz accept session",
+            "perfect guidance",
+            "Plz accept session",
+            "perfect guidance",
+            "very quick and precise",
+            "Genuine answers, and thank you so much",
+            "thank you ma&apos;am 😊",
+            "thank you didi\nthank you very much \nI got clarity \nyou are amazing",
+            "my experience is good.. but having less time to chat"
+        ]
+    },
+    {
+        "from_link_text": "View All",
+        "url": "https://store.astroyogi.com/?utm_source=AY&utm_medium=homepage&utm_campaign=AY-home-store",
+        "title": "Astroyogi Store - Explore Authentic Spiritual Products Online",
+        "headlines": [
+            "Astroyogi Store",
+            "BESTSELLERS",
+            "Shop By Purpose",
+            "Brass Idols",
+            "Our Sacred Yantras",
+            "Spotlight",
+            "Combo Deals",
+            "Loved by India’s Leading Celebrities",
+            "Testimonials",
+            "Amethyst Bracelet"
+        ],
+        "paragraphs": [
+            "Our Festive Collection is Live",
+            "Now 100% Cashback on all Orders",
+            "We use cookies and similar technologies to provide the best experience on our website.",
+            "Authenticity is Our Promise",
+            "25 Years Of Legacy",
+            "Lab Certified",
+            "Empowered & Ethical",
+            "Authenticity is Our Promise",
+            "25 Years Of Legacy",
+            "Lab Certified"
+        ]
+    },
+    {
+        "from_link_text": "Aries",
+        "url": "https://Astroyogi.com/horoscopes/daily/aries-free-horoscope.aspx",
+        "title": "Aries Daily Horoscope Today November 16, 2026, Monday",
+        "headlines": [
+            "Aries Today Horoscope",
+            "Aries Daily Horoscope",
+            "Remedy",
+            "Aries Today Horoscope by Life Areas",
+            "Aries Horoscope by Timeframe",
+            "Your Aries Horoscope Today : Key Areas of Life",
+            "Aries Love Horoscope Today",
+            "Aries Career Horoscope Today",
+            "Aries Finance Horoscope Today",
+            "Aries Health Horoscope Today"
+        ],
+        "paragraphs": [
+            "Read your Aries Horoscope for today and see what the stars reveal about your love life, career, health, and finances. Start your day with trusted astrological insights for Aries.",
+            "(Monday, November 16, 2026)",
+            "Dear Aries, this is a fantastic moment to strengthen your position and act on your aspirations as the Moon travels into Capricorn, The planets are beaming with delight at you. If you're employed, there are various possibilities nowadays that can help you broaden your horizons. Make the most of the changes that have been placed in front of you and make use of them. This is a terrific day for you, so if you have any outstanding plans, you should go ahead and make them. Astroyogi astrologers advise that the color deep red is your lucky color. The hours between 6 pm and 7 pm are auspicious for you.This years Saturn energy may feel heavy, soBlue SapphireorLapis Lazulican offer grounding and protection.",
+            "Spend time in nature",
+            "As an Aries, discover what today holds for you. Read about love, career, finance, and health predictions to make your day meaningful.",
+            "Dear Aries, your passion and confidence create exciting connections and strong bonds. Let’s see what today’s prediction reveals for your love life.Read more.",
+            "Your energy and determination drive your work, making you a natural leader. Find out what today brings for your career growth.Read more.",
+            "If you're an Aries, money often follows your bold choices. Stay focused and see what today’s prediction says about your finances.Read more.",
+            "Your vitality and courage shape your well-being. Stay active, take care of your energy, and discover what today’s health prediction suggests.Read more.",
+            "Yourdaily horoscopeis just one part of the story. Read the completehoroscopeoutlook with tomorrow, weekly, monthly, and yearly predictions for all zodiac signs."
+        ]
+    },
+    {
+        "from_link_text": "Taurus",
+        "url": "https://Astroyogi.com/horoscopes/daily/taurus-free-horoscope.aspx",
+        "title": "Taurus Daily Horoscope Today November 16, 2026, Monday",
+        "headlines": [
+            "Taurus Horoscope",
+            "Taurus Daily Horoscope",
+            "Remedy",
+            "Taurus Today Horoscope by Life Areas",
+            "Taurus Horoscope by Timeframe",
+            "Your Taurus Daily Horoscope: Key Areas of Life",
+            "Taurus Love Horoscope Today",
+            "Taurus Career Horoscope Today",
+            "Taurus Finance Horoscope Today",
+            "Taurus Health Horoscope Today"
+        ],
+        "paragraphs": [
+            "Read your Taurus horoscope today to discover what the stars say about your love life, career, finances, and health. Accurate Taurus daily predictions by expert astrologers.",
+            "(Monday, November 16, 2026)",
+            "Dear Taurus, you might wake up feeling a little thrown off by several things today. But the Moon's position in Capricorn could help you find some balance. Your perseverance and patience may cast a huge impact on people around you, leaving you satisfied at the end of the day. The Astroyogi astrologers advise you to maintain a positive outlook, and you will overcome any challenges or difficulties that life throws your way. Hours between 5:45 pm and 7 pm are the most fortunate time for you today. Wearing anything in white would surely bring luck your way.Under Rahus heightened effect this year, wearing aRose Quartz braceletor placing anAmethyst pyramidin your space can promote compassion and emotional clarity.",
+            "Take a relaxing break",
+            "As a Taurus, Find-out what today holds for you. Read about love, career, finance, and health predictions to make your day meaningful.",
+            "Dear Taurus, your loyalty and patience create strong and lasting bonds. Let’s see what today’s prediction reveals for your love life.Read more.",
+            "Your determination and practical approach guide your work, helping you achieve steady progress. Find out what today brings for your career growth.Read more.",
+            "If you're a Taurus, stability and careful planning influence your money matters. Stay mindful and see what today’s prediction says about your finances.Read more.",
+            "Your well-being thrives on routine and balance. Stay grounded, nurture yourself, and Find-out what today’s health prediction suggests.Read more.",
+            "Yourdaily horoscopeis just one part of the story. Read the completehoroscopeoutlook with daily, monthly, and yearly predictions for all zodiac signs."
+        ]
+    },
+    {
+        "from_link_text": "Gemini",
+        "url": "https://Astroyogi.com/horoscopes/daily/gemini-free-horoscope.aspx",
+        "title": "Gemini Daily Horoscope Today November 16, 2026, Monday",
+        "headlines": [
+            "Gemini Horoscope",
+            "Gemini Daily Horoscope",
+            "Remedy",
+            "Gemini Today Horoscope by Life Areas",
+            "Gemini Horoscope by Timeframe",
+            "Your Gemini Daily Horoscope: Key Areas of Life",
+            "Gemini Love Horoscope Today",
+            "Gemini Career Horoscope Today",
+            "Gemini Finance Horoscope Today",
+            "Gemini Health Horoscope Today"
+        ],
+        "paragraphs": [
+            "Read your Gemini Horoscope for today and see what the stars reveal about your love life, career, health, and finances. Start your day with trusted astrological insights for Gemini.",
+            "(Monday, November 16, 2026)",
+            "Dear Gemini, the Moon is in Capricorn today. Today you are going to have a feeling of being instrospective as well as reflective. This day is also going to be quite busy as you will be analysing your whole level of success during the whole day. According to Astroyogi astrologers, you would also be thinking about what's in store for you ahead. Looking into the mental reflections is surely going to prove as a very helpful move for you in the long run. This would also assist you in keeping your goals under consideration for your future prospects.With Jupiter powering major breakthroughs in 2026, using aCitrine stoneor keeping a7 Horse on a Pyrite framein your space can help attract steady abundance.",
+            "Meditate for clarity",
+            "As a Gemini, Find-out what today holds for you. Read about love, career, finance, and health predictions to make your day meaningful.",
+            "Dear Gemini, your curiosity and charm make your relationships lively and engaging. Let’s see what today’s prediction reveals for your love life.Read more.",
+            "Your adaptability and quick thinking guide your work, helping you navigate challenges with ease. Find out what today brings for your career growth.Read more.",
+            "If you're a Gemini, opportunities and ideas influence your finances. Stay alert and see what today’s prediction says about your money matters.Read more.",
+            "Your energy and mental agility shape your well-being. Stay active, keep your mind sharp, and Find-out what today’s health prediction suggests.Read more.",
+            "Yourdaily horoscopeis just one part of the story. Read the completehoroscopeoutlook with daily, monthly, and yearly predictions for all zodiac signs."
+        ]
+    },
+    {
+        "from_link_text": "Cancer",
+        "url": "https://Astroyogi.com/horoscopes/daily/cancer-free-horoscope.aspx",
+        "title": "Cancer Daily Horoscope Today November 16, 2026, Monday",
+        "headlines": [
+            "Cancer Horoscope Today",
+            "Cancer Daily Horoscope",
+            "Remedy",
+            "Cancer Today Horoscope by Life Areas",
+            "Cancer Horoscope by Timeframe",
+            "Your Cancer Daily Horoscope: Key Areas of Life",
+            "Cancer Love Horoscope Today",
+            "Cancer Career Horoscope Today",
+            "Cancer Finance Horoscope Today",
+            "Cancer Health Horoscope Today"
+        ],
+        "paragraphs": [
+            "Read your Cancer Daily Horoscope for today and see what the stars reveal about your love life, career, health, and finances. Start your day with trusted astrological insights for Cancer.",
+            "(Monday, November 16, 2026)",
+            "Dear Cancer, today, you're prone to be easily misled by others. As a result, Astroyogi advises you to retain a level head and a no-nonsense approach today, as it will pay off. Be aware of anyone who claims to be your buddy but isn't necessarily looking out for your best interests. It's time to trust your intuition and inner-self more than anybody else now that the Moon is in Capricorn. It will help strengthen your relationship and bring a sense of inner peace. The color white is your lucky color. The hour between 9 a.m and 10 a.m is auspicious for you.As Jupiter activates transformative healing this year, aRose Quartz pendantcan calm turbulent feelings, and aMoonstone braceletcan guide intuitive decisions.",
+            "Catch up with old friends",
+            "As a Cancer, Find-out what today holds for you. Read about love, career, finance, and health predictions to make your day meaningful.",
+            "Dear Cancer, your empathy and nurturing nature create deep and meaningful connections. Let’s see what today’s prediction reveals for your love life.Read more.",
+            "Your intuition and dedication guide your work, helping you handle challenges with care. Find out what today brings for your career growth.Read more.",
+            "If you're a Cancer, your financial decisions are influenced by emotions and careful planning. Stay mindful and see what today’s prediction says about your money matters.Read more.",
+            "Your well-being is closely tied to emotional balance. Stay calm, take time for self-care, and Find-out what today’s health prediction suggests.Read more.",
+            "Yourdaily horoscopeis just one part of the story. Read the completehoroscopeoutlook with daily, monthly, and yearly predictions for all zodiac signs."
+        ]
+    },
+    {
+        "from_link_text": "Leo",
+        "url": "https://Astroyogi.com/horoscopes/daily/leo-free-horoscope.aspx",
+        "title": "Leo Daily Horoscope Today November 16, 2026, Monday",
+        "headlines": [
+            "Leo Horoscope Today",
+            "Leo Daily Horoscope",
+            "Remedy",
+            "Leo Today Horoscope by Life Areas",
+            "Leo Horoscope by Timeframe",
+            "Your Leo Daily Horoscope: Key Areas of Life",
+            "Leo Love Horoscope Today",
+            "Leo Career Horoscope Today",
+            "Leo Finance Horoscope Today",
+            "Leo Health Horoscope Today"
+        ],
+        "paragraphs": [
+            "What’s in store for Leo today? Get precise astrological guidance on love, work & fortune. Free Leo daily horoscope here!",
+            "(Monday, November 16, 2026)",
+            "Dear Leo, the Moon is in Capricorn today. YOu may not find mental peace today. Sudden waves of stress might leave you feeling low and distressed. You must detox these feelings with coping mechanisms like gardening, reading, etc. Astroyogi astrologers suggest you try coping with these feelings and not let them take a long-term toll as these are temporary. Of course, you can always go out with your loved ones to refresh your mind. Even a call conversation with your close friends can heal you in ways without you even imagining it. So, dont let such waves of depression hit you. Keep reminding yourself that it is temporary.Rahu may bring uncertainty this year; keep aBlack Tourmaline toweror wear aClear Quartz braceletnearby.",
+            "Read a book",
+            "As a Leo, Find-out what today holds for you. Read about love, career, finance, and health predictions to make your day meaningful.",
+            "Dear Leo, your warmth and charisma make your relationships vibrant and exciting. Let’s see what today’s prediction reveals for your love life.Read more.",
+            "Your confidence and leadership guide your work, helping you shine in every task you take on. Find out what today brings for your career growth.Read more.",
+            "If you're a Leo, your bold choices and creativity influence your finances. Stay focused and see what today’s prediction says about your money matters.Read more.",
+            "Your vitality and energy shape your well-being. Stay active, maintain balance, and Find-out what today’s health prediction suggests.Read more.",
+            "Yourdaily horoscopeis just one part of the story. Read the completehoroscopeoutlook with daily, monthly, and yearly predictions for all zodiac signs."
+        ]
+    },
+    {
+        "from_link_text": "Virgo",
+        "url": "https://Astroyogi.com/horoscopes/daily/virgo-free-horoscope.aspx",
+        "title": "Virgo Daily Horoscope Today  November 16, 2026, Monday",
+        "headlines": [
+            "Virgo Horoscope Today",
+            "Virgo Daily Horoscope",
+            "Remedy",
+            "Virgo Today Horoscope by Life Areas",
+            "Virgo Horoscope Timeline",
+            "Your Virgo Daily Horoscope: Key Areas of Life",
+            "Virgo Love Horoscope Today",
+            "Virgo Career Horoscope Today",
+            "Virgo Finance Horoscope Today",
+            "Virgo Health Horoscope Today"
+        ],
+        "paragraphs": [
+            "Read your Virgo Daily Horoscope for today and see what the stars reveal about your love life, career, health, and finances. Start your day with trusted astrological insights for Virgo.",
+            "(Monday, November 16, 2026)",
+            "Dear Virgo, the Moon is in Capricorn today. You would realise that perseverance and tact can help you in overcoming all the hurdles on your way. Before the magic of these two traits happens, you would experience the disappearance of obstacles and difficulties from your way. This attitude is also going to provide you with a lot of self-confidence that shall help you in dealing with every difficult situation while being at ease. According to Astroyogi astrologers, today, you would also realise that thinking about things before ultimately acting on them is quite important if you want the expected results.This years Saturn energy may slow progress; use a7 Mukhi Rudraksha pendantor aLapis Lazuli bracelet.",
+            "Try a new hobby",
+            "As a Virgo, Find-out what today holds for you. Read about love, career, finance, and health predictions to make your day meaningful.",
+            "Dear Virgo, your thoughtfulness and reliability build strong and trusting relationships. Let’s see what today’s prediction reveals for your love life.Read more.",
+            "Your analytical skills and attention to detail guide your work, helping you achieve steady progress. Find out what today brings for your career growth.Read more.",
+            "If you're a Virgo, careful planning and smart choices shape your finances. Stay organized and see what today’s prediction says about your money matters.Read more.",
+            "Your well-being thrives on routine and mindfulness. Stay disciplined, take care of yourself, and Find-out what today’s health prediction suggests.Read more.",
+            "Yourdaily horoscopeis just one part of the story. Read the completehoroscopeoutlook with daily, monthly, and yearly predictions for all zodiac signs."
+        ]
+    },
+    {
+        "from_link_text": "Libra",
+        "url": "https://Astroyogi.com/horoscopes/daily/libra-free-horoscope.aspx",
+        "title": "Libra Daily Horoscope Today November 16, 2026, Monday",
+        "headlines": [
+            "Libra Horoscope Today",
+            "Libra Daily Horoscope",
+            "Remedy",
+            "Libra Today Horoscope by Life Areas",
+            "Libra Horoscope by Timeframe",
+            "Your Libra Daily Horoscope : Key Areas of Life",
+            "Libra Love Horoscope Today",
+            "Libra Career Horoscope Today",
+            "Libra Finance Horoscope Today",
+            "Libra Health Horoscope Today"
+        ],
+        "paragraphs": [
+            "Read your Libra Horoscope for today and see what the stars reveal about your love life, career, health, and finances. Start your day with trusted astrological insights for Libra.",
+            "(Monday, November 16, 2026)",
+            "The Moon in Capricorn may take you to new places today, dear Libra. It can be a business trip or a fun-filled trip with your family, predict Astroyogi astrologers. Today, you will be gifted with charm and wit, use it to your advantage and make the most of this time at work. It will prove to bring positive changes in your life, envisages Libra daily horoscope . Also, you will greatly benefit in career or personal growth from an elderly persons advice on a particular situation. Plan anything important between 11:45 am and 1:15 pm. Blue is your lucky color.To counter Saturns dominance, use aBlue Sapphiregemstone or wear a 7 Mukhi7 Mukhi Rudraksha bracelet.",
+            "Exercise regularly",
+            "As a Libra, Find-out what today holds for you. Read about love, career, finance, and health predictions to make your day meaningful.",
+            "Dear Libra, your charm and sense of harmony make your relationships peaceful and fulfilling. Let’s see what today’s prediction reveals for your love life.Read more.",
+            "Your diplomacy and creativity guide your work, helping you maintain balance and achieve success. Find out what today brings for your career growth.Read more.",
+            "If you're a Libra, balance and careful judgment influence your finances. Stay thoughtful and see what today’s prediction says about your money matters.Read more.",
+            "Your well-being flourishes with balance and calm. Stay centered, manage stress, and Find-out what today’s health prediction suggests.Read more.",
+            "Yourdaily horoscopeis just one part of the story. Read the completehoroscopeoutlook with daily, monthly, and yearly predictions for all zodiac signs."
+        ]
+    },
+    {
+        "from_link_text": "Scorpio",
+        "url": "https://Astroyogi.com/horoscopes/daily/scorpio-free-horoscope.aspx",
+        "title": "Scorpio Horoscope Today : Scorpio Daily Horoscope November 16, 2026, Monday",
+        "headlines": [
+            "Scorpio Horoscope Today",
+            "Scorpio Daily Horoscope",
+            "Remedy",
+            "Scorpio Today Horoscope by Life Areas",
+            "Scorpio Horoscope by Timeframe",
+            "Your Scorpio Daily Horoscope: Key Areas of Life",
+            "Scorpio Love Horoscope Today",
+            "Scorpio Career Horoscope Today",
+            "Scorpio Finance Horoscope Today",
+            "Scorpio Health Horoscope Today"
+        ],
+        "paragraphs": [
+            "Read your Scorpio Daily Horoscope for today and see what the stars reveal about your love life, career, health, and finances. Start your day with trusted astrological insights for scorpio.",
+            "(Monday, November 16, 2026)",
+            "Dear Scorpio, the Moon is in Capricorn today. Your mental energy is going to be at its utmost stage today. You are going to come across opportunities even in the obstacles today and this is undoubtedly a good sign! You have now learned how to take out positivity even from the negative aspects of your life. Undoubtedly, this positive mental health is a fantastic asset for you. Such a fighting attitude is going to give you huge success in every phase of your life. Make sure you are making the best use of this attitude today. Today is also an apt day to sort out the complicated issues which you might have ignored earlier due to the complexities. As per Astroyogi astrologers, you have a golden touch that would help you in achieving the success you would have always strived for.Through Saturns demanding energy, aRhodonite pendantorRose Quartz tumblecan strengthen emotional stability.",
+            "Listen to soothing music",
+            "As a Scorpio, Find-out what today holds for you. Read about love, career, finance, and health predictions to make your day meaningful.",
+            "Dear Scorpio, your intensity and loyalty create deep and transformative connections. Let’s see what today’s prediction reveals for your love life.Read more.",
+            "Your determination and focus guide your work, helping you overcome challenges and achieve goals. Find out what today brings for your career growth.Read more.",
+            "If you're a Scorpio, your financial decisions are driven by insight and careful strategy. Stay mindful and see what today’s prediction says about your money matters.Read more.",
+            "Your well-being is shaped by emotional and mental balance. Stay focused, recharge, and Find-out what today’s health prediction suggests.Read more.",
+            "Yourdaily horoscopeis just one part of the story. Read the completehoroscopeoutlook with daily, monthly, and yearly predictions for all zodiac signs."
+        ]
+    },
+    {
+        "from_link_text": "Sagittarius",
+        "url": "https://Astroyogi.com/horoscopes/daily/sagittarius-free-horoscope.aspx",
+        "title": "Sagittarius Daily Horoscope Today November 16, 2026, Monday",
+        "headlines": [
+            "Sagittarius Horoscope Today",
+            "Sagittarius Daily Horoscope",
+            "Remedy",
+            "Sagittarius Today Horoscope by Life Areas",
+            "Sagittarius Horoscope by Timeframe",
+            "Your Sagittarius Daily Horoscope: Key Areas of Life",
+            "Sagittarius Love Horoscope Today",
+            "Sagittarius Career Horoscope Today",
+            "Sagittarius Finance Horoscope Today",
+            "Sagittarius Health Horoscope Today"
+        ],
+        "paragraphs": [
+            "Read your Sagittarius Daily Horoscope for today and see what the stars reveal about your love life, career, health, and finances. Start your day with trusted astrological insights for sagittarius.",
+            "(Monday, November 16, 2026)",
+            "Dear Sagittarius, you might not be in the best mood today and quickly get frustrated. However, with the Moon now in Capricorn, it's time to get your affairs in order. The frustrations could simply be acting out due to some recent stress. Things will be fine if you maintain a calm and collected demeanor. Be especially cautious between 5 pm and 7 pm, as it is not a lucky time for you. Astroyogi astrologers advise that you wear green to improve your mood.As Jupiter increases blessings throughout the year, use aCitrine pendantor aPyrite dome treefor luck.",
+            "Practice gratitude",
+            "As a Sagittarius, Find-out what today holds for you. Read about love, career, finance, and health predictions to make your day meaningful.",
+            "Dear Sagittarius, your optimism and adventurous spirit make your relationships exciting and uplifting. Let’s see what today’s prediction reveals for your love life.Read more.",
+            "Your enthusiasm and vision guide your work, helping you explore new opportunities and achieve growth. Find out what today brings for your career.Read more.",
+            "If you're a Sagittarius, your financial decisions are influenced by optimism and bold choices. Stay mindful and see what today’s prediction says about your money matters.Read more.",
+            "Your vitality and adventurous nature shape your well-being. Stay active, keep your energy high, and Find-out what today’s health prediction suggests.Read more.",
+            "Yourdaily horoscopeis just one part of the story. Read the completehoroscopeoutlook with daily, monthly, and yearly predictions for all zodiac signs."
+        ]
+    },
+    {
+        "from_link_text": "Capricorn",
+        "url": "https://Astroyogi.com/horoscopes/daily/capricorn-free-horoscope.aspx",
+        "title": "Capricorn Daily Horoscope Today  November 16, 2026, Monday",
+        "headlines": [
+            "Capricorn Horoscope Today",
+            "Capricorn Daily Horoscope",
+            "Remedy",
+            "Capricorn Today Horoscope by Life Areas",
+            "Capricorn Horoscope by Timeframe",
+            "Your Capricorn Daily Horoscope : Key Areas of Life",
+            "Capricorn Love Horoscope Today",
+            "Capricorn Career Horoscope Today",
+            "Capricorn Finance Horoscope Today",
+            "Capricorn Health Horoscope Today"
+        ],
+        "paragraphs": [
+            "Read your Capricorn Daily Horoscope for today and see what the stars reveal about your love life, career, health, and finances. Start your day with trusted astrological insights for Capricorn.",
+            "(Monday, November 16, 2026)",
+            "Dear Capricorn, the full Moon is in Capricorn, and you may find varied spiritual practices and special powers today. The inner spiritual soul within you may connect with force. Astroyogi astrologers suggest that your health benefits are a priority that you should keep an eye on. It is also predicted that a sense of peace shall prevail, and you may also have a chance to explore a lot. This journey will bring a lot of happiness and benefit you throughout. You are supposed to know well about your health and what may bring you good health. The lucky time is between 1 pm and 3 pm, and the lucky color is sapphire blue.Under Rahus strong wave, choose aRed Jasper braceletorBlack Obsidian pendantfor energy cleansing.",
+            "Avoid stressful conversations",
+            "As a Capricorn, Find-out what today holds for you. Read about love, career, finance, and health predictions to make your day meaningful.",
+            "Dear Capricorn, your loyalty and practicality create stable and lasting relationships. Let’s see what today’s prediction reveals for your love life.Read more.",
+            "Your discipline and persistence guide your work, helping you achieve your goals steadily and confidently. Find out what today brings for your career growth.Read more.",
+            "If you're a Capricorn, careful planning and responsibility shape your finances. Stay organized and see what today’s prediction says about your money matters.Read more.",
+            "Your well-being thrives on routine and consistency. Stay disciplined, care for yourself, and Find-out what today’s health prediction suggests.Read more.",
+            "Yourdaily horoscopeis just one part of the story. Read the completehoroscopeoutlook with daily, monthly, and yearly predictions for all zodiac signs."
+        ]
+    },
+    {
+        "from_link_text": "Aquarius",
+        "url": "https://Astroyogi.com/horoscopes/daily/aquarius-free-horoscope.aspx",
+        "title": "Aquarius Daily Horoscope Today November 16, 2026, Monday",
+        "headlines": [
+            "Aquarius Horoscope Today",
+            "Aquarius Daily Horoscope",
+            "Remedy",
+            "Aquarius Today Horoscope by Life Areas",
+            "Aquarius Horoscope by Timeframe",
+            "Your Aquarius Daily Horoscope: Key Areas of Life",
+            "Aquarius Love Horoscope Today",
+            "Aquarius Career Horoscope Today",
+            "Aquarius Finance Horoscope Today",
+            "Aquarius Health Horoscope Today"
+        ],
+        "paragraphs": [
+            "Read your Aquarius Daily Horoscope for today and see what the stars reveal about your love life, career, health, and finances. Start your day with trusted astrological insights for Aquarius.",
+            "(Monday, November 16, 2026)",
+            "Dear Aquarius, the Moon in Capricorn is making you restless and preoccupied. You may find it difficult to concentrate on a single job since your mind is wandering. Right now, you can't afford to miss anything important. Set your priorities straight and discover strategies to stay motivated while completing the work at hand, according to Astroyogi astrologers. The hours between 10 am to 11 am are auspicious for you. Today's lucky color is anything other than grey.With Saturn influencing long-term efforts, use aTigers Eye tumbleorPyrite treeto strengthen dedication.",
+            "Spend time with family",
+            "As an Aquarius, Find-out what today holds for you. Read about love, career, finance, and health predictions to make your day meaningful.",
+            "Dear Aquarius, your originality and open-mindedness make your relationships exciting and unconventional. Let’s see what today’s prediction reveals for your love life.Read more.",
+            "Your innovation and vision guide your work, helping you explore new ideas and make meaningful progress. Find out what today brings for your career growth.Read more.",
+            "If you're an Aquarius, creativity and forward-thinking influence your finances. Stay practical and see what today’s prediction says about your money matters.Read more.",
+            "Your well-being benefits from mental stimulation and new experiences. Stay active, think positively, and Find-out what today’s health prediction suggests.Read more.",
+            "Yourdaily horoscopeis just one part of the story. Read the completehoroscopeoutlook with daily, monthly, and yearly predictions for all zodiac signs."
+        ]
+    },
+    {
+        "from_link_text": "Pisces",
+        "url": "https://Astroyogi.com/horoscopes/daily/pisces-free-horoscope.aspx",
+        "title": "Pisces Horoscope Today November 16, 2026, Monday",
+        "headlines": [
+            "Pisces Horoscope",
+            "Pisces Daily Horoscope",
+            "Remedy",
+            "Pisces Today Horoscope by Life Areas",
+            "Pisces Horoscope by Timeframe",
+            "Your Pisces Daily Horoscope : Key Areas of Life",
+            "Pisces Love Horoscope Today",
+            "Pisces Career Horoscope Today",
+            "Pisces Finance Horoscope Today",
+            "Pisces Health Horoscope Today"
+        ],
+        "paragraphs": [
+            "Read your Pisces Daily Horoscope for today and see what the stars reveal about your love life, career, health, and finances. Start your day with trusted astrological insights for Pisces.",
+            "(Monday, November 16, 2026)",
+            "Dear Pisces, because of the Moon's position in Capricorn today, you may be more aware of your obligations and goals in life. Astroyogi astrologers believe that today will be an excellent day for professionals. Don't be shocked if your talents are put to the test; just remember to organize your priorities and you'll be OK. If you're still frustrated, either find a means to address your requirements or come up with a compromise that will make you feel better. Your lucky color for the day is mauve. The hours between 2:00 pm to 4:00 pm are auspicious for you.Saturns transformative energy this year calls for wearing aLapis Lazuli pendantor carrying aBlack Agate tumblewith you to maintain balance.",
+            "Cook a healthy meal",
+            "As a Piscean, discover what today holds for you. Read about love, career, finance, and health predictions to make your day meaningful.",
+            "Dear Pisceans, you love deeply and selflessly, creating soulful bonds built on trust and empathy. Let’s see what today’s prediction reveals for your love life.Read more.",
+            "Your intuition and creativity guide your work, making you a true visionary. Find out what today brings for your career growth.Read more.",
+            "If you're a Piscean, money flows with your emotions. Stay balanced and see what today’s prediction says about your finances.Read more.",
+            "Your emotions shape your well-being. Stay calm, recharge, and discover what today’s health prediction suggests.Read more.",
+            "Yourdaily horoscopeis just one part of the story. Read the completehoroscopeoutlook with daily, monthly, and yearly predictions for all zodiac signs."
+        ]
+    },
+    {
+        "from_link_text": "Kundli",
+        "url": "https://Astroyogi.com/kundli",
+        "title": "Kundli - Free Janam Kundali Online by Date of Birth And Time",
+        "headlines": [
+            "Free Online Kundli By Date Of Birth",
+            "Get Your Free Kundli Today!",
+            "Talk to Astrologers",
+            "Create Your Free Online Kundali Using Our Kundali Making Software",
+            "How to Use Astroyogi’s Kundli Software Online?",
+            "How Does the Astroyogi Free Kundali Software or Birth Chart Calculator Help You?",
+            "What Is a Janam Kundali or Birth Chart?",
+            "Benefits of Janam Kundali or Horoscope Reading",
+            "Get in Touch with Astroyogi Experts for a Kundli Analysis",
+            "Kundli"
+        ],
+        "paragraphs": [
+            "A Kundli or Kundali is an astrological birth chart that shows planetary positions at the time of your birth. Use our Kundli software to generate your birth chart instantly by entering your date of birth, time, and place. This will help you understand your personality, life events, career, marriage, and future predictions.",
+            "Kundli making is just one click away! It’s possible with Astroyogi's free Kundali making software, which generates your birth chart in seconds. Trusted by millions worldwide, our free online Kundli generator reveals accurate insights into planetary positions, doshas, and key life events.",
+            "One tap, and you get your janam kundli in Hindi or English as it comes with multilingual support.",
+            "Once you have a basic analysis of your birth chart, you can consult Astroyogi's expert astrologers online for more detailed and accurate Kundli predictions. Whether at home or traveling, you can consult experts 24/7 and get clarity on every aspect of life.",
+            "To use Astroyogi’s Kundli Software, follow these steps:",
+            "Enter your full name and birth details that include:",
+            "Date of Birth",
+            "Time of Birth (AM/PM)",
+            "Location (place of birth)",
+            "Select your Gender (Male/Female)"
+        ]
+    },
+    {
+        "from_link_text": "Match Making",
+        "url": "https://Astroyogi.com/kundli/kundli-matching",
+        "title": "Kundali Matching for Marriage Online | Free Kundli Milan",
+        "headlines": [
+            "Kundli Matching – Get Your Free Gun Milan Report",
+            "Talk to Astrologers",
+            "Get Your Kundali Matching Report Online",
+            "Key Insights Included in Your Kundli Matching Report",
+            "Gun Milan Process: The 36-Point Score System",
+            "The 8 Kootas in Kundali Matching",
+            "Kundali Milan Score Interpretation Based on Guna Milan",
+            "Understanding the Role of the Lagna Chart and 7th House in Kundali Matching",
+            "Dosha Analysis in Kundali Matching",
+            "Why is the Astroyogi Kundali Milan Software Useful?"
+        ],
+        "paragraphs": [
+            "Kundali Matching, also known as Kundli Milan, Gun Milan, or Horoscope Matching, is an important part of understanding marriage compatibility through Vedic astrology. Matching the kundlis of the boy and girl helps in understanding the emotional connection, future harmony, and possible challenges one may face in their married life. Astroyogi’s free Kundali Matching tool for marriage gives you an instant and detailed report so that you can take the next step with confidence and clarity.",
+            "Matching Kundlis on Astroyogi is quick and easy. Our detailed Kundli Matching report is based on key Vedic astrology factors and gives you accurate marriage compatibility insights.",
+            "Simply enter the name of the boy and the girl, along with the date of birth, time of birth, and place of birth.",
+            "Then Click“Match Your Kundli”to receive your detailed compatibility report with other important insights.",
+            "Our Kundli Matching report offers detailed insights into important aspects of marriage through:",
+            "Guna Milan and Ashtakoot Score",
+            "Lagna Chart",
+            "Dosha Information",
+            "Planetary Positions",
+            "Guna Milan, also known as Ashtakoot Milan, is the comparison of eight (‘ashta’) different personality aspects (‘koota’) between the birth charts of the boy and the girl. Each Koota carries a fixed number of points, and together they make a total score of 36 Gunas."
+        ]
+    },
+    {
+        "from_link_text": "Love",
+        "url": "https://Astroyogi.com/love",
+        "title": "Free Love and Relationship Astrology Readings",
+        "headlines": [
+            "Love Astrology",
+            "Wedding Traditions In India",
+            "Indian Wedding Rituals",
+            "Love Compatibility And Match Calculator Tools",
+            "Love Predictions And Marriage Insights",
+            "Talk to Astrologers",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Zodiac signs have predestined love matches that are indicated to form highly compatible matches as per astrology.",
+            "\"When it comes to matters of love, every zodiac sign has a different approach towards their relationships. Some are romantic, whereas others may not express their love explicitly. To understand your love better and avoid any problems in your relationship, you must know your partner. It will help in strengthening your love life.",
+            "By getting a love analysis on the basis of astrology, you can find the exact thing you are looking for in your partner. For example, the fiery Leos are bold and loyal when it comes to love. On the other hand, Taureans are sensual in matters of heart. With the help of astrology, you can find out about your beloved and their likes and dislikes.\"",
+            "\"Astrology reveals love matches between zodiac signs that are highly harmonious. For instance, water signs get along well with like-minded people, and similar is the case with air, fire, or earth signs. And that's not all! Opposites can attract, too! But getting insights into how well you get along with another sign and what to expect in terms of love can be more helpful than you think.",
+            "Let's get to know a little about the different zodiac signs. For example, Aries is impulsive and will not hang around to witness how deep your thoughts are. They live in the present moment, and it is the present that is the most important to them. Taureans are loyal in relationships and expect the same in return from their partners. Libran women are as charming as they come, and nobody represents femininity better than a Libran woman. Leos will grab the spotlight no matter what, and when dating this sign, be sure to take them to fine places to wine and dine. They have expensive tastes, and luxury appeals to them. Pisceans will do anything to remain in a secure relationship.",
+            "This was just a brief and simplified look into what some of the zodiac signs are. Hence, it is best to gain astrological insights to understand your lover's thoughts, personality, emotions, and desires. Love astrology readings can help you take your relationship to another level and you will experience happiness like never before.",
+            "Here are some love astrology readings that can offer you important information.",
+            "Weekly Horoscope For 16 Nov to 22 Nov 2026: Something in Your Life May Be Ready to Change",
+            "Best Govardhan Puja Wishes, Messages & Quotes to Share in 2026",
+            "Kali Mata Story: Goddess Kali's Battle with Raktabija and Her Divine Origins"
+        ]
+    },
+    {
+        "from_link_text": "Planet Transits",
+        "url": "https://Astroyogi.com/planet/transit",
+        "title": "Planetary Transits 2026–2027 : Dates and Timings",
+        "headlines": [
+            "Planetary Transits 2026–2027",
+            "Planetary Transits Dates in 2026",
+            "Planetary Transit Dates 2027",
+            "What Do Planetary Transits Mean in Astrology?",
+            "Planetary Transits in Zodiac Signs",
+            "Planet Retrograde",
+            "General Remedies",
+            "Talk to Astrologers",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Planet Transits in 2026 hold key astrological power, guiding life changes and influencing your journey in love, work, and personal growth.",
+            "Planetary transits mark the movement of planets from one zodiac sign to another in Vedic astrology. These movements provide the basis for interpreting changing planetary influences across different areas of life. The planetary transit calendar for 2026–2027 lists the dates on which planets enter new zodiac signs, helping you follow these changes throughout the year.",
+            "Planetary transits are considered crucial events in astrology. In astrology, there are nine planets, and the positions and motions of these planets are used to forecast a person's future. One of these nine planets governs each of the twelve zodiac signs.",
+            "In addition, Rahu and Ketu, the Moon's North and South Nodes, are considered shadow planets and do not govern any zodiac signs. They take about 1.5 years or 18 months to complete a transit. Moreover, Rahu and Ketu always move in a backward motion (retrograde).",
+            "The position of a person's ruling planet and zodiac sign influences their personality. The positive and negative influences in a person's birth chart shift as the planetary positions alter. As a result, the movement of the planets, also known as planet transits or changes in zodiac signs, has a substantial impact on all signs.",
+            "Are you looking for planet-related remedies or products online? Check out theAstroyogi Storefor all your needs!",
+            "Transits like this influence every sign differently — see how today's planetary positions affect you in yourHoroscope Today.",
+            "Ketu Transit in Cancer 2026: Emotional Shifts You Can't Ignore",
+            "Rahu Transit in Capricorn 2026: Don't Miss What the Next 18 Months May Bring",
+            "Venus Retrograde in Scorpio 2026 : A Past Relationship May Return"
+        ]
+    },
+    {
+        "from_link_text": "Panchang",
+        "url": "https://Astroyogi.com/panchang",
+        "title": "Hindu Panchang 2026 - Online Panchangam Calendar",
+        "headlines": [
+            "Panchang - Hindu Calendar",
+            "Today’s Panchang",
+            "Muhurat List for 2026",
+            "Check More Panchang Details",
+            "Talk to Astrologers",
+            "What You Need to Know About The Hindu Calendar?",
+            "Panchang: What Are Its Elements?",
+            "Tithi",
+            "Nakshatra",
+            "Yog"
+        ],
+        "paragraphs": [
+            "A Panchang, also known as Panchangam, is a detailed Hindu calendar that resorts to the traditional units of the Indian scriptures to provide information relevant to astrologers for them to forecast planetary occurrences and mark auspicious and inauspicious time frames for important occasions such as rites, rituals, festivals, marriage, education, investments, and other important activities of life. You can stay informed about the year's events and significant festivals by using the Hindu Panchang and calendars.",
+            "Ujjain, 16 November 2026",
+            "Hindu calendars are divided into two categories",
+            "However, the majority of the calculations are based on the Moon's orbit. Panchang uses the lunar month system to measure time, with each month's name indicating the Moon's passage through each Nakshatra. Our Panchang follows the lunar calendar calculation, which is the most popular Hindu calendar in India.",
+            "The Sanskrit word Panchangam, also known as Panchang, is made up of two words: panch, which means five, and ang, which means parts. Panchang is created by taking into account five aspects or elements of traditional Hindu timekeeping: Tithi, Nakshatra, Yog, Vaar, and Karana. Let's understand each of these elements in more detail.",
+            "According to the Hindu Panchang, there are approximately 30Tithi(Lunar Days) per month. The first fifteen days are called Shukla Paksha, and the later fifteen days are known as Krishna Paksha. These are the two phases of the Moon's waxing and waning periods, respectively.",
+            "In the Hindu calendar, Purnima Tithi (full Moon) and Amavasya Tithi (no Moon) happen once a month. Purnima is considered the 15th Tithi, Amavasya is considered the 30th Tithi, and other Tithis occur twice a month. These include Pratipada, Dwitiya, Tritiya, Chaturthi, Panchami, Shashti, Saptami, Ashtami, Navami, Dashami, Ekadashi, Dwadashi, Trayodashi, and Chaturdashi.",
+            "ANakshatra, derived from the Sanskrit word \"Naksha\" meaning map and “Tara\" meaning star, determines the position of the stars at a given time of the day based on the Moon's position in the birth chart. In Indian Vedic astrology, there are 27 Nakshatras. In Muhurtha astrology, there is also a 28th Nakshatra known as the Abhijeet Nakshatra. Every Nakshatra is thought to be advantageous or appropriate for a specific task in Hinduism. These include getting married, Griha Pravesh or housewarming, the Namkaran ceremony, purchasing a new car or house, starting a new job or business, and so on.",
+            "A Yog is formed by the combination of the Sun and the Moon. In Vedic astrology, there are 27 Yogs orYogas. These Yogs can be both auspicious and inauspicious. Each Yog is useful for one day in a person's life.",
+            "A half-Tithi is referred to as aKarana, meaning two Karanas equal one Tithi. There are 11 Karans in total in astrology. Seven Karans are movable, and four are stationary. Eight of these Karans fall within a lunar month. There are two Karans called the Purvardha and Uttarardha Karan every day."
+        ]
+    },
+    {
+        "from_link_text": "Tarot",
+        "url": "https://Astroyogi.com/tarot",
+        "title": "Free Tarot Card Reading Online And Their Meanings",
+        "headlines": [
+            "Free Tarot Card Reading Online",
+            "Talk to Astrologers",
+            "What You Should Know About Tarot Cards?",
+            "How Can A Tarot Reading Session Help You?",
+            "How Does Tarot Card Reading Work?",
+            "What Sets Astroyogi Apart for Tarot Card Reading Online?",
+            "Why Use Free Tarot Card Reading Online?",
+            "Find Your Tarot Reading",
+            "Explore Your Interest",
+            "FAQ"
+        ],
+        "paragraphs": [
+            "Tarot is a powerful channel of divination that uses the wisdom of an ancient deck of symbolic tarot cards to offer you deep insights and answers to your questions about love, relationships, career, money, and other aspects of your life. Let's embark on this journey of self-discovery and revelations of your life's secrets with Free tarot reading.",
+            "Tarot card reading is a traditional divination method that uses the cards to reveal insights and predict future events. All of this is based on the interpretation of tarot cards. The meanings of the cards that we know today are credited to Cartomancer Jean-Baptiste Alliette (also known as Etteilla) and Marie Anne Adelaide Lenormand (1776-1843).",
+            "A traditional tarot deck comprises seventy-eight cards. The deck is further divided into two groups.",
+            "Major Arcana -TheMajor Arcanaconsists of 22 cards, each with its own interpretation that can only be determined by someone who understands the cards. Tarot cards can be used to uncover secrets about upcoming events and to plan for the future. Each Major Arcana card depicts a scene with one or more people and various elements.",
+            "Minor Arcana -On the other hand, theMinor Arcana, also called the Lesser Arcana, comprises 56 suit cards. These cards, too, form an integral part of any tarot reading. There are four suits, with 14 cards in each suit. The suits include four categories, as follows.",
+            "Tarot Reading has the power and ability to answer all questions that are on your mind about your life. There's much to be explored, and the cards are the perfect gateway into the unknown future. Questions about your past, present, and future can be addressed based on the cards that you select in your reading.",
+            "Each card you pick in your reading session has a meaning attached to it, which can be correctly interpreted only by someone with the gift and the knowledge of decks, like an intuitive tarot reader.",
+            "Don't worry if you've been wondering where to find the Free tarot reading online! Astroyogi offers some of the most reliable and authentic professionals to do tarot card reading online!",
+            "A tarot card is essentially a combination of symbolism, intuition, and the ability to construct a narrative from the cards selected or chosen during a reading. It is a tool for self-discovery, reflection, and gaining new perspectives on life's journey.",
+            "Tarot card reading is like navigating a captivating tapestry of life woven with Major and Minor Arcana cards. When the cards are pulled, it is as if conducting a dance, manifesting the signs of the cards and the feelings of the seeker in unison."
+        ]
+    },
+    {
+        "from_link_text": "Numerology",
+        "url": "https://Astroyogi.com/numerology",
+        "title": "Calculate Numerology Numbers by Date of Birth - Numerology Calculator Monday, November 16, 2026",
+        "headlines": [
+            "NUMEROLOGY",
+            "Free Numerology Reading",
+            "Talk to Astrologers",
+            "Numerology: All That You Need to Know",
+            "Numerology Calculator: What Is Your Ruling Number in Numerology?",
+            "Introduction to Numerology: What Are The Hidden Powers Of Numerology Numbers?",
+            "A Brief History of Numerology: When Did Numerology First Come into Existence?",
+            "The Way Numerology Works: How to Know Numerology Number?",
+            "Why Turn to Numbers And Numerology?",
+            "Numerology Numbers"
+        ],
+        "paragraphs": [
+            "Discover your destiny with Numerology! Use our Numerology Calculator to find your Life Path & Ruling Number with daily, weekly & monthly predictions.",
+            "In the last few decades, Numerology has gained much popularity. But what is Numerology?",
+            "It is a divination tool that attaches a series of numbers to an individual's name and takes into account the date of birth to derive their true nature from it. Numerology draws meaning from numbers and number combinations in your life. This tool can help you reveal truths about who you really are and the underlying patterns of the universe.",
+            "Do you have queries like, “How to calculate Numerology numbers?” or “What is my Numerology number?” Astroyogi’s numerology calculator by date of birth should be your ‘Number 1’ pick.",
+            "The Numerology number calculator can help decipher important numbers that can offer a peek into your personality traits and life challenges. The sum of your birth date becomes your Ruling Number, which works as the roadmap to your life.",
+            "Most Numerology predictions are based on your Ruling Number, which plays a key role in deciding your destiny. Your number offers the blueprint of your life, helping you determine what's best for you. With the Numerology number, you can obtain information about your hidden talents and what's in store for your future. Your date of birth can reveal your chosen purpose in life.",
+            "You can get accurate Numerology readings by finding your number. Our free Numerology calculator adds the numbers in your birth date until a single digit is obtained.",
+            "So, if you are looking for the best Numerology calculator online, Astroyogi should be your first and last choice!",
+            "Considered to be one of the divination tools, Numerology is the mystical relationship between numbers and one's life. Numbers have always been a subject of fascination since time immemorial. Over time, the interest in calculating Numerology numbers is taken over by numbers becoming a tool to foretell about the different aspects of your life and the qualities you possess.",
+            "Numerology is all about numbers and the vibrations attached to each number, which allow Numerologists to predict people's future and the events and incidents in their lives. Numerologists believe that numbers can help you uncover a lot of information about the world and yourself so that you can understand your life more clearly. By analyzing the numbers, you can get a better perspective of your life."
+        ]
+    },
+    {
+        "from_link_text": "Vastu",
+        "url": "https://Astroyogi.com/vastu",
+        "title": "Vastu Shastra - Tips for Home, Office & Directions",
+        "headlines": [
+            "Vastu Shastra",
+            "Vastu tip of the day",
+            "Explore Vastu Tips for Every Need",
+            "Key Principles of Vastu",
+            "Vastu Directions",
+            "Vastu for Your Home",
+            "Basic Vastu Tips for Your Home",
+            "When Can Vastu Guidance Be Useful?",
+            "What Is a Vastu Chart?",
+            "What Is a Vastu Yantra?"
+        ],
+        "paragraphs": [
+            "Vastu Shastra is a traditional Indian system of architecture and spatial planning that uses principles of orientation, geometry, proportion, functional organization, and environmental relationships. Its Sanskrit texts cover homes, Hindu temples, villages, towns, cities, gardens, roads, and public spaces. The Vastu Purusha Mandala is one of its best-known planning frameworks. Vastu remains influential in modern Indian architecture, although claims that Vastu arrangements guarantee health, wealth, or other outcomes are not supported by established scientific evidence.",
+            "(Monday, November 16, 2026)",
+            "If there are tall buildings, hills and mounds at the Southern and Western side of the plot that you are planning to purchase, then you may go ahead with your plans. Such a location is considered to be very auspicious and will cater to the prosperity of the residents of the house.",
+            "Its principles consider factors such as the orientation of a property, placement of rooms and entrances, proportions of a structure, directions, and the five elements traditionally associated with nature.",
+            "Vastu is commonly applied to homes, offices, shops, temples, and other structures. Different traditions and practitioners may interpret its principles differently, but the underlying focus remains the thoughtful planning of a space.",
+            "Traditional Vastu planning brings together several concepts that help explain how a space is assessed:",
+            "Direction: The orientation of a property and the placement of different areas within it.",
+            "Five elements: The five elements of Vastu Shastra, traditionally known as Pancha Mahabhutas, areEarth,Water,Fire,Air, and Space.",
+            "Layout: The arrangement and proportions of rooms and other spaces.",
+            "Entrance: The location and orientation of the main entrance."
+        ]
+    },
+    {
+        "from_link_text": "Remedies",
+        "url": "https://Astroyogi.com/remedies",
+        "title": "Powerful Astrology Remedies to Change Your Destiny Fast",
+        "headlines": [
+            "Astrological Remedies",
+            "What is the Astrological Remedy?",
+            "Remedy and Karma",
+            "Types of Remedies",
+            "3 Points to remember when opting for any astrological remedy",
+            "Remedies",
+            "Talk to Astrologers",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "As humans, we all yearn for a life without problems, worries, and suffering. Unfortunately, in spite of being careful and disciplined, we end up doing things we are not supposed to. We fail to realize that we are also liable to be exposed to trials, temptations, mistakes, misunderstanding and unknowingly do wrong irrespective of age. It is said that the fault in our stars and the ill-effect of planets on our lives often make us do things, which is opposite to our personality and trait.",
+            "At such a state they think they can perform some magic with astrology and get rid of all the problems.People have a lot of misconceptions related to astrology. They think the remedy to problems according to astrology is sitting for hours in the temple, doing tedious poojas or even showering money on idols and temples.There are endless types of problems in each one's life. Some face continuous hardships, while some have specific problems etc. By now we should understand that problems are a part of our lives. We need to know how to deal with such difficulties rather than give up. Sometimes, even rigorous efforts fail to provide a solution or remedy. It is then when you need a helping hand that can help you sail through such troubled times.",
+            "Astrological remedies are antidotes which nullify the negative impact of planets or any other element in your life. Remember astrological remedies will not fully take away the pain from your life instead, it will provide ease and relief from its impact.Surprisingly, astrology does not only predict aspects of life about destiny, but it can also actually help to revamp life and treat the troubled sections. In astrology, it is all about time. One has to understand that it is inevitable to do and wear the right thing at the right time. A lot of people expect astrology and astrologers to wipe out the problem from the root completely. Unfortunately, they are humans too and cannot change the destiny of a person. They can only provide guidance, track problems, analyze its effect and help resolve them to ease its effect in your life.Another myth amongst people is that one remedy can work for all. No! Since each person has a unique birth chart, similarly the frequency of problems, type of problem, planetary position and its effect differs from person to person.Astrology accesses into the deeper layers of your personality, conscious and know about the weak aspects, where you need astrological assistance and remedy.",
+            "Unlock your destiny—calculate yourperfect Rudrakshain seconds!",
+            "Karma plays an important role in the universe. Not just in astrology in any study and belief karma is the nucleus. One's deeds in the past and present lay the foundation of the future. Your present life and events are a result of your past deeds of which you are unaware. It is a vicious circle that goes on until your score is settled with Karma.",
+            "Consult India's top expert astrologers online right here! For details click here!",
+            "Find what the stars have chosen for you—check yourlucky gemstonetoday!",
+            "You cannot practice any remedy anytime. There is a specific time, method and purpose of remedy. So make sure you consult the right astrologer before in hand.A remedy is for a specific individual, it should be performed by the person itself then only it works. No one can perform on anyone's behalf.One must not expect an instant result from any remedy. It takes time to show the result. You need to be patient.Any practice or remedy that you opt should be done wholeheartedly. Otherwise, there is no use.Astrologers or astrological remedies are not destiny changers. They only help you understand life and take precautions at the right time.",
+            "Explore Astrological remedies with Astroyogi byexpert astrologersto attain prosperity and positivity in life.",
+            "Weekly Horoscope For 16 Nov to 22 Nov 2026: Something in Your Life May Be Ready to Change"
+        ]
+    },
+    {
+        "from_link_text": "Zodiac Signs",
+        "url": "https://Astroyogi.com/zodiac-signs",
+        "title": "12 Zodiac Signs Dates, Meaning & Personality Traits",
+        "headlines": [
+            "12 Zodiac Signs and Astrological Star Signs",
+            "Zodiac Signs: Dates & Symbols",
+            "Zodiac Signs and Astrology Signs: Traits & Characteristics",
+            "Aries (March 21 - April 19)",
+            "Taurus (April 20 - May 20)",
+            "Gemini (May 21 - June 20)",
+            "Cancer (June 21 - July 22)",
+            "Leo (July 23 - August 22)",
+            "Virgo (August 23 - September 22)",
+            "Libra (September 23 - October 22)"
+        ],
+        "paragraphs": [
+            "The 12 zodiac signs form the foundation of astrology. Each zodiac sign, also known as an astrological sign, has its own dates, symbol, ruling planet, and element that influence personality and behavior. This page covers all 12 zodiac signs, their meanings, and how they shape different aspects of life.",
+            "Astrologers believe that a person's character and destiny are determined by the Sun, Moon, and planets, which are in exact alignment with that person when they are born. People can relate to the characteristics of the zodiac, which can help them better understand their own and other people's personality traits.",
+            "These are commonly used Western/tropical zodiac date ranges. Zodiac dates can differ in Vedic/sidereal astrology.",
+            "Each zodiac sign has its own personality, strengths, challenges, and approach to relationships. Let’s take a closer look at what makes each of the 12 zodiac signs unique.",
+            "Choose your zodiac sign to see which signs you may be most compatible with.",
+            "Aries CompatibilityTaurus CompatibilityGemini CompatibilityCancer CompatibilityLeo CompatibilityVirgo CompatibilityLibra CompatibilityScorpio CompatibilitySagittarius CompatibilityCapricorn CompatibilityAquarius CompatibilityPisces Compatibility",
+            "Each of the 12 zodiac signs belongs to one of thefour elements – Air, Fire, Water and Earth.These elements represent an essential kind of energy that resides in each one of us at our core. They contribute to the description of the distinct personality types linked to zodiac signs because they have a significant impact on people's fundamental emotions, behaviors, and character traits.",
+            "Astrology elements are equally important to a person's characteristics and personality traits as their zodiac sun sign. This will allow you to gain clarity and a better understanding of both the positive and negative aspects of yourself, as well as learn about your potential.",
+            "Each element represents different personality traits and energies. The four elements and their influence on the signs have been briefly explained below",
+            "The fire signs tend to be passionate, action-oriented, and dynamic individuals who are driven by their goals and aspirations. Yet, they are a little temperamental. They get angry just as quickly as the fire catches on in a dry forest, but they also forgive easily. They are adventurous and full of energy."
+        ]
+    },
+    {
+        "from_link_text": "Festivals",
+        "url": "https://Astroyogi.com/festival",
+        "title": "Today’s Festival: Which Festival Is Today in India?",
+        "headlines": [
+            "Festival Calendar Today",
+            "Festival Today",
+            "Indian Festivals",
+            "Talk to Astrologers",
+            "Indian Festivals and Cultural Diversity",
+            "Top 5 Indian Festivals:",
+            "List of 2026 Indian Festivals and Dates",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Being the land of festivals, India thrives on celebrating the spirit of coming together on these auspicious occasions of festivals. In a diverse country like India where cultures, religions, languages, and people blend together beautifully, festivals 2026 are just another excuse to depict the spirit of \"unity in diversity!",
+            "16 Nov 2026 (Monday)  Kartika Shukla, Saptami - 04:20:57",
+            "The country exemplifies the act of existing harmoniously as a large number of festivals are celebrated around the nation, showcasing its rich cultural heritage and traditions. While these celebrations happen all around the year and across the diverse geographical landscape of our country, the period between October to January is especially full of the vibrant, celebratory spirit associated with a festival.",
+            "Monday, November 16, 2026 Paksha:Shukla Tithi:Saptami",
+            "Tuesday, November 17, 2026 Paksha:Shukla Tithi:Ashtami",
+            "Tuesday, November 17, 2026 Paksha:Shukla Tithi:Ashtami",
+            "Tuesday, November 17, 2026 Paksha:Shukla Tithi:Ashtami",
+            "Wednesday, November 18, 2026 Paksha:Shukla Tithi:Navami",
+            "Wednesday, November 18, 2026 Paksha:Shukla Tithi:Navami",
+            "Friday, November 20, 2026 Paksha:Shukla Tithi:Ekadashi"
+        ]
+    },
+    {
+        "from_link_text": "Spirituality",
+        "url": "https://Astroyogi.com/spirituality",
+        "title": "Spirituality - Indian Religion and Their Spiritual Meaning",
+        "headlines": [
+            "Spirituality",
+            "Ayurvedic Guidance",
+            "Spirituality Practices",
+            "Talk to Astrologers",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Spiritual Awakening Begins here.....",
+            "Spirituality is a way to revitalize your soul from within with the help of modern astrology practices like Yoga, Ayurveda, effective Mantras & Chants for peace mentally and emotionally. Along with this, a virtual visit to the spiritual retreats can help enlighten you regarding the energies surrounding you. Explore the modern approach to lifestyle with the help of color therapy, align your Chakras, learn Meditation, and a lot more. Rejuvenate your life and make it stress-free with practical healing practices exclusively available here.Meditation|Yoga|Mantras|Color Therapy|Chakras|Puja Vidhi|Gods and Godesses|Aarti|Chalisa",
+            "Ayurveda's guide to identifying and eating in accordance with your body doshas will. Select any 8 symptoms.",
+            "Weekly Horoscope For 16 Nov to 22 Nov 2026: Something in Your Life May Be Ready to Change",
+            "Best Govardhan Puja Wishes, Messages & Quotes to Share in 2026",
+            "Kali Mata Story: Goddess Kali's Battle with Raktabija and Her Divine Origins"
+        ]
+    },
+    {
+        "from_link_text": "Love & Relationship",
+        "url": "https://Astroyogi.com/astrologer/love",
+        "title": "Best Love Astrologer Online | Love Marriage & Relationship Advice",
+        "headlines": [
+            "Consult the Best Love Astrologer Online",
+            "Consult with top astrologer",
+            "Love Marriage Astrology: Get Expert Guidance for a Successful Relationship",
+            "Our love marriage specialist astrologers can assist you with:",
+            "Love Problem Solution Through Astrology",
+            "An experienced astrologer for love problems can help you navigate concerns such as:",
+            "Can Astrology Help You Get Your Lost Love Back?",
+            "Relationship Compatibility Analysis",
+            "Compatibility consultations are especially useful before:",
+            "Marriage Delays and Family Opposition"
+        ],
+        "paragraphs": [
+            "Consult experienced love marriage astrologers online for accurate guidance on love, relationships, marriage, compatibility, breakups, and getting your lost love back.",
+            "Love marriage is a beautiful journey, but it often comes with its own set of challenges. Differences in family backgrounds, career priorities, financial stability, cultural expectations, and compatibility concerns can create uncertainty before taking the next step. Consulting an experienced love marriage astrologer can help you understand whether your relationship has the potential to lead to a happy and lasting marriage.",
+            "A professional astrologer for love marriage studies your birth chart, planetary combinations, the 5th House (love), the 7th House (marriage), Venus, Mars, and other important astrological factors to evaluate your relationship. They can also analyze favorable marriage periods, identify possible delays, and suggest suitable remedies to strengthen your relationship.",
+            "Whether you're planning a love marriage, facing opposition from family members, or unsure about your partner's compatibility, astrology provides valuable guidance that helps you make informed decisions.",
+            "Every relationship is different, and personalized guidance helps you understand your unique journey instead of relying on assumptions or generic advice.",
+            "Every relationship experiences ups and downs. Small misunderstandings, communication gaps, trust issues, external pressures, or emotional distance can gradually affect even the strongest bonds. Rather than allowing these challenges to grow, consulting a trusted love problem solution astrologer can help you understand the underlying astrological influences affecting your relationship.",
+            "Astrology doesn't make decisions for you—it provides clarity by analyzing planetary positions and relationship houses in your birth chart. This guidance helps you approach situations with greater understanding and confidence.",
+            "Frequent misunderstandings",
+            "Relationship conflicts",
+            "Emotional disconnect"
+        ]
+    },
+    {
+        "from_link_text": "Marriage & Kundli",
+        "url": "https://Astroyogi.com/astrologer/marriage",
+        "title": "Astrologer for Marriage Prediction: First Call/Chat Free",
+        "headlines": [
+            "Talk to the Best Astrologer for Marriage",
+            "Consult with top astrologer",
+            "Testimonials",
+            "Why Consulting the Best Astrologer for Marriage Is Important?",
+            "How to Connect With a Marriage Astrologer Online?",
+            "Why Choose Astroyogi for an Astrologer for Marriage?",
+            "Guide Your Big Day: Talk to a Marriage Astrologer Now!",
+            "Frequently Asked Questions",
+            "Find Best Astrologers"
+        ],
+        "paragraphs": [
+            "Are you wondering if your relationship will lead to marriage? Already found your partner, but unsure about the right time to tie the knot? A skilled marriage astrologer can help you find clarity. With over two decades of experience in guiding people on compatibility, timing, and everything in between, we have 5000+ to hear what you have to say and provide apt solutions.",
+            "Think of a marriage astrologer as your personal relationship advisor. Sure, your BFFs and parents have their opinions, but you cannot ignore the stars and planets, right? Why? Because they’ve been keeping receipts since the day you were born. So, consulting the best love marriage astrologer is more than just a vibe check:",
+            "Timing is Everything: A marriage astrologer helps you choose the perfect muhurat (auspicious wedding date) by aligning planetary energies so your big day starts on a cosmic high.",
+            "Chart Compatibility: The best astrologer for marriage performs detailed kundli matching that dives deeper than “you’re a Leo, I’m a Virgo.” It's actually about detailed kundli matching and marriage prediction to reveal how your planets vibe across love, finance, and family life.",
+            "Spotting the Red Flags: With expert guidance from a trusted marriage problem astrologer, retrogrades and doshas are spotted early, so challenges are addressed before they turn into roadblocks.",
+            "Guidance for the Long Game: An experienced astrologer for marriage explains how planetary transits hint at when to level up your relationship goals, from first meeting to silver anniversary.",
+            "If you want any kind of advice or clarity regarding your marriage, you can consult the best marriage astrologer by following these simple steps:",
+            "Being active for more than two decades and keeping over 3 crores users satisfied with our services, Astroyogi has always made it worth it when it comes to providing top-notch astrology services. Here are the reasons:",
+            "Instead of guessing the right time or second-guessing your relationship, get clear answers from a trusted marriage astrologer through a call or chat on Astroyogi today!",
+            "You can consult with our best astrologers for marriage by following these easy steps- Step 1- Sign up with Astroyogi and choose a marriage astrologer.\nStep 2- Recharge your Astroyogi wallet.\nStep 3- Once done, you can get on a phone call or chat with the marriage astrologer of your choice."
+        ]
+    },
+    {
+        "from_link_text": "Career",
+        "url": "https://Astroyogi.com/astrologer/career",
+        "title": "Astrologer for Career: First Free Consultation by Career Astrologer",
+        "headlines": [
+            "Talk to Astrologer for Career Guidance",
+            "Consult with top astrologer",
+            "Testimonials",
+            "How Can a Career Astrologer Help You?",
+            "Why Consult with the Best Career Astrologer in India?",
+            "Get True Career Predictions by Top Career Astrologer",
+            "Frequently Asked Questions",
+            "Find Best Astrologers"
+        ],
+        "paragraphs": [
+            "Looking for a change in your career? Confused about what career to choose or why ? astrologer for career guidance can help you find the answers. At Astroyogi, you can connect with our expert professional career astrologers to solve all your career-related issues.",
+            "Well, it is a fact that each person has their dream and goals that they work towards in their lives. Nevertheless, most people end up having unsuitable jobs, or they have no idea where to look for a career that would suit them. It could be because the celestial energies do not favor their endeavors. Career astrology involves studying the placement of stars and the planets to determine career-related concerns and information. Our certified career astrologers can assist you by comprehending these astrological influences.",
+            "Identify Suitable Career Paths:Having determined your birth chart, genuine astrologers for career will be able to identify careers most suitable for your abilities and interests. From them, one can determine the best time for a career change or identify industries or positions that may suit you.",
+            "Overcome Professional Obstacles:Discover why career challenges resurface and the best strategies for handling them. Our top astrologers for career can analyze these hindrances and suggest how proper remedies can reduce their impacts.",
+            "Enhance Career Performance:Receive personalized consultancy on enhancing your performance and obtaining consistency in your work or ventures. Expert astrologers can explain how the planetary transits and positions affect your professional sphere and when one should take a particular action.",
+            "Make Informed Decisions:Understand major career choices and career paths, from how to select a first job to whether to continue further studies. If you are at the stage of finding a new job, starting your own business, or choosing a course of study, our career specialist can help you make the right decision by analyzing your astrological profile.",
+            "Besides these advantages, our astrologer for career are available to explain your professional astrology and their impact on your career. They can provide insights into your capabilities, inadequacies, and areas that can be developed, providing a clear and complete picture of your career prospects.",
+            "At Astroyogi, we present the best career astrologers in India who specialize in giving you career guidance. Here's why you should consult our best career astrologers.",
+            "Expertise and Experience:We have top professionals who are astrologers with years of experience offering the best career guidance. They have assisted millions of people in getting their desired jobs through consultation on services offered based on astrology.",
+            "Comprehensive Guidance:Besides professional astrologers, we provide professional services through tarot readers, numerologists, and Vastu consultants. Such an approach ensures that you get all-around advice to cater to all your career-related needs comprehensively."
+        ]
+    },
+    {
+        "from_link_text": "Woman Astrologer",
+        "url": "https://Astroyogi.com/astrologer/women",
+        "title": "Lady Astrologer for First Consultation Free | Female Astrologers Online",
+        "headlines": [
+            "Talk To The Best Lady Astrologer",
+            "Consult with top astrologer",
+            "Testimonials",
+            "How Can Exclusive Female Astrologers on Astroyogi Help You?",
+            "Why Consult With Lady Astrologers on Astroyogi?",
+            "Why Trust Women Astrologers on Astroyogi?",
+            "Finding Your Favorite Lady Astrologers is Just a Click Away!",
+            "Frequently Asked Questions",
+            "Find Best Astrologers"
+        ],
+        "paragraphs": [
+            "Looking for a lady astrologer who will help you feel comfortable opening up and exploring your innermost thoughts and emotions? Look no further than Astroyogi's amazing team of Female astrologers!",
+            "Astroyogi, India's premier astrology platform, recognizes and celebrates the expertise ofwomen astrologers.Connect with renowned and accomplished female astrologers on Astroyogi from anywhere in the world, at any time, through Astroyogi.",
+            "With their reputation for creating a safe, non-judgmental space, ourlady astrologerswill guide you on a journey of self-discovery and enlightenment. Whether you're struggling with love, career, or just life in general, our female astrologers have the insight and wisdom to help you navigate even the trickiest of situations. So why wait? Come get a consultation with our team of amazing female astrologers today!",
+            "If you are seeking the unique perspective and insight that afemale astrologercan offer, Astroyogi provides a platform where you can easily find and connect with accomplished lady astrologers. Our platform boasts a wide and diverse range of female experts specializing in various fields such as Vedic Astrology, Tarot Reading, Numerology, Reiki Healing, and Vastu Shastra. From predicting your future through ancient astrological techniques to aligning your living spaces with the principles of Vastu, our talented female experts possess an extensive skill set and a wealth of experience to help guide you on your journey.",
+            "By choosing ourwomen tarot readers, women Vastu consultants,or other experts from our platform, you can benefit from their diverse life experiences and perspectives, which may help you gain a deeper understanding of your own concerns and questions. Plus, with our 24x7 consultation services, you can easily connect with a female astrologer at any time, from anywhere in the world, making it easy to receive guidance and support whenever you need it.",
+            "Why do we promote women astrologers, you ask? Well, it's simple - because they are AWESOME! Our certifiedlady astrologerscan bring a fresh perspective and a unique set of life experiences to the table, making them the perfect guides to help you chart your course through life. They are compassionate, empathetic, and non-judgmental, creating a safe space for you to explore your thoughts and feelings without fear of criticism.",
+            "Female astrologers often have a reputation for creating a welcoming and accepting environment that allows clients to freely explore their emotions and ideas without feeling judged. This can lead to a deeper sense of trust between the expert and the client, fostering a strong connection that can help the client to gain greater insight into their own experiences and feelings. By providing this safe space,genuine certified femaleastrologerscan help clients feel more comfortable sharing their deepest concerns and questions, enabling them to receive guidance tailored to their unique needs and circumstances.",
+            "So, whether you're facing a major life decision or just need some guidance on your love or career, our lady astrologers are here to help you find your way. At Astroyogi, we believe in empowering women and giving them the tools and stage they need to succeed, and our team of female astrologers is no exception! So, what are you waiting for? Come connect with your life's stars and let our women astrologers help you shine!",
+            "At Astroyogi, we are committed to ensuring that our clients have a positive and fulfilling experience when they consult with our team of astrologers. With over 22 years of experience in astrology, we are dedicated to offering the highest quality of service possible. We understand that seeking guidance and support for life's challenges can be a vulnerable and personal process, which is why we place a premium on making every consultation experience secure, comfortable, and tailored to the individual needs of our clients. Our team ofexpert female astrologersis highly skilled and experienced, and they are dedicated to providing personalized guidance and insights that can help our clients navigate life's ups and downs.",
+            "Whether you are seeking clarity on a specific question or issue or you simply want to get a deeper understanding of yourself and your life path, ourwell-experienced women astrologerswill work with you to provide the support and guidance you need. We are committed to ensuring that every client is satisfied with their consultation experience and feels heard, understood, and supported throughout the process."
+        ]
+    },
+    {
+        "from_link_text": "Business",
+        "url": "https://Astroyogi.com/astrologer/business",
+        "title": "Business Astrologer Online: Career & Business Astrology Consultation",
+        "headlines": [
+            "Business Astrologers Online",
+            "Consult with top astrologer",
+            "Testimonials",
+            "Business Astrology: Consult a Business Astrologer Online",
+            "What Is Business Astrology?",
+            "Astrology and Business: How Are They Connected?",
+            "What Can a Business Astrologer Tell You?",
+            "Which Business May Suit You?",
+            "Should You Choose a Job or Business?",
+            "When Should You Start a Business?"
+        ],
+        "paragraphs": [
+            "Looking for personalised guidance? Consult a Business Astrologer Online Today and explore your career and business questions.",
+            "Starting a business, expanding an existing venture, choosing a business partner, or deciding when to take an important professional step can raise many questions.Business astrologyoffers an astrological perspective on these decisions by examining your birth chart, planetary placements, Dashas, transits, and other relevant factors.",
+            "At Astroyogi, you can connect with experiencedbusiness astrologers onlinefor personalised guidance based on your birth details and specific business concerns. Whether you are planning a new venture, dealing with challenges in an existing business, considering a partnership, or exploring a suitable period for expansion, a business astrology consultation can help you understand your situation from an astrological perspective.",
+            "Business astrologyis an area of astrology that focuses on professional and entrepreneurial matters through the interpretation of an individual's birth chart. It may be used to explore entrepreneurial tendencies, professional direction, business partnerships, financial patterns, and periods associated with important career or business decisions.",
+            "In Vedic astrology, an astrologer may examine the Ascendant, relevant houses, planetary placements, planetary periods or Dashas, and current or upcoming transits.",
+            "The 7th house is traditionally associated with partnerships and business dealings, while the 10th house is associated with profession, career, reputation, and responsibilities. The 2nd house may be considered in relation to accumulated wealth and resources, while the 11th house is traditionally associated with gains, networks, ambitions, and fulfilment of desires.",
+            "A business astrology consultation should be viewed as an additional astrological perspective rather than a replacement for business planning, financial analysis, market research, legal advice, or professional decision-making.",
+            "Astrology and businesscan be connected through the interpretation of planetary influences and birth-chart indicators related to professional life, entrepreneurship, finances, partnerships, leadership, and timing.",
+            "An astrologer may use your birth details to examine patterns that are traditionally associated with your professional approach. These may include your inclination towards independence, leadership, risk-taking, collaboration, communication, and long-term planning.",
+            "Astrology may also be used to explore questions such as:"
+        ]
+    },
+    {
+        "from_link_text": "Money",
+        "url": "https://Astroyogi.com/astrologer/money",
+        "title": "Talk to Money Astrologer Online | Get First Free Consultation",
+        "headlines": [
+            "Talk to Money and Investment Astrologer",
+            "Consult with top astrologer",
+            "Testimonials",
+            "Money and Investment Astrologer",
+            "Frequently Asked Questions",
+            "Find Best Astrologers"
+        ],
+        "paragraphs": [
+            "Find the best money investment astrologer at Astroyogi to get solution and suggestion regarding money and investment-related problems and concerns.",
+            "Today money is the pillar on which our survival exists. We might earn well in our jobs, business or other types of the profession but managing money is a tedious task. Where to invest,what will be my luck in the share market, how can I maximise my profits withmoney investmentare some of the concerns that bother us. You might be a good earner but not an expert investor due to which most of you might face heavy losses.",
+            "As a normal person, you can only guess or calculate the probability of losses and gains but cannot be sure about them.Money Astrologyis the only tool that predicts past, present and future events of your life concerning your decisions, ideologies regarding money and investment.",
+            "It clears the cloud of confusion, dilemma and helps you to make money and investment plans, analysing the celestial effect on your birth chart and planetary position.",
+            "According tofinancial astrology, Jupiter and Saturn are known to be planets of prosperity, growth and wealth. If these planets are in a good position in your moon sign, then you are likely to flourish at the stock market and other kinds of speculative trades. With the help of an expertinvestment guru or astrologer, you can analyse the ruling planets and try your luck with a limited amount.",
+            "Looking at the market or present scenario most people without thinking invest anywhere and unfortunately lose it all. To avoid such mishaps, know the current planetary position in your birth chart. It will predict the market trend for you and give an analysis of both favourable and non-favourable investment opportunities. After doing so you should go with a small investment first. This way you will not face much loss and also know whether the time is fruitful or not for a bigger deal.",
+            "Dosha plays an important role in the outcome of any kind of money investment and earning. The raja dosha depicts favourable time while the weak dasha exhibits a bad time to invest or deal with money in any way. The astrologers can predict both the phases in life for you and help you make safer and better decisions money wise.",
+            "The varied aspects of life are divided in the form of 12 houses in astrology. The planetary movement takes place within these houses and the zodiacs. This entire activity carves the events, happenings and also the future of each person. The 2nd house belongs to wealth and the 5th house belongs to share market, speculated trade, lotteries etc. If the favourable planets are placed in these houses then the person is likely to have the best time in terms of money.",
+            "To know about your money and investment aspect of life contact expertinvestment astrologersat Astroyogi and seek answers to all your problems and doubts.",
+            "Handling money is a tedious task. With the help of astrology, one can get to know where it is best to invest or save and at what time. He will analyse your birth chart and provide suggestions accordingly. Consult expert astrologers at Astroyogi for all money related problems."
+        ]
+    },
+    {
+        "from_link_text": "View All",
+        "url": "https://Astroyogi.com/video/daily-horoscope",
+        "title": "Daily Horoscope Video - Today's Horoscope Video",
+        "headlines": [
+            "Daily Horoscope Video",
+            "आज का राशिफल 16 नवंबर 2026, सोमवार | मेष से मीन 12 राशियों का भविष्यफल | Today Horoscope #astrology",
+            "Monthly Horoscope Video",
+            "Yearly Horoscope Video",
+            "Frequently Asked Questions",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Usually, one or the other planets keep transiting in a year, according to astrology. In 2025, all planets, including Saturn, Rahu, Ketu, the Sun, the Moon, Mercury, Venus, Jupiter, and Mercury, will make significant transits. To find out how these planets will affect your life this year, read the yearly horoscope 2025.",
+            "In terms of business, trade, and economic gains, 2026 could be a prosperous year. Individual effects caused by the energies of the year may differ for each zodiac sign depending on their personal horoscope charts. To learn more about your business situation this year, consult your zodiac sign's astrological trends in 2026.",
+            "Indeed, 2026 is one of the years of Karma. Thus, as per astrology, the year will be ruled by the planet Mars, and this year will be full of energy, ambition, and strength. This cosmic alignment also supports accepting responsibility for what one has done and working towards becoming better. Curious how these karmic influences would impact your zodiac sign? Then, you should read your horoscope for 2025.",
+            "In general, every zodiac sign has a chance of luck in 2025, along with progress in different aspects of life, including love, career, and money. The various planetary positions and aspects suggest that the energies are ripe for improvement. To find out how you will be lucky, turn to your zodiac sign's 2026 horoscope for clear insights!",
+            "In 2026, every zodiac sign native may experience moments of luck, but the luckiest zodiac may differ depending on personal horoscope charts. These opportunities arise from planetary transits, which create an environment in which each sign must succeed. Discover how luck will appear for your zodiac sign; simply read your annual horoscope 2026 for detailed predictions!",
+            "Weekly Horoscope For 16 Nov to 22 Nov 2026: Something in Your Life May Be Ready to Change",
+            "Best Govardhan Puja Wishes, Messages & Quotes to Share in 2026",
+            "Kali Mata Story: Goddess Kali's Battle with Raktabija and Her Divine Origins"
+        ]
+    },
+    {
+        "from_link_text": "Astroyogi Mobile Apps",
+        "url": "https://www.astroyogi.com/mobileapps",
+        "title": "Mobile Apps - Download free Astrology, Horoscope, Tarot, Kundli and Rashifal App",
+        "headlines": [
+            "Astroyogi Mobile Apps",
+            "Astroyogi Astrologer App",
+            "Daily Horoscope App",
+            "Tarot Reading App",
+            "Numerology App",
+            "Palm Reading App",
+            "Rashifal App"
+        ],
+        "paragraphs": [
+            "Astroyogi brings to you 8 dedicated apps for easy and hassle free services. These apps are a quick way for you to check your horoscopes, tarot readings, numerology readings, daily rashifal, palm readings, and much more. Get inclusive and detailed analysis of any and all areas of your concerns and doubts varying from career, finances, love, marriage, and much more. The apps are available for download in both android and iOS formats.",
+            "The Talk to Astrologer app enables a user to talk to any astrologer of their choice present on the Astroyogi platform and discuss in detail about all their problems and concerns.'s",
+            "The Daily Horoscope app is a collection of daily, weekly, monthly and yearly horoscopes of all the zodiac signs.'s",
+            "Tarot Reading app gives insight on what the psychic readings have in store for you.'s",
+            "Numerology app consists of all the aspects considered in astrology based on a person’s ruling number.'s",
+            "Palm Reading app is designed to introduce the users to the art of Palmistry and allow them to have a deep understanding of the lines and the significance that they hold in their hands's",
+            "You can get detailed assay of your daily, weekly monthly and yearly horoscopes on this app in Hindi."
+        ]
+    },
+    {
+        "from_link_text": "zodiac",
+        "url": "https://www.astroyogi.com/zodiac-signs",
+        "title": "12 Zodiac Signs Dates, Meaning & Personality Traits",
+        "headlines": [
+            "12 Zodiac Signs and Astrological Star Signs",
+            "Zodiac Signs: Dates & Symbols",
+            "Zodiac Signs and Astrology Signs: Traits & Characteristics",
+            "Aries (March 21 - April 19)",
+            "Taurus (April 20 - May 20)",
+            "Gemini (May 21 - June 20)",
+            "Cancer (June 21 - July 22)",
+            "Leo (July 23 - August 22)",
+            "Virgo (August 23 - September 22)",
+            "Libra (September 23 - October 22)"
+        ],
+        "paragraphs": [
+            "The 12 zodiac signs form the foundation of astrology. Each zodiac sign, also known as an astrological sign, has its own dates, symbol, ruling planet, and element that influence personality and behavior. This page covers all 12 zodiac signs, their meanings, and how they shape different aspects of life.",
+            "Astrologers believe that a person's character and destiny are determined by the Sun, Moon, and planets, which are in exact alignment with that person when they are born. People can relate to the characteristics of the zodiac, which can help them better understand their own and other people's personality traits.",
+            "These are commonly used Western/tropical zodiac date ranges. Zodiac dates can differ in Vedic/sidereal astrology.",
+            "Each zodiac sign has its own personality, strengths, challenges, and approach to relationships. Let’s take a closer look at what makes each of the 12 zodiac signs unique.",
+            "Choose your zodiac sign to see which signs you may be most compatible with.",
+            "Aries CompatibilityTaurus CompatibilityGemini CompatibilityCancer CompatibilityLeo CompatibilityVirgo CompatibilityLibra CompatibilityScorpio CompatibilitySagittarius CompatibilityCapricorn CompatibilityAquarius CompatibilityPisces Compatibility",
+            "Each of the 12 zodiac signs belongs to one of thefour elements – Air, Fire, Water and Earth.These elements represent an essential kind of energy that resides in each one of us at our core. They contribute to the description of the distinct personality types linked to zodiac signs because they have a significant impact on people's fundamental emotions, behaviors, and character traits.",
+            "Astrology elements are equally important to a person's characteristics and personality traits as their zodiac sun sign. This will allow you to gain clarity and a better understanding of both the positive and negative aspects of yourself, as well as learn about your potential.",
+            "Each element represents different personality traits and energies. The four elements and their influence on the signs have been briefly explained below",
+            "The fire signs tend to be passionate, action-oriented, and dynamic individuals who are driven by their goals and aspirations. Yet, they are a little temperamental. They get angry just as quickly as the fire catches on in a dry forest, but they also forgive easily. They are adventurous and full of energy."
+        ]
+    },
+    {
+        "from_link_text": "Moon sign",
+        "url": "https://www.astroyogi.com/zodiac-signs/moonsigns",
+        "title": "Moon Sign Calculator : what is my moon sign ?",
+        "headlines": [
+            "Moon Sign Calculator",
+            "What Is a Moon Sign in Astrology?",
+            "How Does the Moon Sign Calculator Work?",
+            "Why Your Birth Time and Location Matter for Your Moon Sign",
+            "What Does Your Moon Sign Reveal About You?",
+            "Moon Sign Meanings: All 12 Moon Signs",
+            "Aries Moon",
+            "Taurus Moon",
+            "Gemini Moon",
+            "Cancer Moon"
+        ],
+        "paragraphs": [
+            "Wondering, “What is my Moon sign?” Enter your date, time, and place of birth in our Moon Sign Calculator to find your Rashi and understand what your Moon sign reveals about your emotions, instincts, and inner nature.",
+            "Your Moon sign is the zodiac sign where the Moon was positioned at the exact minute and hour of your birth. In Vedic astrology, the Moon represents the mind, emotions, intuition, and subconscious responses.",
+            "Astrologers study the Moon’s placement in aKundali (Natal Chart)to understand how a person experiences feelings, relationships, and emotional situations. While the Sun sign reflects outer personality, the Moon sign reveals the deeper emotional nature of an individual.",
+            "A Moon Sign Calculator identifies the zodiac sign occupied by the Moon at the time of your birth. To calculate this accurately, the tool requires:",
+            "Your birth date alone may not be enough to determine your Moon sign. The Moon moves quickly through the zodiac, making your exact birth details important.",
+            "These details allow the Moon Calculator to identify your Moon sign, or Rashi, more accurately.",
+            "Your Moon sign can reveal important parts of your emotional nature, including:",
+            "How you respond emotionally and instinctively",
+            "How you connect with others in relationships",
+            "What makes you feel comfortable and secure"
+        ]
+    },
+    {
+        "from_link_text": "zodiac sign",
+        "url": "https://www.astroyogi.com/zodiac-signs/sunsigns",
+        "title": "Sun Sign Calculator : What Is My Zodiac Sign by Date of Birth?",
+        "headlines": [
+            "Sun Sign Calculator : Find Your Zodiac Sign",
+            "Talk to Astrologers",
+            "What Is a Sun Sign in Astrology?",
+            "How Do You Find Your Sun Sign?",
+            "The 12 Sun Signs and Their Dates",
+            "Sun Sign vs Moon Sign – What’s the Difference?",
+            "Why Are Sun Signs Used in Horoscopes?",
+            "FAQs",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Wondering what your Sun Sign is? Use our Sun Sign Calculator to find your zodiac sign by date of birth. In astrology, the Sun’s position represents your core personality, identity, and the way you express yourself in the world. Enter your birth details below to Find out your Sun sign instantly.",
+            "Your Sun sign  refers to the zodiac sign where the Sun was positioned at the time of your birth. Since the Sun moves through all12 zodiac signsduring the year, the day you were born determines your Sun sign.",
+            "In astrology, the Sun symbolizes your sense of self and individuality. It represents qualities such as:",
+            "Your core identity",
+            "Confidence and self-expression",
+            "Personal strengths and ambitions",
+            "Your overall life direction",
+            "Because the Sun is the center of our solar system, it is often associated with vitality, leadership, and personal energy in astrology.",
+            "Your Sun sign can be identified simply by looking at yourdate of birth.",
+            "There are two easy ways to determine it:"
+        ]
+    },
+    {
+        "from_link_text": "Moon sign",
+        "url": "https://www.astroyogi.com/zodiac-signs/moonsigns",
+        "title": "Moon Sign Calculator : what is my moon sign ?",
+        "headlines": [
+            "Moon Sign Calculator",
+            "What Is a Moon Sign in Astrology?",
+            "How Does the Moon Sign Calculator Work?",
+            "Why Your Birth Time and Location Matter for Your Moon Sign",
+            "What Does Your Moon Sign Reveal About You?",
+            "Moon Sign Meanings: All 12 Moon Signs",
+            "Aries Moon",
+            "Taurus Moon",
+            "Gemini Moon",
+            "Cancer Moon"
+        ],
+        "paragraphs": [
+            "Wondering, “What is my Moon sign?” Enter your date, time, and place of birth in our Moon Sign Calculator to find your Rashi and understand what your Moon sign reveals about your emotions, instincts, and inner nature.",
+            "Your Moon sign is the zodiac sign where the Moon was positioned at the exact minute and hour of your birth. In Vedic astrology, the Moon represents the mind, emotions, intuition, and subconscious responses.",
+            "Astrologers study the Moon’s placement in aKundali (Natal Chart)to understand how a person experiences feelings, relationships, and emotional situations. While the Sun sign reflects outer personality, the Moon sign reveals the deeper emotional nature of an individual.",
+            "A Moon Sign Calculator identifies the zodiac sign occupied by the Moon at the time of your birth. To calculate this accurately, the tool requires:",
+            "Your birth date alone may not be enough to determine your Moon sign. The Moon moves quickly through the zodiac, making your exact birth details important.",
+            "These details allow the Moon Calculator to identify your Moon sign, or Rashi, more accurately.",
+            "Your Moon sign can reveal important parts of your emotional nature, including:",
+            "How you respond emotionally and instinctively",
+            "How you connect with others in relationships",
+            "What makes you feel comfortable and secure"
+        ]
+    },
+    {
+        "from_link_text": "Ascendant",
+        "url": "https://www.astroyogi.com/kundli/ascendant",
+        "title": "Ascendant - What Exactly Is Your Rising Sign? Find out Ascendant Sign Calculator",
+        "headlines": [
+            "Ascendant",
+            "Instant Free Ascendant Report",
+            "Talk to Astrologers",
+            "What Does Ascendant Mean In Horoscope?",
+            "How To Calculate Your Ascendant Sign",
+            "Just like the 12 Sun Signs, there are 12 Ascendant or Rising Signs:",
+            "Kundli",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Astrologically speaking, there’s far more to you than your Sun sign and Moon sign. Did you know of something called the ‘Ascendant Sign’ in our horoscope? In Vedic astrology, the Ascendant (or Rising Sign) is known as Lagna, which is considered to be the most important house in the birth chart. It greatly influences your life and relationships.",
+            "Indeed, astrology is a vast topic with diverse aspects that can determine an individual's life. YourAscendant signshows how you project yourself to the world and how others perceive you, and also the kind of experiences required to make your life meaningful. Let’s find out more about the importance of Ascendant and what it means in astrology.",
+            "The meaning of ‘Ascendant’ isn’t that hard to decode. An Ascendant is a sign that was rising in the East at the time of the native’s birth. Thus it is also called the Rising Sign. Being the most important house, Ascendant is also referred to as the first house of the horoscope, which records the basics of one's life. Therefore the Ascendant sign and the Planet placed in the chart, influence the first reaction of the native to the new environment where he or she has taken their first breath.",
+            "Ascendant or the Rising Sign of the zodiac is simply when it was coming up over the eastern horizon at the moment of birth. The Ascendant signs generally change every two hours. Ascendant can also be thought of as the basis of astrology, as it is linked with all houses of the birth chart. Analysing the Ascendant throws up a deeper and more accurate view of the individual’s spirit and state of mind. It also offers insights into the types of illnesses one may experience in life.",
+            "Ascendant represents the first impressions of your attitude, appearance and demeanour. Your Rising Sign also sheds light on the first impressions you make and your initial responses and reactions to a variety of situations. Some astrologers suggest that analysing both your sun sign and your Ascendant gives a clearer picture of what is in store for you in the future.",
+            "Do you ever get the feeling that your personality traits strongly answer to a different zodiac sign altogether (than the one you have always known to be yours)? Sometimes, a lot changes when the additional Ascendant information comes into play. The precise location of the planets at the moment of your birth makes an important difference.",
+            "For instance, a person with an Aries Ascendant with its ruling planet Mars in Scorpio will respond to the environment a little differently than another person, who also has an Aries Ascendant but Mars in Leo. Similarly, a person with a Libra Ascendant who also has a Saturn conjunct in his chart will behave a lot differently than someone with a Libra Ascendant with no Saturn aspect. These factors have a critical impact on the Ascendant.",
+            "So connect with our top experts through a call or chat and get a personalized consultation today!",
+            "Of course, you’re asking yourself, “What’s my Ascendant sign?” Note that your exact time of birth is crucial in determining your Ascendant. Your birth date and birthplace are equally important while calculating your ascendant sign or Ascendant chart.",
+            "Click here to check and view your instant  FREE  Ascendant report now!"
+        ]
+    },
+    {
+        "from_link_text": "Home",
+        "url": "https://Astroyogi.com/",
+        "title": "Free Online Astrology Prediction by Expert Astrologers",
+        "headlines": [
+            "Top Online Astrologers",
+            "Free Live Experts",
+            "Today's Astrology Prediction",
+            "Free Astrology Readings",
+            "Consult The Right Astrologer For You",
+            "Celebrity Videos",
+            "Daily Horoscope Video",
+            "Our Partners",
+            "Free Online Astrology Prediction",
+            "Indian Astrology (Vedic Astrology)"
+        ],
+        "paragraphs": [
+            "Astrology is a predictive science that empowers astrologers to delve into an individual's unique traits from birth, revealing strengths, weaknesses, and potential life paths. By studying the positions of the Sun, Moon, and planets at the time of birth, astrologers offer valuable insights into various life aspects. Astroyogi provides access to different schools of astrology, including Vedic astrology, Western astrology, KP Astrology, Nadi Astrology and Chinese astrology, helping you understand and utilize astrology for personal growth and well-being. The astrological chart, commonly known as the \"Horoscope,\" serves as a roadmap for analyzing one's future, preferences, and potential life events.",
+            "India has gifted the world the profound science of Vedic astrology, which calculates the impact of planetary movements on human lives. For centuries, astrology has guided individuals toward happiness and success, providing solace and direction during challenging times. Astroyogi brings this ancient wisdom to your fingertips, connecting you with expert astrologers who can serve as guides, friends, and counselors on your life journey. We offer a range of services, including horoscope readings, birth chart analysis, and personalized online astrology predictions to help you navigate life's complexities.",
+            "Let's explore the two prominent branches of astrology: Indian Astrology and Western Astrology.",
+            "Indian astrology, also known as Vedic astrology, boasts a rich history dating back centuries. It is based on the movements of stars and planets, incorporating 12 astrology signs and their corresponding dates (zodiacs) for a comprehensive understanding. Vedic astrology considers 27 constellations, 9 planets, 12 zodiac signs, and 12 houses, analyzing their influence on an individual's life.Astrologyby date of birth is used to create a horoscope chart, which displays the placement of the 9 planets within the 12 houses at the time of birth. Expert astrologers interpret this chart to assess the impact of planetary positions on various life aspects, offering personalized horoscope readings and astrological signs interpretations. Within Vedic astrology, various schools of thought exist, each with unique approaches to prediction and guidance. For example, some schools emphasize planetary periods (dashas), while others focus on specific astrological combinations (yogas). Vedic astrology is used for a wide range of purposes, including predicting marriage compatibility, career prospects, financial trends, and health outcomes.",
+            "Western astrology employs an equatorial zodiac system based on the equator points. This system emphasizes the precise time of birth for generating horoscopes and making predictions. Western astrology tracks the movements of the Sun, planets, and Moon, considering their positions in the 12 houses of a birth chart. Similar to Vedic astrology, Western astrology uses birth chart analysis to understand an individual's personality, strengths, and weaknesses. However, Western astrology differs from Vedic astrology in its interpretation of planetary influences and its emphasis on psychological aspects of personality. Western astrologers often use techniques like transit analysis and progression analysis to predict future trends and events.",
+            "Anastrologychart, also known as a natal chart, maps the positions of the planets around the Sun at the moment of an individual's birth. This chart reveals a person's inherent strengths and weaknesses, indicating opportune times for decision-making and personal growth. Birth chart analysis is a cornerstone of both Vedic and Western astrology, providing valuable insights for astrological signs and horoscope readings. Here's what astrologers consider when analyzing a birth chart:",
+            "A skilled astrologer onAstroyogiwill consider these factors and perform detailed calculations to provide accurate astrology predictions. If the birth chart reveals an imbalance in certain traits, the astrologer can suggest remedies and practices to restore equilibrium. This process, known as balancing the chart, is crucial for realizing your full potential and achieving happiness and success. Astroyogi offers a variety of resources, including free astrology readings and consultations with expert astrologers, to help you understand and interpret your birth chart. |Astroyogi Mobile Apps",
+            "Astrology is the study of the influence of celestial objects, such as the Sun, Moon, and planets, on human lives. It examines the positions of these cosmic entities at the time of a person's birth to understand their personality, relationships, finances, education, and other life aspects. Astrology provides valuable insights into an individual's strengths, weaknesses, and potential life path through horoscope readings, birth chart analysis, and astrological signs interpretations.",
+            "Your zodiac sign, also known as your sun sign, is determined by the position of the Sun at the time of your birth. This is a key factor in free astrology predictions and provides insights into your character and life path. Each zodiac sign corresponds to a specific date range, and understanding your sign can help you understand your strengths, weaknesses, and tendencies.",
+            "A common misconception about astrology is that it predicts the exact future. However, astrology focuses on analyzing the movement of planets through the zodiac signs and their influence on individuals. These calculations help astrologers assess potential challenges and opportunities, providing guidance rather than definitive predictions. Astrology serves as a valuable tool for self-awareness and decision-making, empowering individuals to navigate life's complexities with greater understanding."
+        ]
+    },
+    {
+        "from_link_text": "Call/Chat",
+        "url": "https://Astroyogi.com/talk-to-astrologers",
+        "title": "Talk to the Best Astrologer Online | 5000+ Trusted Astrology Experts",
+        "headlines": [
+            "Talk to Astrologers Online",
+            "Consult with top astrologer",
+            "How Online Astrologer Consultations Can Transform Your Life?",
+            "How to Connect with the Astrologer Online for Predictions?",
+            "Why Choose Astroyogi for Online Astrology Consultation?",
+            "Solutions are Just One Call Away: Talk to an Astrologer Now!",
+            "Frequently Asked Questions",
+            "Find Best Astrologers"
+        ],
+        "paragraphs": [
+            "Talk to trusted astrologers online for clear guidance on relationships, career, finances, and life decisions. Get accurate insights, complete privacy, and 24/7 support from 5,000+ expert astrologers with 25+ years of experience.",
+            "By consulting an astrologer online, you get guidance that helps you make better choices in different areas of life. Here’s how an online astrology consultation can transform your life:",
+            "Clarity About YourselfThe astro online can help you understand your strengths, weaknesses, and hidden potential. If you feel stuck or confused, just talk to an astrologer and get clarity to align your actions with your goals.",
+            "Guidance for Major Life DecisionsGet useful guidance on career, love,marriage, finances, or anything else. With an astrologer consultation online, you surely get the right direction to help you move forward with confidence.",
+            "Relationship SupportIf you want to know how you’ll meet your partner, need to find out the compatibility level with your current partner, or need any solutions to resolve issues in your relationship, a professional astrologer in india can guide you through all sorts of challenges you've been dealing with to strengthen bonds and even take the next big step.",
+            "Career and JobsWant a government job? Need any guidance on what career path you should choose? Or, just want to achieve success in what you’re doing, top  online astrologers will provide you with effective remedies to overcome obstacles and achieve success.",
+            "Overcome ChallengesConsulting the best Indian astrologer online provides you with guidance on how to deal with any kind of challenges, delays, or uncertainties in life so you can handle them better. Most astrologers identify planetary influences and give accurate predictions so that you can stay one step ahead.",
+            "To Start Something NewApart from all these, for a new start or any auspicious events, like you’re about to purchase a car, house, or property, astrologers can guide you while making important decisions.",
+            "To connect with India’s best astrologers available on Astroyogi, just follow the steps given below:",
+            "Astroyogi has been active for more than 25+ years, and with over 4 crore satisfied users, consulting one of our experts for guidance or clarity is surely worth it because of these reasons:"
+        ]
+    },
+    {
+        "from_link_text": "Yogi Live",
+        "url": "https://Astroyogi.com/astrologer-live",
+        "title": "Yogi Live - Live Astrologer Video Call & Online Chat Consultation",
+        "headlines": [
+            "Yogi Astro Live: Now Chat with Your Favourite Astrologers for Free",
+            "Ongoing Live Sessions",
+            "Upcoming Sessions",
+            "Yogi Live – Live Video Chat with Astrologers & Online Consultation",
+            "Ask Your Questions Astro Live for Free",
+            "FAQs",
+            "You May Also Like"
+        ],
+        "paragraphs": [
+            "Join a free astro live session with India's best Astrologers, Tarot readers, Vaastu experts, Numerologists, life coaches, and many more, and ask questions through a live chat regarding love, relationships, career, marriage, finance, and more",
+            "Yogi Livebrings you a modern way to connect with experienced astrologers throughlive video consultations,live chat, andface-to-face online astrology sessions. Whether you are seeking guidance for love, marriage, career, business, education, health, or personal growth, Yogi Live makes it easy to speak directly with trusted astrology experts from the comfort of your home.",
+            "Unlike traditional astrology consultations, Yogi Live offers real-time interaction through secure video calls. You can see and talk with an astrologer, ask questions, and receive personalized guidance based on your birth details and horoscope. Thislive astrologer consultationexperience helps build trust and provides a more engaging and interactive way to understand your life's challenges and opportunities.",
+            "Our platform features knowledgeable astrologers specializing in Vedic Astrology, Numerology, Tarot Reading, Palmistry, Horoscope Analysis, Kundli Matching, Vaastu, and other spiritual sciences. Whether you need immediate advice or want an in-depth consultation, you can choose the astrologer that best matches your requirements and start your session instantly.",
+            "WithYogi Live, you can enjoyonline face-to-face consultationswithout traveling or waiting for appointments. Simply book a session, connect via live video, and receive expert insights tailored to your concerns. Every consultation is confidential, secure, and focused on helping you make informed decisions with greater confidence.",
+            "Ourlive astrology video consultationservice is designed for people looking for accurate guidance in every stage of life. If you're facing uncertainty in your relationships, career decisions, financial planning, marriage, family matters, or health concerns, our expert astrologers provide practical and spiritual solutions based on your unique birth chart.",
+            "Yogi Live also offerslive chat with astrologers, allowing you to communicate in the way that feels most comfortable. If you prefer a face-to-face discussion, our video consultation feature delivers a personalized experience where you can interact directly with experienced astrology professionals and receive detailed explanations for your questions.",
+            "Why choose Yogi Live? We focus on convenience, authenticity, and accessibility. Our platform allows users to connect with verified astrologers anytime and from anywhere. Whether you need a quick consultation or a comprehensive horoscope analysis, you can find the right expert in just a few clicks. The seamless booking process, secure video technology, and easy-to-use interface make online astrology consultations simple and stress-free.",
+            "At Yogi Live, we believe that the right guidance at the right time can help you navigate life's challenges with clarity and confidence. Our mission is to make trusted astrology consultations accessible to everyone through advanced digital technology while preserving the authenticity of traditional astrological wisdom.",
+            "Start your journey withYogi Livetoday and experience the benefits oflive astrologer video consultations,online face-to-face astrology sessions, andlive chat with astrologers. Connect with experienced professionals, gain valuable insights into your future, and receive personalized guidance that empowers you to make better decisions in love, career, business, education, health, and every important aspect of life."
+        ]
+    },
+    {
+        "from_link_text": "Sign In",
+        "url": "https://Astroyogi.com/registration/login.aspx",
+        "title": "Login - Astroyogi.com",
+        "headlines": [
+            "Welcome to AstroyogiEnter your mobile number to Login/Signup"
+        ],
+        "paragraphs": [
+            "Loading..."
+        ]
+    },
+    {
+        "from_link_text": "",
+        "url": "https://bit.ly/3Oma83v",
+        "title": "Astroyogi - Astrology & Kundli - Apps on Google Play",
+        "headlines": [
+            "Astroyogi - Astrology & Kundli",
+            "About this app",
+            "Data safety",
+            "Ratings and reviews",
+            "What’s new",
+            "App support",
+            "More by Astroyogi.com",
+            "Similar apps"
+        ],
+        "paragraphs": [
+            "Play Pass",
+            "Play Points",
+            "Gift cards",
+            "Redeem",
+            "Refund policy",
+            "Parent Guide",
+            "Family sharing",
+            "Terms of Service",
+            "Privacy",
+            "About Google Play"
+        ]
+    },
+    {
+        "from_link_text": "",
+        "url": "https://apple.co/3xBXiZ2 ",
+        "title": "âAstroyogi | Astrology & Kundli App - App Store",
+        "headlines": [
+            "Astroyogi | Astrology & Kundli",
+            "Ratings & Reviews",
+            "Astroyogi & Dr. Puujel awesome",
+            "Nice app",
+            "Some bugs needs to be fixed",
+            "SO like",
+            "Whatâs New",
+            "Version History",
+            "App Privacy",
+            "Data Used to Track You"
+        ],
+        "paragraphs": [
+            "Horoscope & AI Astrologer Chat",
+            "Free Â· Designed for iPad. Not verified for macOS.",
+            "This Diwali, light up your path. Get personalised guidance from trusted astrologers, check your Lakshmi Puja muhurat and start the new year with clarity.\n\nConfused about love, career, or a big life decision? Talk to a verified Vedic astrologer in minutes. First chat free. Trusted by millions across India for 25+ years.\nAstroyogi connects you with 5,000+ certified astrologers across Vedic astrology, Tarot, Numerology, Vastu, KP Astrology, Palmistry, Reiki, Feng Shui, Face Reading, and Prashna. Chat or call, anytime, 24/7.\n\nWHAT'S FREE\n\n2026 Annual Horoscope â detailed year-ahead forecast for your sign\nDaily Horoscope â personalised guidance every morning\nJanam Kundli â your complete birth chart, free\nKundli Matching â compatibility, Shani Dosha, Manglik Dosha, Lucky Gemstone and more\nTarot Readings â 1-card and 3-card spreads, free\nPanchang Calendar â Tithi, Muhurat and Chaughadia for every day\nNumerology Report â Life Path, Destiny, Name and Lucky Number\nFirst Chat Free â your first consultation with any astrologer, on us\n\nGET GUIDANCE ON WHAT MATTERS\nOur astrologers provide honest, grounded guidance rooted in Vedic tradition. No judgement. No fear-selling. Just clarity.\n\nLove and Relationships\nMarriage and Kundali Matching\nCareer and Business\nChild Naming\nVastu for Home and Office\nHealth and Wellbeing\nEducation and Academic Future\n\nWHY ASTROYOGI\n\n25+ years of expertise, trusted since 1999\n5,000+ certified astrologers, verified and reviewed\n24/7 availability via chat or call\nConsultations from $0.65/min\nRated 4.3 stars by thousands of users on the App Store\n\nANCIENT SCIENCES, MODERN ACCESS\nVedic Astrology Â· Palmistry Â· Numerology Â· Vastu Shastra Â· KP Astrology Â· Tarot Â· Feng Shui Â· Reiki Healing Â· Face Reading Â· Prashna Kundli\n\nDownload Astroyogi. Your first conversation is free.more",
+            "I connected with Dr. Puujel in Astroyogi. I got my all solutions with her. I really want to thank Astroyogi who helped me to get connect with such a brilliant personality. She listen everything very patiently and treat you like your family member so that without any hesitation you can discuss your problems. Thanks Madam once again.",
+            "I connected with Dr. Puujel in Astroyogi. I got my all solutions with her. I really want to thank Astroyogi who helped me to get connect with such a brilliant personality. She listen everything very patiently and treat you like your family member so that without any hesitation you can discuss your problems. Thanks Madam once again.",
+            "Ive been using this app for a while now,the accuracy of the readings and horoscopes is inressive,and the apps user-freindly interface makes navigation a breeze! The apps regular updates and new features are improving the user experience, here i why i highly recomend this appð",
+            "Ive been using this app for a while now,the accuracy of the readings and horoscopes is inressive,and the apps user-freindly interface makes navigation a breeze! The apps regular updates and new features are improving the user experience, here i why i highly recomend this appð",
+            "I use this app a lot and love it. But some bugs and hat needs to be addressed 1) my call always gets dropped if Iâm in queue in a session and when my turn comes. Something to do with iOS may be. Only when there is no queue my call connects. 2) the link in sms notification when an Astrologer is online is broken .",
+            "I use this app a lot and love it. But some bugs and hat needs to be addressed 1) my call always gets dropped if Iâm in queue in a session and when my turn comes. Something to do with iOS may be. Only when there is no queue my call connects. 2) the link in sms notification when an Astrologer is online is broken .",
+            "With the astroyogi app I can see the changes happening within a few days I thank astrologers personally for their patience and clear guidance once again thank you so much."
+        ]
+    },
+    {
+        "from_link_text": "",
+        "url": "https://www.facebook.com/astroyogidotcom",
+        "title": "Astroyogi | Gurugram",
+        "headlines": [],
+        "paragraphs": []
+    },
+    {
+        "from_link_text": "",
+        "url": "https://www.youtube.com/channel/UCGdF3GAzGvAiWx2LNQLMw5w",
+        "title": "Astroyogi (English) - YouTube",
+        "headlines": [],
+        "paragraphs": []
+    },
+    {
+        "from_link_text": "",
+        "url": "https://www.instagram.com/astroyogi/",
+        "title": "Instagram",
+        "headlines": [],
+        "paragraphs": []
+    },
+    {
+        "from_link_text": "",
+        "url": "https://x.com/astroyogi",
+        "title": "Astroyogi (@Astroyogi) / X",
+        "headlines": [
+            "Astroyogi",
+            "Astroyogi’s posts",
+            "Log in or sign up for X"
+        ],
+        "paragraphs": [
+            "See what’s happening and join the conversation"
+        ]
+    },
+    {
+        "from_link_text": "",
+        "url": "https://www.linkedin.com/company/astroyogiofficial/",
+        "title": "Just a moment...",
+        "headlines": [],
+        "paragraphs": []
+    },
+    {
+        "from_link_text": "Astrologer",
+        "url": "https://Astroyogi.com/talk-to-astrologers",
+        "title": "Talk to the Best Astrologer Online | 5000+ Trusted Astrology Experts",
+        "headlines": [
+            "Talk to Astrologers Online",
+            "Consult with top astrologer",
+            "How Online Astrologer Consultations Can Transform Your Life?",
+            "How to Connect with the Astrologer Online for Predictions?",
+            "Why Choose Astroyogi for Online Astrology Consultation?",
+            "Solutions are Just One Call Away: Talk to an Astrologer Now!",
+            "Frequently Asked Questions",
+            "Find Best Astrologers"
+        ],
+        "paragraphs": [
+            "Talk to trusted astrologers online for clear guidance on relationships, career, finances, and life decisions. Get accurate insights, complete privacy, and 24/7 support from 5,000+ expert astrologers with 25+ years of experience.",
+            "By consulting an astrologer online, you get guidance that helps you make better choices in different areas of life. Here’s how an online astrology consultation can transform your life:",
+            "Clarity About YourselfThe astro online can help you understand your strengths, weaknesses, and hidden potential. If you feel stuck or confused, just talk to an astrologer and get clarity to align your actions with your goals.",
+            "Guidance for Major Life DecisionsGet useful guidance on career, love,marriage, finances, or anything else. With an astrologer consultation online, you surely get the right direction to help you move forward with confidence.",
+            "Relationship SupportIf you want to know how you’ll meet your partner, need to find out the compatibility level with your current partner, or need any solutions to resolve issues in your relationship, a professional astrologer in india can guide you through all sorts of challenges you've been dealing with to strengthen bonds and even take the next big step.",
+            "Career and JobsWant a government job? Need any guidance on what career path you should choose? Or, just want to achieve success in what you’re doing, top  online astrologers will provide you with effective remedies to overcome obstacles and achieve success.",
+            "Overcome ChallengesConsulting the best Indian astrologer online provides you with guidance on how to deal with any kind of challenges, delays, or uncertainties in life so you can handle them better. Most astrologers identify planetary influences and give accurate predictions so that you can stay one step ahead.",
+            "To Start Something NewApart from all these, for a new start or any auspicious events, like you’re about to purchase a car, house, or property, astrologers can guide you while making important decisions.",
+            "To connect with India’s best astrologers available on Astroyogi, just follow the steps given below:",
+            "Astroyogi has been active for more than 25+ years, and with over 4 crore satisfied users, consulting one of our experts for guidance or clarity is surely worth it because of these reasons:"
+        ]
+    },
+    {
+        "from_link_text": "Tarot Readers",
+        "url": "https://Astroyogi.com/astrologer/tarot-reader",
+        "title": "Tarot Card Readers - Accurate Online Tarot Reading Consultation",
+        "headlines": [
+            "Talk to Best Tarot Card Readers Online",
+            "Consult with top astrologer",
+            "Tarot Card Readers: How Will It Benefit You?",
+            "Clarity on Current Situations",
+            "Guidance for Important Decisions",
+            "Relationship & Emotional Insights",
+            "Career, Work & Financial Direction",
+            "Overcoming Confusion & Inner Blocks",
+            "Support for New Phases in Life",
+            "How to Connect With Tarot Card Readers Online?"
+        ],
+        "paragraphs": [
+            "Talk to the best online tarot card readers and gain deep insights into your past, present, and future through intuitive card readings. Simply share your concern and let our tarot experts guide you with clarity and confidence.",
+            "By consulting tarrot readers, you receive intuitive insights that help you understand situations better and prepare for what lies ahead. Tarot readings offer clarity, direction, and emotional support when life feels uncertain. Here’s how online tarot card readers can benefit you:",
+            "Tarot readingshelp you understand what’s happening in your life right now by revealing hidden influences, patterns, and energies affecting your decisions and emotions.",
+            "Whether it’s love, career, finances, or personal choices, tarot card readers provide guidance that helps you evaluate options and move forward with greater confidence.",
+            "Tarot readings offer a deeper understanding of relationships, emotional connections, and unresolved issues, helping you make sense of feelings and strengthen bonds.",
+            "Confused about job changes, career growth, or financial stability? Tarrot readers can highlight opportunities, challenges, and the right timing to make informed moves.",
+            "Tarot helps identify mental blocks, fears, or external obstacles that may be holding you back, offering clarity and reassurance during challenging phases.",
+            "Whether you’re starting something new or closing a chapter, online tarot readers help you understand possibilities ahead and prepare for change with confidence.",
+            "Getting guidance from experienced tarot card readers online is simple and convenient. Follow these easy steps to begin your tarot consultation:",
+            "Astroyogi is a reliable platform to connect with 25+ years of experience and 5000+ experts available 24/7, you're sure to receive useful insights from card reading. Here’s why choosing Astroyogi for tarot consultation makes a difference:"
+        ]
+    },
+    {
+        "from_link_text": "Numerologist",
+        "url": "https://Astroyogi.com/astrologer/numerologist",
+        "title": "Talk to the Best Online Numerologist Today",
+        "headlines": [
+            "Talk to the Best Numerologist Online in India",
+            "Consult with top astrologer",
+            "Talk to Numerologist Online: How Will It Benefit You?",
+            "Self-Understanding & Life Path Clarity",
+            "Guidance for Important Life Decisions",
+            "Relationship Compatibility Insights",
+            "Career, Business & Name Corrections",
+            "Overcoming Obstacles & Delays",
+            "Support for New Beginnings",
+            "How to Connect With Numerologists Online?"
+        ],
+        "paragraphs": [
+            "Talk to the best numerologist online and get guidance on how numbers influence your life path, personality, and future decisions. With 25+ years of experience and over 5000+ experts available 24/7, you’re sure to receive reliable guidance with clarity.",
+            "By consulting a numerologist online, you get insights on making informed decisions about your future prospects or anything based on your personal and professional growth. Here’s more on the benefits:",
+            "An online numerologist helps you understand your core numbers, strengths, weaknesses, and life purpose. If you feel confused or stuck, numerology insights can help you align your actions with the right path.",
+            "Whether it’s career, marriage, finances, business, or naming decisions, numerologists provide practical guidance based on numbers to help you choose wisely and move ahead with confidence.",
+            "Numerology helps analyze compatibility between partners using birth dates and names. A professional numerologist can guide you in improving relationships, resolving conflicts, and understanding emotional dynamics better.",
+            "Confused about career growth or business success? Numerologists offer guidance on suitable career paths, business names, brand naming, and name corrections to remove obstacles and attract success.",
+            "Numerology consultations help identify unfavorable numbers causing delays or challenges in life. Experts suggest effective remedies and corrections to minimize negativity and improve outcomes.",
+            "From naming a newborn to starting a business, buying property, or choosing auspicious dates, numerologists guide you in making the right choices for fresh starts and long-term success.",
+            "Getting expert guidance from a professional numerologist on Astroyogi is quick and hassle-free. Simply follow these steps to start your consultation:",
+            "With over 25 years of experience and the trust of more than 3 crore users, Astroyogi is a dependable platform for accurate and meaningful online numerology consultation. Here’s why connecting with a numerology expert on Astroyogi is a smart choice:"
+        ]
+    },
+    {
+        "from_link_text": "Vastu Experts",
+        "url": "https://Astroyogi.com/astrologer/vastu",
+        "title": "Vastu Consultant Online: Get Expert Online Vastu Consultancy Services",
+        "headlines": [
+            "Vastu Consultants Online",
+            "Consult with top astrologer",
+            "Testimonials",
+            "Talk to Online Vastu Consultant: How Will It Benefit You?",
+            "Power of Vastu Shastra: Enhancing Your Living Spaces",
+            "Who Can Benefit From a Vastu Consultation?",
+            "How to Connect with a Vastu Consultant Online?",
+            "Why Choose Astroyogi for Online Vastu Consultation Services?",
+            "Certified & Experienced Vastu Experts",
+            "Verified Profiles & Genuine Reviews"
+        ],
+        "paragraphs": [
+            "Looking for a professional Vastu consultant online? Look no further than Astroyogi, the top destination for connecting with genuine Vastu experts. Reach out to the best Vastu consultants anytime and from anywhere, and explore our specially curated platform equipped with exceptional features that offer comprehensive Vastu guidance and solutions in real-time with trusted professionals.",
+            "By seeking vastu consultation online, you receive expert guidance that helps you create balanced, positive, and prosperous living and working spaces. Here’s how an online Vastu consultation can benefit you:",
+            "Home Building & Construction Insights",
+            "If you’re planning, renovating, or facing issues in your current space, a vastu consultant online will provide proper guidance on plot selection, room placement, entrance direction, kitchen, bedrooms, and toilets to ensure long-term harmony and prosperity.",
+            "Vastu Corrections Without Demolition",
+            "Sometimes, we're pretty much confident that we need some structural changes but can't think about the right approach for it, as the concern of demolition is always there. In such cases, a Vastu consultant online suggests simple and effective remedies, yes, without demolition, to correct Vastu doshas and improve energy flow.",
+            "Better Health & Mental Well-Being",
+            "It is believed that improper Vastu can lead to stress, sleep issues, or even health concerns. That's why seeking online Vastu guidance is pretty much recommended to help in balancing energies in your space.",
+            "Career & Financial Growth",
+            "Most people ignore this, but Vastu defects in offices or homes may block growth opportunities. Vastu experts analyze workspaces, seating arrangements, and cash flow areas to attract success, stability, and financial abundance."
+        ]
+    },
+    {
+        "from_link_text": "Fengshui Astrologer",
+        "url": "https://Astroyogi.com/astrologer/feng-shui",
+        "title": "First Free Online Feng Shui Consultation by Feng Shui Experts",
+        "headlines": [
+            "Talk to the Best Feng Shui Consultants in India",
+            "Consult with top astrologer",
+            "Testimonials",
+            "Best Feng Shui Consultant in India",
+            "Famous Feng Shui experts Online",
+            "Find Best Astrologers"
+        ],
+        "paragraphs": [
+            "INDIA's FIRST real-time Feng Shui consultation platform comes with extraordinary features. Now talk to India's best Feng Shui Experts anywhere, anytime with Astroyogi.",
+            "Feng Shui is an ancient Chinese art of utilizing the energies around us to gain prosperity and harmony. In literal meaning, Feng Shui means 'wind-water'. Originated and practiced in the country of China for centuries, Feng Shui has found its way to the homes of the rest of the world. People rely on the principles of Feng Shui to bring out the best in themselves and their homes to lead better lives.",
+            "Feng Shui consultants on the Astroyogi panel are selected on the basis of their experience and knowledge. These experts are available in real-time for you to consult over the phone and get answers to all your queries and doubts. Get consultations on your questions related to love, health, family, career, finances and more.",
+            "Feng Shui experts require the exact data about your house in order to make necessary changes. Their expertise will not only help you find the right balance for your house but also give you the comfort of living in a positively enhance space. Our experts can help you with detailed and thorough",
+            "Consultation with a Feng Shui expert is ensured with privacy and at the lowest cost with accurate readings for you to have a clear understanding of your strengths and weaknesses. Our Feng Shui experts have a satisfactory clientele from India and abroad. The Talk to Astrologer feature of Astroyogi enables the user to interact with an expert of their choice at minimal rates in real-time. Instead of waiting for an appointment and paying rather heavy charges, at Astroyogi, users get to interact and discuss their issues and queries with the Feng Shui experts at the comfort of their homes or on the go."
+        ]
+    },
+    {
+        "from_link_text": "Love Astrologer",
+        "url": "https://Astroyogi.com/astrologer/love",
+        "title": "Best Love Astrologer Online | Love Marriage & Relationship Advice",
+        "headlines": [
+            "Consult the Best Love Astrologer Online",
+            "Consult with top astrologer",
+            "Love Marriage Astrology: Get Expert Guidance for a Successful Relationship",
+            "Our love marriage specialist astrologers can assist you with:",
+            "Love Problem Solution Through Astrology",
+            "An experienced astrologer for love problems can help you navigate concerns such as:",
+            "Can Astrology Help You Get Your Lost Love Back?",
+            "Relationship Compatibility Analysis",
+            "Compatibility consultations are especially useful before:",
+            "Marriage Delays and Family Opposition"
+        ],
+        "paragraphs": [
+            "Consult experienced love marriage astrologers online for accurate guidance on love, relationships, marriage, compatibility, breakups, and getting your lost love back.",
+            "Love marriage is a beautiful journey, but it often comes with its own set of challenges. Differences in family backgrounds, career priorities, financial stability, cultural expectations, and compatibility concerns can create uncertainty before taking the next step. Consulting an experienced love marriage astrologer can help you understand whether your relationship has the potential to lead to a happy and lasting marriage.",
+            "A professional astrologer for love marriage studies your birth chart, planetary combinations, the 5th House (love), the 7th House (marriage), Venus, Mars, and other important astrological factors to evaluate your relationship. They can also analyze favorable marriage periods, identify possible delays, and suggest suitable remedies to strengthen your relationship.",
+            "Whether you're planning a love marriage, facing opposition from family members, or unsure about your partner's compatibility, astrology provides valuable guidance that helps you make informed decisions.",
+            "Every relationship is different, and personalized guidance helps you understand your unique journey instead of relying on assumptions or generic advice.",
+            "Every relationship experiences ups and downs. Small misunderstandings, communication gaps, trust issues, external pressures, or emotional distance can gradually affect even the strongest bonds. Rather than allowing these challenges to grow, consulting a trusted love problem solution astrologer can help you understand the underlying astrological influences affecting your relationship.",
+            "Astrology doesn't make decisions for you—it provides clarity by analyzing planetary positions and relationship houses in your birth chart. This guidance helps you approach situations with greater understanding and confidence.",
+            "Frequent misunderstandings",
+            "Relationship conflicts",
+            "Emotional disconnect"
+        ]
+    },
+    {
+        "from_link_text": "Financial Astrologer",
+        "url": "https://Astroyogi.com/astrologer/finance",
+        "title": "Best Financial Astrologer in India | Astroyogi",
+        "headlines": [
+            "Astro Finance Consultation with Best Financial Astrologer",
+            "Consult with top astrologer",
+            "Testimonials",
+            "Best Financial Astrologer in India: Wealth & Business Astrology Guidance",
+            "What Does a Financial Astrologer Do?",
+            "Which Planets and Houses Influence Wealth in Vedic Astrology?",
+            "How Financial Astrologers Analyse the Stock Market and Business Timing",
+            "When Should You Consult a Financial Astrologer?",
+            "Common Astrological Remedies for Financial Problems",
+            "Why Consult a Financial Astrologer on Astroyogi?"
+        ],
+        "paragraphs": [
+            "Financial astrology reveals your wealth potential through planetary positions like Jupiter, Venus, and Dhana Yoga. Consult Astroyogi's verified financial astrologers for business timing, investment guidance, and remedies for money problems.",
+            "Financial astrology(also called business astrology) uses your birth chart to identify the planetary combinations that shape your earning potential, business growth, and investment timing. Afinancial astrologerstudies the position of wealth-related planets — mainly Jupiter, Venus, and the Moon — along with your 2nd and 11th houses, to predict income patterns, financial risk periods, and the right time to invest, trade, or expand a business.",
+            "Astroyogi's panel of experienced financial astrologers offers live consultations over chat and call, helping you make informed decisions about savings, stock market entries, business ventures, and debt recovery — backed by remedies drawn from Vedic astrology.",
+            "A financial astrologer reads your Kundli (birth chart) to answer practical money questions: Will this investment pay off? Is this the right year to start a business? Why do I keep facing financial setbacks despite hard work? They combine three tools to answer this:",
+            "Factor",
+            "What It Governs",
+            "2nd House",
+            "Accumulated wealth, savings, family financial background",
+            "11th House",
+            "Income, gains, profits from business or investments"
+        ]
+    },
+    {
+        "from_link_text": "Marriage Astrologer",
+        "url": "https://Astroyogi.com/astrologer/marriage",
+        "title": "Astrologer for Marriage Prediction: First Call/Chat Free",
+        "headlines": [
+            "Talk to the Best Astrologer for Marriage",
+            "Consult with top astrologer",
+            "Testimonials",
+            "Why Consulting the Best Astrologer for Marriage Is Important?",
+            "How to Connect With a Marriage Astrologer Online?",
+            "Why Choose Astroyogi for an Astrologer for Marriage?",
+            "Guide Your Big Day: Talk to a Marriage Astrologer Now!",
+            "Frequently Asked Questions",
+            "Find Best Astrologers"
+        ],
+        "paragraphs": [
+            "Are you wondering if your relationship will lead to marriage? Already found your partner, but unsure about the right time to tie the knot? A skilled marriage astrologer can help you find clarity. With over two decades of experience in guiding people on compatibility, timing, and everything in between, we have 5000+ to hear what you have to say and provide apt solutions.",
+            "Think of a marriage astrologer as your personal relationship advisor. Sure, your BFFs and parents have their opinions, but you cannot ignore the stars and planets, right? Why? Because they’ve been keeping receipts since the day you were born. So, consulting the best love marriage astrologer is more than just a vibe check:",
+            "Timing is Everything: A marriage astrologer helps you choose the perfect muhurat (auspicious wedding date) by aligning planetary energies so your big day starts on a cosmic high.",
+            "Chart Compatibility: The best astrologer for marriage performs detailed kundli matching that dives deeper than “you’re a Leo, I’m a Virgo.” It's actually about detailed kundli matching and marriage prediction to reveal how your planets vibe across love, finance, and family life.",
+            "Spotting the Red Flags: With expert guidance from a trusted marriage problem astrologer, retrogrades and doshas are spotted early, so challenges are addressed before they turn into roadblocks.",
+            "Guidance for the Long Game: An experienced astrologer for marriage explains how planetary transits hint at when to level up your relationship goals, from first meeting to silver anniversary.",
+            "If you want any kind of advice or clarity regarding your marriage, you can consult the best marriage astrologer by following these simple steps:",
+            "Being active for more than two decades and keeping over 3 crores users satisfied with our services, Astroyogi has always made it worth it when it comes to providing top-notch astrology services. Here are the reasons:",
+            "Instead of guessing the right time or second-guessing your relationship, get clear answers from a trusted marriage astrologer through a call or chat on Astroyogi today!",
+            "You can consult with our best astrologers for marriage by following these easy steps- Step 1- Sign up with Astroyogi and choose a marriage astrologer.\nStep 2- Recharge your Astroyogi wallet.\nStep 3- Once done, you can get on a phone call or chat with the marriage astrologer of your choice."
+        ]
+    },
+    {
+        "from_link_text": "Free Astrology Consultation",
+        "url": "https://Astroyogi.com/astrologer/free-astrology-chat",
+        "title": "First Chat Free with Real Astrologer - Kundli & Horoscope Prediction",
+        "headlines": [
+            "Free Astrology Chat with Real Astrologers",
+            "How to Get Your First Free Astrology Chat and Call Consultation at Astroyogi?",
+            "What Makes Astroyogi the Best for Astrology Consultation",
+            "A Network of Trusted Experts:",
+            "Easy and Accessible",
+            "Safe and Private Consultations:",
+            "Trusted by Millions for Over 25 Years",
+            "What you can ask with Astrologers on Free Consultation?",
+            "Questions Related to Your Professional Life",
+            "Clarity on Your Love & Relationships"
+        ],
+        "paragraphs": [
+            "Yes, the First astrology chat is free with Astroyogi for all new users! You can connect with the best astrologers via chat or call and get astrology guidance for love, marriage, career, finance, education, and other life decisions with 100% assured privacy.",
+            "Step 1 :You can register through our website or downloadAstroyogi’s free Astrology appto start the free call or chatStep 2:Browse through categories to choose the astrologer that best fits your needsStep 3:Start astrology consultation instantly via chat or call",
+            "At Astroyogi, you get access to a large network of highly experienced and verified astrologers dedicated to delivering accurate predictions along with personalized remedies. Here’s what makes us a trusted choice for a free / paid astrology consultation.",
+            "At Astroyogi, you will get access to connect with 5,000+ verified astrologers and get accurate guidance through free astrology chat in the language you are most comfortable with.",
+            "You can connect with expert astrologers online via phone or Laptop and take free astrology consultation. No appointments, no paperwork, just quick access in a few clicks wherever you are.",
+            "You can discuss personal or sensitive topics with complete peace of mind, as our data is protected with strict privacy measures, no unauthorized data sharing, and strong safeguards to keep your information and identity safe.",
+            "With more than 25 years of experience, Astroyogi has guided millions toward better life decisions with reliable and accurate predictions.",
+            "Connect with experienced astrologers via chat or call and get instant guidance. With our astrologers having expertise in Vedic Astrology, Numerology, Tarot Reading, Nandi Astrology, Vastu, etc., you can ask questions about various life events and receive personalized insights without paying any charges.",
+            "If you're worried about getting successful in your career, have any doubts regarding a career change, want a promotion, or crack a government job, start a chat with an astrologer online for free to get the right answers for all your questions revolving around your professional life and career transitions.",
+            "Want to know your partner's compatibility with you? Need any advice on how to meet your life partner? Or do you just need some clarity on your current relationship? Talk to our astrologers via free chat or call to get the right advice to deal with any challenges or to guide your relationship in the right direction that favors your Kundli."
+        ]
+    },
+    {
+        "from_link_text": "Horoscope 2027",
+        "url": "https://Astroyogi.com/horoscope-2027",
+        "title": "Horoscope 2027: Yearly Predictions for All Zodiac Signs",
+        "headlines": [
+            "Horoscope 2027 for All Zodiac Signs",
+            "Horoscope 2027: What Do the Stars Predict for Your Zodiac Sign?",
+            "Yearly Horoscope 2027 for All Zodiac Signs",
+            "Aries Horoscope 2027",
+            "Taurus Horoscope 2027",
+            "Gemini Horoscope 2027",
+            "Cancer Horoscope 2027",
+            "Leo Horoscope 2027",
+            "Virgo Horoscope 2027",
+            "Libra Horoscope 2027"
+        ],
+        "paragraphs": [
+            "Read Horoscope 2027 for all zodiac signs with yearly astrology predictions covering love, career, finance, health, marriage, family, and education. Find out how planetary movements may influence your year ahead.",
+            "The horoscope 2027 reveals a year shaped by steady growth, evolving responsibilities, and meaningful transformation. Major planetary influences of Jupiter, Saturn, and Rahu indicate a shift toward long-term stability over quick results, encouraging patience and thoughtful decisions.",
+            "Across all zodiac signs, 2027 may bring opportunities for career advancement, financial planning, and deeper emotional connections, while also presenting challenges that test resilience and adaptability. In love and relationships, the year supports emotional maturity and commitment, while career and finance demand discipline and strategic action. Health and overall well-being may improve with balanced routines.",
+            "Overall, the yearly horoscope 2027 suggests a phase of gradual progress, where consistent efforts can lead to lasting success and personal growth.",
+            "The Zodiac-wise Horoscope 2027 reflects how the year may unfold differently for each sign. While some may experience momentum, others may take time to reassess and adjust their path.",
+            "Find your sign and discover what 2027 may bring. For more detailed insights, explore your complete yearly horoscope by zodiac sign.",
+            "The Aries horoscope 2027 indicates a year focused on steady progress and growing responsibilities. While the pace may feel slower at times, it allows you to build a stronger and more stable foundation. Your natural drive and confidence may help you navigate important decisions and take charge when needed.",
+            "Love and relationshipsmay require patience and emotional understanding. Strengthening communication can help deepen bonds, while moments of distance may encourage personal reflection.",
+            "In your career, progress is likely to come through consistent effort. You may take on greater responsibilities, and your dedication could gradually lead to recognition or new opportunities.",
+            "Financially, the year may support stability with disciplined planning, although certain phases may demand careful spending and thoughtful choices."
+        ]
+    },
+    {
+        "from_link_text": "About Us",
+        "url": "https://Astroyogi.com/aboutus.aspx",
+        "title": "About us: About Astroyogi | India's #1 Astrology Platform | 25+ Years Trust",
+        "headlines": [
+            "About Us",
+            "The Legacy",
+            "Why we exist?",
+            "Astroyogi helps people",
+            "Here’s what you get",
+            "Yogii By Astroyogi",
+            "Built on Tech",
+            "Become a Yogii",
+            "Our Culture",
+            "Our Vision"
+        ],
+        "paragraphs": [
+            "Indulge Express features how Astroyogi brings purpose-driven spirituality to wearable jewelry.",
+            "News18 Highlights How Astroyogi Is Shaping the Rise of Astrology and Rituals in Modern Weddings",
+            "How Astroyogi is blending AI, ecommerce, and spiritual services",
+            "C5/7 Grand Vasant, Vasant Kunj, Delhi-110070",
+            "Vatika Tower, 3rd floor, Tower-B, Golf Course Road, Suncity, Sector 54, Gurugram, Haryana - 122003"
+        ]
+    },
+    {
+        "from_link_text": "Contact Us",
+        "url": "https://Astroyogi.com/contact-us",
+        "title": "Astroyogi - Connect with us Anytime, Anywhere! +91 9999091091",
+        "headlines": [
+            "Contact Us",
+            "Get in touch with us",
+            "Reach us"
+        ],
+        "paragraphs": [
+            "C5/7 Grand Vasant, Vasant Kunj, Delhi-110070",
+            "Vatika Tower, 3rd floor, Tower-B, Golf Course Road, Suncity, Sector 54, Gurugram, Haryana - 122003"
+        ]
+    },
+    {
+        "from_link_text": "Astrologer Registration",
+        "url": "https://Astroyogi.com/astrologer/signup",
+        "title": "Join Astroyogi: We got 5 amazing reasons for you!",
+        "headlines": [
+            "Why Join Astroyogi",
+            "We got 5 amazing reasons for you",
+            "Gain Better Visibility!",
+            "Our Values",
+            "Integrity and Trust",
+            "Growth and Learning",
+            "Respect and Empathy",
+            "Our HappyAstrologers",
+            "About Us",
+            "Our Vision and Mission"
+        ],
+        "paragraphs": [
+            "Don't miss out on this opportunity to take your career to the next level. Join Astroyogi today and join a community of like-minded professionals who are passionate about staying on top of their game.",
+            "We help you gain an enormous online presence with our innovative and highly engaging solutions.",
+            "Trust and reliability are the cornerstones of our business. We're committed to delivering on our promises and building lasting relationships while pushing the boundaries and thinking outside the box. We abide by our 3 golden values.",
+            "We abide by our strong moral principles. We follow 100% transparency in our policies and fairness towards our partners.",
+            "We believe in innovation, and hence, we produce various opportunities for our partners to grow and learn new aspects of prediction sciences.",
+            "For us, all our partners are part of our family, and we consider respect and empathy to be the foundation for meaningful connections.",
+            "Don't just take our word for it. See what our privileged astrologers have to say about their experiences with Astroyogi.",
+            "Tarot Expert",
+            "Astroyogi is one of the leading Astro-Tech platforms that provides astrological services, prediction, and analysis. Founded in 2001, it started as a content creator for internet and telecom companies before expanding to provide value-added services in India.",
+            "Astroyogi launched its first app in 2016, catering to the need for Astrotech solutions with privacy and quality. Its vision is to help young people worldwide find direction and happiness in their lives."
+        ]
+    },
+    {
+        "from_link_text": "Partner Us",
+        "url": "https://Astroyogi.com/partnerwithus.aspx",
+        "title": "Partner with us - Astroyogi.com",
+        "headlines": [
+            "Partner With Us",
+            "Astrologers",
+            "International Partners",
+            "Affiliate Program - Astrology",
+            "Co-branding",
+            "Mobile Services",
+            "Advertising",
+            "Talk to Us"
+        ],
+        "paragraphs": [
+            "For all inquiry and offers related to alliances, co-branding, advertising, content syndication; franchisee and services please write to the email id mentioned below, indicating area of interest.",
+            "If you are a qualified astrologer, numerologist, vaastu expert or tarot reader and wish to join the astroyogi app and the talk to astrologers panel, please submit your details here and we will get back to you shortly.",
+            "If you are interested in being a country representative for Astroyogi.com and promoting the Astroyogi brand, products and services in your country, please write to us with a complete profile of your current business establishment, and any other details relevant to your candidature.",
+            "Are you looking for astrology based content for your website? Astroyogi provides both horoscopes based on the sun signs as well as Vedic astrology based on daily planetary movements. We also have a host of other options to choose from.",
+            "If you are a portal looking for a quality astrology channel we can provide you with the same in your look and feel. This of course is only applicable to sites with high traffic such as our co-branding with MSN India and Yahoo! India or other sites with similar traffic.",
+            "Astroyogi provides content to telecom operators across the globe in over 13 languages in a range of services including wap, sms, ivr and ussd",
+            "Astroyogi provides inventory for advertising. You can get in touch with us for tariffs and rates. For Advertising please write to us at :",
+            "Over 1000 Astrologers join us every month. Let’s take it ahead for you.",
+            "Talk to us today. We're here to help."
+        ]
+    },
+    {
+        "from_link_text": "Career",
+        "url": "https://Astroyogi.com/career.aspx",
+        "title": "Career with Astroyogi.com",
+        "headlines": [
+            "Why be part a part of Yogii Tribe?",
+            "Culture at Astroyogi",
+            "What You Will Get",
+            "Life at Astroyogi",
+            "FAQ"
+        ],
+        "paragraphs": [
+            "The Yogi Tribe is a team of creative problem-solvers with a strong entrepreneurial spirit. At Astroyogi, we have a culture that celebrates learning. We also embrace learning from our mistakes and learning from our team members. We embrace inclusion and diversity, and it is an integral part of who we are. Everyone is encouraged to share ideas, experiment and provide us with new ideas.",
+            "Our Culture: Towards a brighter future… When our partners and customers are satisfied, so are we! Astroyogi is helping its partner service providers take their businesses online and find relevant customers to grow & manage their businesses. The work we do helps bring more traditional service providers into the formal economy. We are committed to excellence in service, while striving towards a better and brighter future for everyone involved. Access to traditional services isn’t the only thing we’re changing through our technology. We are building a culture that emphasizes doing right by our partners, end-users, and employees. It is our goal to create a workplace that is inclusive and reflects the diversity of the cities we serve.Environment of Growth and Learning: Astroyogi is a team of creative problem solvers with a strong entrepreneurial spirit. With a culture that celebrates learning, we also embrace learning from our mistakes. We believe that our growth is directly linked to the learning of our team members. Everyone is encouraged to share ideas, to experiment and be enthusiastic in trying something new - in our technological innovation, in our content offerings or in our customer engagement strategies. In short, we are a team of self-starters who have immense ownership of what we put out there.",
+            "At Astroyogi, we strongly believe that happy people are successful people and we have our share of fun too, simply because we have a lot to celebrate! We do not look for season to celebrate but reason to celebrate. We rejoice, rollick, beat the drum, blow off steam by simply having loads of fun, unwinding, entertainment and create games and contests for your company values. The happiness index is a key matrix for us and we never let it come down.",
+            "We offer a variety of roles in technology, content creation, marketing, customer support, astrology, and more. Check our current job openingshere.",
+            "Our hiring process typically involves an initial screening, an interview (or multiple rounds), and a final selection based on skills and experience.",
+            "Astroyogi is a leading astrology platform that fosters innovation, growth, and learning. We offer a dynamic work environment, exciting challenges, and opportunities to make an impact.",
+            "Not necessarily! While astrology knowledge is beneficial for some roles, we also hire experts in technology, marketing, customer service, and other fields.",
+            "Yes! We ensure that new hires receive proper onboarding and training to excel in their roles.",
+            "Yes, we have internship programs in various departments, including content writing, digital marketing, and customer support."
+        ]
+    },
+    {
+        "from_link_text": "Site Map",
+        "url": "https://Astroyogi.com/sitemap.xml",
+        "title": "",
+        "headlines": [],
+        "paragraphs": []
+    },
+    {
+        "from_link_text": "Karma & Destiny",
+        "url": "https://Astroyogi.com/karma-destiny",
+        "title": "Karma and Destiny: We Are One - Astroyogi.com.",
+        "headlines": [
+            "What is Karma & Destiny",
+            "Astroyogi Spreading Smiles"
+        ],
+        "paragraphs": [
+            "Both ‘karma’ and ‘destiny’ are closely intertwined; one cannot be without the other. In our effort to bring a positive karmic footprint, Astroyogi is working with Sumeeka Story, a small group of enthusiastic people working to bring smiles to the lives of underprivileged children and change the ending of their ‘story. We understand at Astroyogi that we each are born of our own karma. At the same time, we must always strive to better our karma by the actions we take. Working with Sumeeka Story is a small and humble step in this direction. What better place to start than young children who are beginning their journey in life.A young child’s life must be filled with childhood joys, and one of the fondest memories of childhood is of a favourite toy or book. Sumeeka Story collects brand new toys and books and distributes them to those children who need them the most. A part of all the sales proceeds from Astroyogi goes towards the Sumeeka Story."
+        ]
+    },
+    {
+        "from_link_text": "Refund Policy",
+        "url": "https://Astroyogi.com/refund-policy",
+        "title": "Refund Policy Astroyogi.com",
+        "headlines": [
+            "Refund Policy"
+        ],
+        "paragraphs": [
+            "All refund requests will only be processed back into the user's Astroyogi Wallet.All sales on the Site/App will be final and will not be refunded into the bank account of the user.",
+            "By requesting a refund, user is agreeing to provide Astroyogi's Quality Audit team permission access the recording of the consultation for which refund has been requested, in order to determine whether the case is fit for refund.",
+            "Astroyogi Audit team's decision on processing the refund is at the sole discretion of the team and such decision is final in nature.",
+            "Astroyogi Audit team will, on a best efforts basis, provide partial/full refunds to users in their Astroyogi Wallet wherever quality parameters have not been satisfied. It can take up-to 24 hours to analyse and refund the amount back to Astroyogi Wallet.",
+            "Refunds into the Astroyogi Wallet will be entertained in the following cases:(a) Disturbance over the call due to weak signal strength, background noise, Partner Astrologer being inaudible, etc.(b) Partner Astrologer is unable to answer fluently in the language mentioned on his/her profile.(c) Partner Astrologer is found to take an inordinately long amount of time to respond to a user's query.(d) Partner Astrologer is found to provide an irrelevant or inappropriate response to the query posed by the user.",
+            "Note:No refund requests will be entertained for lack of accuracy of any consultation. As Astroyogi is an intermediary, Astroyogi takes no responsibility for factual accuracy of any consultation.",
+            "All refund requests have to be placed within 24 hours of consultation.You can write to us atcustomercare@astroyogi.com"
+        ]
+    },
+    {
+        "from_link_text": "Astrology API",
+        "url": "https://Astroyogi.com/astrology-api",
+        "title": "Best Astrology API for Horoscope, Kundli & Zodiac Data | Astroyogi API Guide",
+        "headlines": [
+            "Get Started with the Best Astrology API",
+            "Astro Api",
+            "Introduction to Astrology API",
+            "What is an Astrology API?",
+            "Best Astrology APIs for Developers",
+            "1. Vedic Astrology Support",
+            "2. Horoscope Data",
+            "3. Kundli Reports",
+            "4. Panchang Features",
+            "5. Numerology Data"
+        ],
+        "paragraphs": [
+            "Looking for a reliable Astrology API for horoscope predictions, kundli generation, panchang data, numerology insights, or Vedic astrology integration? Whether you need a vedic astrology api, kundli api, daily horoscope api, panchang api, or numerology api, our experts can help you find the right solution for your business needs.",
+            "In the digital era, astrology platforms, mobile apps, and websites increasingly rely on anAstrology APIto deliver horoscope predictions, kundli analysis, zodiac insights, and personalized astrological reports. Whether you are building a horoscope application, astrology consultation platform, or spiritual wellness website, integrating anastro apican automate complex calculations and provide real-time astrological data.",
+            "A powerfulvedic astrology apihelps developers access planetary positions, birth chart analysis, panchang data, numerology reports, and daily horoscope predictions without manually building complicated astrology engines.",
+            "This guide covers everything you need to know about choosing and integrating thebest astrology apifor your platform.",
+            "Anastrology apiis a software interface that allows applications to access astrology-related data and calculations programmatically. Instead of creating astrology algorithms from scratch, developers can connect to an API to generate horoscope predictions, kundli reports, zodiac compatibility, panchang details, and birth chart analysis instantly.",
+            "Anastro apigenerally provides data such as:",
+            "For businesses, using anindian astrology apisignificantly reduces development time while ensuring accurate Vedic calculations.",
+            "Choosing thebest astrology apidepends on your business needs, supported astrology systems, pricing, and available features.",
+            "Here are important features developers should consider:",
+            "If your audience is based in India, selecting avedic astrology apiis essential. Vedic astrology calculations include:"
+        ]
+    },
+    {
+        "from_link_text": "Media coverage",
+        "url": "https://Astroyogi.com/media-coverage.aspx",
+        "title": "Astroyogi News: Stay Updated on the Latest Company Platform News",
+        "headlines": [],
+        "paragraphs": [
+            "How Astroyogi is blending AI, ecommerce, and spiritual services",
+            "News18 highlights how Astroyogi is shaping the rise of astrology and rituals in modern weddings.",
+            "Exchange4Media highlights why brands are turning to Astroyogi for festive-season spiritual demand.",
+            "Indulge Express features how Astroyogi brings purpose-driven spirituality to wearable jewelry.",
+            "Financial Express B2B highlights Astroyogi’s evolution from consultation to lifestyle retail.",
+            "Astroyogi teams up with Shalini Passi to unveil wellness product ‘Harmony Tree’",
+            "Brands shaping the experience at Maha Kumbh 2025: February 3 round-up",
+            "Astroyogi Unveils Maha Kumbh 2025 Initiatives: Live Streaming, Sacred Rituals & More",
+            "Budget: 5-year extension of incorporation deadline brings cheer to startups",
+            "Post-Budget 2025: Industry Reactions from the Startup Ecosystem"
+        ]
+    },
+    {
+        "from_link_text": "Mobile Apps",
+        "url": "https://Astroyogi.com/mobileapps",
+        "title": "Mobile Apps - Download free Astrology, Horoscope, Tarot, Kundli and Rashifal App",
+        "headlines": [
+            "Astroyogi Mobile Apps",
+            "Astroyogi Astrologer App",
+            "Daily Horoscope App",
+            "Tarot Reading App",
+            "Numerology App",
+            "Palm Reading App",
+            "Rashifal App"
+        ],
+        "paragraphs": [
+            "Astroyogi brings to you 8 dedicated apps for easy and hassle free services. These apps are a quick way for you to check your horoscopes, tarot readings, numerology readings, daily rashifal, palm readings, and much more. Get inclusive and detailed analysis of any and all areas of your concerns and doubts varying from career, finances, love, marriage, and much more. The apps are available for download in both android and iOS formats.",
+            "The Talk to Astrologer app enables a user to talk to any astrologer of their choice present on the Astroyogi platform and discuss in detail about all their problems and concerns.'s",
+            "The Daily Horoscope app is a collection of daily, weekly, monthly and yearly horoscopes of all the zodiac signs.'s",
+            "Tarot Reading app gives insight on what the psychic readings have in store for you.'s",
+            "Numerology app consists of all the aspects considered in astrology based on a person’s ruling number.'s",
+            "Palm Reading app is designed to introduce the users to the art of Palmistry and allow them to have a deep understanding of the lines and the significance that they hold in their hands's",
+            "You can get detailed assay of your daily, weekly monthly and yearly horoscopes on this app in Hindi."
+        ]
+    },
+    {
+        "from_link_text": "Privacy Policy",
+        "url": "https://Astroyogi.com/policy.aspx",
+        "title": "Privacy Policy - Astroyogi.com",
+        "headlines": [
+            "Privacy Policy",
+            "Personal information",
+            "Credit card security",
+            "Advertising",
+            "What you should know",
+            "Your general contact information",
+            "The information user provides us",
+            "Usage information",
+            "Device information",
+            "Location information"
+        ],
+        "paragraphs": [
+            "In order to operate the Site in an efficient and effective manner and provide users with information on astrology services & products that may be of interest to them, Astroyogi.com may collect personal information, including contact information (such as an email address), from its users. In addition, this information allows us to provide users with relevant astrological details. We also automatically track certain information based upon your behavior on the Site and use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve users in general.",
+            "You agree that Astroyogi.com may use your personal information to contact you and deliver information to you that, in some cases, is targeted to your interests or provides administrative notices or communications applicable to your use of the Site. By accepting this Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of any further receipt by following the opt out provisions provided in each such communication.",
+            "We do not sell our users' personal information to anyone for any reason if the user has indicated a desire for us to keep the information private. When placing an order for an astrology service, our users decide for themselves how much contact information they wish to display",
+            "All users should be aware, however, that when they voluntarily display or distribute personal information (such as their email address), that information can be collected and used by others. This may result in unsolicited messages from third parties for which Astroyogi.com is not responsible. Also, you may have arrived at this Web site by following a link from any other affiliate. If so, please be aware that Astroyogi.com may share your information with that affiliate and the affiliate may use the information consistent with its privacy policy instead of this one.",
+            "Astroyogi.com may also disclose specific user information when we determine that such disclosure is necessary to comply with the law, to cooperate with or seek assistance from law enforcement or to protect the interests or safety of Astroyogi.com or other users of the Site. In addition, personal information we have collected may be passed on to a third party in the event of a transfer of ownership or assets or a bankruptcy of Astroyogi.com",
+            "Astroyogi.com employs encryption for secure credit card transactions. At Astroyogi.com, we use 128-bit SSL encryption, the highest level of SSL encryption currently available to consumers. This ensures the safety and security of your credit card transactions. SSL (\"Secure Sockets Layer\") basically means that our server and your browser create and agree on an encryption key that will be used only for that particular session. Once established, this key encrypts all communication between our server and your browser.",
+            "We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information about you and your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services of interest to you.",
+            "Astroyogi.com cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. As a user of the Site, you understand and agree that you assume all responsibility and risk for your use of the Site, the internet generally, and the documents you post or access and for your conduct on and off the Site.",
+            "Logging into Astroyogi.com is always an optional task for you to take, (although logging in does give you access to smarter astrology search tools such as my account, Kundali matcher, my horoscope , Vedic luck)",
+            "Managing your privacy is as simple as selecting which pieces of your contact information are displayed. This is done in the section of the resume form called \"Contact Information.\" Using option 3 above requires that you select the Apply Online Only option from the \"Contact Information\" section at the bottom of the edit form, as shown below."
+        ]
+    },
+    {
+        "from_link_text": "FAQs",
+        "url": "https://Astroyogi.com/faqs",
+        "title": "Astroyogi - Frequently Asked Question",
+        "headlines": [
+            "Frequently Asked Questions"
+        ],
+        "paragraphs": [
+            "You can sign up in 2 easy steps:\nStep 1 - Enter the mobile number you want to register on Astroyogi.\nStep 2 - Enter the OTP that you will receive on the contact number you entered to sign up.\nOnce you have successfully signed up, you can fill in the required details and start consulting India's best astrologers.",
+            "First, sign up on the Astroyogi app by entering your mobile number. Your number will be verified using an OTP, which you will receive via SMS.\nOnce you have signed up, you can talk to an astrologer in 3 easy steps:\nStep 1 - Explore the various expert astrologers available on the Astroyogi platform.\nStep 2 - Select a recharge pack and make payment.\nStep 3 - Click on the call/chat icon to initiate a consultation with an astrologer. If the astrologer is busy, you can join the queue (Queuing option will be available after 3 recharges).",
+            "If you are not receiving the OTP, check the following:",
+            "Meanwhile, you can log in via your registered email ID and password. If you are still not receiving the OTP, write tocustomercare@astroyogi.com.",
+            "Astroyogi services are available in 173 countries. VisitAstroyogior download the app from the Google Play Store or Apple Store to avail the services.",
+            "Astroyogi brings experts in Vedic astrology, Tarot, Numerology, Vastu, and more. They analyze your birth chart, provide guidance, and offer solutions for challenges in your life. Consultations can include predictions, advice on names, Vastu tips, and much more.",
+            "When you join the queue for an astrologer, you can check your queue number and the estimated wait time.",
+            "If the astrologer goes offline, you remain in the queue. When they come back online, you will receive a call/chat request as per your queue number.",
+            "Yes, you can download the \"Astroyogi\" app on the Apple Store and Play Store."
+        ]
+    },
+    {
+        "from_link_text": "T&C",
+        "url": "https://Astroyogi.com/terms-and-conditions.aspx",
+        "title": "Terms and Conditions - Astroyogi.com",
+        "headlines": [
+            "Introduction",
+            "Definition of service",
+            "The expert platform and content made available via the expert platform",
+            "Additional Terms Related to Interactions with Medical Professionals, Mental Health Professionals, Attorneys and other Experts in Fields Requiring Licensure and/or Certification",
+            "Additional terms related to interactions with experts in spirituality & astrology, lifestyle.",
+            "Disclaimer of warranty",
+            "Additional disclaimers",
+            "Limitation of liability",
+            "Member affirmation, conduct and use",
+            "Fees and payment"
+        ],
+        "paragraphs": [
+            "The Astroyogi Terms and Conditions (this 'Agreement') are applicable to all users ('you' and every 'Member') who access and/or use the platform for on-line advice and professional consulting services ('Expert Platform') available atwww.Astroyogi.comand/or Other B2B solutions, mobile applications and websites powered by Astroyogi or Netway (each a 'Site' and collectively the 'Sites').The Sites are currently owned and operated by Netway India Pvt. Ltd ('Astroyogi').You are considered to be a 'Member' if you register to be a member on the Expert Platform and/or on the Sites and your member application is accepted. If you complete the expert application on Expert Platform and/or on the Sites, and your profile has been activated by Astroyogi, then you are considered to be an \"Expert\".This Agreement applies with respect to your or any Member's access and/or use of the Expert Platform regardless of where such Expert Platform is made available.In addition to the Expert Platform being available at the Sites, the Expert Platform, or a portion thereof, may also be made available via third party websites. If you or any Member has accessed the Expert Platform, or any portion thereof, via a website owned, operated, managed, maintained or controlled by a third party, your or any Member's use of such website may be subject to terms and conditions imposed by such third party as well. Astroyogi is not and shall not be responsible or liable for any terms, conditions, policies, acts, omissions etc. of any such third parties.",
+            "YOU AGREE THAT BY USING THE EXPERT PLATFORM YOU ARE AT LEAST 18 YEARS OF AGE AND YOU ARE COMPETENT UNDER LAW TO ENTER INTO A LEGALLY BINDING AND ENFORCEABLE CONTRACT.",
+            "This Agreement sets forth and contains the terms and conditions between you and Astroyogi. By using any portion of the Sites you agree to be bound by this Agreement. It is advisable that you should read this Agreement carefully. In the event, IF YOU DO NOT AGREE TO BE BOUND BY ANY CLAUSE OF THIS AGREEMENT, YOU SHOULD IMMEDIATELY CEASE FROM USING ANY PORTION OF THE SITES. In such a case, you will not be able to register as a Member or otherwise access and/or use the Expert Platform.Astroyogi reserves the right and may modify this Agreement or any part hereof at any time as may be required for the provision of services on the Sites, for complying with the legal and regulatory framework and for other legitimate business purposes. Astroyogi will expend reasonable efforts to inform you of any material change to this Agreement. That said, you as well as every Member is encouraged to check the terms of this Agreement frequently. It is made expressly clear that by continuing to use the Expert Platform and/or the Sites (including maintaining your account) after any modifications have been made to this Agreement , would indicate your and/or the Member's consent to be bound by such modified agreement.",
+            "Astroyogi.comprovides a platform where an Expert may present his or her expertise and sell advice or services to interested Astroyogi users.",
+            "The Expert Platform allows Members to locate an Expert and ask questions or request advice and/or services directly from such an Expert. Astroyogi, via the Expert Platform, enables a Member to negotiate and communicate directly with the Expert; and pay for the services purchased by the Member from such an Expert (each a 'Transaction').Each Member is solely responsible for every Transaction occurring under his or her account. Consequently, you are solely responsible for every Transaction occurring under your account.You acknowledge and agree that Experts are neither employees nor agents nor representatives of Astroyogi, and Astroyogi assumes no responsibility for any act, omission, advice, representation, etc. of any such Expert.As further described in this Agreement, Astroyogi makes no representation or warranty or guarantee whatsoever as to (a) the availability of the Expert Platform and/or the Sites, (b) the accuracy of the Expert Platform and/or the Sites, (c) the willingness or ability of any Expert to give advice, (d) whether you shall find an Expert's advice relevant, useful, accurate or satisfactory, (e) whether the advice of the Expert will be responsive or relevant to the your question, or (f) whether the Expert's advice will otherwise be suitable to the your needs etc.Astroyogi does not verify the skills, degrees, qualifications, credentials, background etc. of any of the Experts. It is strongly recommended that every Member including you independently verify the skills, degrees, qualifications, credentials, background etc. of each Expert from whom he or she receives or contemplates to receive advice or services.The Expert Platform and Sites may contain financial information provided by third parties. Such content is provided for informational purposes only and is not intended, and should not be used, for trade or investment purposes.Furthermore, the Expert Platform and Sites may include bulletin boards which allow Members including you to post questions to Experts regarding various topics and allow Experts to volunteer answers to such questions. AS NOTED IN THIS AGREEMENT, Astroyogi DOES NOT WARRANT THE VALIDITY, ACCURACY, OR AVAILABILITY OF ANY CONTENT OR EXPERT ADVICE PROVIDED AND Astroyogi WILL NOT BE LIABLE FOR ANY DAMAGES SUSTAINED BY MEMBER DUE TO RELIANCE ON ANY SUCH INFORMATION OR ADVICE. IT IS EXPRESSLY STATED THAT Astroyogi MERELY ATTEMPTS TO CREATE A PLATFORM WHEREIN A MEMBER HAS AN OPPORTUNITY TO MEET AN EXPERT AND PLAYS NO ROLE IN THE DISPENSATION OF THE ADVICE ITSELF.Information furnished by Experts is intended for general information purposes or entertainment purposes only. Any consultation with an Expert via the Expert Platform cannot and does not replace a meeting with a professional. Member is encouraged to verify the information furnished by Experts. Any reliance on such information is done at the Member's full and sole risk and liability.",
+            "This section contains terms that are in addition to (and not in lieu of) any other terms appearing in this Agreement.",
+            "If a Member chooses to interact on or through the Expert Platform and/or Sites with any medical professional, mental health professional, physician, attorney or any other Expert in a field requiring licensure and/or certification, the Member's relationship (as with all other Experts) is strictly with the Expert. Astroyogi is not involved in any way with the substance of that relationship or the advice or information given therein, and Astroyogi does not validate the information or advice provided to you by such an Expert.",
+            "The advice or information or representation provided by medical professionals, mental health professionals and physicians is provided for informational purposes only and cannot be considered a substitute for a face-to-face physical examination of the Member by a doctor or other health professional. Members should not rely on or make health decisions based on advice provided by any Expert on the Expert Platform and/or Sites. Astroyogi strongly recommends that a Member seeking medical or mental health advice make an appointment for an examination in person with the Expert or a qualified professional.",
+            "The advice or information provided by attorneys and other Experts in fields requiring licensure and/or certification is provided for informational purposes only and cannot be considered a substitute for an in-person meeting. Astroyogi strongly recommends that a Member seeking such advice make an appointment with the Expert or a qualified professional.",
+            "Astroyogi does not review, endorse, recommend, verify or evaluate, or otherwise provide any warranty or guarantee with respect to, any mental health professional, medical professional, physician, attorney or other professional or Expert on the site. Member understands that it is his or her responsibility to check the certification and/or licensing of the medical professional, mental health professional, physician, attorney or other professional Expert with the applicable state licensing board or authorities in the Expert's state or country."
+        ]
+    }
+]
