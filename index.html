@@ -47,10 +47,46 @@ There is a lot to know about Sthembiso. You can press the history button to know
 		<br><br><br>
 	<footer class="footer" > Thank you for your consideration
 
+	<!-- NEWSLETTER FORM - START -->
+<div class="card" style="margin-top:30px;">
+  <h2 style="font-size:28px; color:#111;">Join Newsletter</h2>
+  <p style="color:#444; margin:10px 0 20px;">New music, videos & updates first. No spam.</p>
 
-		</footer>
+  <form id="newsletter-form">
+    <input type="text" id="sub-name" placeholder="Your name" required>
+    <input type="email" id="sub-email" placeholder="Your email" required>
+    <button type="submit" class="btn" id="sub-btn" style="border:none; width:100%; cursor:pointer;">Subscribe</button>
+  </form>
+
+  <div id="sub-msg" style="margin-top:15px; font-weight:bold; min-height:20px;"></div>
+</div>
+
+<style>
+  #newsletter-form input{
+    width:100%;
+    padding:14px;
+    margin:8px 0;
+    border-radius:12px;
+    border:1px solid #ddd;
+    background:#fff;
+    color:#111;
+    font-size:16px;
+    box-sizing:border-box;
+    outline:none;
+  }
+  #newsletter-form input:focus{ border-color:#111; }
+</style>
+<!-- NEWSLETTER FORM - END -->
+
+	</footer>
+
 	<script src="Eiygent.js">
 		</script>
+
+	<script src="form.js">
+		</script>
+
+
 	</body>
 
 </html>
