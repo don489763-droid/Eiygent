@@ -46,47 +46,36 @@ There is a lot to know about Sthembiso. You can press the history button to know
 				
 		<br><br><br>
 	<footer class="footer" > Thank you for your consideration
-
-	<!-- NEWSLETTER FORM - START -->
-<div class="card" style="margin-top:30px;">
-  <h2 style="font-size:28px; color:#111;">Join Newsletter</h2>
-  <p style="color:#444; margin:10px 0 20px;">New music, videos & updates first. No spam.</p>
-
-  <form id="newsletter-form">
-    <input type="text" id="sub-name" placeholder="Your name" required>
-    <input type="email" id="sub-email" placeholder="Your email" required>
-    <button type="submit" class="btn" id="sub-btn" style="border:none; width:100%; cursor:pointer;">Subscribe</button>
+		<!-- NEWSLETTER IN FOOTER -->
+<div style="margin-top:20px; padding-top:20px; border-top:1px solid #333; text-align:center;">
+  <h3 style="margin:0 0 8px 0; font-size:18px; color:#fff;">Join the YinYang Newsletter</h3>
+  <p style="margin:0 0 12px 0; font-size:13px; color:#aaa;">Balance, peace & new drops. No spam.</p>
+  
+  <form id="newsletterForm" style="display:flex; gap:8px; max-width:380px; margin:0 auto; flex-wrap:wrap; justify-content:center;">
+    <input type="email" id="newsletterEmail" placeholder="Your email" required
+      style="flex:1; min-width:200px; padding:11px 14px; border-radius:25px; border:1px solid #444; background:#111; color:#fff; outline:none;">
+    <button type="submit"
+      style="padding:11px 20px; border-radius:25px; border:none; background:#fff; color:#000; font-weight:bold; cursor:pointer;">
+      Subscribe
+    </button>
   </form>
-
-  <div id="sub-msg" style="margin-top:15px; font-weight:bold; min-height:20px;"></div>
+  <p id="newsletterMsg" style="font-size:13px; color:#7CFC00; margin-top:10px; display:none;">Thanks! You're in ☯️</p>
 </div>
 
-<style>
-  #newsletter-form input{
-    width:100%;
-    padding:14px;
-    margin:8px 0;
-    border-radius:12px;
-    border:1px solid #ddd;
-    background:#fff;
-    color:#111;
-    font-size:16px;
-    box-sizing:border-box;
-    outline:none;
-  }
-  #newsletter-form input:focus{ border-color:#111; }
-</style>
-<!-- NEWSLETTER FORM - END -->
+<script>
+document.getElementById('newsletterForm').addEventListener('submit', function(e){
+  e.preventDefault();
+  var email = document.getElementById('newsletterEmail').value;
+  // Save it in browser for now
+  localStorage.setItem('yinyang_subscriber', email);
+  document.getElementById('newsletterMsg').style.display = 'block';
+  document.getElementById('newsletterEmail').value = '';
+});
+</script>
 
-	</footer>
-
+		</footer>
 	<script src="Eiygent.js">
 		</script>
-
-	<script src="form.js">
-		</script>
-
-
 	</body>
 
 </html>
