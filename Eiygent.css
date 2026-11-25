@@ -38,7 +38,7 @@ body {
 }
 p {
   background: rgba(128, 128, 128, 0.3);
-  color: #F5F5F5
+  color: #F5F5F5;
   margin-bottom: 20px;
   background-size: cover;
 }
@@ -63,7 +63,6 @@ h1, header, .header {
   backdrop-filter: blur(10px);
   margin-bottom: 20px;
 }
-
 
 .profile {
   width: 120px;
