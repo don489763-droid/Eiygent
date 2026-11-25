@@ -30,8 +30,17 @@
 Natal Spruit was located at Gauteng. He then grew up at KwaNongoma at KwaZulu Natal where his mother was born at.
 Sthembiso never went to pre-school but started school at Holinyoka Combined Primary School.
 "I started from grade 1 and took 13 years to finish school but I have never failed." Sthembiso said.
-There is a lot to know about Sthembiso. You can press the history button to know more</p>		<q class="btn" href="History.html">History</q>	
+There is a lot to know about Sthembiso. You can press the history button to know more</p>		
+<q class="btn" href="History.html">History</q>	
 
+<p class="card">Nothing impresses me like living in an invironment that is full of technology.
+That is why I alway keep myself updated on <a href="tech.html"> technology news.</a>
+<br> <a href="tech.html" class="btn">Tech-News</a></p>
+
+
+	
+
+	<personal class="card">
 		<br>
 		<p> Please refresh this page to see what new</p>
 			<br><br>
@@ -40,37 +49,18 @@ There is a lot to know about Sthembiso. You can press the history button to know
 		<a class="btn" href="author.html">AUTHOR</a>
 		<a class="btn" href="contact.html">Contact Now</a>
 		
+	</personal>
 
 				
 		<br><br><br>
 	<footer class="footer" > Thank you for your consideration
-		<!-- NEWSLETTER IN FOOTER -->
-<div style="margin-top:20px; padding-top:20px; border-top:1px solid #333; text-align:center;">
-  <h3 style="margin:0 0 8px 0; font-size:18px; color:#fff;">Join the YinYang Newsletter</h3>
-  <p style="margin:0 0 12px 0; font-size:13px; color:#aaa;">Balance, peace & new drops. No spam.</p>
-  
-  <form id="newsletterForm" style="display:flex; gap:8px; max-width:380px; margin:0 auto; flex-wrap:wrap; justify-content:center;">
-    <input type="email" id="newsletterEmail" placeholder="Your email" required
-      style="flex:1; min-width:200px; padding:11px 14px; border-radius:25px; border:1px solid #444; background:#111; color:#fff; outline:none;">
-    <button type="submit"
-      style="padding:11px 20px; border-radius:25px; border:none; background:#fff; color:#000; font-weight:bold; cursor:pointer;">
-      Subscribe
-    </button>
-  </form>
-  <p id="newsletterMsg" style="font-size:13px; color:#7CFC00; margin-top:10px; display:none;">Thanks! You're in ☯️</p>
-</div>
-
-<script>
-document.getElementById('newsletterForm').addEventListener('submit', function(e){
-  e.preventDefault();
-  var email = document.getElementById('newsletterEmail').value;
-  // Save it in browser for now
-  localStorage.setItem('yinyang_subscriber', email);
-  document.getElementById('newsletterMsg').style.display = 'block';
-  document.getElementById('newsletterEmail').value = '';
-});
-</script>
-
+		<form id="newsletter-form">
+  <input id="sub-name" type="text" placeholder="Your name" required>
+  <input id="sub-email" type="email" placeholder="Your email" required>
+  <button id="sub-btn" type="submit">Subscribe</button>
+  <p id="sub-msg"></p>
+</form>
+<script src="form.js"></script>
 		</footer>
 	<script src="Eiygent.js">
 		</script>

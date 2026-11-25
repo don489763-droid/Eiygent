@@ -1,1388 +1,3071 @@
 super_data = [
     {
         "from_link_text": "Skip to content",
-        "url": "http://taoism.net#main",
-        "title": "Taoism.net",
+        "url": "https://tattoobuild.com#main",
+        "title": "Tattoo Build: AI Tattoo Generator (Get Your Custom Design!)",
         "headlines": [
-            "Primary menu"
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "AI tattoo generator:Idea in.Stencilout.",
+            "Fresh from the studio",
+            "Four ways to take your design to your artist",
+            "Design sheet",
+            "Stencil / line art",
+            "Transparent PNG",
+            "Skin try-on",
+            "How the AI tattoo generator works"
         ],
         "paragraphs": [
-            "Taoism.net"
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Describe your idea. Explore the details, then take a design sheet or stencil to your tattoo artist.",
+            "Made in the studio",
+            "We made these in the studio ourselves, and each one sits above the exact idea we typed. Open one to see its settings, or tap Use this idea to start from it.",
+            "What you can make",
+            "Pick the one you need when you design, then turn the same design into any of the others in the studio.",
+            "Your design on clean white, laid out the way a flash sheet would show it. This is the one to put in front of your artist.",
+            "The outlines pulled away from the shading, so you can judge the linework on its own. Most artists redraw the stencil to fit your body, and that's how it should be.",
+            "The design with no background, ready to drop onto your own photos, a mood board or a phone wallpaper.",
+            "Upload a photo of the forearm, back or ankle you have in mind and see the design placed on it. It's a preview of size and position, not a promise of how healed ink will look. Try-on needs a free account."
+        ]
+    },
+    {
+        "from_link_text": "Tattoo BuildAI Generator",
+        "url": "https://tattoobuild.com/",
+        "title": "Tattoo Build: AI Tattoo Generator (Get Your Custom Design!)",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "AI tattoo generator:Idea in.Stencilout.",
+            "Fresh from the studio",
+            "Four ways to take your design to your artist",
+            "Design sheet",
+            "Stencil / line art",
+            "Transparent PNG",
+            "Skin try-on",
+            "How the AI tattoo generator works"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Describe your idea. Explore the details, then take a design sheet or stencil to your tattoo artist.",
+            "Made in the studio",
+            "We made these in the studio ourselves, and each one sits above the exact idea we typed. Open one to see its settings, or tap Use this idea to start from it.",
+            "What you can make",
+            "Pick the one you need when you design, then turn the same design into any of the others in the studio.",
+            "Your design on clean white, laid out the way a flash sheet would show it. This is the one to put in front of your artist.",
+            "The outlines pulled away from the shading, so you can judge the linework on its own. Most artists redraw the stencil to fit your body, and that's how it should be.",
+            "The design with no background, ready to drop onto your own photos, a mood board or a phone wallpaper.",
+            "Upload a photo of the forearm, back or ankle you have in mind and see the design placed on it. It's a preview of size and position, not a promise of how healed ink will look. Try-on needs a free account."
+        ]
+    },
+    {
+        "from_link_text": "Explore",
+        "url": "https://tattoobuild.com/images/explore/",
+        "title": "AI Tattoo Designs Gallery - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Explore AI tattoo designs",
+            "Made by the TattooBuild team",
+            "More from Explore",
+            "Your idea, drawnyour way",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Public designs made in the studio, by TattooBuild users and by our own team. Open one to see the idea and settings behind it.",
+            "See one you like? Start the studio from its idea, or describe your own.Your first design is free. Verify your email. No card needed.",
+            "65designs· page 1 of 2",
+            "A panther's head tearing through the skin, mouth open, claws gripping the edges",
+            "A peony in full bloom with two buds and curling leaves",
+            "A hannya mask wreathed in chrysanthemums, with wind bars sweeping behind it",
+            "A barn owl framed by an open pocket watch and peonies, with amber eyes and richly layered feathers",
+            "A koi swimming upstream through crashing waves, maple leaves floating on the water",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "How it works",
+        "url": "https://tattoobuild.com/how-to-use/",
+        "title": "How to Use TattooBuild's AI Tattoo Generator - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "How to use TattooBuildOne sentence.Two taps.",
+            "Three steps",
+            "Describe it",
+            "Pick a style and a spot",
+            "Press Generate",
+            "What one sentence gets you",
+            "Then make it yours",
+            "Prompt tips that work"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "No drawing, no settings to learn.Type the tattoo you keep picturing, tap a style, press Generate. In Fast mode you have a clean design sheet10⁠–⁠25 secondslater, and you can turn it into a stencil or try it on your skin. No drawing, no settings to learn.",
+            "A moth with a skull on its back",
+            "That's the whole thing",
+            "Everything else in the studio is optional. You can stop after step three.",
+            "One sentence: what it is, plus a detail that makes it yours. Plain words are fine.",
+            "Two taps, or leave both on Auto and let the idea decide. The spot sets the shape, tall for a forearm, wide for a chest.",
+            "Fast mode draws it in10⁠–⁠25 seconds. A stencil or transparent PNG of it is one more tap, and one more design.",
+            "Made in the studio",
+            "We made every one of these in the TattooBuild studio. Under each is exactly what we typed and the settings we picked. Tap Use this idea to start from it."
+        ]
+    },
+    {
+        "from_link_text": "Pricing",
+        "url": "https://tattoobuild.com/pricing/",
+        "title": "Pricing: AI Tattoo Design Plans - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Find the right design for your next tattoo",
+            "Starter",
+            "Pro",
+            "Studio",
+            "See what you can take to your artist",
+            "Buy more designs",
+            "25designs",
+            "75designs"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Explore ideas, refine the details and bring a clear brief to your tattoo artist. Every plan includes Detail mode and all editing tools.",
+            "Pay monthly. Your design allowance refreshes every month.",
+            "Work out one tattoo.",
+            "US$9.99/ month",
+            "Billed monthly",
+            "50 designs a month",
+            "Recommended",
+            "Explore, refine and find your design.",
+            "US$14.99/ month"
+        ]
+    },
+    {
+        "from_link_text": "Design your tattooDesign",
+        "url": "https://tattoobuild.com/studio/?from=nav",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "All tattoo ideas",
+        "url": "https://tattoobuild.com/tattoos/",
+        "title": "Tattoos Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Tattoo ideas",
+            "20 DNA Tattoo Ideas for Science and Personal Stories",
+            "21 Chihuahua Tattoo Ideas, From Tiny Outlines to Pet Portraits",
+            "20 Icarus Tattoo Ideas, From Winged Figures to Sun Emblems",
+            "24 Honeycomb Tattoo Ideas, From Fine Lines to Floral Panels",
+            "23 Odin Tattoo Ideas, From Raven Portraits to Wanderer Emblems",
+            "18 Poseidon Tattoo Ideas, From Portraits to Sea Emblems",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 455 articles",
+            "Every tattoo idea on TattooBuild in one place. Browse by meaning, style or placement, and open the ideas in the studio to make them yours.",
+            "Design your own tattoo",
+            "Made in the studio from “A barn owl framed by an open pocket watch and peonies, with amber eyes and richly layered feathers”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Explore 20 DNA tattoo ideas with on-skin mockups, from simple double helices to botanical and geometric designs, with placement and personalization tips.",
+            "Daniel23 Nov 20269min read",
+            "Explore 21 Chihuahua tattoo ideas with on-skin mockups, from simple outlines and pet portraits to floral designs, plus practical placement tips.",
+            "Daniel22 Nov 20268min read"
+        ]
+    },
+    {
+        "from_link_text": "Floral",
+        "url": "https://tattoobuild.com/floral/",
+        "title": "Floral Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Floral tattoo ideas",
+            "40 Lotus Flower Tattoo Designs for Women",
+            "Nature Tattoo For Men",
+            "Masculine Flower Tattoo: 15 Amazing Ideas",
+            "Rose Tattoo on The Hand For Men: 15 Best Ideas",
+            "Rose Tattoo on Arm for Guys: Stunning Designs",
+            "Meaning of Rose Tattoo on Hand",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 75 articles",
+            "Roses, lotuses, peonies, tulips and wildflowers, with what each bloom carries and how linework, shading and colour change it. The biggest garden on the site.",
+            "Design your own floral tattoo",
+            "Made in the studio from “A peony in full bloom with two buds and curling leaves”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "A lotus is one of the few tattoo subjects that works just as well at two inches as it does…",
+            "Mkpoikana Otu17 Sep 202613min read",
+            "A nature tattoo for men is one of the few design choices that almost never dates, because mountains, trees and…",
+            "Mkpoikana Otu15 Sep 202613min read"
+        ]
+    },
+    {
+        "from_link_text": "Animals",
+        "url": "https://tattoobuild.com/animals/",
+        "title": "Animals Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Animal tattoo ideas",
+            "16 Panda Tattoo Ideas from Simple Faces to Bamboo Scenes",
+            "16 Otter Tattoo Ideas from Riverbank to Ocean",
+            "What Does Fox Tattoo Mean?",
+            "Elephant Tattoos For Females",
+            "Wolf Dagger Tattoo Meaning and Ideas",
+            "Rooster Tattoo Meaning and Design Ideas",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 57 articles",
+            "Wolves, foxes, owls, swallows and the rest of the menagerie, with what each animal tends to mean and how it sits on the body. Find the one that feels like you, then draw your own.",
+            "Design your own animal tattoo",
+            "Made in the studio from “A wolf's head built from triangles and fine linework, one half realistic and the other pure geometry”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Explore 16 panda tattoo ideas, from simple faces and geometric portraits to bamboo scenes, with practical advice on pose, markings and placement.",
+            "Daniel29 Oct 202610min read",
+            "Explore 16 otter tattoo ideas, from minimalist river otters to floating sea otters, with placement, style and personalization tips.",
+            "Daniel26 Oct 202611min read"
+        ]
+    },
+    {
+        "from_link_text": "Nature",
+        "url": "https://tattoobuild.com/nature/",
+        "title": "Nature Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Nature tattoo ideas",
+            "16 River Tattoo Ideas from Minimal Lines to Landscapes",
+            "Wave Moon Tattoo Meaning & Design Ideas",
+            "20 Fern Tattoo Ideas for Nature Lovers Who Want Something Unique",
+            "21 Turtle Tattoo Ideas That Celebrate Patience, Wisdom and Longevity",
+            "20 Whale Tattoo Ideas for Deep Thinkers and Ocean Dreamers",
+            "20 Cactus Tattoo Ideas for the Desert Lovers and Free Spirits",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 31 articles",
+            "Mountains, ferns, waves, whales, turtles and cacti: the outdoors in ink. Ideas for people who'd rather be outside, and what each piece of nature tends to mean.",
+            "Design your own nature tattoo",
+            "Made in the studio from “A dandelion clock with its seeds blowing away and turning into small birds, in soft yellow and sky blue”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Explore 16 river tattoo ideas, from simple bends and joining streams to canyon, forest and canoe scenes, with placement and map-reference tips.",
+            "Daniel27 Oct 202610min read",
+            "The first wave moon tattoo I ever watched being tattooed took four hours, and almost two of those went into…",
+            "Mkpoikana Otu16 Sep 202613min read"
+        ]
+    },
+    {
+        "from_link_text": "Meaningful",
+        "url": "https://tattoobuild.com/meaningful-tattoos/",
+        "title": "Meaningful Tattoos Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Meaningful tattoo ideas",
+            "What Does a Butterfly Tattoo Mean? Symbolism and Style Guide",
+            "18 Spiritual Tattoo Ideas for Women Who Carry Their Faith in Ink",
+            "17 Mother Son Tattoo Ideas for Moms Who Want to Carry Their Boys",
+            "18 RIP Tattoo Ideas That Honour Someone You Have Lost",
+            "19 Libra Tattoo Ideas for the Balanced and Beautiful Libra in Your Life",
+            "20 Hope Tattoo Ideas to Remind You to Keep Going",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 44 articles",
+            "Memorials, family, faith, hope and the places that changed you. These are ideas for tattoos that carry a story, and for finding a shape that holds it.",
+            "Design your own meaningful tattoo",
+            "Made in the studio from “An old pocket watch stopped at 4:17, its glass cracked, a single rose lying across the face”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Butterfly tattoos mean far more than transformation. A breakdown of the symbolism, cultural meanings, colour choices and placements behind the design.",
+            "Daniel14 Sep 202614min read",
+            "Discover 18 spiritual tattoo ideas for women from lotus flowers and hamsa hands to mandalas, evil eye designs, chakra symbols, and sacred geometry tattoos.",
+            "Daniel14 Sep 202617min read"
+        ]
+    },
+    {
+        "from_link_text": "Men's",
+        "url": "https://tattoobuild.com/mens-tattoos/",
+        "title": "Mens Tattoos Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Men's tattoo ideas",
+            "Masculine Flower Tattoo: 15 Amazing Ideas",
+            "18 Viking Tattoo Ideas for Men Who Carry the Norse Spirit",
+            "17 Outer Bicep Tattoo Ideas for Men Who Want Strong Upper Arm Ink",
+            "18 Polynesian Tattoo Ideas for Men Drawn to Pacific Heritage",
+            "18 Floral Sleeve Tattoo Ideas for Men Who Want Bold Botanical Ink",
+            "19 Floral Forearm Tattoo Ideas for Men Who Embrace Bold Beauty",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 47 articles",
+            "Forearms, biceps, sleeves and first pieces, from Viking and Polynesian work to bold botanicals. Ideas sized for where men most often get tattooed, with what each one means.",
+            "Design your own tattoo for men",
+            "Made in the studio from “A panther's head tearing through the skin, mouth open, claws gripping the edges”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "A flower tattoo on a man is not a soft choice — done with the right line weight and scale,…",
+            "Mkpoikana Otu15 Sep 202612min read",
+            "Explore 18 Viking tattoo ideas for men from Vegvisir and Helm of Awe to Odin, Yggdrasil, runes, and Norse mythology scenes in blackwork and realism styles.",
+            "Daniel14 Sep 202616min read"
+        ]
+    },
+    {
+        "from_link_text": "Women's",
+        "url": "https://tattoobuild.com/womens-tattoos/",
+        "title": "Womens Tattoos Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Women's tattoo ideas",
+            "17 Ankle Bracelet Tattoo Ideas for Women Who Want Permanent Jewellery",
+            "18 Spiritual Tattoo Ideas for Women Who Carry Their Faith in Ink",
+            "21 Jewelry Tattoo Ideas for Women That Look Like Real Accessories",
+            "20 Dragon Tattoo Ideas for Women Who Are Fierce and Fearless",
+            "21 Small Neck Tattoo Ideas for Women That Are Dainty and Daring",
+            "19 Tribal Tattoo Ideas for Women That Honour Cultural Roots",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 42 articles",
+            "Ankle bracelets, dainty neck pieces, butterflies, dragons and spiritual symbols. Ideas for every size and placement, with what each one carries.",
+            "Design your own tattoo for women",
+            "Made in the studio from “A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Discover 17 ankle bracelet tattoo ideas for women from delicate chain and gemstone designs to floral garlands, wave patterns, and minimal fine line ankle bands.",
+            "Daniel14 Sep 202616min read",
+            "Discover 18 spiritual tattoo ideas for women from lotus flowers and hamsa hands to mandalas, evil eye designs, chakra symbols, and sacred geometry tattoos.",
+            "Daniel14 Sep 202617min read"
+        ]
+    },
+    {
+        "from_link_text": "Minimalist",
+        "url": "https://tattoobuild.com/minimalist-tattoo/",
+        "title": "Minimalist Tattoo Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Minimalist tattoo ideas",
+            "17 Triangle Tattoo Ideas for Those Who Think in Shapes",
+            "20 Single Line Tattoo Ideas That Are Minimal, Clean and Modern",
+            "20 Linework Tattoo Ideas That Turn Simple Lines Into Stunning Art",
+            "20 Necklace Tattoo Ideas That Look Like Real Jewelry on Skin",
+            "21 Micro Tattoo Ideas That Prove Small Can Be Extraordinary",
+            "22 Tiny Wrist Tattoo Ideas for Women That Are Subtle and Sweet",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 8 articles",
+            "Single lines, tiny shapes and micro tattoos that say a lot with very little. Each one shows what holds up small and what needs a little more room.",
+            "Design your own minimalist tattoo",
+            "Made in the studio from “A paper plane whose dotted flight path loops once and ends in a small heart”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Explore 17 triangle tattoo ideas from simple geometric outlines and sacred geometry to mountain triangles, alchemical symbols, and trinity knot designs.",
+            "Daniel13 Sep 202615min read",
+            "Discover 20 single line tattoo ideas from continuous line portraits and minimalist landscapes to abstract gestures and geometric forms in this clean modern style.",
+            "Daniel12 Sep 202614min read"
+        ]
+    },
+    {
+        "from_link_text": "Celestial",
+        "url": "https://tattoobuild.com/celestial-tattoos/",
+        "title": "Celestial Tattoos Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Celestial tattoo ideas",
+            "20 Space Tattoo Ideas for Dreamers Who Are Always Looking Up",
+            "20 Shooting Star Tattoo Ideas That Capture a Moment of Wonder",
+            "20 Moon Phase Tattoo Ideas for Those Drawn to Lunar Magic",
+            "19 Galaxy Tattoo Ideas for Dreamers Drawn to the Cosmos",
+            "21 Celestial Tattoo Ideas for People Who Find Meaning in the Sky",
+            "22 Sun and Moon Tattoo Ideas That Balance Light, Dark and Everything Between",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 7 articles",
+            "Suns, moons, stars and constellations: the oldest things people have looked up at, and some of the most personal to wear. Ideas, meanings and placements for every phase.",
+            "Design your own celestial tattoo",
+            "Made in the studio from “A sun and a crescent moon overlapping, shaded entirely in stippled dots that fade from dark to light”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Explore 20 space tattoo ideas from realistic nebulae and planets to minimalist constellation tattoos and astronaut designs for those drawn to the infinite cosmos.",
+            "Daniel13 Sep 202612min read",
+            "Explore 20 shooting star tattoo ideas from delicate fine line streaks to bold neo-traditional compositions, covering symbolism, placement, and style options.",
+            "Daniel12 Sep 202612min read"
+        ]
+    },
+    {
+        "from_link_text": "Mythology",
+        "url": "https://tattoobuild.com/mythology-tattoos/",
+        "title": "Mythology Tattoos Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Mythology tattoo ideas",
+            "16 Freya Tattoo Ideas with Cats, Cloaks and Gold",
+            "18 Viking Tattoo Ideas for Men Who Carry the Norse Spirit",
+            "20 Ganesha Tattoo Ideas That Celebrate Wisdom and New Beginnings",
+            "19 Grim Reaper Tattoo Ideas for Those Who Embrace the Dark Side",
+            "20 Day of the Dead Tattoo Ideas That Honor Tradition and Beauty",
+            "20 Chrysanthemum Tattoo Ideas That Blend Eastern and Western Beauty",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 9 articles",
+            "Greek, Norse, Hindu and Mexican traditions, from gods and reapers to Ganesha and the Day of the Dead. Stories that outlived empires, and how to wear them with respect.",
+            "Design your own mythology tattoo",
+            "Made in the studio from “A hannya mask wreathed in chrysanthemums, with wind bars sweeping behind it”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Explore 16 Freya tattoo ideas with goddess portraits, cats, feather cloaks and necklace motifs, plus source notes and placement tips.",
+            "Daniel26 Oct 202611min read",
+            "Explore 18 Viking tattoo ideas for men from Vegvisir and Helm of Awe to Odin, Yggdrasil, runes, and Norse mythology scenes in blackwork and realism styles.",
+            "Daniel14 Sep 202616min read"
+        ]
+    },
+    {
+        "from_link_text": "Drawings",
+        "url": "https://tattoobuild.com/drawings/",
+        "title": "Drawings Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Tattoo drawings",
+            "Clock Tattoo Drawings Design Ideas",
+            "Half Sleeve Tattoo Drawings (Unique Design Ideas)",
+            "Female Classy Half Sleeve Tattoo Drawings",
+            "Female Classy Half Sleeve Tattoo Drawings (Best Ideas)",
+            "Hummingbird Tattoo Drawings",
+            "Skull Rose Tattoo Drawing Ideas",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 15 articles",
+            "Drawn-out designs for clocks, skulls, angels, hummingbirds and half sleeves, to study before anything goes near your skin. Good for seeing how an idea holds together on paper first.",
+            "Design your own tattoo drawing",
+            "Made in the studio from “A tiny house inside a teacup, smoke curling from its chimney and a moon overhead, drawn like an old storybook etching”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "I have been collecting and redrawing clock designs for years, and the same thing happens every time someone brings one…",
+            "Daniel4 Sep 202613min read",
+            "A half sleeve lives or dies at the drawing stage, long before a needle touches skin. I have watched more…",
+            "Mkpoikana Otu2 Sep 202611min read"
+        ]
+    },
+    {
+        "from_link_text": "Tattoo guidesPain, cost, aftercare, age rules",
+        "url": "https://tattoobuild.com/tattoo-guides/",
+        "title": "Tattoo Guides Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Tattoo guides",
+            "How Does Tattoo Removal Work? Lasers, Pain and Results",
+            "Does Kristen Bell Have Tattoos? The Truth Behind the Video",
+            "How Old Do You Have to Be to Get a Tattoo? State by State",
+            "Do Tattoos Cause Cancer? What the Research Actually Shows",
+            "How to Remove Temporary Tattoos: Fast, Safe Methods",
+            "How Much Does It Cost for Laser Tattoo Removal?",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 49 articles",
+            "Straight answers before and after the needle: age rules, pain, size, cost, aftercare, removal and every style explained. Read these before you book.",
+            "Design your own first tattoo",
+            "Made in the studio from “Two mountain peaks in a single continuous line, a small sun resting between them”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Learn how laser tattoo removal works, whether it hurts, why results vary, and what to ask about appointments, risks and aftercare.",
+            "Daniel25 Oct 20265min read",
+            "No, Kristen Bell does not have real tattoos. Here is where the viral 214-tattoo claim came from, what was in the 2012 sketch, and the one she wants.",
+            "Daniel6 Oct 20265min read"
+        ]
+    },
+    {
+        "from_link_text": "Idea generatorNot sure yet? Start here",
+        "url": "https://tattoobuild.com/tattoo-idea-generator/",
+        "title": "Tattoo Idea Generator: Find Your Next Tattoo - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Tattoo idea generator:For when you know the feeling but not the picture",
+            "Ideas to start from",
+            "Five questions that find a tattoo",
+            "Ideas by theme",
+            "Meaningful",
+            "Animals",
+            "Floral",
+            "Celestial"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Most tattoos start as a feeling. You know it's for your sister, or that it should feel like the lake you grew up on, or that you want something bold on your forearm before summer. What you can't do yet is see it.",
+            "This page is for that stage. Pick what you're drawn to and how it should feel, or ask for a random idea, and TattooBuild finds ideas to start from. Draw the one that speaks to you and change the rest.",
+            "Pick one from each row, or none, then ask for ideas.",
+            "Butterfly skull tattoo blending delicate butterfly wings with a human skull on the forearm",
+            "Snake small neck tattoo curling behind the ear",
+            "Delicate black fine-line lotus flower tattoo on a woman's forearm",
+            "Female half sleeve tattoo drawing with flowing floral linework wrapping the upper arm",
+            "Wave moon tattoo blending rolling ocean waves with a crescent moon",
+            "Single fine line shooting star tattoo on the inner wrist with a thin trailing tail"
+        ]
+    },
+    {
+        "from_link_text": "All articlesNewest first",
+        "url": "https://tattoobuild.com/blog/",
+        "title": "Tattoo Ideas & Guides - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Tattoo ideasand guides",
+            "Browse by theme",
+            "Tattoo ideas",
+            "Floral",
+            "Animals",
+            "Guides",
+            "Men's",
+            "Meaningful"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "The ideas library",
+            "748 tattoo ideas and guides, newest first: meanings, placements and dozens of photos per idea, plus straight answers on pain, cost and aftercare.",
+            "Got an idea? Design it freeFirst design free · verified account · no card",
+            "Explore 20 DNA tattoo ideas with on-skin mockups, from simple double helices to botanical and geometric designs, with placement and personalization tips.",
+            "Daniel23 Nov 20269min read",
+            "Also new",
+            "Daniel22 Nov 20267min read",
+            "Daniel22 Nov 20268min read",
+            "Daniel21 Nov 20266min read"
+        ]
+    },
+    {
+        "from_link_text": "Got an idea?Design your ownDescribe it in a sentence and get a design you can take to your artist.Open the studio",
+        "url": "https://tattoobuild.com/studio/?from=mega",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "Browse designs in Explore",
+        "url": "https://tattoobuild.com/images/explore/",
+        "title": "AI Tattoo Designs Gallery - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Explore AI tattoo designs",
+            "Made by the TattooBuild team",
+            "More from Explore",
+            "Your idea, drawnyour way",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Public designs made in the studio, by TattooBuild users and by our own team. Open one to see the idea and settings behind it.",
+            "See one you like? Start the studio from its idea, or describe your own.Your first design is free. Verify your email. No card needed.",
+            "65designs· page 1 of 2",
+            "A panther's head tearing through the skin, mouth open, claws gripping the edges",
+            "A peony in full bloom with two buds and curling leaves",
+            "A hannya mask wreathed in chrysanthemums, with wind bars sweeping behind it",
+            "A barn owl framed by an open pocket watch and peonies, with amber eyes and richly layered feathers",
+            "A koi swimming upstream through crashing waves, maple leaves floating on the water",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "Made in the studioA moth with a skull on its back",
+        "url": "https://tattoobuild.com/images/cf5Aae/view/",
+        "title": "A moth with a skull on its back - AI Tattoo Design - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "A moth with a skull on its back",
+            "Report this design",
+            "Related tattoo ideas",
+            "More designs like this",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "A moth with a skull on its back",
+            "This design was made with TattooBuild's AI tattoo generator. Take it to a tattoo artist as a starting point; they'll adapt it to your skin and placement.",
+            "Elegant black and gray linework tattoo of a lotus flower centered on the spine, with ornamental details extending vertically up the nape of the neck and down the upper back. Symmetrical fine lines, soft shading, delicate mandala-inspired accents with dots and leaves. Minimal yet intricate, graceful and feminine style.",
+            "Floral arm sleeve with a compass tattoo design on a bright-white paper background, modern, realistic",
+            "Sugar skull with blowing smoke out her mouth",
+            "a floral tattoo design thigh, on white paper background",
+            "a floral compass tattoo design, lightly shaded on white paper background",
+            "a lion tattoo design on a white paper background",
+            "an hourglass tattoo design on a white paper background"
+        ]
+    },
+    {
+        "from_link_text": "No.01",
+        "url": "https://tattoobuild.com/images/Dl8UBV/view/",
+        "title": "A panther's head tearing through the skin, mouth - AI Tattoo Design - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "A panther's head tearing through the skin",
+            "Report this design",
+            "Related tattoo ideas",
+            "More designs like this",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "A panther's head tearing through the skin, mouth open, claws gripping the edges",
+            "This design was made with TattooBuild's AI tattoo generator. Take it to a tattoo artist as a starting point; they'll adapt it to your skin and placement.",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow",
+            "A tiny house inside a teacup, smoke curling from its chimney and a moon overhead, drawn like an old storybook etching",
+            "A wolf's head built from triangles and fine linework, one half realistic and the other pure geometry",
+            "A koi swimming upstream through crashing waves, maple leaves floating on the water",
+            "A barn owl framed by an open pocket watch and peonies, with amber eyes and richly layered feathers",
+            "A raven with wings spread, filled solid black, a crescent moon cut out of its chest in bare skin",
+            "Sugar skull with blowing smoke out her mouth"
+        ]
+    },
+    {
+        "from_link_text": "Use this idea",
+        "url": "https://tattoobuild.com/studio/?remix=Dl8UBV&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "No.02",
+        "url": "https://tattoobuild.com/images/G2m18v/view/",
+        "title": "A hannya mask wreathed in chrysanthemums - AI Tattoo Design - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "A hannya mask wreathed in chrysanthemums",
+            "Report this design",
+            "Related tattoo ideas",
+            "More designs like this",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "A hannya mask wreathed in chrysanthemums, with wind bars sweeping behind it",
+            "This design was made with TattooBuild's AI tattoo generator. Take it to a tattoo artist as a starting point; they'll adapt it to your skin and placement.",
+            "A koi swimming upstream through crashing waves, maple leaves floating on the water",
+            "clock & tattoo",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow",
+            "A dandelion clock with its seeds blowing away and turning into small birds, in soft yellow and sky blue"
+        ]
+    },
+    {
+        "from_link_text": "Use this idea",
+        "url": "https://tattoobuild.com/studio/?remix=G2m18v&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "No.03",
+        "url": "https://tattoobuild.com/images/x5rr9O/view/",
+        "title": "A dandelion clock with its seeds blowing away - AI Tattoo Design - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "A dandelion clock with its seeds blowing away and turning",
+            "Report this design",
+            "Related tattoo ideas",
+            "More designs like this",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "A dandelion clock with its seeds blowing away and turning into small birds, in soft yellow and sky blue",
+            "This design was made with TattooBuild's AI tattoo generator. Take it to a tattoo artist as a starting point; they'll adapt it to your skin and placement.",
+            "clock & tattoo",
+            "A lion's face in soft morning light, half of its mane dissolving into smoke",
+            "Elegant black and gray linework tattoo of a lotus flower centered on the spine, with ornamental details extending vertically up the nape of the neck and down the upper back. Symmetrical fine lines, soft shading, delicate mandala-inspired accents with dots and leaves. Minimal yet intricate, graceful and feminine style.",
+            "Compass, timepiece, hummingbirds, sunflowers",
+            "Compass, arrow, clock, flowers",
+            "Sugar skull with blowing smoke out her mouth",
+            "A whale's tail diving into a wash of deep blue and violet, held together by fine black outlines"
+        ]
+    },
+    {
+        "from_link_text": "Use this idea",
+        "url": "https://tattoobuild.com/studio/?remix=x5rr9O&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "No.04",
+        "url": "https://tattoobuild.com/images/QPzBFn/view/",
+        "title": "An old pocket watch stopped at 4:17, its glass - AI Tattoo Design - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "An old pocket watch stopped at 4:17",
+            "Report this design",
+            "Related tattoo ideas",
+            "More designs like this",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "An old pocket watch stopped at 4:17, its glass cracked, a single rose lying across the face",
+            "This design was made with TattooBuild's AI tattoo generator. Take it to a tattoo artist as a starting point; they'll adapt it to your skin and placement.",
+            "A barn owl framed by an open pocket watch and peonies, with amber eyes and richly layered feathers",
+            "Two mountain peaks in a single continuous line, a small sun resting between them",
+            "A swallow carrying a banner that reads \"Homeward\", with a red rose beneath its feet",
+            "A tiny hummingbird drinking from a single foxglove, its wings drawn as three quick strokes",
+            "2 roses, stems with thorns, leaves compass eye of providnce",
+            "an hourglass tattoo design on a white paper background",
+            "A lion's face in soft morning light, half of its mane dissolving into smoke"
+        ]
+    },
+    {
+        "from_link_text": "Use this idea",
+        "url": "https://tattoobuild.com/studio/?remix=QPzBFn&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "No.05",
+        "url": "https://tattoobuild.com/images/MJwJ63/view/",
+        "title": "A woman's profile wearing a wolf-head headdress - AI Tattoo Design - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "A woman's profile wearing a wolf-head headdress",
+            "Report this design",
+            "Related tattoo ideas",
+            "More designs like this",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow",
+            "This design was made with TattooBuild's AI tattoo generator. Take it to a tattoo artist as a starting point; they'll adapt it to your skin and placement.",
+            "A wolf's head built from triangles and fine linework, one half realistic and the other pure geometry",
+            "A panther's head tearing through the skin, mouth open, claws gripping the edges",
+            "A tiny house inside a teacup, smoke curling from its chimney and a moon overhead, drawn like an old storybook etching",
+            "A sun and a crescent moon overlapping, shaded entirely in stippled dots that fade from dark to light",
+            "A raven with wings spread, filled solid black, a crescent moon cut out of its chest in bare skin",
+            "A fox curled up asleep inside a crescent moon, with a few small stars around it",
+            "Dream catcher with wolf inside"
+        ]
+    },
+    {
+        "from_link_text": "Use this idea",
+        "url": "https://tattoobuild.com/studio/?remix=MJwJ63&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "No.06",
+        "url": "https://tattoobuild.com/images/TA8q5F/view/",
+        "title": "A mandala blooming outward from a lotus - AI Tattoo Design - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "A mandala blooming outward from a lotus at its centre",
+            "Report this design",
+            "Related tattoo ideas",
+            "More designs like this",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "This design was made with TattooBuild's AI tattoo generator. Take it to a tattoo artist as a starting point; they'll adapt it to your skin and placement.",
+            "Elegant black and gray linework tattoo of a lotus flower centered on the spine, with ornamental details extending vertically up the nape of the neck and down the upper back. Symmetrical fine lines, soft shading, delicate mandala-inspired accents with dots and leaves. Minimal yet intricate, graceful and feminine style.",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow",
+            "A panther's head tearing through the skin, mouth open, claws gripping the edges",
+            "lotus flower tattoo design",
+            "mandala tattoo design",
+            "A sun and a crescent moon overlapping, shaded entirely in stippled dots that fade from dark to light",
+            "clock & tattoo"
+        ]
+    },
+    {
+        "from_link_text": "Use this idea",
+        "url": "https://tattoobuild.com/studio/?remix=TA8q5F&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "No.07",
+        "url": "https://tattoobuild.com/images/gzMnxF/view/",
+        "title": "A paper plane whose dotted flight path loops once - AI Tattoo Design - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "A paper plane whose dotted flight path loops once and ends",
+            "Report this design",
+            "Related tattoo ideas",
+            "More designs like this",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "This design was made with TattooBuild's AI tattoo generator. Take it to a tattoo artist as a starting point; they'll adapt it to your skin and placement.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "Two mountain peaks in a single continuous line, a small sun resting between them",
+            "clock & tattoo",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow",
+            "A dandelion clock with its seeds blowing away and turning into small birds, in soft yellow and sky blue",
+            "An old pocket watch stopped at 4:17, its glass cracked, a single rose lying across the face"
+        ]
+    },
+    {
+        "from_link_text": "Use this idea",
+        "url": "https://tattoobuild.com/studio/?remix=gzMnxF&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "No.08",
+        "url": "https://tattoobuild.com/images/NI08mk/view/",
+        "title": "A sprig of olive branch wrapping once around - AI Tattoo Design - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "A sprig of olive branch wrapping once around itself",
+            "Report this design",
+            "Related tattoo ideas",
+            "More designs like this",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "This design was made with TattooBuild's AI tattoo generator. Take it to a tattoo artist as a starting point; they'll adapt it to your skin and placement.",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A koi swimming upstream through crashing waves, maple leaves floating on the water",
+            "A tiny hummingbird drinking from a single foxglove, its wings drawn as three quick strokes",
+            "A peony in full bloom with two buds and curling leaves",
+            "Elegant black and gray linework tattoo of a lotus flower centered on the spine, with ornamental details extending vertically up the nape of the neck and down the upper back. Symmetrical fine lines, soft shading, delicate mandala-inspired accents with dots and leaves. Minimal yet intricate, graceful and feminine style.",
+            "make a half of a sleeve Japanese tattoo design with a cool mean looking dragon curled around a dojo with smoke and clouds all around. Have cherry blossom leaves floating in the design as well. add a silhouette of a samurai standing in front of dojo facing the dragon.",
+            "Aggressive octopus wrapping around an anchor and nautical compass tattoo black and white"
+        ]
+    },
+    {
+        "from_link_text": "Use this idea",
+        "url": "https://tattoobuild.com/studio/?remix=NI08mk&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "Browse Explore",
+        "url": "https://tattoobuild.com/images/explore/",
+        "title": "AI Tattoo Designs Gallery - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Explore AI tattoo designs",
+            "Made by the TattooBuild team",
+            "More from Explore",
+            "Your idea, drawnyour way",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Public designs made in the studio, by TattooBuild users and by our own team. Open one to see the idea and settings behind it.",
+            "See one you like? Start the studio from its idea, or describe your own.Your first design is free. Verify your email. No card needed.",
+            "65designs· page 1 of 2",
+            "A panther's head tearing through the skin, mouth open, claws gripping the edges",
+            "A peony in full bloom with two buds and curling leaves",
+            "A hannya mask wreathed in chrysanthemums, with wind bars sweeping behind it",
+            "A barn owl framed by an open pocket watch and peonies, with amber eyes and richly layered feathers",
+            "A koi swimming upstream through crashing waves, maple leaves floating on the water",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "Try it",
+        "url": "https://tattoobuild.com/studio/?output=sheet&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "Try it",
+        "url": "https://tattoobuild.com/studio/?output=stencil&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "Try it",
+        "url": "https://tattoobuild.com/studio/?output=transparent&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "Try it",
+        "url": "https://tattoobuild.com/studio/?output=skin&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "We don't keep your photo. It's only sent to our image model provider to make this mockup, and the mockup stays in your private designs.",
+            "Detail is included in every plan.",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow",
+            "A dandelion clock with its seeds blowing away and turning into small birds, in soft yellow and sky blue"
+        ]
+    },
+    {
+        "from_link_text": "Open the studio",
+        "url": "https://tattoobuild.com/studio/?from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "See every step",
+        "url": "https://tattoobuild.com/how-to-use/",
+        "title": "How to Use TattooBuild's AI Tattoo Generator - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "How to use TattooBuildOne sentence.Two taps.",
+            "Three steps",
+            "Describe it",
+            "Pick a style and a spot",
+            "Press Generate",
+            "What one sentence gets you",
+            "Then make it yours",
+            "Prompt tips that work"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "No drawing, no settings to learn.Type the tattoo you keep picturing, tap a style, press Generate. In Fast mode you have a clean design sheet10⁠–⁠25 secondslater, and you can turn it into a stencil or try it on your skin. No drawing, no settings to learn.",
+            "A moth with a skull on its back",
+            "That's the whole thing",
+            "Everything else in the studio is optional. You can stop after step three.",
+            "One sentence: what it is, plus a detail that makes it yours. Plain words are fine.",
+            "Two taps, or leave both on Auto and let the idea decide. The spot sets the shape, tall for a forearm, wide for a chest.",
+            "Fast mode draws it in10⁠–⁠25 seconds. A stencil or transparent PNG of it is one more tap, and one more design.",
+            "Made in the studio",
+            "We made every one of these in the TattooBuild studio. Under each is exactly what we typed and the settings we picked. Tap Use this idea to start from it."
+        ]
+    },
+    {
+        "from_link_text": "See the design",
+        "url": "https://tattoobuild.com/images/Yztjos/view/",
+        "title": "A peony in full bloom with two buds and curling - AI Tattoo Design - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "A peony in full bloom with two buds and curling leaves",
+            "Report this design",
+            "Related tattoo ideas",
+            "More designs like this",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "A peony in full bloom with two buds and curling leaves",
+            "This design was made with TattooBuild's AI tattoo generator. Take it to a tattoo artist as a starting point; they'll adapt it to your skin and placement.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A tiny house inside a teacup, smoke curling from its chimney and a moon overhead, drawn like an old storybook etching",
+            "A koi swimming upstream through crashing waves, maple leaves floating on the water",
+            "Elegant black and gray linework tattoo of a lotus flower centered on the spine, with ornamental details extending vertically up the nape of the neck and down the upper back. Symmetrical fine lines, soft shading, delicate mandala-inspired accents with dots and leaves. Minimal yet intricate, graceful and feminine style.",
+            "make a half of a sleeve Japanese tattoo design with a cool mean looking dragon curled around a dojo with smoke and clouds all around. Have cherry blossom leaves floating in the design as well. add a silhouette of a samurai standing in front of dojo facing the dragon.",
+            "2 roses, stems with thorns, leaves compass eye of providnce"
+        ]
+    },
+    {
+        "from_link_text": "No. 01Fine-lineThin, single-needle lines, light shading and plenty of open skin. Keep it simple, and not too small.",
+        "url": "https://tattoobuild.com/studio/?style=fine-line&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "No. 02BlackworkSolid black and bold negative space. It reads from across a room and holds for decades.",
+        "url": "https://tattoobuild.com/studio/?style=blackwork&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "No. 03TraditionalHeavy outlines, a tight palette and shapes that still read twenty years on.",
+        "url": "https://tattoobuild.com/studio/?style=traditional&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "No. 04Neo-traditionalTraditional bones with richer colour, more depth and ornate detail.",
+        "url": "https://tattoobuild.com/studio/?style=neo-traditional&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "No. 05JapaneseBig, flowing compositions built around the body, tied together with waves, wind and clouds.",
+        "url": "https://tattoobuild.com/studio/?style=japanese&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "No. 06RealismPhotographic shading and texture. It needs size to hold its detail.",
+        "url": "https://tattoobuild.com/studio/?style=realism&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "No. 07WatercolourSoft washes of colour, usually anchored with black linework so it lasts.",
+        "url": "https://tattoobuild.com/studio/?style=watercolour&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "No. 08IllustrativeWork that looks hand-drawn, borrowing from etching, sketchbooks and storybook art.",
+        "url": "https://tattoobuild.com/studio/?style=illustrative&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "Geometric",
+        "url": "https://tattoobuild.com/studio/?style=geometric&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "Minimalist",
+        "url": "https://tattoobuild.com/studio/?style=minimalist&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "Dotwork",
+        "url": "https://tattoobuild.com/studio/?style=dotwork&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "Tribal",
+        "url": "https://tattoobuild.com/studio/?style=tribal&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "Script / lettering",
+        "url": "https://tattoobuild.com/studio/?style=script&from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "Choose Starter",
+        "url": "https://tattoobuild.com/pricing/#plan-starter-monthly",
+        "title": "Pricing: AI Tattoo Design Plans - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Find the right design for your next tattoo",
+            "Starter",
+            "Pro",
+            "Studio",
+            "See what you can take to your artist",
+            "Buy more designs",
+            "25designs",
+            "75designs"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Explore ideas, refine the details and bring a clear brief to your tattoo artist. Every plan includes Detail mode and all editing tools.",
+            "Pay monthly. Your design allowance refreshes every month.",
+            "Work out one tattoo.",
+            "US$9.99/ month",
+            "Billed monthly",
+            "50 designs a month",
+            "Recommended",
+            "Explore, refine and find your design.",
+            "US$14.99/ month"
+        ]
+    },
+    {
+        "from_link_text": "Choose Pro",
+        "url": "https://tattoobuild.com/pricing/#plan-pro-monthly",
+        "title": "Pricing: AI Tattoo Design Plans - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Find the right design for your next tattoo",
+            "Starter",
+            "Pro",
+            "Studio",
+            "See what you can take to your artist",
+            "Buy more designs",
+            "25designs",
+            "75designs"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Explore ideas, refine the details and bring a clear brief to your tattoo artist. Every plan includes Detail mode and all editing tools.",
+            "Pay monthly. Your design allowance refreshes every month.",
+            "Work out one tattoo.",
+            "US$9.99/ month",
+            "Billed monthly",
+            "50 designs a month",
+            "Recommended",
+            "Explore, refine and find your design.",
+            "US$14.99/ month"
+        ]
+    },
+    {
+        "from_link_text": "Choose Studio",
+        "url": "https://tattoobuild.com/pricing/#plan-studio-monthly",
+        "title": "Pricing: AI Tattoo Design Plans - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Find the right design for your next tattoo",
+            "Starter",
+            "Pro",
+            "Studio",
+            "See what you can take to your artist",
+            "Buy more designs",
+            "25designs",
+            "75designs"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Explore ideas, refine the details and bring a clear brief to your tattoo artist. Every plan includes Detail mode and all editing tools.",
+            "Pay monthly. Your design allowance refreshes every month.",
+            "Work out one tattoo.",
+            "US$9.99/ month",
+            "Billed monthly",
+            "50 designs a month",
+            "Recommended",
+            "Explore, refine and find your design.",
+            "US$14.99/ month"
+        ]
+    },
+    {
+        "from_link_text": "Open the studio",
+        "url": "https://tattoobuild.com/studio/?from=home-plans",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "Compare plans in detail",
+        "url": "https://tattoobuild.com/pricing/",
+        "title": "Pricing: AI Tattoo Design Plans - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Find the right design for your next tattoo",
+            "Starter",
+            "Pro",
+            "Studio",
+            "See what you can take to your artist",
+            "Buy more designs",
+            "25designs",
+            "75designs"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Explore ideas, refine the details and bring a clear brief to your tattoo artist. Every plan includes Detail mode and all editing tools.",
+            "Pay monthly. Your design allowance refreshes every month.",
+            "Work out one tattoo.",
+            "US$9.99/ month",
+            "Billed monthly",
+            "50 designs a month",
+            "Recommended",
+            "Explore, refine and find your design.",
+            "US$14.99/ month"
+        ]
+    },
+    {
+        "from_link_text": "Tattoo ideas",
+        "url": "https://tattoobuild.com/tattoos/",
+        "title": "Tattoos Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Tattoo ideas",
+            "20 DNA Tattoo Ideas for Science and Personal Stories",
+            "21 Chihuahua Tattoo Ideas, From Tiny Outlines to Pet Portraits",
+            "20 Icarus Tattoo Ideas, From Winged Figures to Sun Emblems",
+            "24 Honeycomb Tattoo Ideas, From Fine Lines to Floral Panels",
+            "23 Odin Tattoo Ideas, From Raven Portraits to Wanderer Emblems",
+            "18 Poseidon Tattoo Ideas, From Portraits to Sea Emblems",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 455 articles",
+            "Every tattoo idea on TattooBuild in one place. Browse by meaning, style or placement, and open the ideas in the studio to make them yours.",
+            "Design your own tattoo",
+            "Made in the studio from “A barn owl framed by an open pocket watch and peonies, with amber eyes and richly layered feathers”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Explore 20 DNA tattoo ideas with on-skin mockups, from simple double helices to botanical and geometric designs, with placement and personalization tips.",
+            "Daniel23 Nov 20269min read",
+            "Explore 21 Chihuahua tattoo ideas with on-skin mockups, from simple outlines and pet portraits to floral designs, plus practical placement tips.",
+            "Daniel22 Nov 20268min read"
+        ]
+    },
+    {
+        "from_link_text": "20 DNA Tattoo Ideas for Science and Personal Stories",
+        "url": "https://tattoobuild.com/dna-tattoo-ideas/",
+        "title": "20 DNA Tattoo Ideas | Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "20 DNA Tattoo Ideas for Science and Personal Stories",
+            "Start with a readable double helix",
+            "1. Fine-line double helix",
+            "2. Dotwork helix",
+            "3. Blue and copper helix",
+            "4. Helix with leafy branches",
+            "5. Wildflower and helix",
+            "6. Helix inside a heart"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Like these? Design your own dna tattooFirst design free · verified account · no card",
+            "A DNA tattoo can be a compact science emblem, a reminder of study or research, or a personal design about connection and continuity. These 20 DNA tattoo ideas use the double helix as a starting point, then explore different frames, line weights and companion motifs.",
+            "All images are AI-generated tattoo mockups on fictional adults.They show design and placement possibilities, not real client tattoos or healed results. These are stylized emblems rather than exact molecular diagrams or depictions of anyone's genetic sequence.",
+            "TheNational Human Genome Research Institute describes DNA's double helixas two linked strands that wind around one another like a twisted ladder. For a tattoo, that recognizable outer rhythm and the connecting rungs give the artist a useful visual starting point. Source checked 23 November 2026.",
+            "Decide how literal you want the drawing to be. A decorative symbol can simplify the structure, while a science-focused piece may need a reference checked by someone who understands molecular diagrams. If you add base letters, ask for a separate accuracy review before approving the stencil; attractive lettering is not proof that a sequence or pairing is correct.",
+            "Choose one main idea before adding supporting symbols. Leaves, a book or a heart can make the design personal, but each extra element needs space. For pared-back options, compare ourminimalist tattoo ideasand look at how the open skin contributes to the drawing.",
+            "This fine-line version puts the twisted-ladder rhythm first. The inner forearm offers a long viewing area, with open skin on either side of the motif. Ask the artist to show the rungs at the intended size and identify which details they would simplify rather than shrinking the whole drawing indiscriminately.",
+            "Dotwork gives the helix a textured surround without adding another large subject. On the calf, the vertical structure has room above and below it. Discuss how dense the dots should be and keep enough contrast between the backbones, the rungs and the background texture.",
+            "Blue and copper separate the two outer strands visually. The upper arm gives the color a broad setting, while dark connecting marks keep the ladder motif recognizable. Treat the palette as a design choice rather than a scientific color code, and ask to see the artist's healed color work."
+        ]
+    },
+    {
+        "from_link_text": "Tattoo ideas",
+        "url": "https://tattoobuild.com/tattoos/",
+        "title": "Tattoos Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Tattoo ideas",
+            "20 DNA Tattoo Ideas for Science and Personal Stories",
+            "21 Chihuahua Tattoo Ideas, From Tiny Outlines to Pet Portraits",
+            "20 Icarus Tattoo Ideas, From Winged Figures to Sun Emblems",
+            "24 Honeycomb Tattoo Ideas, From Fine Lines to Floral Panels",
+            "23 Odin Tattoo Ideas, From Raven Portraits to Wanderer Emblems",
+            "18 Poseidon Tattoo Ideas, From Portraits to Sea Emblems",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 455 articles",
+            "Every tattoo idea on TattooBuild in one place. Browse by meaning, style or placement, and open the ideas in the studio to make them yours.",
+            "Design your own tattoo",
+            "Made in the studio from “A barn owl framed by an open pocket watch and peonies, with amber eyes and richly layered feathers”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Explore 20 DNA tattoo ideas with on-skin mockups, from simple double helices to botanical and geometric designs, with placement and personalization tips.",
+            "Daniel23 Nov 20269min read",
+            "Explore 21 Chihuahua tattoo ideas with on-skin mockups, from simple outlines and pet portraits to floral designs, plus practical placement tips.",
+            "Daniel22 Nov 20268min read"
+        ]
+    },
+    {
+        "from_link_text": "21 Chihuahua Tattoo Ideas, From Tiny Outlines to Pet Portraits",
+        "url": "https://tattoobuild.com/chihuahua-tattoo-ideas/",
+        "title": "21 Chihuahua Tattoo Ideas | Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "21 Chihuahua Tattoo Ideas, From Tiny Outlines to Pet Portraits",
+            "Choose the features that matter most",
+            "1. Open-line Chihuahua portrait",
+            "2. Black and gray short-coat portrait",
+            "3. Long-haired Chihuahua",
+            "4. Portrait inside a heart",
+            "5. Chihuahua with daisies",
+            "6. Curled sleeping Chihuahua"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Like these? Design your own chihuahua tattooFirst design free · verified account · no card",
+            "A Chihuahua tattoo works best when it captures the details that make your own dog recognizable: the ears, eye shape, muzzle, coat markings or familiar pose. These 21 Chihuahua tattoo ideas range from spare outlines to shaded portraits, with floral, playful and memorial options.",
+            "All images are AI-generated tattoo mockups on fictional adults.They show design and placement possibilities, not real client tattoos or healed results. Bring your artist photographs of your dog so the final drawing can reflect an individual pet.",
+            "TheAmerican Kennel Club describes the Chihuahua's rounded head, erect ears and expressive eyesas characteristic features. Your pet may have a different outline, ear position or expression; a reference photo matters more than forcing a portrait to match a breed standard. Source checked 22 November 2026.",
+            "Choose one clear photograph taken near the dog's eye level, plus a second showing its coat pattern. Decide whether likeness, a particular memory or a simple recognizable symbol matters most. For a small tattoo, ask which details the artist would simplify. Ourminimalist tattoo ideasoffer more examples of designs with breathing room.",
+            "This outline keeps the upright ears, eyes and little muzzle readable without filling the face with shading. The forearm gives the head a flat viewing area. Ask your artist which lines they would leave open so the expression stays light, then adjust the ear angles to match your own dog.",
+            "A shaded portrait puts expression first. The upper arm gives the ears and cheek shading room without making the face compete with a frame. Bring a sharp reference photograph rather than a distant snapshot, and point out the coat patches that distinguish your Chihuahua from a generic breed portrait.",
+            "Feathered ears and a fluffy chest distinguish this long-haired design. The seated body makes the calf a useful vertical placement to discuss. Keep the outer fur shape clear; trying to preserve every strand in a small tattoo can distract from the dog's posture and face.",
+            "A thin heart surrounds the portrait without replacing it as the focus. On the inner forearm, the ears and heart need enough separation to remain distinct. Decide whether the heart should feel like a loose gesture or a symmetrical frame before the artist develops the drawing."
+        ]
+    },
+    {
+        "from_link_text": "Tattoo ideas",
+        "url": "https://tattoobuild.com/tattoos/",
+        "title": "Tattoos Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Tattoo ideas",
+            "20 DNA Tattoo Ideas for Science and Personal Stories",
+            "21 Chihuahua Tattoo Ideas, From Tiny Outlines to Pet Portraits",
+            "20 Icarus Tattoo Ideas, From Winged Figures to Sun Emblems",
+            "24 Honeycomb Tattoo Ideas, From Fine Lines to Floral Panels",
+            "23 Odin Tattoo Ideas, From Raven Portraits to Wanderer Emblems",
+            "18 Poseidon Tattoo Ideas, From Portraits to Sea Emblems",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 455 articles",
+            "Every tattoo idea on TattooBuild in one place. Browse by meaning, style or placement, and open the ideas in the studio to make them yours.",
+            "Design your own tattoo",
+            "Made in the studio from “A barn owl framed by an open pocket watch and peonies, with amber eyes and richly layered feathers”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Explore 20 DNA tattoo ideas with on-skin mockups, from simple double helices to botanical and geometric designs, with placement and personalization tips.",
+            "Daniel23 Nov 20269min read",
+            "Explore 21 Chihuahua tattoo ideas with on-skin mockups, from simple outlines and pet portraits to floral designs, plus practical placement tips.",
+            "Daniel22 Nov 20268min read"
+        ]
+    },
+    {
+        "from_link_text": "20 Icarus Tattoo Ideas, From Winged Figures to Sun Emblems",
+        "url": "https://tattoobuild.com/icarus-tattoo-ideas/",
+        "title": "20 Icarus Tattoo Ideas | Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "20 Icarus Tattoo Ideas, From Winged Figures to Sun Emblems",
+            "1. Dark winged silhouette",
+            "2. Feather wing and wax drop",
+            "3. Wing beneath a sun disk",
+            "4. Ascending woodcut Icarus",
+            "5. Wing above the waves",
+            "6. Icarus in an oval frame",
+            "7. Three falling feathers"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Like these? Design your own icarus tattooFirst design free · verified account · no card",
+            "An Icarus tattoo can show a whole winged figure or reduce the story to a feather, a sun and a line of sea. The strongest starting point is the moment you want to emphasize: reaching upward, floating through open space, or a feather separating from a wing.",
+            "In the myth, Daedalus makes the wings that let Icarus fly; the sun’s heat melts their wax. TheNational Gallery of Art’s discussion of Chagall’sOrphéedescribes that story and the tension between flight and its consequences. These designs offer different visual references to it, rather than treating every winged person as an angel.",
+            "All 20 designs areAI-generated tattoo mockups on fictional adults, plus a separate hero. The figures are modern, clothed interpretations, not copies of a particular ancient image or real client tattoos. Use them to discuss size and placement with your artist, and ask to see healed work in the style you like.",
+            "Design your own icarus tattoo",
+            "Describe it in a sentence. You get a design sheet on clean white paper, ready for your artist.",
+            "Your first design is free. Verify your email. No card needed.",
+            "The dark body and feathered wings make this silhouette readable without a detailed face. Keep the lowered arms and crossed legs separate from the wing edges.",
+            "A single wing and wax drop make a compact reference to the story. Give the drop a clean outline and leave a gap between the lower feathers."
+        ]
+    },
+    {
+        "from_link_text": "Tattoo ideas",
+        "url": "https://tattoobuild.com/tattoos/",
+        "title": "Tattoos Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Tattoo ideas",
+            "20 DNA Tattoo Ideas for Science and Personal Stories",
+            "21 Chihuahua Tattoo Ideas, From Tiny Outlines to Pet Portraits",
+            "20 Icarus Tattoo Ideas, From Winged Figures to Sun Emblems",
+            "24 Honeycomb Tattoo Ideas, From Fine Lines to Floral Panels",
+            "23 Odin Tattoo Ideas, From Raven Portraits to Wanderer Emblems",
+            "18 Poseidon Tattoo Ideas, From Portraits to Sea Emblems",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 455 articles",
+            "Every tattoo idea on TattooBuild in one place. Browse by meaning, style or placement, and open the ideas in the studio to make them yours.",
+            "Design your own tattoo",
+            "Made in the studio from “A barn owl framed by an open pocket watch and peonies, with amber eyes and richly layered feathers”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Explore 20 DNA tattoo ideas with on-skin mockups, from simple double helices to botanical and geometric designs, with placement and personalization tips.",
+            "Daniel23 Nov 20269min read",
+            "Explore 21 Chihuahua tattoo ideas with on-skin mockups, from simple outlines and pet portraits to floral designs, plus practical placement tips.",
+            "Daniel22 Nov 20268min read"
+        ]
+    },
+    {
+        "from_link_text": "24 Honeycomb Tattoo Ideas, From Fine Lines to Floral Panels",
+        "url": "https://tattoobuild.com/honeycomb-tattoo-ideas/",
+        "title": "24 Honeycomb Tattoo Ideas | Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "24 Honeycomb Tattoo Ideas, From Fine Lines to Floral Panels",
+            "1. Tiny three-cell cluster",
+            "2. Vertical honeycomb strip",
+            "3. Amber-filled cells",
+            "4. Bee at the edge",
+            "5. Honeycomb with a daisy",
+            "6. Solid and open cells",
+            "7. Dotwork in the cells"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Like these? Design your own honeycomb tattooFirst design free · verified account · no card",
+            "A honeycomb tattoo starts with a simple choice: how much of the pattern do you want to see? A few open cells can sit lightly on a wrist. A larger panel can follow the shoulder, hold a flower, or mix dark cells with bare skin. The design changes most when you vary the outline and the space between details, rather than adding more objects.",
+            "Honeybees build wax comb with hexagonal cells, as described in theSmithsonian National Museum of Natural History’s Insect Zoo guide. These tattoo concepts borrow the six-sided pattern; they aren’t technical drawings of a hive.",
+            "The 24 ideas below areAI-generated tattoo mockups on fictional adults. Compare the shapes and placements, then ask your artist to show the stencil on your own skin and share healed examples of their geometric linework.",
+            "Design your own honeycomb tattoo",
+            "Describe it in a sentence. You get a design sheet on clean white paper, ready for your artist.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Three open cells make a compact shape without hiding the honeycomb structure. Try the stencil in both directions on the wrist and check how its corners sit beside the wrist crease.",
+            "A vertical strip follows the length of the forearm. Leave enough width for each cell to read on its own rather than narrowing the entire pattern to fit a tiny space."
+        ]
+    },
+    {
+        "from_link_text": "Animals",
+        "url": "https://tattoobuild.com/animals/",
+        "title": "Animals Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Animal tattoo ideas",
+            "16 Panda Tattoo Ideas from Simple Faces to Bamboo Scenes",
+            "16 Otter Tattoo Ideas from Riverbank to Ocean",
+            "What Does Fox Tattoo Mean?",
+            "Elephant Tattoos For Females",
+            "Wolf Dagger Tattoo Meaning and Ideas",
+            "Rooster Tattoo Meaning and Design Ideas",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 57 articles",
+            "Wolves, foxes, owls, swallows and the rest of the menagerie, with what each animal tends to mean and how it sits on the body. Find the one that feels like you, then draw your own.",
+            "Design your own animal tattoo",
+            "Made in the studio from “A wolf's head built from triangles and fine linework, one half realistic and the other pure geometry”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Explore 16 panda tattoo ideas, from simple faces and geometric portraits to bamboo scenes, with practical advice on pose, markings and placement.",
+            "Daniel29 Oct 202610min read",
+            "Explore 16 otter tattoo ideas, from minimalist river otters to floating sea otters, with placement, style and personalization tips.",
+            "Daniel26 Oct 202611min read"
+        ]
+    },
+    {
+        "from_link_text": "Floral",
+        "url": "https://tattoobuild.com/floral/",
+        "title": "Floral Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Floral tattoo ideas",
+            "40 Lotus Flower Tattoo Designs for Women",
+            "Nature Tattoo For Men",
+            "Masculine Flower Tattoo: 15 Amazing Ideas",
+            "Rose Tattoo on The Hand For Men: 15 Best Ideas",
+            "Rose Tattoo on Arm for Guys: Stunning Designs",
+            "Meaning of Rose Tattoo on Hand",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 75 articles",
+            "Roses, lotuses, peonies, tulips and wildflowers, with what each bloom carries and how linework, shading and colour change it. The biggest garden on the site.",
+            "Design your own floral tattoo",
+            "Made in the studio from “A peony in full bloom with two buds and curling leaves”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "A lotus is one of the few tattoo subjects that works just as well at two inches as it does…",
+            "Mkpoikana Otu17 Sep 202613min read",
+            "A nature tattoo for men is one of the few design choices that almost never dates, because mountains, trees and…",
+            "Mkpoikana Otu15 Sep 202613min read"
+        ]
+    },
+    {
+        "from_link_text": "Meaningful",
+        "url": "https://tattoobuild.com/meaningful-tattoos/",
+        "title": "Meaningful Tattoos Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Meaningful tattoo ideas",
+            "What Does a Butterfly Tattoo Mean? Symbolism and Style Guide",
+            "18 Spiritual Tattoo Ideas for Women Who Carry Their Faith in Ink",
+            "17 Mother Son Tattoo Ideas for Moms Who Want to Carry Their Boys",
+            "18 RIP Tattoo Ideas That Honour Someone You Have Lost",
+            "19 Libra Tattoo Ideas for the Balanced and Beautiful Libra in Your Life",
+            "20 Hope Tattoo Ideas to Remind You to Keep Going",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 44 articles",
+            "Memorials, family, faith, hope and the places that changed you. These are ideas for tattoos that carry a story, and for finding a shape that holds it.",
+            "Design your own meaningful tattoo",
+            "Made in the studio from “An old pocket watch stopped at 4:17, its glass cracked, a single rose lying across the face”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Butterfly tattoos mean far more than transformation. A breakdown of the symbolism, cultural meanings, colour choices and placements behind the design.",
+            "Daniel14 Sep 202614min read",
+            "Discover 18 spiritual tattoo ideas for women from lotus flowers and hamsa hands to mandalas, evil eye designs, chakra symbols, and sacred geometry tattoos.",
+            "Daniel14 Sep 202617min read"
+        ]
+    },
+    {
+        "from_link_text": "Men's",
+        "url": "https://tattoobuild.com/mens-tattoos/",
+        "title": "Mens Tattoos Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Men's tattoo ideas",
+            "Masculine Flower Tattoo: 15 Amazing Ideas",
+            "18 Viking Tattoo Ideas for Men Who Carry the Norse Spirit",
+            "17 Outer Bicep Tattoo Ideas for Men Who Want Strong Upper Arm Ink",
+            "18 Polynesian Tattoo Ideas for Men Drawn to Pacific Heritage",
+            "18 Floral Sleeve Tattoo Ideas for Men Who Want Bold Botanical Ink",
+            "19 Floral Forearm Tattoo Ideas for Men Who Embrace Bold Beauty",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 47 articles",
+            "Forearms, biceps, sleeves and first pieces, from Viking and Polynesian work to bold botanicals. Ideas sized for where men most often get tattooed, with what each one means.",
+            "Design your own tattoo for men",
+            "Made in the studio from “A panther's head tearing through the skin, mouth open, claws gripping the edges”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "A flower tattoo on a man is not a soft choice — done with the right line weight and scale,…",
+            "Mkpoikana Otu15 Sep 202612min read",
+            "Explore 18 Viking tattoo ideas for men from Vegvisir and Helm of Awe to Odin, Yggdrasil, runes, and Norse mythology scenes in blackwork and realism styles.",
+            "Daniel14 Sep 202616min read"
+        ]
+    },
+    {
+        "from_link_text": "Women's",
+        "url": "https://tattoobuild.com/womens-tattoos/",
+        "title": "Womens Tattoos Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Women's tattoo ideas",
+            "17 Ankle Bracelet Tattoo Ideas for Women Who Want Permanent Jewellery",
+            "18 Spiritual Tattoo Ideas for Women Who Carry Their Faith in Ink",
+            "21 Jewelry Tattoo Ideas for Women That Look Like Real Accessories",
+            "20 Dragon Tattoo Ideas for Women Who Are Fierce and Fearless",
+            "21 Small Neck Tattoo Ideas for Women That Are Dainty and Daring",
+            "19 Tribal Tattoo Ideas for Women That Honour Cultural Roots",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 42 articles",
+            "Ankle bracelets, dainty neck pieces, butterflies, dragons and spiritual symbols. Ideas for every size and placement, with what each one carries.",
+            "Design your own tattoo for women",
+            "Made in the studio from “A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Discover 17 ankle bracelet tattoo ideas for women from delicate chain and gemstone designs to floral garlands, wave patterns, and minimal fine line ankle bands.",
+            "Daniel14 Sep 202616min read",
+            "Discover 18 spiritual tattoo ideas for women from lotus flowers and hamsa hands to mandalas, evil eye designs, chakra symbols, and sacred geometry tattoos.",
+            "Daniel14 Sep 202617min read"
+        ]
+    },
+    {
+        "from_link_text": "Minimalist",
+        "url": "https://tattoobuild.com/minimalist-tattoo/",
+        "title": "Minimalist Tattoo Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Minimalist tattoo ideas",
+            "17 Triangle Tattoo Ideas for Those Who Think in Shapes",
+            "20 Single Line Tattoo Ideas That Are Minimal, Clean and Modern",
+            "20 Linework Tattoo Ideas That Turn Simple Lines Into Stunning Art",
+            "20 Necklace Tattoo Ideas That Look Like Real Jewelry on Skin",
+            "21 Micro Tattoo Ideas That Prove Small Can Be Extraordinary",
+            "22 Tiny Wrist Tattoo Ideas for Women That Are Subtle and Sweet",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 8 articles",
+            "Single lines, tiny shapes and micro tattoos that say a lot with very little. Each one shows what holds up small and what needs a little more room.",
+            "Design your own minimalist tattoo",
+            "Made in the studio from “A paper plane whose dotted flight path loops once and ends in a small heart”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Explore 17 triangle tattoo ideas from simple geometric outlines and sacred geometry to mountain triangles, alchemical symbols, and trinity knot designs.",
+            "Daniel13 Sep 202615min read",
+            "Discover 20 single line tattoo ideas from continuous line portraits and minimalist landscapes to abstract gestures and geometric forms in this clean modern style.",
+            "Daniel12 Sep 202614min read"
+        ]
+    },
+    {
+        "from_link_text": "Mythology",
+        "url": "https://tattoobuild.com/mythology-tattoos/",
+        "title": "Mythology Tattoos Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Mythology tattoo ideas",
+            "16 Freya Tattoo Ideas with Cats, Cloaks and Gold",
+            "18 Viking Tattoo Ideas for Men Who Carry the Norse Spirit",
+            "20 Ganesha Tattoo Ideas That Celebrate Wisdom and New Beginnings",
+            "19 Grim Reaper Tattoo Ideas for Those Who Embrace the Dark Side",
+            "20 Day of the Dead Tattoo Ideas That Honor Tradition and Beauty",
+            "20 Chrysanthemum Tattoo Ideas That Blend Eastern and Western Beauty",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 9 articles",
+            "Greek, Norse, Hindu and Mexican traditions, from gods and reapers to Ganesha and the Day of the Dead. Stories that outlived empires, and how to wear them with respect.",
+            "Design your own mythology tattoo",
+            "Made in the studio from “A hannya mask wreathed in chrysanthemums, with wind bars sweeping behind it”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Explore 16 Freya tattoo ideas with goddess portraits, cats, feather cloaks and necklace motifs, plus source notes and placement tips.",
+            "Daniel26 Oct 202611min read",
+            "Explore 18 Viking tattoo ideas for men from Vegvisir and Helm of Awe to Odin, Yggdrasil, runes, and Norse mythology scenes in blackwork and realism styles.",
+            "Daniel14 Sep 202616min read"
+        ]
+    },
+    {
+        "from_link_text": "Celestial",
+        "url": "https://tattoobuild.com/celestial-tattoos/",
+        "title": "Celestial Tattoos Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Celestial tattoo ideas",
+            "20 Space Tattoo Ideas for Dreamers Who Are Always Looking Up",
+            "20 Shooting Star Tattoo Ideas That Capture a Moment of Wonder",
+            "20 Moon Phase Tattoo Ideas for Those Drawn to Lunar Magic",
+            "19 Galaxy Tattoo Ideas for Dreamers Drawn to the Cosmos",
+            "21 Celestial Tattoo Ideas for People Who Find Meaning in the Sky",
+            "22 Sun and Moon Tattoo Ideas That Balance Light, Dark and Everything Between",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 7 articles",
+            "Suns, moons, stars and constellations: the oldest things people have looked up at, and some of the most personal to wear. Ideas, meanings and placements for every phase.",
+            "Design your own celestial tattoo",
+            "Made in the studio from “A sun and a crescent moon overlapping, shaded entirely in stippled dots that fade from dark to light”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Explore 20 space tattoo ideas from realistic nebulae and planets to minimalist constellation tattoos and astronaut designs for those drawn to the infinite cosmos.",
+            "Daniel13 Sep 202612min read",
+            "Explore 20 shooting star tattoo ideas from delicate fine line streaks to bold neo-traditional compositions, covering symbolism, placement, and style options.",
+            "Daniel12 Sep 202612min read"
+        ]
+    },
+    {
+        "from_link_text": "Nature",
+        "url": "https://tattoobuild.com/nature/",
+        "title": "Nature Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Nature tattoo ideas",
+            "16 River Tattoo Ideas from Minimal Lines to Landscapes",
+            "Wave Moon Tattoo Meaning & Design Ideas",
+            "20 Fern Tattoo Ideas for Nature Lovers Who Want Something Unique",
+            "21 Turtle Tattoo Ideas That Celebrate Patience, Wisdom and Longevity",
+            "20 Whale Tattoo Ideas for Deep Thinkers and Ocean Dreamers",
+            "20 Cactus Tattoo Ideas for the Desert Lovers and Free Spirits",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 31 articles",
+            "Mountains, ferns, waves, whales, turtles and cacti: the outdoors in ink. Ideas for people who'd rather be outside, and what each piece of nature tends to mean.",
+            "Design your own nature tattoo",
+            "Made in the studio from “A dandelion clock with its seeds blowing away and turning into small birds, in soft yellow and sky blue”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Explore 16 river tattoo ideas, from simple bends and joining streams to canyon, forest and canoe scenes, with placement and map-reference tips.",
+            "Daniel27 Oct 202610min read",
+            "The first wave moon tattoo I ever watched being tattooed took four hours, and almost two of those went into…",
+            "Mkpoikana Otu16 Sep 202613min read"
+        ]
+    },
+    {
+        "from_link_text": "Guides",
+        "url": "https://tattoobuild.com/tattoo-guides/",
+        "title": "Tattoo Guides Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Tattoo guides",
+            "How Does Tattoo Removal Work? Lasers, Pain and Results",
+            "Does Kristen Bell Have Tattoos? The Truth Behind the Video",
+            "How Old Do You Have to Be to Get a Tattoo? State by State",
+            "Do Tattoos Cause Cancer? What the Research Actually Shows",
+            "How to Remove Temporary Tattoos: Fast, Safe Methods",
+            "How Much Does It Cost for Laser Tattoo Removal?",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 49 articles",
+            "Straight answers before and after the needle: age rules, pain, size, cost, aftercare, removal and every style explained. Read these before you book.",
+            "Design your own first tattoo",
+            "Made in the studio from “Two mountain peaks in a single continuous line, a small sun resting between them”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Learn how laser tattoo removal works, whether it hurts, why results vary, and what to ask about appointments, risks and aftercare.",
+            "Daniel25 Oct 20265min read",
+            "No, Kristen Bell does not have real tattoos. Here is where the viral 214-tattoo claim came from, what was in the 2012 sketch, and the one she wants.",
+            "Daniel6 Oct 20265min read"
+        ]
+    },
+    {
+        "from_link_text": "Browse tattoo ideas",
+        "url": "https://tattoobuild.com/blog/",
+        "title": "Tattoo Ideas & Guides - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Tattoo ideasand guides",
+            "Browse by theme",
+            "Tattoo ideas",
+            "Floral",
+            "Animals",
+            "Guides",
+            "Men's",
+            "Meaningful"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "The ideas library",
+            "748 tattoo ideas and guides, newest first: meanings, placements and dozens of photos per idea, plus straight answers on pain, cost and aftercare.",
+            "Got an idea? Design it freeFirst design free · verified account · no card",
+            "Explore 20 DNA tattoo ideas with on-skin mockups, from simple double helices to botanical and geometric designs, with placement and personalization tips.",
+            "Daniel23 Nov 20269min read",
+            "Also new",
+            "Daniel22 Nov 20267min read",
+            "Daniel22 Nov 20268min read",
+            "Daniel21 Nov 20266min read"
+        ]
+    },
+    {
+        "from_link_text": "All FAQs",
+        "url": "https://tattoobuild.com/faqs/",
+        "title": "AI Tattoo Design Questions, Answered - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "AI tattoo design questions, answered",
+            "Working with your tattoo artist",
+            "Can I take an AI tattoo design to my artist?",
+            "Will my artist charge to redraw it?",
+            "Can I use the stencil version as the actual stencil?",
+            "Plans and your account",
+            "Can I try it without paying?",
+            "Can I cancel any time?"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "FAQs",
+            "The questions people ask most before, during and after designing a tattoo with TattooBuild. If yours isn't here,contact us.",
+            "Your first design is free. Verify your email. No card needed.Plans from$9.99a month, and you can cancel any time.",
+            "Yes. That's what TattooBuild is built for. Bring the design sheet and the stencil as a clear brief rather than a finished drawing. A good artist will adjust the size, line spacing and flow for your body, and will often redraw it in their own hand. Some artists would rather not work from AI designs at all, so ask when you book. If they'd prefer to start fresh, your designs still make an excellent mood board.",
+            "Usually, yes. Most artists charge for custom drawing time or build it into the price of the tattoo. It's skilled work, and it's the step that makes a design tattooable.How much do tattoo designs cost?",
+            "Treat it as a clean line-art guide, not a transfer ready for your skin. Your artist will size it, fit it to your body and print the real stencil on their own equipment. The stencil version shows them the linework clearly, which is what makes it useful.",
+            "Yes. Your first design needs a verified free account. No card needed.",
+            "Yes. Cancel from Account → Billing and your plan runs to the end of the period you've paid for.",
+            "That depends on your plan: 50, 150 or 350 a month, with monthly or yearly billing. Each image the studio draws counts as one design, including a stencil, a transparent PNG or a skin try-on of a design you've already made. Downloading and sharing don't.Full details"
+        ]
+    },
+    {
+        "from_link_text": "Open the studio",
+        "url": "https://tattoobuild.com/studio/?from=home",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "Open the studio",
+        "url": "https://tattoobuild.com/studio/?from=footer",
+        "title": "Design Studio - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
+        ]
+    },
+    {
+        "from_link_text": "Tattoo BuildAI Generator",
+        "url": "https://tattoobuild.com/",
+        "title": "Tattoo Build: AI Tattoo Generator (Get Your Custom Design!)",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "AI tattoo generator:Idea in.Stencilout.",
+            "Fresh from the studio",
+            "Four ways to take your design to your artist",
+            "Design sheet",
+            "Stencil / line art",
+            "Transparent PNG",
+            "Skin try-on",
+            "How the AI tattoo generator works"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Describe your idea. Explore the details, then take a design sheet or stencil to your tattoo artist.",
+            "Made in the studio",
+            "We made these in the studio ourselves, and each one sits above the exact idea we typed. Open one to see its settings, or tap Use this idea to start from it.",
+            "What you can make",
+            "Pick the one you need when you design, then turn the same design into any of the others in the studio.",
+            "Your design on clean white, laid out the way a flash sheet would show it. This is the one to put in front of your artist.",
+            "The outlines pulled away from the shading, so you can judge the linework on its own. Most artists redraw the stencil to fit your body, and that's how it should be.",
+            "The design with no background, ready to drop onto your own photos, a mood board or a phone wallpaper.",
+            "Upload a photo of the forearm, back or ankle you have in mind and see the design placed on it. It's a preview of size and position, not a promise of how healed ink will look. Try-on needs a free account."
         ]
     },
     {
         "from_link_text": "",
-        "url": "https://taoism.net/",
-        "title": "Taoism.net",
-        "headlines": [
-            "Primary menu"
-        ],
-        "paragraphs": [
-            "Taoism.net"
-        ]
-    },
-    {
-        "from_link_text": "Taoism.net",
-        "url": "https://taoism.net/",
-        "title": "Taoism.net",
-        "headlines": [
-            "Primary menu"
-        ],
-        "paragraphs": [
-            "Taoism.net"
-        ]
-    },
-    {
-        "from_link_text": "Menu",
-        "url": "http://taoism.net#mobile-header-left-nav",
-        "title": "Taoism.net",
-        "headlines": [
-            "Primary menu"
-        ],
-        "paragraphs": [
-            "Taoism.net"
-        ]
-    },
-    {
-        "from_link_text": "Home",
-        "url": "https://taoism.net",
-        "title": "Taoism.net",
-        "headlines": [
-            "Primary menu"
-        ],
-        "paragraphs": [
-            "Taoism.net"
-        ]
-    },
-    {
-        "from_link_text": "Tao Te Ching",
-        "url": "https://taoism.net/tao-te-ching/",
-        "title": "Tao Te Ching – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Tao Te Ching",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net"
-        ]
-    },
-    {
-        "from_link_text": "Contents",
-        "url": "https://taoism.net/tao-te-ching/",
-        "title": "Tao Te Ching – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Tao Te Ching",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net"
-        ]
-    },
-    {
-        "from_link_text": "About Lao Tzu",
-        "url": "https://taoism.net/about-lao-tzu/",
-        "title": "About Lao Tzu – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "About Lao Tzu",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "Lao Tzu was the ancient Chinese philosopher who wrote theTao Te Chingmore than 2,500 years ago. The name is an honorific title, meaning “Old Master.” Its two characters have been spelled in many different ways depending on the romanization system used. Some possibilities are as below:",
-            "Also depending on the system, there may or may not be a dash between the two words, and the second word may or may not be capitalized.",
-            "In the future, all the above variations will be unified by the Pinyin romanization system into one standard: Laozi. For now, the important thing to keep in mind is that no matter how the name is written, it refers to one person — the author of theTao Te Ching.",
-            "Some Western authors assert that the name “Lao Tzu” has another meaning that can be translated as something like “Old Son” or “Ancient Child.”This is absolutely incorrect.",
-            "Historical documents tell us the person behind the Lao Tzu title was a man by the name of Li Er. Legend has it that King Wu of Zhou appointed him Head Librarian of the royal archives at Luoyang. In that capacity, Li Er dealt with numerous ancient scrolls and manuscripts. He was able to immerse himself in the study of history, philosophy and literature, gaining understanding and insights along the way. In time, he won much acclaim for the wisdom he had cultivated — and thereby his honorific title, the Old Master.",
-            "According to another legend, Confucius visited with Lao Tzu and came away in awe of his wisdom. Confucius recognized in Lao Tzu a deep understanding about the world that was well beyond his own, and went so far as to liken Lao Tzu to the mysterious dragon. Many in later generations would regard Confucius as Lao Tzu’s disciple.",
-            "Lao Tzu decided to leave civilization behind when the House of Zhao began its decline. He departed Luoyang and headed for the Hangu Pass, intending to go far beyond it to some destination in the West.",
-            "While at Hangu Pass, Lao Tzu was recognized by the commander, who was a student of the Tao. He realized immediately that Lao Tzu’s departure would mean a great loss to all who wished to further their studies, so he asked Lao Tzu to write down a summary of his teachings for posterity. Lao Tzu agreed, and wrote a small book in two parts, expressing his accumulated learnings in brief, concise yet profound language. The first part became known as theTao Ching, meaningTao Classic; the second part was theTe Ching, meaningVirtue Classic. Together, the two parts formTao Te Ching, theTao and Virtue Classic."
-        ]
-    },
-    {
-        "from_link_text": "About the Tao Te Ching",
-        "url": "https://taoism.net/about-the-tao-te-ching/",
-        "title": "About the Tao Te Ching – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "About the Tao Te Ching",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "“Tao Te Ching” is the Wade-Giles romanization of the original Chinese title. Depending on the specific set of rules one follows, it can also be written like “Tao-te Ching” — with the hyphen and the second character in lowercase.",
-            "With Pinyin romanization, the same three characters may be rendered as:",
-            "Here, the joining of words also depends on the specific set of rules in effect. From a linguistic perspective, it’s preferable to keep the words separate, in order to avoid unintended side effects. However, most Chinese scholars, lacking sufficient knowledge of English, remain unaware of potential problems.",
-            "In English, the title “Tao Te Ching” has been translated in a variety of ways. Most of them are inaccurate and reflect a certain desire to inject additional meaning into the translation. For instance, one popular rendering, “The Book of the Tao and Its Power”, has the following errors:",
-            "To see the better way to translate the title, we can work on it character by character:",
-            "Tao",
-            "This is now an English word, appearing in all major dictionaries. If it weren’t, we would have to translate it as “the Way”. This would not be completely satisfactory, because “Tao” means so much more, so it’s a good thing this word has officially become part of the English language.",
-            "Nowadays, translatingTaoas “the Way” is like translating “deja vu” as “already seen” — not optimal and not necessary.Taocan and should be left as it is.",
-            "Te"
-        ]
-    },
-    {
-        "from_link_text": "Online Translation",
-        "url": "https://taoism.net/tao-te-ching-online-translation/",
-        "title": "Tao Te Ching Online Translation – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Tao Te Ching Online Translation",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "The above is the most accurate translation of the ancient classic available anywhere at any price. We are glad to make it a free download for everyone, thanks to special permission from the publisher ofTao Te Ching: Annotated & Explained, which contains much more than just the translation, for those who wish to delve deeper.",
-            "The PDF file is hosted here at Taoism.net and should be accessible for most users. If this is helpful to you, please consider supportingthe bookby spreading the word or contributing a review."
-        ]
-    },
-    {
-        "from_link_text": "The “Ancient Child”",
-        "url": "https://taoism.net/ancient-child/",
-        "title": "The “Ancient Child” Fallacy – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "The “Ancient Child” Fallacy",
-            "Post navigation",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "Misconception:",
-            "Quite a few people who study the Tao love the idea that the name Lao Tzu / Laozi has the dual meaning of “Old Master” and “Ancient Child.” They feel this is a higher level of wisdom that points to the childlike sense of wonder in the heart of a Tao sage. The idea is appealing because it matches what many think is cool about the Tao. There are authors who write about this, professors who teach this — and they all seem quite sure about it.",
-            "Truth:",
-            "Unfortunately, an idea that sounds cool isn’t necessarily right. Lao Tzu / Laozi does not mean Old Child, Ancient Child, Old Son, Ancient Son, Old Boy, Ancient Boy, or other similar permutations — not today nor at any time in history; not in Mandarin or any Chinese dialect.",
-            "In a different context, the charactertzuorzican mean “child” or “son,” and that’s the source of misconception. In the context of an honorary title, it can only mean “master” or “great teacher” and that’s it. There is no double meaning, veiled hint, skillful pun, or hidden humor. Whatever higher level of wisdom people imagine is just that — unfounded imagination.",
-            "Upon hearing this, some may shrug and say: “Whatever. I’ll just let the scholars fight it out.” This assumes the point is a matter of scholarly debate, but it’s not. It’s simply a matter of logic and actual (as opposed to imagined) linguistic meaning. To a native speaker of Chinese, there is no controversey.",
-            "When applied as an honorific, thetzucharacter is used for many other great teachers from Chinese history. Some of the better known ones in the West are Chuang Tzu, Sun Tzu, and Confucius (Kong Tzu). In the Pinyin system these would be written as Zhuangzi, Sunzi, and Kongzi respectively.",
-            "Thetzucharacter is used in the exact same way for all of these sages (for our specific examples, we can also note that it is used in the exact same way for them during the same period in Chinese history). Therefore, if it really does have a dual meaning for Lao Tzu, it must also have the same dual meaning for all of them. This means Chuang Tzu becomes “Chuang Child,” Sun Tzu becomes “Sun Child,” Confucius becomes “Kong Child,” and so on for all the other sages with the same title.",
-            "Some of the people who think Lao Tzu means “Old Child” also believe that Taoism is diametrically opposite to Confucianism. To them, the idea that the strict, un-Tao-like Confucius can be the Kong Child would probably be contradictory. And how about the Art of War having been written by Sun Tzu, the Sun Child? Does that point to the hidden wisdom that warfare is, um… child’s play?"
-        ]
-    },
-    {
-        "from_link_text": "Chuang Tzu",
-        "url": "https://taoism.net/chuang-tzu/",
-        "title": "Chuang Tzu – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Chuang Tzu",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net"
-        ]
-    },
-    {
-        "from_link_text": "Contents",
-        "url": "https://taoism.net/chuang-tzu/",
-        "title": "Chuang Tzu – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Chuang Tzu",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net"
-        ]
-    },
-    {
-        "from_link_text": "About Chuang Tzu",
-        "url": "https://taoism.net/about-chuang-tzu/",
-        "title": "About Chuang Tzu – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "About Chuang Tzu",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "If you have not encountered Chuang Tzu before, you are in for a treat. He was the sage who stood apart from all others in Chinese history. He was a unique presence, a great mind like no one before or since.",
-            "The name “Chuang Tzu” (“Zhuangzi” in the Pinyin system) means Master Chuang. His full name was Chuang Chou (Zhuang Zhou), and he lived about 2,400 years ago, during the Warring States period. It was a time of death and destruction due to widespread warfare. It was also a time when many schools of philosophy emerged, perhaps as a response to the extreme chaos.",
-            "Chuang Tzu quickly distinguished himself and became well known for his deep understanding and sense of humor. His mastery was such that he could explain the Tao with simple stories. His humor was such that he could see the joy in ordinary things. He taught his students about “carefree wandering”— the path of moving through life with a free and happy heart, regardless of how turbulent the journey might be. He regarded this as the essence, or the Tao, of true happiness.",
-            "His teachings were collected in the classic known asNan Hua Ching(Nan Hua Jing), and it had a tremendous impact on Chinese culture. Many common sayings and expressions in modern Mandarin trace directly back to it. The concepts and ideas within its pages are actively studied and appreciated today. As long as Chinese culture lives on, the legacy of Chuang Tzu will also endure.",
-            "Excerpted fromThe Tao of HappinessPublished by Penguin Random House in 2015"
-        ]
-    },
-    {
-        "from_link_text": "Chuang Tzu Translation",
-        "url": "https://taoism.net/category/chuang-tzu-translation/",
-        "title": "Chuang Tzu Translation – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Category Archives:Chuang Tzu Translation",
-            "Lao Tzu’s Funeral",
-            "One-Legged Man",
-            "Carving Up an Ox",
-            "Dream Within a Dream",
-            "Creation and Destruction",
-            "Great and Small",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "Chuang Tzu Translation and Commentary Laodan was dead. Chin Shih went to his funeral. He yelled three times and then came out. A disciple asked: “Are you not the Master’s friend?” He replied: “Yes.” “But then you mourn him likeContinue readingLao Tzu’s Funeral→",
-            "Chuang Tzu Translation and Commentary Kung Wen Hsien saw Yo Shi and exclaimed: “What kind of person is this? How come only one foot? Is this ordained by Heaven, Or caused by Man?” He then said to himself: “It isContinue readingOne-Legged Man→",
-            "Chuang Tzu Translation A cook was butchering an ox for Duke Wen Hui. The places his hand touched, His shoulder leaned against, His foot stepped on, His knee pressed upon, Came apart with a sound. He moved the blade, makingContinue readingCarving Up an Ox→",
-            "Chuang Tzu Translation and Commentary The one who dreams of drinking wine, In the morning may be crying. The one who dreams of crying, In the morning may go hunting. These lines above mean we live totally different existences inContinue readingDream Within a Dream→",
-            "Chuang Tzu Translation and Commentary When you break something up, you create things. When you create something, you destroy things. Material things have no creation or destruction. Ultimately these concepts connect as one. How can these diametrically opposite concepts beContinue readingCreation and Destruction→",
-            "Chuang Tzu Translation and Commentary This passage is a description of small-minded people. It is an example of what not to be. Great knowledge is broad and encompassing Small knowledge is detailed and meticulous Great talk is powerful and forcefulContinue readingGreat and Small→"
-        ]
-    },
-    {
-        "from_link_text": "The Tao of Happiness",
-        "url": "https://dereklin.com/tao-of-happiness/",
-        "title": "The Tao of Happiness – Derek Lin",
-        "headlines": [
-            "The Tao of Happiness"
-        ],
-        "paragraphs": [
-            "If you have not encountered Chuang Tzu before, prepare yourself for a treat. He was the sage who stood apart from all others in Chinese history. He was a unique presence, a great mind like no one before or since. Chuang Tzu quickly distinguished himself and became well known for his deep understanding and sense of humor. His mastery was such that he could explain the Tao with simple stories, and his humor was such that he could see the joy in ordinary things. He taught his students about “carefree wandering”—the path of moving through life with a free and happy heart, regardless of how turbulent the journey might be.",
-            "It is time for modern readers to join in on the fun. Chuang Tzu’s wisdom is not just for Eastern culture, but for all of humanity. We may not have the instability or the clash of massive armies indicative of Chuang Tzu’s time, but we have a lot of stress and tension in our modern world. Many of us find ourselves fighting little battles on the personal front just to get through the day. We can benefit greatly from Chuang Tzu’s teachings. These parables are presented throughout this book and juxtaposed with the charming and intelligent prose of modern-day Taoist teacher and author Derek Lin. Together, Chuang Tzu and Lin will present you with simple lessons that will have a lasting impact on your life."
-        ]
-    },
-    {
-        "from_link_text": "Platform Sutra",
-        "url": "https://taoism.net/platform-sutra/",
-        "title": "Sixth Patriarch Platform Sutra – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Sixth Patriarch Platform Sutra",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net"
-        ]
-    },
-    {
-        "from_link_text": "Contents",
-        "url": "https://taoism.net/platform-sutra/",
-        "title": "Sixth Patriarch Platform Sutra – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Sixth Patriarch Platform Sutra",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net"
-        ]
-    },
-    {
-        "from_link_text": "Huineng’s Calling",
-        "url": "https://taoism.net/huinengs-calling/",
-        "title": "Huineng’s Calling – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Huineng’s Calling",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "Huineng, the man who would become the Sixth Patriarch of Zen Buddhism, was born about 1,400 years ago in a southern province of China. His father passed away when he was very young, so he grew up with his mother in extreme poverty. The only means of making a living for him was to chop firewood and sell it at the market.",
-            "One day, a customer purchased all of his firewood for the day. This was the owner of a nearby inn, so Huineng delivered the firewood there. As he collected his money and got ready to leave, something caught his attention. One of the guests at the inn was reciting a sutra. Huineng had no idea what he was hearing, but somehow the words resonated powerfully. He felt an awakening deep in his soul.",
-            "He approached the guest. “Sir, what is this sutra you are reciting?”",
-            "The guest said: “It is theDiamond Sutra.”",
-            "This made Huineng even more curious. “Sir, where do you come from, to have such a sutra with you?”",
-            "The guest was glad to explain: “I hail from the Dongchan Temple in Huangmei far to the north. It is headed by the Fifth Patriarch of Zen Buddhism, with over a thousand disciples. I go to the temple to practice the rituals and listen to the teachings on theDiamond Sutra. The Master often encourages us to read and recite theDiamond Sutra. If we can keep doing that, one day we will be able to perceive our true nature and become the Buddha.”",
-            "Huineng was excited but also worried. He could feel this was his destiny. It was no accident for him to encounter this guest at this particular time in his life. He must go north to seek the wisdom taught by the Fifth Patriarch — except he had no idea how to do that. And what would happen to his elderly mother without him?",
-            "Fortunately, another guest at the inn came forward. Perhaps due to the powerful karma at work, this gentleman gave Huineng a substantial amount of money. “Take it,” he said. “Use it for your mother’s living expenses. Then, you can follow your heart and go to the Fifth Patriarch.”",
-            "Huineng was beyond grateful. He accepted this great kindness, made the appropriate arrangements, and bade his mother farewell."
-        ]
-    },
-    {
-        "from_link_text": "Buddha Nature",
-        "url": "https://taoism.net/buddha-nature/",
-        "title": "Buddha Nature – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Buddha Nature",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "It was a long journey — especially for someone who had to walk the entire way. After about thirty days, Huineng finally reached his destination. He quickly located the Dongchan Temple, and presented himself before the Master.",
-            "The Fifth Patriarch was plainspoken and straightforward. He wasted no time speaking to Huineng directly: “Where are you from? What are you looking for here?”",
-            "Huineng replied: “Master, I am a commoner from the Lingnan province. I have come a long way to pay my respects to you. I seek nothing other than to become a Buddha.”",
-            "The Fifth Patriarch regarded this young man and used a scolding voice: “You are a commoner from the south, and also a barbarian. How can a barbarian hope to become a Buddha?”",
-            "Huineng was unruffled as he responded: “Although people are differentiated in terms of north and south, in Buddha nature there is no north or south. The body of the barbarian may be different from that of the monk, but what difference is there in terms of Buddha nature?”",
-            "This response impressed the Fifth Patriarch. He wanted to talk more, but stopped himself because there were quite a few disciples around. He ordered Huineng to help them with their daily tasks.",
-            "Huineng was only too happy to follow the order. He knew it meant he was now accepted at the temple to live, work and study under the Fifth Patriarch. It was the starting point of his formal path of spiritual cultivation.",
-            "The Tao",
-            "Huineng was quite aware of the prejudice in his world. The tall northerners of ancient China often looked down on the smaller and shorter people from the south. It was a harsh judgement based on external appearance — not so different from the discrimination we see today in our world. It seems we haven’t advanced much as a species in the 1,300 years since Huineng’s time."
-        ]
-    },
-    {
-        "from_link_text": "The Master’s Test",
-        "url": "https://taoism.net/the-masters-test/",
-        "title": "The Master’s Test – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "The Master’s Test",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "One day, the Fifth Patriarch summoned all the disciples to him for an announcement. He said: “Let me tell all of you, the most important thing for everyone in the world is life and death. If you seek enjoyment every day, rather than liberation from suffering, you will only lose yourself. If you are lost, how can enjoyment save you?",
-            "“I want all of you to go contemplate your wisdom, reflect on your original nature, and write a poem for me. If you can show a real understanding of the great truth, I shall pass my authority onto you and make you the Sixth Patriarch. Go do this quickly, without delay. No need to think about it too much. If you truly understand, you will see what I am looking for as soon as you hear my words.”",
-            "Excitement rippled across the temple as the disciples realized this was about succession at the temple. They discussed it among themselves, and one of them said: “What’s the use for us to rack our brains to write a poem? Shenxiu, the senior disciple, is our teacher. He will surely inherit the mantle, and we will all follow him. Why bother trying to write anything?”",
-            "All the disciples agreed with this, but Shenxiu listened to them from afar and felt conflicted. If they all did nothing and looked to him, then the pressure was on him to write something. If he also did nothing, how could the Master assess his level of understanding? If he wrote his poem for the dharma, that might be the right thing to do, but if he did it for the Master’s position, then how would he be any different from all the power-hungry people of the world? This was a difficult dilemma!",
-            "Shenxiu wrote his poem, but could not make himself submit it. He would walk toward the Fifth Patriarch’s room, only to find himself losing his nerve, sweating profusely, and unable to proceed further. He did this thirteen times over four days, feeling caught between a rock and the hard place. What could he do to end this internal battle against himself?",
-            "The Tao",
-            "The ultimate symbol of authority at the temple was a robe and a begging bowl. They originally belonged to Bodhidharma, the Indian monk who travelled to China and founded the order of Zen Buddhism as the First Patriarch.",
-            "There were no prescribed methods for the Patriarch of one generation to pass the robe and the bowl onto the next generation. The Fifth Patriarch could use whatever method he deemed appropriate, and he chose to do it on the basis of merit instead of rank. He looked beyond the surface and saw the essential equality of all sentient beings. Therefore, he regarded real understanding as being much more important than superficial measures like seniority.",
-            "His command to the disciples might seem unusual. No other tradition, before or since, utilized such a test or anything similar to it. It was not a test about knowledge, because spirituality could never be about memorizing facts or solving equations. It was a test about wisdom — the truths that transcended logic to resonate powerfully in the heart. In that context, the Fifth Patriarch’s requirement of poetic expression made perfect sense."
-        ]
-    },
-    {
-        "from_link_text": "Shenxiu’s Poem",
-        "url": "https://taoism.net/shenxius-poem/",
-        "title": "Shenxiu’s Poem – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Shenxiu’s Poem",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "After much consideration, Shenxiu came up with an idea. Instead of submitting the poem directly to the Fifth Patriarch, he would write it on a wall anonymously. Everyone would see it as they went about their business during the day, and if the Master were to praise it as a good example of what he wanted, then Shenxiu could reveal himself as the author.",
-            "Having made up his mind, Shenxiu sneaked out of his room in the middle of the night. He went to the wall and wrote:",
-            "Body is the bodhi treeMind is like clear mirror standStrive to clean it constantlyDo not let the dust motes land",
-            "The next morning, the Fifth Patriarch walked by the wall and saw what Shenxiu had done. He gathered the disciples around and said to them: “Pay your respects to this poem. Commit it to memory, recite it every day, and you will be able to attain enlightenment.”",
-            "That night, the Fifth Patriarch summoned Shenxiu to him. He got straight to the point: “You wrote that poem, did you not?”",
-            "Shenxiu bowed deeply: “Yes, Master. I did it not to seek the inheritance of your mantle, but only in the hopes that you would let me know how much understanding I have actually demonstrated.”",
-            "The Fifth Patriarch said: “Your poem shows that you have not yet perceived the true self. You are outside the door, unable to enter. This is not the way to attain the ultimate wisdom. At that level, it would take only a few words to reveal the original nature — that which was never born and can never die. You would be able to see it clearly at any time. Your mind would flow with it naturally and express it effortlessly. I want you to go back to your room. Think it over for a day or two. Write me another poem. If I see that you have entered the door, I shall pass my position over to you.”",
-            "Shenxiu knew his Master was right about his limitations. He tried to write another poem, but his mind was unsettled, as if he was in a dream. Although all the disciples still respected him as much as ever, he could see that he was not ready for the Patriarch’s position of spiritual authority.",
-            "The Tao"
-        ]
-    },
-    {
-        "from_link_text": "Huineng’s Poem",
-        "url": "https://taoism.net/huinengs-poem/",
-        "title": "Huineng’s Poem – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Huineng’s Poem",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "After a couple of days, a young monk passed by the kitchen, reciting Shenxiu’s poem. As soon as Huineng heard it, he knew it did not express the essence of true nature. Feeling curious, he approached the young monk: “What is this poem you are reciting?”",
-            "The young monk looked him over and said: “You are an ignorant barbarian, so of course you would not know. Our Master told us he wished to name his successor, so he ordered us to write a poem to demonstrate our understanding. The one who understands the dharma best will become the Sixth Patriarch. Our teacher Shenxiu wrote his poem on a wall, and the Master told us to recite it. He said if we follow its words in spiritual cultivation, we will reap great benefits.”",
-            "This made Huineng even more curious. He said to the young monk: “I would like to recite it too, but I do not know where the wall is. Can you take me to it, so I can pay my respects?”",
-            "The young monk took Huineng to the wall. Huineng saw the poem, but could not read it because he was illiterate. There was a visitor nearby, a government official by the name of Zhang. He was able to read it out loud for Huineng.",
-            "Huineng bowed to Zhang: “Sir, I also have a poem. Can you help me write it on the wall?”",
-            "Zhang reacted like the young monk, not taking Huineng seriously. He said in a mocking tone: “You know how to write poetry too? Now that would be extremely rare indeed!”",
-            "Huineng said calmly: “Those who wish to learn the ultimate teaching should not look down on beginners. The lowest of the low may have the highest wisdom; the highest of the high may have no wisdom. Thus, to look down on someone would be the ultimate wrong.”",
-            "Zhang was surprised by Huineng’s words. He dropped his attitude, and wrote on the wall as Huineng dictated:",
-            "Bodhi really has no treeNor is clear mirror the standNothing’s there initiallySo where can the dust motes land?"
-        ]
-    },
-    {
-        "from_link_text": "The Sacred Transmission",
-        "url": "https://taoism.net/the-sacred-transmission/",
-        "title": "The Sacred Transmission – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "The Sacred Transmission",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "The day after the Fifth Patriarch erased Huineng’s poem from the wall, he quietly went to the kitchen by himself. He found Huineng there, milling rice with a heavy rock tied around his waist. This was necessary because Huineng was too thin and needed the extra weight to help him bear down on the rice.",
-            "The Fifth Patriarch was impressed. Huineng’s dedication reminded him of those who were so devoted to dharmic studies that they disregarded and transcended physical limitations. He asked Huineng: “Is the rice ready?”",
-            "Huineng replied: “The rice has long been ready, and only needs to be sifted.”",
-            "This was what the Fifth Patriarch wanted to hear. He raised his staff, tapped the rice mill three times, and left.",
-            "Huineng understood his Master, even if their exchange might seem cryptic to someone else. He stayed up late, until the third watch of the night, and then he went to the Fifth Patriarch’s room — just as he was ordered.",
-            "The Fifth Patriarch used his robes as cover, to shield them from view. Then, he taught theDiamond Sutrato Huineng. When they got to “one should be non-abiding, thus giving rise to one’s mind,” Huineng experienced a moment of great awakening.",
-            "In sudden realization, he said: “None of the myriad dharmas of the world is separate from the nature of the self!” Then, he turned to the Fifth Patriarch to exclaim:",
-            "“How unexpected that self-nature is originally clear and pure in itself!How unexpected that self-nature is originally not born or extinguished!How unexpected that self-nature is originally complete and sufficient in itself!How unexpected that self-nature is originally not moved or shaken!How unexpected that self-nature is able to produce all dharmas!”",
-            "Hearing this, the Fifth Patriarch knew Huineng had attained enlightenment. He nodded: “If you do not know your own mind, studying the dharma brings no benefit. If you do know the mind of the true self, then you will also see its true nature. This is how one becomes a person of honor, a heavenly teacher, and a Buddha.”"
-        ]
-    },
-    {
-        "from_link_text": "The Pursuit of Huineng",
-        "url": "https://taoism.net/the-pursuit-of-huineng/",
-        "title": "The Pursuit of Huineng – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "The Pursuit of Huineng",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "Huineng had to run, but he had no idea which way to go, so the Fifth Patriarch took him down the mountain road. They arrived at the river, where they boarded a small boat.",
-            "Huineng said: “Master, please be seated and leave the rowing to me.”",
-            "The Fifth Patriarch said: “I should be the one to ferry you across.”",
-            "Huineng replied: “Master, when I was lost, you ferried me to the shore of enlightenment. Now that I have some understanding, I should be the one to ferry myself from this point on.”",
-            "The Fifth Patriarch was delighted. “Yes, exactly! I can see you will be the one to spread the dharma in the future. Head south, and do not rush into the task of establishing yourself. It will not be easy to get the teaching started.”",
-            "They got to the other side of the river. Huineng said goodbye and started on his way. The Fifth Patriarch returned to the temple, and for several days did not come out of his room.",
-            "The disciples became concerned. They asked him: “Master, are you feeling unwell?”",
-            "The Fifth Patriarch said: “I am fine. The robe, the bowl and the dharma have gone to the south.”",
-            "This alarmed all of them. They pressed: “Master, who inherited your mantle?”"
-        ]
-    },
-    {
-        "from_link_text": "Encounter in the Woods",
-        "url": "https://taoism.net/encounter-in-the-woods/",
-        "title": "Encounter in the Woods – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Encounter in the Woods",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "As the disciples pursued Huineng, one of them was well ahead of the pack. His name was Huiming, and he used to be a military general. He was much faster than the rest, so he was the first to catch up with Huineng.",
-            "Huineng knew he could not outrun this pursuer. When Huiming got closer, he knew he had to hide. He set down the robe and the bowl on a rock and said loudly: “These symbols represent our faith! Are you trying to take them by force?” Then, he hid himself in a nearby bush.",
-            "Huiming followed the sound Huineng’s voice, and saw the robe and bowl on the rock. He reached out to take them, but found that he could not. His conscience told him Huineng was right — it would be the wrong thing for him to do.",
-            "He yelled out: “Master! Master! I came for the dharma, not for the robe and the bowl.”",
-            "Hearing this, Huineng came out of hiding to sit on the rock. Huiming bowed to him with respect. “Master, please provide me with a dharmic lesson.”",
-            "Huineng said: “Since you came for the dharma, I would like you to start by letting go of your desires and attachments. Do not let a single stray thought come up, and I shall speak of the dharma for you.”",
-            "There in the woods, the two men sat in meditation for a while. When the time felt right, Huineng broke the silence: “No thoughts of good, and no thoughts of evil… in that moment, what you experience is the original appearance of your nature.”",
-            "These words triggered a great awakening in Huiming, and he felt the joy of enlightenment. After a moment, he asked: “Other than the esoteric teachings passed down from previous generations, are there more hidden secrets of spiritual wisdom?”",
-            "Huineng smiled: “If I tell you, then they are no longer secrets. All you have to do is reflect on yourself, and you will find the secrets right next to you.”"
-        ]
-    },
-    {
-        "from_link_text": "Escape and Emergence",
-        "url": "https://taoism.net/escape-and-emergence/",
-        "title": "Escape and Emergence – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Escape and Emergence",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "Huineng continued to be pursued by disciples who wanted to capture him, force him to give up Bodhidharma’s robe and bowl, and inflict some kind of punishment on him. Fortunately, he came across a group of hunters in the wilderness. They kept their distance from the noisy disciples who scared away the game, so Huineng was more than glad to join them.",
-            "Huineng became part of the group and remained with them for the next fifteen years. He did not hunt with them, but made himself useful in taking care of other duties. When they chatted between hunts and the opportunity presented itself, he would speak of Buddhist dharma for anyone willing to listen.",
-            "For Huineng, life with the hunters was a balance between their means of livelihood and his sense of compassion. They would often set traps and ordered Huineng to watch them. He took on this responsibility without protest, but when animals were caught, he would release them whenever he could. Likewise, when meals were being prepared, he would cook vegetables along with meats. If others asked, he would say he liked eating the vegetables — which was quite true.",
-            "One day, Huineng sensed it was time for him to emerge from hiding and begin the work of disseminating dharmic teachings. He said goodbye to the hunters, and made his way to a temple in Guangzhou. A Zen Master by the name of Yinzhong was speaking, so Huineng sat with the monks, listening to the teaching on theNirvana Sutra.",
-            "A wind was blowing across the temple, and a flag fluttered. One of the monks, observing this, remarked: “The wind is moving.”",
-            "Another monk, observing the same thing, said: “No. The flag is moving.”",
-            "The first monk repeated himself more forcefully, but the second monk refused to budge. The two started going back and forth, and their disagreement quickly escalated. As they raised their voice at each other, Huineng suddenly spoke: “It is not the wind moving, nor the flag moving. It is your mind that is moving.”",
-            "A hush came over the crowd. Everyone was stunned by the insight. The crucial thing in life was not the external events, but the internal thoughts about what was happening. In just a few words, Huineng cut through all the intellectual arguments — and pointed out the simple truth.",
-            "The Tao"
-        ]
-    },
-    {
-        "from_link_text": "The End and Beginning",
-        "url": "https://taoism.net/the-end-and-the-beginning/",
-        "title": "The End and Beginning – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "The End and Beginning",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "As soon as Huineng pointed out that the mind was moving, rather than the flag or the wind, Yinzhong sensed there was more to the situation. He invited Huineng to speak to the gathering, and as Huineng responded to additional questions about dharma, he became even more impressed. Huineng’s answers were accurate yet simple, without any esoteric words.",
-            "In admiration, Yinzhong said to Huineng: “You are most certainly not an ordinary individual. Quite some time ago, I heard that the Fifth Patriarch sent his successor southward, bringing the robe and bowl toward us. Could you be that person?”",
-            "Huineng replied that he dared not presume such an honor — but it became quite obvious to all that he was indeed the one. Yinzhong bowed and asked to see the robe and the bowl. These were shown to everyone, confirming Huineng as the Sixth Patriarch.",
-            "Yingzhong asked Huineng: “When the Fifth Patriarch passed on the robe and the bowl to you, what were his instructions?”",
-            "Huineng said: “He provided no additional instructions except that we must learn to see our own original nature. He did not speak of spiritual liberation through meditation, because that would add one more thing to the Buddha’s dharma, and the Buddha’s dharma is the only path.”",
-            "Yingzhong had never heard it expressed quite that way before. He asked: “How is the Buddha’s dharma the only path?”",
-            "Huineng explained: “It is exactly as you have taught from theNirvana Sutra. Once, the Buddha was asked about the criminals who had committed every crime imaginable. Would such people be forever cut off from Buddhahood? The Buddha replied that this potential in all sentient beings to become enlightened was beyond all good and bad, all virtuous deeds and criminal actions. Where ordinary people saw differences, the wise ones saw only an essence that could not be cut off or separated from anything else. This is the oneness of Buddha nature.”",
-            "These words filled Yingzhong with the joy of understanding. He exclaimed: “When I listen to others explain the sutra, it feels as valueless as rocks. Now, as I listen to you, the dharma feels as precious as gold!”",
-            "Yingzhong conducted a formal ritual for Huineng, cutting off his hair so his appearance would match who he was within — a Zen Buddhist monk. Thereafter, Yingzhong and the monks revered Huineng as their teacher, and this marked the beginning of Huineng’s work to spread the dharma."
-        ]
-    },
-    {
-        "from_link_text": "Tao Info",
-        "url": "https://taoism.net/tao-info/",
-        "title": "Tao Info – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Tao Info",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net"
-        ]
-    },
-    {
-        "from_link_text": "Contents",
-        "url": "https://taoism.net/tao-info/",
-        "title": "Tao Info – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Tao Info",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net"
-        ]
-    },
-    {
-        "from_link_text": "Tao Stories",
-        "url": "https://taoism.net/category/tao-stories/",
-        "title": "Tao Stories – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Category Archives:Tao Stories",
-            "The Sad Lady",
-            "Purchasing Yi",
-            "Weaken and Strengthen",
-            "The Right Manager",
-            "The Light Bulb",
-            "Old Friends",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "Once upon a time in ancient China, there was a sage widely regarded for his wisdom. One day, he was passing by a village when it began to rain. He went into the village to seek shelter, and that’s whenContinue readingThe Sad Lady→",
-            "During the Warring States period, there was a man by the name of Feng Xuan who lived in the Qi Kingdom. He was poor and had no viable prospects, so he went to the palace of the wealthy duke, LordContinue readingPurchasing Yi→",
-            "The latest ratings came in, and they showed that Anthony’s newscast ranked first. Again Anthony was the number one news anchor among all the TV journalists. Along with his popularity, Anthony had developed a star-size ego that constantly brought himContinue readingWeaken and Strengthen→",
-            "You walk toward the set to get ready for another day of shooting. The cameras are in position, and off to one side the screenwriter is discussing script changes with the director. They hand you today’s shooting script, so youContinue readingThe Right Manager→",
-            "Once there was a young man who worked at a factory. His mentor, an old technician, taught him to talk less, do more, and never stop developing his skills in every aspect of the factory’s operation. Ten years later, theContinue readingThe Light Bulb→",
-            "Once, there was a gathering of three old friends. They were all scholars leading busy lives, but they made it a point to meet once a year to make sure they would always stay in touch with one another. ThisContinue readingOld Friends→"
-        ]
-    },
-    {
-        "from_link_text": "Tao Articles",
-        "url": "https://taoism.net/category/tao-articles/",
-        "title": "Tao Articles – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Category Archives:Tao Articles",
-            "The Seven Virtues of Water",
-            "Respect for Life",
-            "Meet the Meat",
-            "Seize the Day",
-            "The Tao of Relationships",
-            "The Dance",
-            "The Value of the Tao",
-            "Stillness"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "The highest virtue resembles water. This is a concept that many of us have encountered in Tao cultivation, but what does it mean? What exactly are the virtues associated with water, and how do we emulate water to manifest more of themContinue readingThe Seven Virtues of Water→",
-            "Why do we cultivate the Tao? There are so many spiritual paths out there, how does the Tao differ from the rest? If differences exist, are they significant or superficial? “All forms of spiritualities are the same — they allContinue readingRespect for Life→",
-            "Tao practitioners often say that the Tao is everywhere. One can learn from just about anything in one’s environment if one is observant. Sometimes all it takes is a slightly different way to look at things, and sudden clarity jumpsContinue readingMeet the Meat→",
-            "Sunrise signifies the beginning of a brand new day, an amazing gift for all of us. We have the power to decide what to do with it, and give it whatever meaning we wish. What is the best way toContinue readingSeize the Day→",
-            "Three Surprising Lessons from Ancient Masters Start by managing your relationship with yourself. The ancient masters taught that you must first bring harmony into your heart before you can bring harmony into your home. Similarly, you must master your relationshipContinue readingThe Tao of Relationships→",
-            "It is a pleasant evening as you walk up to the entrance of the ballroom. You’ve been invited to a dance. You don’t know much about ballroom dancing, but you’re eager to learn. It is the first time you’ve beenContinue readingThe Dance→",
-            "In the Tao Te Ching, Lao Tzu describes the Tao as the value beyond value, with a price beyond price. Even the coronation of the emperor, the ceremony of the utmost honor in ancient China, could not compare to theContinue readingThe Value of the Tao→",
-            "Think about how chaotic life can be. When we are born, we mark the moment with the baby’s first cry – a howl with powerful emotions convulsing the whole body, a loud protest against the forced entry into this world.Continue readingStillness→"
-        ]
-    },
-    {
-        "from_link_text": "Tao Q&A",
-        "url": "https://taoism.net/category/tao-questions/",
-        "title": "Tao Q&A – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Category Archives:Tao Q&A",
-            "What is Zen?",
-            "The Tao of Christmas",
-            "The Correct Way to Say “Tao”",
-            "Reincarnation and the Tao",
-            "The Tao of Giving",
-            "Social Graces",
-            "What is the Tao?",
-            "Dealing With Setbacks"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "Question: What is Zen? Answer: “Zen” is the Japanese pronunciation of the Chinese character “chan,” which is in turn the Chinese translation from the Indian Sanskrit term “dhyana,” which means meditation. Zen, like Tao, cannot be totally explained in words.Continue readingWhat is Zen?→",
-            "Question: Derek, do Taoists celebrate Christmas? Should they? Now that the holiday season has arrived, I am wondering if I should inform my friends and family that, due to my personal belief in the Tao, I will no longer beContinue readingThe Tao of Christmas→",
-            "Question: Derek, I am currently studying Tao philosophy with my Tai Chi instructor. I noticed he pronounced “Tao” like “dowel” instead of “towel,” so I asked him about it. He said that was how he learned it from his master inContinue readingThe Correct Way to Say “Tao”→",
-            "Question: Derek, how does the concept of reincarnation fit into the Tao? I would like to understand what you base your belief on regarding this matter, so I can deepen my understanding from your perspective. Answer: None of the early Taoist texts mentionsContinue readingReincarnation and the Tao→",
-            "Question: Derek, as the holiday season approaches, I find myself facing the fact that I won’t be able to give presents like I always have in previous years, because my personal finance has been severely impacted by the economy. HowContinue readingThe Tao of Giving→",
-            "Question: How do you gracefully leave a flailing party early, without causing the rest of the crowd to abandon ship with you? Answer: Although people may associate the Tao with the mystical or metaphysical, it is actually a practical philosophyContinue readingSocial Graces→",
-            "Question: What is the Tao? Answer: Tao (pronounced “dao”) means literally “the path” or “the way.” It is a universal principle that underlies everything from the creation of galaxies to the interaction of human beings. The workings of Tao areContinue readingWhat is the Tao?→",
-            "Question: Derek, I am a beginner when it comes to the Tao. While I enjoy learning the concepts from your books, I don’t always know how to apply them. For instance, I recently lost my job because the winds ofContinue readingDealing With Setbacks→"
-        ]
-    },
-    {
-        "from_link_text": "Misconceptions",
-        "url": "https://taoism.net/category/misconceptions/",
-        "title": "Misconceptions – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Category Archives:Misconceptions",
-            "The “Ancient Child” Fallacy",
-            "How to Pronounce Tao",
-            "Hua Hu Ching",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "Misconceptions",
-            "Misconception: Quite a few people who study the Tao love the idea that the name Lao Tzu / Laozi has the dual meaning of “Old Master” and “Ancient Child.” They feel this is a higher level of wisdom that pointsContinue readingThe “Ancient Child” Fallacy→",
-            "Misconception: The first letter in “Tao” is an approximation of a Chinese sound that does not have an exact English equivalent. The most accurate rendition would be a combination “t” & “d” sound, as in “Tdhow.” Truth: Actually, there isContinue readingHow to Pronounce Tao→",
-            "Misconception: The Hua Hu Ching contains the unknown teachings of Lao Tzu at an advanced level beyond the Tao Te Ching. Truth: The Hua Hu Ching (written as Huahujing in the Pinyin system) is a forgery created to assert theContinue readingHua Hu Ching→"
-        ]
-    },
-    {
-        "from_link_text": "Tao Books",
-        "url": "https://taoism.net/tao-books/",
-        "title": "Tao Books – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Tao Books",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net"
-        ]
-    },
-    {
-        "from_link_text": "Contents",
-        "url": "https://taoism.net/tao-books/",
-        "title": "Tao Books – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Tao Books",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net"
-        ]
-    },
-    {
-        "from_link_text": "Tao Te Ching",
-        "url": "https://dereklin.com/tao-te-ching/",
-        "title": "Tao Te Ching: Annotated & Explained – Derek Lin",
-        "headlines": [
-            "Tao Te Ching: Annotated & Explained"
-        ],
-        "paragraphs": [
-            "Originally written by a sage named Lao Tzu over 2,500 years ago, theTao Te Chingis one of the most succinct—and yet the most profound—spiritual texts ever written. Short enough to read in an afternoon, subtle enough to study for a lifetime, theTao Te Chingdistills into razor-sharp poetry centuries of spiritual inquiry into the Tao—the “Way” of the natural world around us that reveals the ultimate organizing principle of the universe.",
-            "Derek Lin’s insightful commentary, along with his new translation from the original Chinese—a translation that sets a whole new standard for accuracy—will inspire your spiritual journey and enrich your everyday life. It highlights theTao Te Ching‘s insights on simplicity, balance, and learning from the paradoxical truths you can see all around you: finding strength through flexibility (because bamboo bends, it is tough to break); achieving goals by transcending obstacles (water simply flows around rocks on its way to the sea); believing that small changes bring powerful results (a sapling, in time, grows into a towering tree).",
-            "Now you can experience the wisdom and power of Lao Tzu’s words even if you have no previous knowledge of theTao Te Ching. SkyLight Illuminations provides insightful yet unobtrusive commentary that describes helpful historical background, explains theTao Te Ching‘s poetic imagery, and elucidates the ancient Taoist wisdom that will speak to your life today and energize your spiritual quest.",
-            "Online Translation"
-        ]
-    },
-    {
-        "from_link_text": "The Tao of Tranquility",
-        "url": "https://dereklin.com/the-tao-of-tranquility/",
-        "title": "The Tao of Tranquility – Derek Lin",
-        "headlines": [
-            "The Tao of Tranquility"
-        ],
-        "paragraphs": [
-            "The Tao of Tranquilityis the definitive translation and explanation of theQingjing Jing, the Taoist classic from the Tang Dynasty more than a thousand years ago. It has a special place in the history of Eastern thought, because it is the only sutra to weave Tao insights and Buddhist teachings together. This forms a wondrous tapestry of enlightenment and creates a synergistic fusion that is far greater than the sum of its parts.",
-            "Now, for the first time, Western readers can explore this ancient treasure and reap the benefits of its wisdom. What is the meaning of existence? How do we deal with delusions and suffering in the world? How can we attain real peace of mind that lasts? All these questions and more are examined in theQingjing Jing. Let The Tao of Tranquility reveal its answers to the greatest questions of life — and take you on the path to your spiritual awakening!"
-        ]
-    },
-    {
-        "from_link_text": "The Tao of Wisdom",
-        "url": "https://dereklin.com/the-tao-of-wisdom/",
-        "title": "The Tao of Wisdom – Derek Lin",
-        "headlines": [
-            "The Tao of Wisdom"
-        ],
-        "paragraphs": [
-            "The Tao of Wisdom is the book for anyone who is interested in theTao Te Chingand wants to understand it more deeply. With this book, Derek Lin brings you inspirational stories that reveal the profound meaning of key passages and central concepts in the Tao. The wise words of Lao Tzu come into clear focus like never before!",
-            "This book is Derek Lin’s return to the format of his award-winning and bestselling The Tao of Daily Life. Once again, he combines his knowledge of ancient texts and storytelling skills to create a new masterwork — an excellent guide for learning Eastern philosophy in the Western world!",
-            "Immerse yourself in the entertaining, timeless tales within this volume. Enjoy the dharma talks that illuminate practical insights. Follow the author as he shows you how easy it can be to apply the Tao to transform your life. Let The Tao of Wisdom be your faithful companion as you embark on the next leg of your spiritual journey!"
-        ]
-    },
-    {
-        "from_link_text": "The Tao of Daily Life",
-        "url": "https://dereklin.com/the-tao-of-daily-life/",
-        "title": "The Tao of Daily Life – Derek Lin",
-        "headlines": [
-            "The Tao of Daily Life"
-        ],
-        "paragraphs": [
-            "The perfect book for readers who are interested in Taoism and want a little daily inspiration.",
-            "The Tao of Daily Lifecombines ancient Eastern wisdom with practical application—perfect for busy Western readers! Derek Lin, Taoist master and expert in Eastern philosophy, brings his deep knowledge of this time-honored Chinese spiritual thought system into the twenty-first century. “There is one simple reason for the Tao to have survived through the ages intact: it works,” writes Lin. “The principles of the Tao are extremely effective when applied to life. The philosophy as a whole is nothing less than a practical, useful guide to living life in a way that is smooth, peaceful, and full of energy.” Using the powerful medium of stories and short dharma talks, Lin illuminates the Taoist secrets and engages the reader in their inherent wisdom. As a result, the reader ofThe Tao of Daily Lifewill notice certain changes, including:",
-            "The spiritual journey, as described by Derek Lin, becomes the most worthwhile exploration anyone can take."
-        ]
-    },
-    {
-        "from_link_text": "The Tao of Success",
-        "url": "https://dereklin.com/the-tao-of-success/",
-        "title": "The Tao of Success – Derek Lin",
-        "headlines": [
-            "The Tao of Success"
-        ],
-        "paragraphs": [
-            "A modern book of destiny and power, using the ancient principles of theTao Te Ching.How do we begin to discover and live our destined life? How can we use the ancient, Eastern philosophy to experience more success in our lives today?From Derek Lin, Taoist master and author ofThe Tao of Daily Life, comes this practical, systematic approach to the ancient and time-honored spiritual learning process.The Tao of Successnavigates the five rings of life, which are common patterns of traditional Tao cultivation, conceptualized by the ancient sages: your spirit, your mind, your relationships, your world, and your destiny. Success is achieved by exploring and experiencing these five concentric rings, from the inside out, and not in the future but in the here and now.Using the same format that madeThe Tao of Daily Life, a breakout Eastern wisdom bestseller, Lin draws on the power of Taoist stories to illustrate important key lessons. He then offers commentary on understanding and applying that story in modern life—all aimed to help readers live out the destiny that lies within themselves.By integrating the life-altering lessons of this book into their busy lives, readers can begin to cultivate the Tao. InThe Tao of Success, Lin returns with his enlightening approach to understanding, centered on story and illumination of ancient Taoist secrets for the modern beginner and the experienced student alike."
-        ]
-    },
-    {
-        "from_link_text": "The Tao of Joy",
-        "url": "https://dereklin.com/the-tao-of-joy-every-day/",
-        "title": "The Tao of Joy Every Day – Derek Lin",
-        "headlines": [
-            "The Tao of Joy Every Day"
-        ],
-        "paragraphs": [
-            "For the readers of365 TaoandLiving the Wisdom of the Tao—a new book combining the popular format of the daily meditation with the profound insights of Taoism.",
-            "In the Taoist tradition, it is taught that practicing one small bit of wisdom each day will add up to a life of wisdom and joy. This volume of 365 life-transforming readings—the next in the Tarcher Every Day series—brings the sacred wisdom of the Tao to our daily life. The Tao of Joy Every Day contains Taoist sayings, wisdom, and stories—all designed to bring awareness and understanding of what makes our lives meaningful, especially in a world that seems hurried and crazed.",
-            "Derek Lin has become one of the bestselling Taoist teachers and writers in America today. His previous books, including The Tao of Daily Life and his own translation of the Tao Te Ching, have become spiritual must-reads. Now, with The Tao of Joy Every Day, Lin has created 365 lessons that bring a gentle guiding hand to living a life of joy."
-        ]
-    },
-    {
-        "from_link_text": "The Tao of Happiness",
-        "url": "https://dereklin.com/tao-of-happiness/",
-        "title": "The Tao of Happiness – Derek Lin",
-        "headlines": [
-            "The Tao of Happiness"
-        ],
-        "paragraphs": [
-            "If you have not encountered Chuang Tzu before, prepare yourself for a treat. He was the sage who stood apart from all others in Chinese history. He was a unique presence, a great mind like no one before or since. Chuang Tzu quickly distinguished himself and became well known for his deep understanding and sense of humor. His mastery was such that he could explain the Tao with simple stories, and his humor was such that he could see the joy in ordinary things. He taught his students about “carefree wandering”—the path of moving through life with a free and happy heart, regardless of how turbulent the journey might be.",
-            "It is time for modern readers to join in on the fun. Chuang Tzu’s wisdom is not just for Eastern culture, but for all of humanity. We may not have the instability or the clash of massive armies indicative of Chuang Tzu’s time, but we have a lot of stress and tension in our modern world. Many of us find ourselves fighting little battles on the personal front just to get through the day. We can benefit greatly from Chuang Tzu’s teachings. These parables are presented throughout this book and juxtaposed with the charming and intelligent prose of modern-day Taoist teacher and author Derek Lin. Together, Chuang Tzu and Lin will present you with simple lessons that will have a lasting impact on your life."
-        ]
-    },
-    {
-        "from_link_text": "Free Books for Prisoners",
-        "url": "https://taoism.net/free-books-for-prisoners/",
-        "title": "Free Books for Prisoners – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Free Books for Prisoners",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "Over the years, I have seen the Tao change lives again and again. People who study it with an open mind, and put its lessons into actual practice, invariably experience profound life transformations.That is why I want to make my books available to incarcerated individuals and at-risk youths in the United States. If you know of someone in that situation who may be interested in the Tao, please let me know. You can contact me throughDerek Lin Bookson Facebook.",
-            "Prior to contacting me, please give some thought as to which of the books will, in your opinion, be the most beneficial to the person you wish to help. People have different learning styles. Sometimes they know what they want; other times you may have to help them decide.In the past, I’ve had packages returned to me because many facilities have rules where an inmate must fill out a form to request the book before it can be received. If this is the case for the inmate you know, please have him or her start the paperwork right away. I can send the book as soon as the request is approved.There are no shipping fees or handling charges. I will pay for everything. Also, please note that if you are not yourself incarcerated, I cannot send the book to you and have you pass it on to the recipient. Please send me the name and present location, and I will ship the book directly there.",
-            "– Derek"
-        ]
-    },
-    {
-        "from_link_text": "Tao Meeting",
-        "url": "https://taoism.net/tao-meeting/",
-        "title": "Tao Meeting – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Tao Meeting",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "Posted by Taoism.net Staff",
-            "To the best of our knowledge, the Tao Meeting is absolutely unique — it is the only meeting of its kind where the public has direct access to a major author of the Tao genre."
-        ]
-    },
-    {
-        "from_link_text": "Contents",
-        "url": "https://taoism.net/tao-meeting/",
-        "title": "Tao Meeting – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Tao Meeting",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "Posted by Taoism.net Staff",
-            "To the best of our knowledge, the Tao Meeting is absolutely unique — it is the only meeting of its kind where the public has direct access to a major author of the Tao genre."
-        ]
-    },
-    {
-        "from_link_text": "Schedule",
-        "url": "https://taoism.net/schedule/",
-        "title": "Schedule – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Schedule",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "Posted by Taoism.net Staff"
-        ]
-    },
-    {
-        "from_link_text": "Connect Online",
-        "url": "https://taoism.net/connect-online/",
-        "title": "Connect Online – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Connect Online",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net",
-            "Posted by Taoism.net Staff",
-            "Virtual Meeting",
-            "Upcoming Schedule",
-            "Previous Meetings",
-            "Requirements",
-            "How to Join"
-        ]
-    },
-    {
-        "from_link_text": "Shop",
-        "url": "https://dereklin.com/shop/",
-        "title": "Shop – Derek Lin",
-        "headlines": [
-            "Books / Kindle / Audiobooks",
-            "Tao Te Ching: Annotated & Explained",
-            "The Tao of Tranquility",
-            "The Tao of Wisdom",
-            "The Tao of Daily Life",
-            "The Tao of Success",
-            "The Tao of Joy Every Day",
-            "The Tao of Happiness",
-            "DVDs",
-            "With One Voice"
-        ],
-        "paragraphs": [
-            "The enduring wisdom of theTao Te Chingcan become a companion for your own spiritual journey.",
-            "Reportedly written by a sage named Lao Tzu over 2,500 years ago, theTao Te Chingis one of the most succinct ─ and yet among the most profound ─ spiritual texts ever written.",
-            "The Tao of Tranquilityis the definitive translation and explanation of theQingjing Jing, the Taoist classic from the Tang Dynasty more than a thousand years ago. It has a special place in the history of Eastern thought, because it is the only sutra to weave Tao insights and Buddhist teachings together. This forms a wondrous tapestry of enlightenment ─ a truly special book!",
-            "The Tao of Wisdomis for anyone who is interested in theTao Te Chingand wants to understand it more deeply. With this book, Derek Lin brings you inspirational stories that reveal the profound meaning of key passages and central concepts in the Tao. The wise words of Lao Tzu come into clear focus like never before!",
-            "The perfect book for readers who are interested in Taoism and want a little daily inspiration.",
-            "The Tao of Daily Lifecombines ancient Eastern wisdom with practical application-perfect for busy Western readers! Derek Lin, Taoist master and expert in Eastern philosophy, brings his deep knowledge of this time-honored Chinese spiritual thought system into the twenty-first century.",
-            "A modern book of destiny and power, using the ancient principles of theTao Te Ching.",
-            "The Tao of Successnavigates the five rings of life, which are common patterns of traditional Tao cultivation, conceptualized by the ancient sages: your spirit, your mind, your relationships, your world, and your destiny.",
-            "In Eastern wisdom traditions, it is taught that practicing one small bit of wisdom each day will add up to a life of insight and joy. This volume of 365 life-transforming readings brings the sacred teachings of the Tao to our everyday lives.The Tao of Joy Every Daycontains Taoist sayings, insights, and stories-all designed to clearly provide understanding of what makes our lives meaningful, especially in a world that can seem hurried and crazed.",
-            "If you have not encountered Chuang Tzu before, prepare yourself for a treat. He was the sage who stood apart from all others in Chinese history. He was a unique presence, a great mind like no one before or since. His mastery was such that he could explain the Tao with simple stories, and his humor was such that he could see the joy in ordinary things. He taught his students about 「carefree wandering」—the path of moving through life with a free and happy heart, regardless of how turbulent the journey might be."
-        ]
-    },
-    {
-        "from_link_text": "Links",
-        "url": "https://taoism.net/web-links/",
-        "title": "Web Links – Taoism.net",
-        "headlines": [
-            "Primary menu",
-            "Web Links",
-            "Primary Sidebar Widget Area"
-        ],
-        "paragraphs": [
-            "Taoism.net"
-        ]
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/08/2026-08-30-50.jpg",
-        "title": "",
+        "url": "https://www.instagram.com/tattoobuild1/",
+        "title": "Instagram",
         "headlines": [],
         "paragraphs": []
     },
     {
         "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/08/2026-08-23-50.jpg",
-        "title": "",
+        "url": "https://www.facebook.com/profile.php?id=61557098571063",
+        "title": "Tattoo Build",
         "headlines": [],
         "paragraphs": []
     },
     {
         "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/08/2026-08-16-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/08/2026-08-09-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/08/2026-08-02-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/07/2026-07-19-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/07/2026-07-12-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/07/2026-07-05-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/06/2026-06-28-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/06/2026-06-21-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/06/2026-06-14-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/06/2026-06-07-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/05/2026-05-31-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/05/2026-05-24-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/05/2026-05-17-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/05/2026-05-03-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/04/2026-04-26-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/04/2026-04-19-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/04/2026-04-12-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/04/2026-04-05-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/03/2026-03-29-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/03/2026-03-22-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/03/2026-03-15-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/03/2026-03-08-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/03/2026-03-01-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2026/02/2026-02-22-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/11/2025-11-30-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/11/2025-11-23-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/11/2025-11-16-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/11/2025-11-09-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/11/2025-11-02-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/10/2025-10-26-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/10/2025-10-19-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/10/2025-10-12-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/10/2025-10-05-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/09/2025-09-28-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/09/2025-09-21-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/09/2025-09-14-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/09/2025-09-07-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/08/2025-08-31-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/08/2025-08-24-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/08/2025-08-17-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/08/2025-08-10-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/08/2025-06-07-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/08/2025-08-03-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/07/2025-07-27-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/wp-content/uploads/2025/07/2025-07-19-50.jpg",
-        "title": "",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "Author",
-        "url": "http://taoism.net#abh_about",
-        "title": "Taoism.net",
+        "url": "https://altern.ai/ai/tattoobuild",
+        "title": "TattooBuild — Altern",
         "headlines": [
-            "Primary menu"
+            "Browse by Category",
+            "TattooBuild",
+            "About",
+            "Reviews",
+            "Team",
+            "Categories",
+            "Type",
+            "Explore",
+            "Rankings",
+            "Makers"
         ],
         "paragraphs": [
-            "Taoism.net"
+            "Explore",
+            "AI tattoo generator for custom designs, stencils and virtual skin try-ons.",
+            "Pricing",
+            "Free",
+            "Rating",
+            "Category",
+            "Updated",
+            "1 month ago",
+            "TattooBuild turns written ideas into custom tattoo concepts. Choose a style, ink colour and body placement, then refine the result with variations and text edits.",
+            "Create design sheets, stencil line art and transparent PNGs, or preview a design on a photo of your skin. The site also offers tattoo inspiration and guides to help you explore ideas before visiting an artist."
         ]
     },
     {
-        "from_link_text": "Recent Posts",
-        "url": "http://taoism.net#abh_posts",
-        "title": "Taoism.net",
+        "from_link_text": "AI tattoo generator",
+        "url": "https://tattoobuild.com/",
+        "title": "Tattoo Build: AI Tattoo Generator (Get Your Custom Design!)",
         "headlines": [
-            "Primary menu"
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "AI tattoo generator:Idea in.Stencilout.",
+            "Fresh from the studio",
+            "Four ways to take your design to your artist",
+            "Design sheet",
+            "Stencil / line art",
+            "Transparent PNG",
+            "Skin try-on",
+            "How the AI tattoo generator works"
         ],
         "paragraphs": [
-            "Taoism.net"
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Describe your idea. Explore the details, then take a design sheet or stencil to your tattoo artist.",
+            "Made in the studio",
+            "We made these in the studio ourselves, and each one sits above the exact idea we typed. Open one to see its settings, or tap Use this idea to start from it.",
+            "What you can make",
+            "Pick the one you need when you design, then turn the same design into any of the others in the studio.",
+            "Your design on clean white, laid out the way a flash sheet would show it. This is the one to put in front of your artist.",
+            "The outlines pulled away from the shading, so you can judge the linework on its own. Most artists redraw the stencil to fit your body, and that's how it should be.",
+            "The design with no background, ready to drop onto your own photos, a mood board or a phone wallpaper.",
+            "Upload a photo of the forearm, back or ankle you have in mind and see the design placed on it. It's a preview of size and position, not a promise of how healed ink will look. Try-on needs a free account."
         ]
     },
     {
-        "from_link_text": "",
-        "url": "https://taoism.net/author/derek/",
-        "title": "Derek Lin – Taoism.net",
+        "from_link_text": "Design studio",
+        "url": "https://tattoobuild.com/studio/?from=footer",
+        "title": "Design Studio - Tattoo Build",
         "headlines": [
-            "Primary menu",
-            "Author Archives:Derek Lin",
-            "About Derek Lin",
-            "The Sad Lady",
-            "Purchasing Yi",
-            "The Seven Virtues of Water",
-            "Weaken and Strengthen",
-            "The Right Manager",
-            "The Light Bulb",
-            "Respect for Life"
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Design studio",
+            "Start with an idea",
+            "From Explore"
         ],
         "paragraphs": [
-            "Taoism.net",
-            "Once upon a time in ancient China, there was a sage widely regarded for his wisdom. One day, he was passing by a village when it began to rain. He went into the village to seek shelter, and that’s whenContinue readingThe Sad Lady→",
-            "During the Warring States period, there was a man by the name of Feng Xuan who lived in the Qi Kingdom. He was poor and had no viable prospects, so he went to the palace of the wealthy duke, LordContinue readingPurchasing Yi→",
-            "The highest virtue resembles water. This is a concept that many of us have encountered in Tao cultivation, but what does it mean? What exactly are the virtues associated with water, and how do we emulate water to manifest more of themContinue readingThe Seven Virtues of Water→",
-            "The latest ratings came in, and they showed that Anthony’s newscast ranked first. Again Anthony was the number one news anchor among all the TV journalists. Along with his popularity, Anthony had developed a star-size ego that constantly brought himContinue readingWeaken and Strengthen→",
-            "You walk toward the set to get ready for another day of shooting. The cameras are in position, and off to one side the screenwriter is discussing script changes with the director. They hand you today’s shooting script, so youContinue readingThe Right Manager→",
-            "Once there was a young man who worked at a factory. His mentor, an old technician, taught him to talk less, do more, and never stop developing his skills in every aspect of the factory’s operation. Ten years later, theContinue readingThe Light Bulb→",
-            "Why do we cultivate the Tao? There are so many spiritual paths out there, how does the Tao differ from the rest? If differences exist, are they significant or superficial? “All forms of spiritualities are the same — they allContinue readingRespect for Life→",
-            "Tao practitioners often say that the Tao is everywhere. One can learn from just about anything in one’s environment if one is observant. Sometimes all it takes is a slightly different way to look at things, and sudden clarity jumpsContinue readingMeet the Meat→"
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "AnywhereSquare1:1",
+            "Detail is included in every plan.",
+            "How many takes per run. Each uses one design. Your plan allows up to 1.",
+            "Square1:1·1024×1024",
+            "Describe the tattoo in a sentence or two, then choose a style, black and grey or colour, and where it's going on your body. Each design lands here on white paper, ready to take to your artist as a sheet, a stencil or a transparent PNG.",
+            "A sprig of olive branch wrapping once around itself, three small leaves drifting off the end",
+            "A mandala blooming outward from a lotus at its centre, each ring of petals finer than the last",
+            "A paper plane whose dotted flight path loops once and ends in a small heart",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
         ]
     },
     {
-        "from_link_text": "Derek Lin",
-        "url": "https://taoism.net/author/derek/",
-        "title": "Derek Lin – Taoism.net",
+        "from_link_text": "Tattoo idea generator",
+        "url": "https://tattoobuild.com/tattoo-idea-generator/",
+        "title": "Tattoo Idea Generator: Find Your Next Tattoo - Tattoo Build",
         "headlines": [
-            "Primary menu",
-            "Author Archives:Derek Lin",
-            "About Derek Lin",
-            "The Sad Lady",
-            "Purchasing Yi",
-            "The Seven Virtues of Water",
-            "Weaken and Strengthen",
-            "The Right Manager",
-            "The Light Bulb",
-            "Respect for Life"
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Tattoo idea generator:For when you know the feeling but not the picture",
+            "Ideas to start from",
+            "Five questions that find a tattoo",
+            "Ideas by theme",
+            "Meaningful",
+            "Animals",
+            "Floral",
+            "Celestial"
         ],
         "paragraphs": [
-            "Taoism.net",
-            "Once upon a time in ancient China, there was a sage widely regarded for his wisdom. One day, he was passing by a village when it began to rain. He went into the village to seek shelter, and that’s whenContinue readingThe Sad Lady→",
-            "During the Warring States period, there was a man by the name of Feng Xuan who lived in the Qi Kingdom. He was poor and had no viable prospects, so he went to the palace of the wealthy duke, LordContinue readingPurchasing Yi→",
-            "The highest virtue resembles water. This is a concept that many of us have encountered in Tao cultivation, but what does it mean? What exactly are the virtues associated with water, and how do we emulate water to manifest more of themContinue readingThe Seven Virtues of Water→",
-            "The latest ratings came in, and they showed that Anthony’s newscast ranked first. Again Anthony was the number one news anchor among all the TV journalists. Along with his popularity, Anthony had developed a star-size ego that constantly brought himContinue readingWeaken and Strengthen→",
-            "You walk toward the set to get ready for another day of shooting. The cameras are in position, and off to one side the screenwriter is discussing script changes with the director. They hand you today’s shooting script, so youContinue readingThe Right Manager→",
-            "Once there was a young man who worked at a factory. His mentor, an old technician, taught him to talk less, do more, and never stop developing his skills in every aspect of the factory’s operation. Ten years later, theContinue readingThe Light Bulb→",
-            "Why do we cultivate the Tao? There are so many spiritual paths out there, how does the Tao differ from the rest? If differences exist, are they significant or superficial? “All forms of spiritualities are the same — they allContinue readingRespect for Life→",
-            "Tao practitioners often say that the Tao is everywhere. One can learn from just about anything in one’s environment if one is observant. Sometimes all it takes is a slightly different way to look at things, and sudden clarity jumpsContinue readingMeet the Meat→"
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Most tattoos start as a feeling. You know it's for your sister, or that it should feel like the lake you grew up on, or that you want something bold on your forearm before summer. What you can't do yet is see it.",
+            "This page is for that stage. Pick what you're drawn to and how it should feel, or ask for a random idea, and TattooBuild finds ideas to start from. Draw the one that speaks to you and change the rest.",
+            "Pick one from each row, or none, then ask for ideas.",
+            "Butterfly skull tattoo blending delicate butterfly wings with a human skull on the forearm",
+            "Snake small neck tattoo curling behind the ear",
+            "Delicate black fine-line lotus flower tattoo on a woman's forearm",
+            "Female half sleeve tattoo drawing with flowing floral linework wrapping the upper arm",
+            "Wave moon tattoo blending rolling ocean waves with a crescent moon",
+            "Single fine line shooting star tattoo on the inner wrist with a thin trailing tail"
         ]
     },
     {
-        "from_link_text": "www.DerekLin.com",
-        "url": "http://dereklin.com",
-        "title": "Derek Lin",
-        "headlines": [],
-        "paragraphs": []
-    },
-    {
-        "from_link_text": "",
-        "url": "https://taoism.net/author/derek/",
-        "title": "Derek Lin – Taoism.net",
+        "from_link_text": "Skin try-on",
+        "url": "https://tattoobuild.com/realistic-images-mockups/",
+        "title": "Realistic Tattoo Mockups on Your Own Skin - Tattoo Build",
         "headlines": [
-            "Primary menu",
-            "Author Archives:Derek Lin",
-            "About Derek Lin",
-            "The Sad Lady",
-            "Purchasing Yi",
-            "The Seven Virtues of Water",
-            "Weaken and Strengthen",
-            "The Right Manager",
-            "The Light Bulb",
-            "Respect for Life"
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Realistic tattoo mockups on your own skin",
+            "How the try-on works",
+            "Photo tips for a better mockup",
+            "What a mockup can and can't tell you",
+            "Your photos stay private",
+            "Try-on questions",
+            "Does it work on every skin tone?",
+            "Can I share my mockup?"
         ],
         "paragraphs": [
-            "Taoism.net",
-            "Once upon a time in ancient China, there was a sage widely regarded for his wisdom. One day, he was passing by a village when it began to rain. He went into the village to seek shelter, and that’s whenContinue readingThe Sad Lady→",
-            "During the Warring States period, there was a man by the name of Feng Xuan who lived in the Qi Kingdom. He was poor and had no viable prospects, so he went to the palace of the wealthy duke, LordContinue readingPurchasing Yi→",
-            "The highest virtue resembles water. This is a concept that many of us have encountered in Tao cultivation, but what does it mean? What exactly are the virtues associated with water, and how do we emulate water to manifest more of themContinue readingThe Seven Virtues of Water→",
-            "The latest ratings came in, and they showed that Anthony’s newscast ranked first. Again Anthony was the number one news anchor among all the TV journalists. Along with his popularity, Anthony had developed a star-size ego that constantly brought himContinue readingWeaken and Strengthen→",
-            "You walk toward the set to get ready for another day of shooting. The cameras are in position, and off to one side the screenwriter is discussing script changes with the director. They hand you today’s shooting script, so youContinue readingThe Right Manager→",
-            "Once there was a young man who worked at a factory. His mentor, an old technician, taught him to talk less, do more, and never stop developing his skills in every aspect of the factory’s operation. Ten years later, theContinue readingThe Light Bulb→",
-            "Why do we cultivate the Tao? There are so many spiritual paths out there, how does the Tao differ from the rest? If differences exist, are they significant or superficial? “All forms of spiritualities are the same — they allContinue readingRespect for Life→",
-            "Tao practitioners often say that the Tao is everywhere. One can learn from just about anything in one’s environment if one is observant. Sometimes all it takes is a slightly different way to look at things, and sudden clarity jumpsContinue readingMeet the Meat→"
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Skin try-on",
+            "You can look at a design on a white page for weeks and still not know how it'll sit on your forearm. A try-on settles that in a minute. Upload a photo of the spot, choose a design, and TattooBuild places it on your skin, working with the curve of the body part and the light in your photo.",
+            "Try-on needs a free account. We'll ask you to sign in when you press Try it on.",
+            "We don't keep your photo. It's only sent to our image model provider to make this mockup, and the mockup stays in your private designs.",
+            "Three steps",
+            "Before you upload",
+            "Even light.Daylight from a window is ideal. Harsh overhead light throws shadows that fight the design.",
+            "The whole area in frame,with a little space around it. For a forearm, wrist to elbow.",
+            "Bare skin.Roll the sleeve all the way up. If you have tattoos nearby, include them so you can see how the pieces sit together."
         ]
     },
     {
-        "from_link_text": "see all",
-        "url": "https://taoism.net/author/derek/",
-        "title": "Derek Lin – Taoism.net",
+        "from_link_text": "Explore designs",
+        "url": "https://tattoobuild.com/images/explore/",
+        "title": "AI Tattoo Designs Gallery - Tattoo Build",
         "headlines": [
-            "Primary menu",
-            "Author Archives:Derek Lin",
-            "About Derek Lin",
-            "The Sad Lady",
-            "Purchasing Yi",
-            "The Seven Virtues of Water",
-            "Weaken and Strengthen",
-            "The Right Manager",
-            "The Light Bulb",
-            "Respect for Life"
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Explore AI tattoo designs",
+            "Made by the TattooBuild team",
+            "More from Explore",
+            "Your idea, drawnyour way",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help"
         ],
         "paragraphs": [
-            "Taoism.net",
-            "Once upon a time in ancient China, there was a sage widely regarded for his wisdom. One day, he was passing by a village when it began to rain. He went into the village to seek shelter, and that’s whenContinue readingThe Sad Lady→",
-            "During the Warring States period, there was a man by the name of Feng Xuan who lived in the Qi Kingdom. He was poor and had no viable prospects, so he went to the palace of the wealthy duke, LordContinue readingPurchasing Yi→",
-            "The highest virtue resembles water. This is a concept that many of us have encountered in Tao cultivation, but what does it mean? What exactly are the virtues associated with water, and how do we emulate water to manifest more of themContinue readingThe Seven Virtues of Water→",
-            "The latest ratings came in, and they showed that Anthony’s newscast ranked first. Again Anthony was the number one news anchor among all the TV journalists. Along with his popularity, Anthony had developed a star-size ego that constantly brought himContinue readingWeaken and Strengthen→",
-            "You walk toward the set to get ready for another day of shooting. The cameras are in position, and off to one side the screenwriter is discussing script changes with the director. They hand you today’s shooting script, so youContinue readingThe Right Manager→",
-            "Once there was a young man who worked at a factory. His mentor, an old technician, taught him to talk less, do more, and never stop developing his skills in every aspect of the factory’s operation. Ten years later, theContinue readingThe Light Bulb→",
-            "Why do we cultivate the Tao? There are so many spiritual paths out there, how does the Tao differ from the rest? If differences exist, are they significant or superficial? “All forms of spiritualities are the same — they allContinue readingRespect for Life→",
-            "Tao practitioners often say that the Tao is everywhere. One can learn from just about anything in one’s environment if one is observant. Sometimes all it takes is a slightly different way to look at things, and sudden clarity jumpsContinue readingMeet the Meat→"
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Public designs made in the studio, by TattooBuild users and by our own team. Open one to see the idea and settings behind it.",
+            "See one you like? Start the studio from its idea, or describe your own.Your first design is free. Verify your email. No card needed.",
+            "65designs· page 1 of 2",
+            "A panther's head tearing through the skin, mouth open, claws gripping the edges",
+            "A peony in full bloom with two buds and curling leaves",
+            "A hannya mask wreathed in chrysanthemums, with wind bars sweeping behind it",
+            "A barn owl framed by an open pocket watch and peonies, with amber eyes and richly layered feathers",
+            "A koi swimming upstream through crashing waves, maple leaves floating on the water",
+            "A woman's profile wearing a wolf-head headdress, a jewelled crescent moon on her brow"
         ]
     },
     {
-        "from_link_text": "The Sad Lady",
-        "url": "https://taoism.net/the-sad-lady/",
-        "title": "The Sad Lady – Taoism.net",
+        "from_link_text": "Features",
+        "url": "https://tattoobuild.com/features/",
+        "title": "Features: Styles, Stencils and Skin Try-On - Tattoo Build",
         "headlines": [
-            "Primary menu",
-            "The Sad Lady",
-            "Post navigation",
-            "Primary Sidebar Widget Area"
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "What the TattooBuild studio can do",
+            "Start with an idea",
+            "Shape it",
+            "Thethirteenstyles",
+            "Get your files",
+            "Work it until it's right",
+            "Keep it",
+            "Your account"
         ],
         "paragraphs": [
-            "Taoism.net",
-            "Once upon a time in ancient China, there was a sage widely regarded for his wisdom. One day, he was passing by a village when it began to rain. He went into the village to seek shelter, and that’s when he saw the old woman.",
-            "She seemed very sad, slumped in a corner, sobbing uncontrollably, but other villagers seemed to pay no attention. This seemed odd to the sage, so he asked about her. They told him that she was known throughout the village as the “Sad Lady” because she was always crying.",
-            "Out of compassion, the sage approached her and asked what was wrong. She said: “Master, I am sad because of my older son. He has a store selling fans. I worry about him because when it rains, no one visits his store, so his business suffers. I can’t help feeling sad when I think about that.”",
-            "“Bad weather never lasts,” the sage pointed out. “Soon the sun will come out again. Everything will be alright.”",
-            "This seemed to make her even sadder. She wailed: “No, Master! My younger son sells umbrellas. When it is sunny, he gets no business at all. I can’t help feeling even worse when I think about that.”",
-            "“I see,” the sage thought about this for a moment. “I would like to take a look at his umbrella shop. Can you take me there?”",
-            "It was raining heavily when they got to the younger son’s store. Many travelers on the road were caught unprepared, so they came into the store to purchase an umbrella before continuing on their way. The more it rained, the more people came through the door. The old woman saw her son very busy, taking care of one customer after another. His business was doing well. Slowly, a smile broke through her tears.",
-            "Later, when the sun came out, the sage asked her to take him to the older son’s store. By the time they got there, there were quite a few customers around. It was turning into a hot day, so people wanted to fan themselves to keep cool. The older son was serving more customers than he could handle. The old woman saw that his business was also doing well. Now she was in a great mood.",
-            "The sage said to her: “When it was raining earlier today, your older son had very little business, but your younger son’s business thrived. Now, when it’s sunny like this, people are not interested in buying umbrellas, but they definitely want fans, as you can see. So, no matter what the weather happens to be, just think about the son that is doing well, and you will no longer feel so sad.”"
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Features",
+            "Every tool here exists for one reason: to get you from an idea to a design you can hand to a tattoo artist with confidence. Here's the whole kit, in the order you'll use it.",
+            "Write it the way you'd say it to a friend. Plain words beat clever ones.",
+            "Starting points drawn from the topics on our blog, from memorial pieces to mythology.",
+            "Upload a photo or drawing to work from, such as your dog, your grandmother's handwriting or a sketch on a napkin, or to remix into something new. Use images you have the right to use.",
+            "Fine-line, blackwork, traditional, neo-traditional, Japanese, realism, watercolour, geometric, minimalist, dotwork, tribal, script / lettering and illustrative. Each changes line weight, shading and how much detail the design holds.",
+            "Black & grey or colour.",
+            "Forearm, wrist, sleeve, back, chest, ankle, ribs, neck, hand, thigh and more. Placement sets the composition and the shape of the canvas, so a forearm design comes out tall and a chest piece comes out wide.",
+            "Fast for exploring, Detail for finishing. See the difference onHow to use."
         ]
     },
     {
-        "from_link_text": "Purchasing Yi",
-        "url": "https://taoism.net/purchasing-yi/",
-        "title": "Purchasing Yi – Taoism.net",
+        "from_link_text": "Pricing",
+        "url": "https://tattoobuild.com/pricing/",
+        "title": "Pricing: AI Tattoo Design Plans - Tattoo Build",
         "headlines": [
-            "Primary menu",
-            "Purchasing Yi",
-            "Post navigation",
-            "Primary Sidebar Widget Area"
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Find the right design for your next tattoo",
+            "Starter",
+            "Pro",
+            "Studio",
+            "See what you can take to your artist",
+            "Buy more designs",
+            "25designs",
+            "75designs"
         ],
         "paragraphs": [
-            "Taoism.net",
-            "During the Warring States period, there was a man by the name of Feng Xuan who lived in the Qi Kingdom. He was poor and had no viable prospects, so he went to the palace of the wealthy duke, Lord Mengchang. One of his friends worked there, so he was hoping to use that connection to find employment for himself.",
-            "His friend mentioned him to the duke, and the duke asked, “What is he good at?”",
-            "Feng Xuan’s friend replied candidly, “He’s not particularly good at anything.”",
-            "The duke still wanted to find a reason to hire him. “Does he have any skills?”",
-            "Again his friend was candid: “No particular skills either.”",
-            "The duke found the brutal honesty refreshing. He laughed. “Very well! Give him a place to sleep and something to eat.”",
-            "Thus, Feng Xuan became one of the duke’s “guests” — several thousand men who served the duke without clearly defined duties. His peers, seeing that the duke did not hold him in high regard, tended to look down on him. However, the duke treated him well. He got decent food, authorization to use one of the duke’s chariots, and a small stipend to support his elderly mother.",
-            "One day, the duke posted a sign for all to see, asking for a volunteer. There was a remote region in the duke’s territory called Xue. The people of Xue were in debt to the duke from years ago. The duke wanted someone who could keep track of numbers accurately to go there and collect the debts. Feng Xuan stepped forward and volunteered.",
-            "The duke, in his usual courteous manner, said to Feng Xuan: “I have been so busy with the exhausting and confusing affairs of the state that I haven’t had the time to work on this. Would you mind traveling to the Xue region as my representative, and collect the loan payments on my behalf?”"
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Explore ideas, refine the details and bring a clear brief to your tattoo artist. Every plan includes Detail mode and all editing tools.",
+            "Pay monthly. Your design allowance refreshes every month.",
+            "Work out one tattoo.",
+            "US$9.99/ month",
+            "Billed monthly",
+            "50 designs a month",
+            "Recommended",
+            "Explore, refine and find your design.",
+            "US$14.99/ month"
         ]
     },
     {
-        "from_link_text": "The Seven Virtues of Water",
-        "url": "https://taoism.net/the-seven-virtues-of-water/",
-        "title": "The Seven Virtues of Water – Taoism.net",
+        "from_link_text": "Tattoo ideas",
+        "url": "https://tattoobuild.com/tattoos/",
+        "title": "Tattoos Archives - Tattoo Build",
         "headlines": [
-            "Primary menu",
-            "The Seven Virtues of Water",
-            "Post navigation",
-            "Primary Sidebar Widget Area"
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Tattoo ideas",
+            "20 DNA Tattoo Ideas for Science and Personal Stories",
+            "21 Chihuahua Tattoo Ideas, From Tiny Outlines to Pet Portraits",
+            "20 Icarus Tattoo Ideas, From Winged Figures to Sun Emblems",
+            "24 Honeycomb Tattoo Ideas, From Fine Lines to Floral Panels",
+            "23 Odin Tattoo Ideas, From Raven Portraits to Wanderer Emblems",
+            "18 Poseidon Tattoo Ideas, From Portraits to Sea Emblems",
+            "Made in the TattooBuild studio"
         ],
         "paragraphs": [
-            "Taoism.net",
-            "The highest virtue resembles water. This is a concept that many of us have encountered in Tao cultivation, but what does it mean? What exactly are the virtues associated with water, and how do we emulate water to manifest more of them in our lives?",
-            "Lao Tzu provides a detailed explanation in chapter 8 of theTao Te Ching. He speaks of seven specific and distinct ways that water can be connected with virtues:",
-            "Each of the above leverages mental images to make the teaching easier to remember and to practice. Together, they are known as the Seven Virtues of Water. They provide a blueprint for life, a set of practical guidelines we can apply everyday.",
-            "When we follow these guidelines, we learn to cultivate humility, depth of character, unconditional kindness, impeccable integrity, universal administration, versatile flexibility, and a sense of timing through mindful awareness. All of this brings us closer to water, which in turn brings us closer to the Tao.",
-            "The effect of this cultivation can be very powerful. You may find that tasks are quickly completed, problems are easily solved, and relationships with people improve dramatically. All of this is possible, indeed inevitable — for Tao cultivators who understand the Seven Virtues of Water."
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 455 articles",
+            "Every tattoo idea on TattooBuild in one place. Browse by meaning, style or placement, and open the ideas in the studio to make them yours.",
+            "Design your own tattoo",
+            "Made in the studio from “A barn owl framed by an open pocket watch and peonies, with amber eyes and richly layered feathers”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Explore 20 DNA tattoo ideas with on-skin mockups, from simple double helices to botanical and geometric designs, with placement and personalization tips.",
+            "Daniel23 Nov 20269min read",
+            "Explore 21 Chihuahua tattoo ideas with on-skin mockups, from simple outlines and pet portraits to floral designs, plus practical placement tips.",
+            "Daniel22 Nov 20268min read"
+        ]
+    },
+    {
+        "from_link_text": "Tattoo guides",
+        "url": "https://tattoobuild.com/tattoo-guides/",
+        "title": "Tattoo Guides Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Tattoo guides",
+            "How Does Tattoo Removal Work? Lasers, Pain and Results",
+            "Does Kristen Bell Have Tattoos? The Truth Behind the Video",
+            "How Old Do You Have to Be to Get a Tattoo? State by State",
+            "Do Tattoos Cause Cancer? What the Research Actually Shows",
+            "How to Remove Temporary Tattoos: Fast, Safe Methods",
+            "How Much Does It Cost for Laser Tattoo Removal?",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 49 articles",
+            "Straight answers before and after the needle: age rules, pain, size, cost, aftercare, removal and every style explained. Read these before you book.",
+            "Design your own first tattoo",
+            "Made in the studio from “Two mountain peaks in a single continuous line, a small sun resting between them”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Learn how laser tattoo removal works, whether it hurts, why results vary, and what to ask about appointments, risks and aftercare.",
+            "Daniel25 Oct 20265min read",
+            "No, Kristen Bell does not have real tattoos. Here is where the viral 214-tattoo claim came from, what was in the 2012 sketch, and the one she wants.",
+            "Daniel6 Oct 20265min read"
+        ]
+    },
+    {
+        "from_link_text": "Meaningful tattoos",
+        "url": "https://tattoobuild.com/meaningful-tattoos/",
+        "title": "Meaningful Tattoos Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Meaningful tattoo ideas",
+            "What Does a Butterfly Tattoo Mean? Symbolism and Style Guide",
+            "18 Spiritual Tattoo Ideas for Women Who Carry Their Faith in Ink",
+            "17 Mother Son Tattoo Ideas for Moms Who Want to Carry Their Boys",
+            "18 RIP Tattoo Ideas That Honour Someone You Have Lost",
+            "19 Libra Tattoo Ideas for the Balanced and Beautiful Libra in Your Life",
+            "20 Hope Tattoo Ideas to Remind You to Keep Going",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 44 articles",
+            "Memorials, family, faith, hope and the places that changed you. These are ideas for tattoos that carry a story, and for finding a shape that holds it.",
+            "Design your own meaningful tattoo",
+            "Made in the studio from “An old pocket watch stopped at 4:17, its glass cracked, a single rose lying across the face”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Butterfly tattoos mean far more than transformation. A breakdown of the symbolism, cultural meanings, colour choices and placements behind the design.",
+            "Daniel14 Sep 202614min read",
+            "Discover 18 spiritual tattoo ideas for women from lotus flowers and hamsa hands to mandalas, evil eye designs, chakra symbols, and sacred geometry tattoos.",
+            "Daniel14 Sep 202617min read"
+        ]
+    },
+    {
+        "from_link_text": "Floral",
+        "url": "https://tattoobuild.com/floral/",
+        "title": "Floral Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Floral tattoo ideas",
+            "40 Lotus Flower Tattoo Designs for Women",
+            "Nature Tattoo For Men",
+            "Masculine Flower Tattoo: 15 Amazing Ideas",
+            "Rose Tattoo on The Hand For Men: 15 Best Ideas",
+            "Rose Tattoo on Arm for Guys: Stunning Designs",
+            "Meaning of Rose Tattoo on Hand",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 75 articles",
+            "Roses, lotuses, peonies, tulips and wildflowers, with what each bloom carries and how linework, shading and colour change it. The biggest garden on the site.",
+            "Design your own floral tattoo",
+            "Made in the studio from “A peony in full bloom with two buds and curling leaves”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "A lotus is one of the few tattoo subjects that works just as well at two inches as it does…",
+            "Mkpoikana Otu17 Sep 202613min read",
+            "A nature tattoo for men is one of the few design choices that almost never dates, because mountains, trees and…",
+            "Mkpoikana Otu15 Sep 202613min read"
+        ]
+    },
+    {
+        "from_link_text": "Animals",
+        "url": "https://tattoobuild.com/animals/",
+        "title": "Animals Archives - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Animal tattoo ideas",
+            "16 Panda Tattoo Ideas from Simple Faces to Bamboo Scenes",
+            "16 Otter Tattoo Ideas from Riverbank to Ocean",
+            "What Does Fox Tattoo Mean?",
+            "Elephant Tattoos For Females",
+            "Wolf Dagger Tattoo Meaning and Ideas",
+            "Rooster Tattoo Meaning and Design Ideas",
+            "Made in the TattooBuild studio"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Tattoo ideas · 57 articles",
+            "Wolves, foxes, owls, swallows and the rest of the menagerie, with what each animal tends to mean and how it sits on the body. Find the one that feels like you, then draw your own.",
+            "Design your own animal tattoo",
+            "Made in the studio from “A wolf's head built from triangles and fine linework, one half realistic and the other pure geometry”. Change any word.",
+            "Your first design is free. Verify your email. No card needed.",
+            "Explore 16 panda tattoo ideas, from simple faces and geometric portraits to bamboo scenes, with practical advice on pose, markings and placement.",
+            "Daniel29 Oct 202610min read",
+            "Explore 16 otter tattoo ideas, from minimalist river otters to floating sea otters, with placement, style and personalization tips.",
+            "Daniel26 Oct 202611min read"
+        ]
+    },
+    {
+        "from_link_text": "All articles",
+        "url": "https://tattoobuild.com/blog/",
+        "title": "Tattoo Ideas & Guides - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Tattoo ideasand guides",
+            "Browse by theme",
+            "Tattoo ideas",
+            "Floral",
+            "Animals",
+            "Guides",
+            "Men's",
+            "Meaningful"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "The ideas library",
+            "748 tattoo ideas and guides, newest first: meanings, placements and dozens of photos per idea, plus straight answers on pain, cost and aftercare.",
+            "Got an idea? Design it freeFirst design free · verified account · no card",
+            "Explore 20 DNA tattoo ideas with on-skin mockups, from simple double helices to botanical and geometric designs, with placement and personalization tips.",
+            "Daniel23 Nov 20269min read",
+            "Also new",
+            "Daniel22 Nov 20267min read",
+            "Daniel22 Nov 20268min read",
+            "Daniel21 Nov 20266min read"
+        ]
+    },
+    {
+        "from_link_text": "How to use",
+        "url": "https://tattoobuild.com/how-to-use/",
+        "title": "How to Use TattooBuild's AI Tattoo Generator - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "How to use TattooBuildOne sentence.Two taps.",
+            "Three steps",
+            "Describe it",
+            "Pick a style and a spot",
+            "Press Generate",
+            "What one sentence gets you",
+            "Then make it yours",
+            "Prompt tips that work"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "No drawing, no settings to learn.Type the tattoo you keep picturing, tap a style, press Generate. In Fast mode you have a clean design sheet10⁠–⁠25 secondslater, and you can turn it into a stencil or try it on your skin. No drawing, no settings to learn.",
+            "A moth with a skull on its back",
+            "That's the whole thing",
+            "Everything else in the studio is optional. You can stop after step three.",
+            "One sentence: what it is, plus a detail that makes it yours. Plain words are fine.",
+            "Two taps, or leave both on Auto and let the idea decide. The spot sets the shape, tall for a forearm, wide for a chest.",
+            "Fast mode draws it in10⁠–⁠25 seconds. A stencil or transparent PNG of it is one more tap, and one more design.",
+            "Made in the studio",
+            "We made every one of these in the TattooBuild studio. Under each is exactly what we typed and the settings we picked. Tap Use this idea to start from it."
+        ]
+    },
+    {
+        "from_link_text": "FAQs",
+        "url": "https://tattoobuild.com/faqs/",
+        "title": "AI Tattoo Design Questions, Answered - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "AI tattoo design questions, answered",
+            "Working with your tattoo artist",
+            "Can I take an AI tattoo design to my artist?",
+            "Will my artist charge to redraw it?",
+            "Can I use the stencil version as the actual stencil?",
+            "Plans and your account",
+            "Can I try it without paying?",
+            "Can I cancel any time?"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "FAQs",
+            "The questions people ask most before, during and after designing a tattoo with TattooBuild. If yours isn't here,contact us.",
+            "Your first design is free. Verify your email. No card needed.Plans from$9.99a month, and you can cancel any time.",
+            "Yes. That's what TattooBuild is built for. Bring the design sheet and the stencil as a clear brief rather than a finished drawing. A good artist will adjust the size, line spacing and flow for your body, and will often redraw it in their own hand. Some artists would rather not work from AI designs at all, so ask when you book. If they'd prefer to start fresh, your designs still make an excellent mood board.",
+            "Usually, yes. Most artists charge for custom drawing time or build it into the price of the tattoo. It's skilled work, and it's the step that makes a design tattooable.How much do tattoo designs cost?",
+            "Treat it as a clean line-art guide, not a transfer ready for your skin. Your artist will size it, fit it to your body and print the real stencil on their own equipment. The stencil version shows them the linework clearly, which is what makes it useful.",
+            "Yes. Your first design needs a verified free account. No card needed.",
+            "Yes. Cancel from Account → Billing and your plan runs to the end of the period you've paid for.",
+            "That depends on your plan: 50, 150 or 350 a month, with monthly or yearly billing. Each image the studio draws counts as one design, including a stencil, a transparent PNG or a skin try-on of a design you've already made. Downloading and sharing don't.Full details"
+        ]
+    },
+    {
+        "from_link_text": "Contact",
+        "url": "https://tattoobuild.com/contact/",
+        "title": "Contact Support: Designs, Billing, Account - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Contact TattooBuild support",
+            "Send a message",
+            "Prefer email?",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help",
+            "Company"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Support",
+            "Questions about a design, your plan or your account? Send us a message and we'll reply by email.",
+            "We'll reply here.",
+            "We only use what you send to answer you.Privacy policy",
+            "Got an idea?",
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Try your idea in the studio before choosing a plan.",
+            "AI tattoo designs to take to your tattoo artist, plus748 tattoo ideas and guides.",
+            "©2026TattooBuild"
+        ]
+    },
+    {
+        "from_link_text": "Manage billing",
+        "url": "https://tattoobuild.com/account/billing/",
+        "title": "Sign In - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Sign in or create an account",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help",
+            "Company"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "We email you a code and a link. No password to remember.",
+            "By continuing you agree to theTermsandPrivacy policy.",
+            "New here? A link signs you up too, orcreate an account.",
+            "Your designs, kept",
+            "Every design you make stays in your gallery while your account is open, ready for your artist.",
+            "Got an idea?",
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Try your idea in the studio before choosing a plan.",
+            "AI tattoo designs to take to your tattoo artist, plus748 tattoo ideas and guides."
+        ]
+    },
+    {
+        "from_link_text": "How to cancel",
+        "url": "https://tattoobuild.com/cancel-membership-subscription/",
+        "title": "Cancel Your Plan - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Cancel Your Plan",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help",
+            "Company"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Last updated7 Oct 2026",
+            "You can cancel your TattooBuild plan at any time, in a couple of clicks.",
+            "Your plan stays active until the end of the period you've already paid for, then it won't renew. Your designs stay in your gallery, and you can still view and download them.",
+            "Can't sign in? Email[email protected]from the address on your account and we'll cancel it for you.",
+            "Help and policies",
+            "Got an idea?",
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Try your idea in the studio before choosing a plan.",
+            "AI tattoo designs to take to your tattoo artist, plus748 tattoo ideas and guides."
+        ]
+    },
+    {
+        "from_link_text": "Report a design",
+        "url": "https://tattoobuild.com/report-or-flag-offensive-content/",
+        "title": "Report or Flag Offensive Content - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Report Content",
+            "How to report a design",
+            "What happens next",
+            "Other kinds of report",
+            "Design your own tattoo",
+            "Make",
+            "Read",
+            "Help"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Last updated7 Oct 2026",
+            "Every request made in the TattooBuild studio is checked by automated content filters, including our image model provider's, before anything is drawn. If you see a public design that shouldn't be on TattooBuild, please tell us.",
+            "You can also email[email protected]with the design's link.",
+            "We review every report. Designs that break ourtermsare removed, and we may act on the account that made them. A design reported by several people is hidden from Explore while we review it.",
+            "Help and policies",
+            "Got an idea?",
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Try your idea in the studio before choosing a plan.",
+            "AI tattoo designs to take to your tattoo artist, plus748 tattoo ideas and guides."
+        ]
+    },
+    {
+        "from_link_text": "About",
+        "url": "https://tattoobuild.com/about/",
+        "title": "About TattooBuild: AI Tattoo Designs & Ideas - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "About TattooBuild",
+            "Why it exists",
+            "What we believe",
+            "Who writes the blog",
+            "20 DNA Tattoo Ideas for Science and Personal Stories",
+            "21 Chihuahua Tattoo Ideas, From Tiny Outlines to Pet Portraits",
+            "20 Icarus Tattoo Ideas, From Winged Figures to Sun Emblems",
+            "Try thestudioDaniel built"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "About",
+            "TattooBuild is two things that belong together: a studio that turns your tattoo idea into a design you can take to an artist, and a blog of tattoo ideas, meanings and guides to help you work out what that idea is.",
+            "The story",
+            "TattooBuild was started by Daniel, who has been into both technology and tattoos for a long time. He wanted more ink but kept hitting the same wall: he couldn't find a way to show an artist what he was picturing. When AI image tools became good enough to draw what he was describing, he built TattooBuild so anyone could do the same.",
+            "We made these in the studio ourselves. Under each is exactly what we typed.",
+            "Principles",
+            "The blog",
+            "748 tattoo ideas and guideson meanings, styles, placement, pain, cost and aftercare, written byDanielandMkpoikana Otu. The ideas in them can be opened in the studio as a starting point.",
+            "Questions, ideas or something not working? Email[email protected]or use thecontact form."
+        ]
+    },
+    {
+        "from_link_text": "Privacy policy",
+        "url": "https://tattoobuild.com/privacy-policy/",
+        "title": "Privacy Policy - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Privacy Policy",
+            "Who we are",
+            "What we collect and why",
+            "Public and private designs",
+            "Service providers",
+            "Cookies and similar technology",
+            "How long we keep information",
+            "Your choices and rights"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Last updated8 Oct 2026",
+            "This policy explains what personal information TattooBuild collects, why, who we share it with and the choices you have. It applies to tattoobuild.com, the TattooBuild design studio and our emails.",
+            "TattooBuild is operated byTattoo Build(\"TattooBuild\", \"we\", \"us\"). If you have a question about your privacy or this policy, contact us at[email protected].",
+            "We show advertising from Ezoic on our tattoo ideas and guides. Ezoic and its advertising partners may use cookies and similar technology to process information such as your IP address, browser and device, pages viewed and ad interactions to deliver and measure advertising. Where required, Ezoic's consent banner lets you accept, reject or manage these uses. We have disabled Ezoic's optional collection of email addresses and phone numbers from our forms. Read more about its data practices and choices atEzoic's privacy policy.",
+            "We do not use your uploads or designs to train AI models, and our image model provider does not use data sent through its API to train its models.",
+            "New designs areprivate. Private designs are kept in access-controlled storage and are shown only to you when you are signed in. Our staff open a private design only when you ask us for help with it, or when the law requires it.",
+            "You can submit a design to our Explore gallery. We review every submission and choose which ones to publish. A published design appears in Explore on its own page, together with the idea you typed, so anything you wrote in it, such as a name or a date, becomes visible too. You can withdraw a submission, or make a published design private again, at any time, and its public copy is removed.",
+            "Designs made from a photo of you (skin mockups, and designs made from a photo you uploaded as the subject) can never be made public.",
+            "We use these companies to run TattooBuild. Each receives only what it needs to provide its service to us."
+        ]
+    },
+    {
+        "from_link_text": "Terms of service",
+        "url": "https://tattoobuild.com/terms-of-service/",
+        "title": "Terms of Service - Tattoo Build",
+        "headlines": [
+            "Tattoo ideas by theme",
+            "Guides and tools",
+            "Terms of Service",
+            "1. What TattooBuild is",
+            "2. Who can use it",
+            "3. Plans, payment and renewal",
+            "4. Cancelling and refunds",
+            "5. Your designs and content",
+            "6. Acceptable use",
+            "7. Moderation and ending your access"
+        ],
+        "paragraphs": [
+            "Describe it in a sentence and get a design you can take to your artist.",
+            "Last updated9 Oct 2026",
+            "These terms are an agreement between you andTattoo Build(\"TattooBuild\", \"we\", \"us\") for your use of tattoobuild.com and the TattooBuild design studio. By using TattooBuild you agree to them. If you don't agree, please don't use the service.",
+            "TattooBuild lets you describe a tattoo idea and get AI-generated designs: design sheets, stencil line art, transparent images and mockups on a photo of your skin. You can save designs to your gallery, keep them private or share them publicly in our Explore gallery. We also publish tattoo ideas and guides.",
+            "Designs are artistic starting points. They are not a promise that a tattoo artist can or will tattoo them as shown, and a skin mockup is a simulation, not a preview of a healed tattoo. Nothing on TattooBuild is medical advice.",
+            "You must be 18 or older and able to agree to these terms. You're responsible for your account and for keeping your sign-in details safe. Tell us at[email protected]if you think someone else has used your account.",
+            "Don't use TattooBuild to create, upload or share content that is illegal, sexual content involving minors, sexually explicit, hateful, harassing or violent, that infringes someone else's rights (including copying another artist's work), or that shows a real person without their permission. Don't try to get around our content filters or limits, scrape the site, or access it with automated tools. We use automated filters, including our image model provider's, and some requests will be refused.",
+            "We may remove content or hide public designs that break these terms or that people report to us (seeReport content). We may suspend or close accounts that seriously or repeatedly break these terms. You can close your account at any time from Account → Settings.",
+            "We work hard to keep TattooBuild running, but we provide it \"as is\" and can't promise it will always be available or error-free. We may change or improve features over time.",
+            "To the extent the law allows, we aren't liable for indirect or consequential losses, or for any tattoo done from a TattooBuild design, and our total liability to you for any claim is limited to the amount you paid us in the 12 months before the claim. Nothing in these terms limits rights you have under consumer protection law that can't be limited."
         ]
     }
 ]
